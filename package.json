@@ -1,0 +1,13 @@
+{
+  "name": "shared-image-cache",
+  "version": "1.0.0",
+  "description": "Shared Unsplash image cache for all of nick's projects. Single rate-limit budget, deduplicated requests.",
+  "private": false,
+  "type": "commonjs",
+  "scripts": {
+    "seed": "npx tsx scripts/seed-from-projects.ts",
+    "fetch": "npx tsx scripts/fetch.ts",
+    "stats": "node -e \"const c=require('./cache.json');const s={};for(const k of Object.keys(c))s[k.split('/')[0]]=(s[k.split('/')[0]]||0)+1;console.log('Total:',Object.keys(c).length);console.table(s)\""
+  },
+  "license": "UNLICENSED"
+}
