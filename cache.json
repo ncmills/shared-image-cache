@@ -29,6 +29,36 @@
     "fetchedAt": "2026-04-11T20:07:11.962Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/bend-or/bars": {
+    "url": "https://images.unsplash.com/photo-1563138216-f4d79398013c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting at tables on top of a roof",
+    "photographerName": "Bence Balla-Schottner",
+    "photographerUrl": "https://unsplash.com/@ballaschottner?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-tables-on-top-of-a-roof-k3PN_7R3FcA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend OR rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:24.604Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/bend-or/dining": {
+    "url": "https://images.unsplash.com/photo-1615937722923-67f6deaf2cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDYwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on black pan",
+    "photographerName": "Madie Hamilton",
+    "photographerUrl": "https://unsplash.com/@mham3816?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-black-pan-Q9yr-cvJr30?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend OR steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:03:23.363Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/bend-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1694885190541-40037b8a6b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzc2MDIwNjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an empty swimming pool with an umbrella over it",
+    "photographerName": "Brian Wangenheim",
+    "photographerUrl": "https://unsplash.com/@brianwangenheim?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend OR vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:22.059Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/charleston-sc/bars": {
     "url": "https://images.unsplash.com/photo-1600450805219-e675d21afd5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGFybGVzdG9uJTIwU0MlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzU5MzgwMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white concrete building near green trees during daytime",
@@ -89,6 +119,36 @@
     "fetchedAt": "2026-04-11T20:07:17.082Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/denver-co/bars": {
+    "url": "https://images.unsplash.com/photo-1675811261760-732252d31266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAyMDU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a balcony with a view of the city below",
+    "photographerName": "Jake Knight-Lang",
+    "photographerUrl": "https://unsplash.com/@midknightmedia?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-balcony-with-a-view-of-the-city-below-9FLQ-n9DKCk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:50.988Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/denver-co/dining": {
+    "url": "https://images.unsplash.com/photo-1513618425849-06cbc6c2d0a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDIwNTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cooked food on white ceramic plate",
+    "photographerName": "Zachariah Hagy",
+    "photographerUrl": "https://unsplash.com/@zachhagy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-kOQabOVmiDg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:02:49.742Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/denver-co/lodging": {
+    "url": "https://images.unsplash.com/photo-1705575890268-7826a62990b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A swimming pool and supply building made of huge shipping containers in the “Taxi” district of the RiNo – a neighborhood of Denver, Colorado",
+    "photographerName": "Carol Highsmith's America",
+    "photographerUrl": "https://unsplash.com/@carolhighsmith?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-swimming-pool-and-supply-building-made-of-huge-shipping-containers-in-the-taxi-district-of-the-rino-a-neighborhood-of-denver-colorado-NmgA2BlSpd8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:48.531Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/destin-fl/bars": {
     "url": "https://images.unsplash.com/photo-1712865761654-5bda0c6bfe84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGTCUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NTkzODA1NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city street at night with a lit up building",
@@ -117,6 +177,26 @@
     "unsplashUrl": "https://unsplash.com/photos/swimming-pool-with-ocean-and-chairs-in-background-YsdUyGvhLG4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Destin FL vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:32.034Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-lauderdale-fl/bars": {
+    "url": "https://images.unsplash.com/photo-1773026361432-1f44264b8478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Neon signs glow brightly on a building at night.",
+    "photographerName": "Jonathan Marchant",
+    "photographerUrl": "https://unsplash.com/@fancyjon?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/neon-signs-glow-brightly-on-a-building-at-night-uhG_An5NMcE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Florida bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:28.846Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-lauderdale-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1695266433270-ea3c0e367317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NTkzODA1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people walking down a street next to palm trees",
+    "photographerName": "Hector Falcon",
+    "photographerUrl": "https://unsplash.com/@hectorfalcon?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-palm-trees-lQQ_nxzdMl0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Florida restaurant food",
+    "fetchedAt": "2026-04-12T19:02:26.464Z",
     "addedBy": "bestman"
   },
   "bestman/cities/fort-lauderdale-fl/lodging": {
@@ -249,6 +329,66 @@
     "fetchedAt": "2026-04-11T20:07:42.505Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/lake-tahoe-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bar counter with bottles and glasses",
+    "photographerName": "Fabio Sasso",
+    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bar-counter-with-bottles-and-glasses-EiuhTOC0yns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:55.925Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lake-tahoe-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1571035422009-e7cedfe7c1d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDIwNTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "seashore during daytime",
+    "photographerName": "Meritt Thomas",
+    "photographerUrl": "https://unsplash.com/@merittthomas?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/seashore-during-daytime-zfSX6eRC9ng?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:02:53.570Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lake-tahoe-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1768248254952-e5180f146729?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Sunrise over a serene lake with snow-covered docks",
+    "photographerName": "Aleh Tsikhanau",
+    "photographerUrl": "https://unsplash.com/@ethnoza?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/sunrise-over-a-serene-lake-with-snow-covered-docks-N6Bx8QcTCn8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:52.203Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/las-vegas-nv/bars": {
+    "url": "https://images.unsplash.com/photo-1596838132746-b9ded2acf54f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyME5WJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDIwNTYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking on street during night time",
+    "photographerName": "Kvnga",
+    "photographerUrl": "https://unsplash.com/@kvnga?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-night-time-y114bnqSJvY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas NV rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:42.185Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/las-vegas-nv/dining": {
+    "url": "https://images.unsplash.com/photo-1693429308125-3be7b105ad56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXZhZGElMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDIwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bowl of food sitting on top of a wooden table",
+    "photographerName": "Michael Kahn",
+    "photographerUrl": "https://unsplash.com/@mklibrary?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bowl-of-food-sitting-on-top-of-a-wooden-table-ILwexpeaG_o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nevada restaurant food",
+    "fetchedAt": "2026-04-12T19:02:40.707Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/las-vegas-nv/lodging": {
+    "url": "https://images.unsplash.com/photo-1649323099596-24311d8a6468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyME5WJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDU1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with a lake in the middle of it",
+    "photographerName": "Christina",
+    "photographerUrl": "https://unsplash.com/@christina3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-a-lake-in-the-middle-of-it-h2DSFtba464?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas NV vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:38.110Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/miami-fl/dining": {
     "url": "https://images.unsplash.com/photo-1734772192785-2986a99ce40f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNaWFtaSUyMEZMJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzU5MzgwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A wooden table topped with plates of food",
@@ -267,6 +407,36 @@
     "unsplashUrl": "https://unsplash.com/photos/a-bright-blue-pool-with-miami-in-the-water-SKFl4OsJRUs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Miami FL vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:46.297Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bar counter with bottles and glasses",
+    "photographerName": "Fabio Sasso",
+    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bar-counter-with-bottles-and-glasses-EiuhTOC0yns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:11.375Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1739660740341-2744f1b88298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ0ElMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A close up of a bowl of food on a table",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-bowl-of-food-on-a-table-qvnI8PTQhj4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa CA steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:03:09.209Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1600793732399-96544bcf47fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ0ElMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzc2MDIwNTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees beside swimming pool during daytime",
+    "photographerName": "Konner Ottaway",
+    "photographerUrl": "https://unsplash.com/@konnerottaway?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-swimming-pool-during-daytime-td-at8ajS8Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa CA vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:07.944Z",
     "addedBy": "bestman"
   },
   "bestman/cities/nashville-tn": {
@@ -339,6 +509,156 @@
     "fetchedAt": "2026-04-11T20:07:06.484Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/palm-springs-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bar counter with bottles and glasses",
+    "photographerName": "Fabio Sasso",
+    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bar-counter-with-bottles-and-glasses-EiuhTOC0yns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:06.726Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/palm-springs-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1723629351395-9e4ba45d6297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A couple of people standing in front of a restaurant",
+    "photographerName": "Aashish Chandra",
+    "photographerUrl": "https://unsplash.com/@aashish_chandra?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-restaurant-1wABSRzffZQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California restaurant food",
+    "fetchedAt": "2026-04-12T19:03:04.552Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/palm-springs-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1669694575282-03ed7faf6360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pool with chairs and umbrellas by it",
+    "photographerName": "Ruth Bourke",
+    "photographerUrl": "https://unsplash.com/@punkrockhippy_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pool-with-chairs-and-umbrellas-by-it-fWhrnLVu4M4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:02.148Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/park-city-ut/bars": {
+    "url": "https://images.unsplash.com/photo-1573915750692-fcf708915068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxVdGFoJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "National Garage building",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://unsplash.com/@gabrielrana?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/national-garage-building-7XsBGTg033I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Utah bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:00.717Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/park-city-ut/dining": {
+    "url": "https://images.unsplash.com/photo-1723744890497-00bdd6568835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwMjA1Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people sitting around a table",
+    "photographerName": "Negley Stockman",
+    "photographerUrl": "https://unsplash.com/@negley?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-RiIJSoTZ-KE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:02:58.307Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/park-city-ut/lodging": {
+    "url": "https://images.unsplash.com/photo-1515541369882-f47fa81d1454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and white concrete building",
+    "photographerName": "Sixties Photography",
+    "photographerUrl": "https://unsplash.com/@sixties?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-JIgHCjldW9I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:57.136Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-or/bars": {
+    "url": "https://images.unsplash.com/photo-1768913573689-fa59c3c061cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDIwNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Rooftop pool bar overlooking the ocean at dusk",
+    "photographerName": "You Le",
+    "photographerUrl": "https://unsplash.com/@le_y0u?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/rooftop-pool-bar-overlooking-the-ocean-at-dusk-3mJWW6-4v1M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:28.327Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-or/dining": {
+    "url": "https://images.unsplash.com/photo-1570478085835-87d9b2a9d3c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwMjA2MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Portland signage",
+    "photographerName": "Patrick Lalonde",
+    "photographerUrl": "https://unsplash.com/@patrick_lalonde?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/portland-signage-W2sg3w3Xv2g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:03:27.067Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1683840567396-0867e5547cfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDYwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a duck floating on top of a lake next to a house",
+    "photographerName": "Jon Champaigne",
+    "photographerUrl": "https://unsplash.com/@s1id3r0?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-duck-floating-on-top-of-a-lake-next-to-a-house-mBJhbSswqVU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:25.827Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-diego-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bar counter with bottles and glasses",
+    "photographerName": "Fabio Sasso",
+    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bar-counter-with-bottles-and-glasses-EiuhTOC0yns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:47.221Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-diego-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1625183505565-4c0860e2acc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwMjA1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a wooden sign hanging from the side of a building",
+    "photographerName": "Jessica Tan",
+    "photographerUrl": "https://unsplash.com/@whaleitsjessica?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-sign-hanging-from-the-side-of-a-building-aqZdh8QZe7Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:02:44.678Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-diego-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1606554626344-893f2f7af053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDU2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in blue bikini sitting on white lounge chair near body of water during daytime",
+    "photographerName": "Ikaia Pal",
+    "photographerUrl": "https://unsplash.com/@ikaiapal?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-bikini-sitting-on-white-lounge-chair-near-body-of-water-during-daytime-iTljbnqw7pc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:43.485Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-barbara-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bar counter with bottles and glasses",
+    "photographerName": "Fabio Sasso",
+    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bar-counter-with-bottles-and-glasses-EiuhTOC0yns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:20.833Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-barbara-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1723629351395-9e4ba45d6297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A couple of people standing in front of a restaurant",
+    "photographerName": "Aashish Chandra",
+    "photographerUrl": "https://unsplash.com/@aashish_chandra?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-restaurant-1wABSRzffZQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California restaurant food",
+    "fetchedAt": "2026-04-12T19:03:18.663Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-barbara-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1704145294791-773ba63eab07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a beach and mountains",
+    "photographerName": "Steve Gribble",
+    "photographerUrl": "https://unsplash.com/@steve_g_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:16.485Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/savannah-ga/bars": {
     "url": "https://images.unsplash.com/photo-1759506885881-7a73c1f361d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHZW9yZ2lhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzU5MzgwMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Pouring liquor into many small shot glasses.",
@@ -367,6 +687,66 @@
     "unsplashUrl": "https://unsplash.com/photos/a-lake-surrounded-by-trees-4t6p1T2OSPU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Savannah GA vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:01.501Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/scottsdale-az/bars": {
+    "url": "https://images.unsplash.com/photo-1706403222567-06fe8d8dc93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTY290dHNkYWxlJTIwQVolMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of a city with mountains in the background",
+    "photographerName": "Matthew Hamilton",
+    "photographerUrl": "https://unsplash.com/@thatsmrbio?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-mountains-in-the-background-akE66HU-_Kg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Scottsdale AZ rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:02:33.797Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/scottsdale-az/dining": {
+    "url": "https://images.unsplash.com/photo-1625154039686-864a997fe02a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBcml6b25hJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black and white analog clock at 11 00",
+    "photographerName": "iStrfry , Marcus",
+    "photographerUrl": "https://unsplash.com/@istrfry?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-and-white-analog-clock-at-11-00-D1VltbK89cg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Arizona restaurant food",
+    "fetchedAt": "2026-04-12T19:02:32.496Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/scottsdale-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1746052615769-94edc094d87e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTY290dHNkYWxlJTIwQVolMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzc2MDIwNTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Two figures walk in the desert landscape.",
+    "photographerName": "Kaden Taylor",
+    "photographerUrl": "https://unsplash.com/@kaden_t?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-figures-walk-in-the-desert-landscape-4q3lIBykl1s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Scottsdale AZ vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:02:30.112Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sedona-az/bars": {
+    "url": "https://images.unsplash.com/photo-1720213802119-b260ec6d399f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAyMDU5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people sitting at a table under an umbrella",
+    "photographerName": "kilo 🐍",
+    "photographerUrl": "https://unsplash.com/@cloudsarejoy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-under-an-umbrella-uYfbwWwcx3c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ rooftop bar nightlife",
+    "fetchedAt": "2026-04-12T19:03:15.241Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sedona-az/dining": {
+    "url": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDIwNTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cooked meat on tray",
+    "photographerName": "Loija Nguyen",
+    "photographerUrl": "https://unsplash.com/@loija?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cooked-meat-on-tray-NYBnDWeOX2c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ steakhouse restaurant food",
+    "fetchedAt": "2026-04-12T19:03:14.002Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sedona-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1731556492970-a70deb25291c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A green house sitting in the middle of a desert",
+    "photographerName": "Strange Happenings",
+    "photographerUrl": "https://unsplash.com/@strangehappenings?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-green-house-sitting-in-the-middle-of-a-desert-JuwfdqwoXF0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ vacation rental house pool",
+    "fetchedAt": "2026-04-12T19:03:12.737Z",
     "addedBy": "bestman"
   },
   "bestman/cities/tampa-fl/bars": {
