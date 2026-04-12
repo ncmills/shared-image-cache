@@ -107,11 +107,28 @@ function sleep(ms: number): Promise<void> {
 
 async function main() {
   const env = loadEnv();
-  const accessKey = env.UNSPLASH_ACCESS_KEY || process.env.UNSPLASH_ACCESS_KEY;
-  if (!accessKey) {
+
+  // Pool multiple Unsplash keys for higher throughput while keeping each
+  // key well under its individual 50/hr demo limit. Keys are round-robined
+  // per request. Add UNSPLASH_ACCESS_KEY_2, _3, etc. to .env.local.
+  const keys: string[] = [];
+  const primary = env.UNSPLASH_ACCESS_KEY || process.env.UNSPLASH_ACCESS_KEY;
+  if (primary) keys.push(primary);
+  for (let i = 2; i <= 5; i++) {
+    const extra = env[`UNSPLASH_ACCESS_KEY_${i}`] || process.env[`UNSPLASH_ACCESS_KEY_${i}`];
+    if (extra) keys.push(extra);
+  }
+  if (keys.length === 0) {
     console.error("✘ UNSPLASH_ACCESS_KEY not found in .env.local or environment");
     process.exit(1);
   }
+  let keyIdx = 0;
+  function nextKey(): string {
+    const k = keys[keyIdx % keys.length];
+    keyIdx++;
+    return k;
+  }
+  console.log(`  Using ${keys.length} Unsplash key${keys.length > 1 ? "s" : ""} (round-robin pool)`);
 
   const args = parseArgs();
   const cache = loadCache();
@@ -153,7 +170,7 @@ async function main() {
   for (const item of batch) {
     processed++;
     try {
-      let result = await searchUnsplash(item.query, accessKey);
+      let result = await searchUnsplash(item.query, nextKey());
       let usedFallback = false;
 
       if (
@@ -164,7 +181,7 @@ async function main() {
         result.ratelimitRemaining > RATELIMIT_FLOOR + 2
       ) {
         await sleep(SLEEP_MS);
-        const fb = await searchUnsplash(item.fallbackQuery, accessKey);
+        const fb = await searchUnsplash(item.fallbackQuery, nextKey());
         if (fb.entry) {
           result = fb;
           usedFallback = true;
