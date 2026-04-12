@@ -1489,6 +1489,16 @@
     "fetchedAt": "2026-04-12T18:39:37.682Z",
     "addedBy": "moh"
   },
+  "moh/cities/carmel-ca": {
+    "url": "https://images.unsplash.com/photo-1752857015548-cc80cd44a958?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENBJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Outdoor lounge with beautiful furniture and lights.",
+    "photographerName": "Vidit Goswami",
+    "photographerUrl": "https://unsplash.com/@viditgoswami?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/outdoor-lounge-with-beautiful-furniture-and-lights-m3nVTvPAZfg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea CA rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:43.957Z",
+    "addedBy": "moh"
+  },
   "moh/cities/charleston-sc": {
     "url": "https://images.unsplash.com/photo-1659059690223-18fc5d2d1ebb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMENhcm9saW5hJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city landscape at sunset",
@@ -1539,6 +1549,26 @@
     "fetchedAt": "2026-04-12T18:39:44.219Z",
     "addedBy": "moh"
   },
+  "moh/cities/finger-lakes-ny": {
+    "url": "https://images.unsplash.com/photo-1519757043093-285fcb07a4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman wearing sunhat riding boat on body of water",
+    "photographerName": "Brian Tafel",
+    "photographerUrl": "https://unsplash.com/@bltafel?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-wearing-sunhat-riding-boat-on-body-of-water-3ktyUGus5zU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes NY rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:42.500Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-lauderdale-fl": {
+    "url": "https://images.unsplash.com/photo-1639709193832-3789880aebf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAyMDYxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sunset view of a city and a body of water",
+    "photographerName": "Barefoot Beach Designs",
+    "photographerUrl": "https://unsplash.com/@sandytoes2020?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sunset-view-of-a-city-and-a-body-of-water-KANXooKn9Po?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Florida skyline pink sunset",
+    "fetchedAt": "2026-04-12T19:03:37.850Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fort-worth-tx": {
     "url": "https://images.unsplash.com/photo-1766275827053-1d46fec02858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "City skyline silhouette against a colorful sunset.",
@@ -1569,6 +1599,26 @@
     "fetchedAt": "2026-04-12T18:39:40.472Z",
     "addedBy": "moh"
   },
+  "moh/cities/hudson-valley-ny": {
+    "url": "https://images.unsplash.com/photo-1730740497996-3f6c574027c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAyMDYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A beautiful sunset over a large body of water",
+    "photographerName": "Reid Zura",
+    "photographerUrl": "https://unsplash.com/@reidzura?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beautiful-sunset-over-a-large-body-of-water-cPlchdTUWn4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York skyline pink sunset",
+    "fetchedAt": "2026-04-12T19:03:34.384Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/jackson-hole-wy": {
+    "url": "https://images.unsplash.com/photo-1753726619950-3068b36ac01a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Four friends embrace, overlooking a scenic landscape.",
+    "photographerName": "Brayden Prato",
+    "photographerUrl": "https://unsplash.com/@pratophoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/four-friends-embrace-overlooking-a-scenic-landscape-NetNfkU4114?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole WY rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:46.675Z",
+    "addedBy": "moh"
+  },
   "moh/cities/key-west-fl": {
     "url": "https://images.unsplash.com/photo-1639709193832-3789880aebf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTE0MXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a sunset view of a city and a body of water",
@@ -1577,6 +1627,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-sunset-view-of-a-city-and-a-body-of-water-KANXooKn9Po?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Florida skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:01.659Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-tahoe-ca": {
+    "url": "https://images.unsplash.com/photo-1516570379421-c7bd617e8db0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMjA2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "landscape of seashore",
+    "photographerName": "Artak Petrosyan",
+    "photographerUrl": "https://unsplash.com/@artakpetrosyan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/landscape-of-seashore-iCvkYvMiqTg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:47.887Z",
     "addedBy": "moh"
   },
   "moh/cities/las-vegas-nv": {
@@ -1607,6 +1667,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-women-sitting-on-top-of-a-white-couch-cIi424GTznU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Martha's Vineyard MA rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:39:33.715Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/maui-hi": {
+    "url": "https://images.unsplash.com/photo-1616056828017-ce77aae200bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIYXdhaWklMjBza3lsaW5lJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzc2MDIwNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette of palm trees during sunset",
+    "photographerName": "Michaela",
+    "photographerUrl": "https://unsplash.com/@m_hampi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-palm-trees-during-sunset-gBOzGoW-4gQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hawaii skyline pink sunset",
+    "fetchedAt": "2026-04-12T19:03:50.319Z",
     "addedBy": "moh"
   },
   "moh/cities/miami-fl": {
@@ -1689,6 +1759,16 @@
     "fetchedAt": "2026-04-12T18:39:35.047Z",
     "addedBy": "moh"
   },
+  "moh/cities/oahu-hi": {
+    "url": "https://images.unsplash.com/photo-1732258190900-5008269e8019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPYWh1JTIwSEklMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDIwNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A woman in a purple dress posing for a picture",
+    "photographerName": "Zaniah Brown",
+    "photographerUrl": "https://unsplash.com/@zaniah_brown?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-purple-dress-posing-for-a-picture-z0GTcqBzcj8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oahu HI rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:51.813Z",
+    "addedBy": "moh"
+  },
   "moh/cities/palm-springs-ca": {
     "url": "https://images.unsplash.com/photo-1668129829354-8427b343bb5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEzNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city skyline with palm trees",
@@ -1697,6 +1777,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-with-palm-trees-3fJO4DBFO30?utm_source=shared_image_cache&utm_medium=referral",
     "query": "California skyline pink sunset",
     "fetchedAt": "2026-04-12T18:38:56.610Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/park-city-ut": {
+    "url": "https://images.unsplash.com/photo-1716674980090-8043213205e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a woman in a black dress standing in front of a lake",
+    "photographerName": "Stella St. Clair",
+    "photographerUrl": "https://unsplash.com/@stellaastclairr?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-black-dress-standing-in-front-of-a-lake-Qmys5PsrTnc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:45.257Z",
     "addedBy": "moh"
   },
   "moh/cities/philadelphia-pa": {
@@ -1737,6 +1827,16 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-bikini-sitting-on-white-lounge-chair-near-body-of-water-during-daytime-iTljbnqw7pc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "San Diego CA rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:39:20.917Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-juan-pr": {
+    "url": "https://images.unsplash.com/photo-1768675142255-7d64378910eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQUiUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMjA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Silhouette of city skyline against a dramatic sunset sky",
+    "photographerName": "Kris Tian",
+    "photographerUrl": "https://unsplash.com/@kris_tian?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-city-skyline-against-a-dramatic-sunset-sky-IjZQTb_KTUo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "PR skyline pink sunset",
+    "fetchedAt": "2026-04-12T19:03:54.201Z",
     "addedBy": "moh"
   },
   "moh/cities/santa-barbara-ca": {
@@ -1789,6 +1889,26 @@
     "fetchedAt": "2026-04-12T18:38:53.809Z",
     "addedBy": "moh"
   },
+  "moh/cities/sonoma-ca": {
+    "url": "https://images.unsplash.com/photo-1668129829354-8427b343bb5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAyMDYyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city skyline with palm trees",
+    "photographerName": "Jessica Christian",
+    "photographerUrl": "https://unsplash.com/@lovesquish?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-with-palm-trees-3fJO4DBFO30?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California skyline pink sunset",
+    "fetchedAt": "2026-04-12T19:03:40.068Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tampa-fl": {
+    "url": "https://images.unsplash.com/photo-1508787345756-500fbb7781c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman wearing black top during daytime",
+    "photographerName": "Ivana Cajina",
+    "photographerUrl": "https://unsplash.com/@von_co?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-wearing-black-top-during-daytime-nGyUf2VxTqs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:35.605Z",
+    "addedBy": "moh"
+  },
   "moh/cities/washington-dc": {
     "url": "https://images.unsplash.com/photo-1739637771679-53fbda75a521?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEQyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A large body of water with ducks in it",
@@ -1797,6 +1917,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-ducks-in-it-SV6Gzr8EKko?utm_source=shared_image_cache&utm_medium=referral",
     "query": "DC skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:12.025Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/willamette-valley-or": {
+    "url": "https://images.unsplash.com/photo-1727063146642-715f3462f5f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaWxsYW1ldHRlJTIwVmFsbGV5JTIwT1IlMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDIwNjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "An aerial view of a vineyard in the country",
+    "photographerName": "Molly Bailey",
+    "photographerUrl": "https://unsplash.com/@mollyrbailey?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-vineyard-in-the-country-xZKItBvNTfY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Willamette Valley OR rooftop bachelorette glam",
+    "fetchedAt": "2026-04-12T19:03:41.307Z",
     "addedBy": "moh"
   },
   "moh/showcases/1/bars": {
