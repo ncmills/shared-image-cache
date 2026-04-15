@@ -36,6 +36,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    # Opt into Node 24 for the JS actions (actions/checkout, setup-node).
+    # GitHub is forcing this switchover June 2026; preempting silences the
+    # deprecation warning that shows on every run.
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
