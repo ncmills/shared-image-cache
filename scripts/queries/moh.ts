@@ -4,9 +4,11 @@
  * Bachelorette-themed hero queries: pool club / rooftop / glam aesthetic.
  */
 
+import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const MOH_DATA_DIR = resolve(HOME, "maid-of-honor-hq/src/data");
@@ -18,6 +20,16 @@ interface PartyDestination {
 }
 
 export async function getMohQueries(): Promise<QueryItem[]> {
+  if (!existsSync(MOH_DATA_DIR)) {
+    const snap = getQueriesFromSnapshot("moh");
+    if (snap) {
+      console.log(`  ✓ MOH queries loaded from snapshot (${snap.length} entries)`);
+      return snap;
+    }
+    console.warn(`  ⚠ MOH data dir missing and no snapshot available`);
+    return [];
+  }
+
   let allDestinations: PartyDestination[] = [];
   try {
     const mod = require(resolve(MOH_DATA_DIR, "index.ts"));

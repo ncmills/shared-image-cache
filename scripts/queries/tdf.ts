@@ -7,9 +7,11 @@
  *   - guide hero (handpicked thematic)
  */
 
+import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const TDF_DATA_DIR = resolve(HOME, "tour-de-fore/src/data");
@@ -38,6 +40,16 @@ const GUIDE_QUERIES: Record<string, string> = {
 };
 
 export async function getTdfQueries(): Promise<QueryItem[]> {
+  if (!existsSync(TDF_DATA_DIR)) {
+    const snap = getQueriesFromSnapshot("tdf");
+    if (snap) {
+      console.log(`  ✓ TDF queries loaded from snapshot (${snap.length} entries)`);
+      return snap;
+    }
+    console.warn(`  ⚠ TDF data dir missing and no snapshot available`);
+    return [];
+  }
+
   // Dynamic require so the shared repo doesn't fail if TDF isn't installed.
   let allDestinations: TdfDestination[] = [];
   try {

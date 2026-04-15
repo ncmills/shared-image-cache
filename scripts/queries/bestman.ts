@@ -16,9 +16,11 @@
  * reads before falling back to the live Unsplash API.
  */
 
+import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const BESTMAN_DATA_DIR = resolve(HOME, "plan-my-party/src/data");
@@ -30,6 +32,17 @@ interface PartyDestination {
 }
 
 export async function getBestmanQueries(): Promise<QueryItem[]> {
+  // CI / sibling-repo-missing path: read from queries.snapshot.json.
+  if (!existsSync(BESTMAN_DATA_DIR)) {
+    const snap = getQueriesFromSnapshot("bestman");
+    if (snap) {
+      console.log(`  ✓ BESTMAN queries loaded from snapshot (${snap.length} entries)`);
+      return snap;
+    }
+    console.warn(`  ⚠ BESTMAN data dir missing and no snapshot available`);
+    return [];
+  }
+
   let allDestinations: PartyDestination[] = [];
   try {
     const mod = require(resolve(BESTMAN_DATA_DIR, "index.ts"));

@@ -1,0 +1,3983 @@
+{
+  "generatedAt": "2026-04-15T14:26:38.130Z",
+  "projects": {
+    "bestman": [
+      {
+        "key": "bestman/cities/nashville-tn/lodging",
+        "query": "Nashville TN vacation rental house pool",
+        "fallbackQuery": "Nashville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Nashville, TN — lodging"
+      },
+      {
+        "key": "bestman/cities/nashville-tn/dining",
+        "query": "Nashville TN steakhouse restaurant food",
+        "fallbackQuery": "Tennessee restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Nashville, TN — dining"
+      },
+      {
+        "key": "bestman/cities/nashville-tn/bars",
+        "query": "Nashville TN rooftop bar nightlife",
+        "fallbackQuery": "Tennessee bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Nashville, TN — bars"
+      },
+      {
+        "key": "bestman/cities/charleston-sc/lodging",
+        "query": "Charleston SC vacation rental house pool",
+        "fallbackQuery": "Charleston skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Charleston, SC — lodging"
+      },
+      {
+        "key": "bestman/cities/charleston-sc/dining",
+        "query": "Charleston SC steakhouse restaurant food",
+        "fallbackQuery": "South Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Charleston, SC — dining"
+      },
+      {
+        "key": "bestman/cities/charleston-sc/bars",
+        "query": "Charleston SC rooftop bar nightlife",
+        "fallbackQuery": "South Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Charleston, SC — bars"
+      },
+      {
+        "key": "bestman/cities/savannah-ga/lodging",
+        "query": "Savannah GA vacation rental house pool",
+        "fallbackQuery": "Savannah skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Savannah, GA — lodging"
+      },
+      {
+        "key": "bestman/cities/savannah-ga/dining",
+        "query": "Savannah GA steakhouse restaurant food",
+        "fallbackQuery": "Georgia restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Savannah, GA — dining"
+      },
+      {
+        "key": "bestman/cities/savannah-ga/bars",
+        "query": "Savannah GA rooftop bar nightlife",
+        "fallbackQuery": "Georgia bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Savannah, GA — bars"
+      },
+      {
+        "key": "bestman/cities/new-orleans-la/lodging",
+        "query": "New Orleans LA vacation rental house pool",
+        "fallbackQuery": "New Orleans skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/New Orleans, LA — lodging"
+      },
+      {
+        "key": "bestman/cities/new-orleans-la/dining",
+        "query": "New Orleans LA steakhouse restaurant food",
+        "fallbackQuery": "Louisiana restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/New Orleans, LA — dining"
+      },
+      {
+        "key": "bestman/cities/new-orleans-la/bars",
+        "query": "New Orleans LA rooftop bar nightlife",
+        "fallbackQuery": "Louisiana bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/New Orleans, LA — bars"
+      },
+      {
+        "key": "bestman/cities/austin-tx/lodging",
+        "query": "Austin TX vacation rental house pool",
+        "fallbackQuery": "Austin skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Austin, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/austin-tx/dining",
+        "query": "Austin TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Austin, TX — dining"
+      },
+      {
+        "key": "bestman/cities/austin-tx/bars",
+        "query": "Austin TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Austin, TX — bars"
+      },
+      {
+        "key": "bestman/cities/dallas-tx/lodging",
+        "query": "Dallas TX vacation rental house pool",
+        "fallbackQuery": "Dallas skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Dallas, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/dallas-tx/dining",
+        "query": "Dallas TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Dallas, TX — dining"
+      },
+      {
+        "key": "bestman/cities/dallas-tx/bars",
+        "query": "Dallas TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Dallas, TX — bars"
+      },
+      {
+        "key": "bestman/cities/houston-tx/lodging",
+        "query": "Houston TX vacation rental house pool",
+        "fallbackQuery": "Houston skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Houston, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/houston-tx/dining",
+        "query": "Houston TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Houston, TX — dining"
+      },
+      {
+        "key": "bestman/cities/houston-tx/bars",
+        "query": "Houston TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Houston, TX — bars"
+      },
+      {
+        "key": "bestman/cities/gulf-shores-al/lodging",
+        "query": "Gulf Shores AL vacation rental house pool",
+        "fallbackQuery": "Gulf Shores skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Gulf Shores, AL — lodging"
+      },
+      {
+        "key": "bestman/cities/gulf-shores-al/dining",
+        "query": "Gulf Shores AL steakhouse restaurant food",
+        "fallbackQuery": "Alabama restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Gulf Shores, AL — dining"
+      },
+      {
+        "key": "bestman/cities/gulf-shores-al/bars",
+        "query": "Gulf Shores AL rooftop bar nightlife",
+        "fallbackQuery": "Alabama bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Gulf Shores, AL — bars"
+      },
+      {
+        "key": "bestman/cities/destin-fl/lodging",
+        "query": "Destin FL vacation rental house pool",
+        "fallbackQuery": "Destin skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Destin, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/destin-fl/dining",
+        "query": "Destin FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Destin, FL — dining"
+      },
+      {
+        "key": "bestman/cities/destin-fl/bars",
+        "query": "Destin FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Destin, FL — bars"
+      },
+      {
+        "key": "bestman/cities/galveston-tx/lodging",
+        "query": "Galveston TX vacation rental house pool",
+        "fallbackQuery": "Galveston skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Galveston, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/galveston-tx/dining",
+        "query": "Galveston TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Galveston, TX — dining"
+      },
+      {
+        "key": "bestman/cities/galveston-tx/bars",
+        "query": "Galveston TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Galveston, TX — bars"
+      },
+      {
+        "key": "bestman/cities/key-west-fl/lodging",
+        "query": "Key West FL vacation rental house pool",
+        "fallbackQuery": "Key West skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Key West, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/key-west-fl/dining",
+        "query": "Key West FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Key West, FL — dining"
+      },
+      {
+        "key": "bestman/cities/key-west-fl/bars",
+        "query": "Key West FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Key West, FL — bars"
+      },
+      {
+        "key": "bestman/cities/miami-fl/lodging",
+        "query": "Miami FL vacation rental house pool",
+        "fallbackQuery": "Miami skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Miami, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/miami-fl/dining",
+        "query": "Miami FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Miami, FL — dining"
+      },
+      {
+        "key": "bestman/cities/miami-fl/bars",
+        "query": "Miami FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Miami, FL — bars"
+      },
+      {
+        "key": "bestman/cities/tampa-fl/lodging",
+        "query": "Tampa FL vacation rental house pool",
+        "fallbackQuery": "Tampa skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Tampa, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/tampa-fl/dining",
+        "query": "Tampa FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Tampa, FL — dining"
+      },
+      {
+        "key": "bestman/cities/tampa-fl/bars",
+        "query": "Tampa FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Tampa, FL — bars"
+      },
+      {
+        "key": "bestman/cities/fort-lauderdale-fl/lodging",
+        "query": "Fort Lauderdale FL vacation rental house pool",
+        "fallbackQuery": "Fort Lauderdale skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Fort Lauderdale, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/fort-lauderdale-fl/dining",
+        "query": "Fort Lauderdale FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Fort Lauderdale, FL — dining"
+      },
+      {
+        "key": "bestman/cities/fort-lauderdale-fl/bars",
+        "query": "Fort Lauderdale FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Fort Lauderdale, FL — bars"
+      },
+      {
+        "key": "bestman/cities/scottsdale-az/lodging",
+        "query": "Scottsdale AZ vacation rental house pool",
+        "fallbackQuery": "Scottsdale skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Scottsdale, AZ — lodging"
+      },
+      {
+        "key": "bestman/cities/scottsdale-az/dining",
+        "query": "Scottsdale AZ steakhouse restaurant food",
+        "fallbackQuery": "Arizona restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Scottsdale, AZ — dining"
+      },
+      {
+        "key": "bestman/cities/scottsdale-az/bars",
+        "query": "Scottsdale AZ rooftop bar nightlife",
+        "fallbackQuery": "Arizona bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Scottsdale, AZ — bars"
+      },
+      {
+        "key": "bestman/cities/las-vegas-nv/lodging",
+        "query": "Las Vegas NV vacation rental house pool",
+        "fallbackQuery": "Las Vegas skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Las Vegas, NV — lodging"
+      },
+      {
+        "key": "bestman/cities/las-vegas-nv/dining",
+        "query": "Las Vegas NV steakhouse restaurant food",
+        "fallbackQuery": "Nevada restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Las Vegas, NV — dining"
+      },
+      {
+        "key": "bestman/cities/las-vegas-nv/bars",
+        "query": "Las Vegas NV rooftop bar nightlife",
+        "fallbackQuery": "Nevada bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Las Vegas, NV — bars"
+      },
+      {
+        "key": "bestman/cities/san-diego-ca/lodging",
+        "query": "San Diego CA vacation rental house pool",
+        "fallbackQuery": "San Diego skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/San Diego, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/san-diego-ca/dining",
+        "query": "San Diego CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/San Diego, CA — dining"
+      },
+      {
+        "key": "bestman/cities/san-diego-ca/bars",
+        "query": "San Diego CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/San Diego, CA — bars"
+      },
+      {
+        "key": "bestman/cities/denver-co/lodging",
+        "query": "Denver CO vacation rental house pool",
+        "fallbackQuery": "Denver skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Denver, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/denver-co/dining",
+        "query": "Denver CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Denver, CO — dining"
+      },
+      {
+        "key": "bestman/cities/denver-co/bars",
+        "query": "Denver CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Denver, CO — bars"
+      },
+      {
+        "key": "bestman/cities/lake-tahoe-ca/lodging",
+        "query": "Lake Tahoe CA vacation rental house pool",
+        "fallbackQuery": "Lake Tahoe skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Lake Tahoe, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/lake-tahoe-ca/dining",
+        "query": "Lake Tahoe CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Lake Tahoe, CA — dining"
+      },
+      {
+        "key": "bestman/cities/lake-tahoe-ca/bars",
+        "query": "Lake Tahoe CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Lake Tahoe, CA — bars"
+      },
+      {
+        "key": "bestman/cities/park-city-ut/lodging",
+        "query": "Park City UT vacation rental house pool",
+        "fallbackQuery": "Park City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Park City, UT — lodging"
+      },
+      {
+        "key": "bestman/cities/park-city-ut/dining",
+        "query": "Park City UT steakhouse restaurant food",
+        "fallbackQuery": "Utah restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Park City, UT — dining"
+      },
+      {
+        "key": "bestman/cities/park-city-ut/bars",
+        "query": "Park City UT rooftop bar nightlife",
+        "fallbackQuery": "Utah bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Park City, UT — bars"
+      },
+      {
+        "key": "bestman/cities/palm-springs-ca/lodging",
+        "query": "Palm Springs CA vacation rental house pool",
+        "fallbackQuery": "Palm Springs skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Palm Springs, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/palm-springs-ca/dining",
+        "query": "Palm Springs CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Palm Springs, CA — dining"
+      },
+      {
+        "key": "bestman/cities/palm-springs-ca/bars",
+        "query": "Palm Springs CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Palm Springs, CA — bars"
+      },
+      {
+        "key": "bestman/cities/napa-ca/lodging",
+        "query": "Napa CA vacation rental house pool",
+        "fallbackQuery": "Napa skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Napa, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/napa-ca/dining",
+        "query": "Napa CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Napa, CA — dining"
+      },
+      {
+        "key": "bestman/cities/napa-ca/bars",
+        "query": "Napa CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Napa, CA — bars"
+      },
+      {
+        "key": "bestman/cities/sedona-az/lodging",
+        "query": "Sedona AZ vacation rental house pool",
+        "fallbackQuery": "Sedona skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Sedona, AZ — lodging"
+      },
+      {
+        "key": "bestman/cities/sedona-az/dining",
+        "query": "Sedona AZ steakhouse restaurant food",
+        "fallbackQuery": "Arizona restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Sedona, AZ — dining"
+      },
+      {
+        "key": "bestman/cities/sedona-az/bars",
+        "query": "Sedona AZ rooftop bar nightlife",
+        "fallbackQuery": "Arizona bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Sedona, AZ — bars"
+      },
+      {
+        "key": "bestman/cities/santa-barbara-ca/lodging",
+        "query": "Santa Barbara CA vacation rental house pool",
+        "fallbackQuery": "Santa Barbara skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Santa Barbara, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/santa-barbara-ca/dining",
+        "query": "Santa Barbara CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Santa Barbara, CA — dining"
+      },
+      {
+        "key": "bestman/cities/santa-barbara-ca/bars",
+        "query": "Santa Barbara CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Santa Barbara, CA — bars"
+      },
+      {
+        "key": "bestman/cities/bend-or/lodging",
+        "query": "Bend OR vacation rental house pool",
+        "fallbackQuery": "Bend skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Bend, OR — lodging"
+      },
+      {
+        "key": "bestman/cities/bend-or/dining",
+        "query": "Bend OR steakhouse restaurant food",
+        "fallbackQuery": "Oregon restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Bend, OR — dining"
+      },
+      {
+        "key": "bestman/cities/bend-or/bars",
+        "query": "Bend OR rooftop bar nightlife",
+        "fallbackQuery": "Oregon bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Bend, OR — bars"
+      },
+      {
+        "key": "bestman/cities/portland-or/lodging",
+        "query": "Portland OR vacation rental house pool",
+        "fallbackQuery": "Portland skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, OR — lodging"
+      },
+      {
+        "key": "bestman/cities/portland-or/dining",
+        "query": "Portland OR steakhouse restaurant food",
+        "fallbackQuery": "Oregon restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, OR — dining"
+      },
+      {
+        "key": "bestman/cities/portland-or/bars",
+        "query": "Portland OR rooftop bar nightlife",
+        "fallbackQuery": "Oregon bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, OR — bars"
+      },
+      {
+        "key": "bestman/cities/boise-id/lodging",
+        "query": "Boise ID vacation rental house pool",
+        "fallbackQuery": "Boise skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Boise, ID — lodging"
+      },
+      {
+        "key": "bestman/cities/boise-id/dining",
+        "query": "Boise ID steakhouse restaurant food",
+        "fallbackQuery": "Idaho restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Boise, ID — dining"
+      },
+      {
+        "key": "bestman/cities/boise-id/bars",
+        "query": "Boise ID rooftop bar nightlife",
+        "fallbackQuery": "Idaho bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Boise, ID — bars"
+      },
+      {
+        "key": "bestman/cities/chicago-il/lodging",
+        "query": "Chicago IL vacation rental house pool",
+        "fallbackQuery": "Chicago skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Chicago, IL — lodging"
+      },
+      {
+        "key": "bestman/cities/chicago-il/dining",
+        "query": "Chicago IL steakhouse restaurant food",
+        "fallbackQuery": "Illinois restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Chicago, IL — dining"
+      },
+      {
+        "key": "bestman/cities/chicago-il/bars",
+        "query": "Chicago IL rooftop bar nightlife",
+        "fallbackQuery": "Illinois bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Chicago, IL — bars"
+      },
+      {
+        "key": "bestman/cities/charlotte-nc/lodging",
+        "query": "Charlotte NC vacation rental house pool",
+        "fallbackQuery": "Charlotte skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Charlotte, NC — lodging"
+      },
+      {
+        "key": "bestman/cities/charlotte-nc/dining",
+        "query": "Charlotte NC steakhouse restaurant food",
+        "fallbackQuery": "North Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Charlotte, NC — dining"
+      },
+      {
+        "key": "bestman/cities/charlotte-nc/bars",
+        "query": "Charlotte NC rooftop bar nightlife",
+        "fallbackQuery": "North Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Charlotte, NC — bars"
+      },
+      {
+        "key": "bestman/cities/atlanta-ga/lodging",
+        "query": "Atlanta GA vacation rental house pool",
+        "fallbackQuery": "Atlanta skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Atlanta, GA — lodging"
+      },
+      {
+        "key": "bestman/cities/atlanta-ga/dining",
+        "query": "Atlanta GA steakhouse restaurant food",
+        "fallbackQuery": "Georgia restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Atlanta, GA — dining"
+      },
+      {
+        "key": "bestman/cities/atlanta-ga/bars",
+        "query": "Atlanta GA rooftop bar nightlife",
+        "fallbackQuery": "Georgia bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Atlanta, GA — bars"
+      },
+      {
+        "key": "bestman/cities/asheville-nc/lodging",
+        "query": "Asheville NC vacation rental house pool",
+        "fallbackQuery": "Asheville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Asheville, NC — lodging"
+      },
+      {
+        "key": "bestman/cities/asheville-nc/dining",
+        "query": "Asheville NC steakhouse restaurant food",
+        "fallbackQuery": "North Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Asheville, NC — dining"
+      },
+      {
+        "key": "bestman/cities/asheville-nc/bars",
+        "query": "Asheville NC rooftop bar nightlife",
+        "fallbackQuery": "North Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Asheville, NC — bars"
+      },
+      {
+        "key": "bestman/cities/hilton-head-sc/lodging",
+        "query": "Hilton Head SC vacation rental house pool",
+        "fallbackQuery": "Hilton Head skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Hilton Head, SC — lodging"
+      },
+      {
+        "key": "bestman/cities/hilton-head-sc/dining",
+        "query": "Hilton Head SC steakhouse restaurant food",
+        "fallbackQuery": "South Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Hilton Head, SC — dining"
+      },
+      {
+        "key": "bestman/cities/hilton-head-sc/bars",
+        "query": "Hilton Head SC rooftop bar nightlife",
+        "fallbackQuery": "South Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Hilton Head, SC — bars"
+      },
+      {
+        "key": "bestman/cities/myrtle-beach-sc/lodging",
+        "query": "Myrtle Beach SC vacation rental house pool",
+        "fallbackQuery": "Myrtle Beach skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Myrtle Beach, SC — lodging"
+      },
+      {
+        "key": "bestman/cities/myrtle-beach-sc/dining",
+        "query": "Myrtle Beach SC steakhouse restaurant food",
+        "fallbackQuery": "South Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Myrtle Beach, SC — dining"
+      },
+      {
+        "key": "bestman/cities/myrtle-beach-sc/bars",
+        "query": "Myrtle Beach SC rooftop bar nightlife",
+        "fallbackQuery": "South Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Myrtle Beach, SC — bars"
+      },
+      {
+        "key": "bestman/cities/salt-lake-city-ut/lodging",
+        "query": "Salt Lake City UT vacation rental house pool",
+        "fallbackQuery": "Salt Lake City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Salt Lake City, UT — lodging"
+      },
+      {
+        "key": "bestman/cities/salt-lake-city-ut/dining",
+        "query": "Salt Lake City UT steakhouse restaurant food",
+        "fallbackQuery": "Utah restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Salt Lake City, UT — dining"
+      },
+      {
+        "key": "bestman/cities/salt-lake-city-ut/bars",
+        "query": "Salt Lake City UT rooftop bar nightlife",
+        "fallbackQuery": "Utah bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Salt Lake City, UT — bars"
+      },
+      {
+        "key": "bestman/cities/cabo-mx/lodging",
+        "query": "Cabo San Lucas Mexico vacation rental house pool",
+        "fallbackQuery": "Cabo San Lucas skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cabo San Lucas, Mexico — lodging"
+      },
+      {
+        "key": "bestman/cities/cabo-mx/dining",
+        "query": "Cabo San Lucas Mexico steakhouse restaurant food",
+        "fallbackQuery": "Mexico restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cabo San Lucas, Mexico — dining"
+      },
+      {
+        "key": "bestman/cities/cabo-mx/bars",
+        "query": "Cabo San Lucas Mexico rooftop bar nightlife",
+        "fallbackQuery": "Mexico bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cabo San Lucas, Mexico — bars"
+      },
+      {
+        "key": "bestman/cities/cancun-mx/lodging",
+        "query": "Cancun Mexico vacation rental house pool",
+        "fallbackQuery": "Cancun skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cancun, Mexico — lodging"
+      },
+      {
+        "key": "bestman/cities/cancun-mx/dining",
+        "query": "Cancun Mexico steakhouse restaurant food",
+        "fallbackQuery": "Mexico restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cancun, Mexico — dining"
+      },
+      {
+        "key": "bestman/cities/cancun-mx/bars",
+        "query": "Cancun Mexico rooftop bar nightlife",
+        "fallbackQuery": "Mexico bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cancun, Mexico — bars"
+      },
+      {
+        "key": "bestman/cities/tulum-mx/lodging",
+        "query": "Tulum Mexico vacation rental house pool",
+        "fallbackQuery": "Tulum skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Tulum, Mexico — lodging"
+      },
+      {
+        "key": "bestman/cities/tulum-mx/dining",
+        "query": "Tulum Mexico steakhouse restaurant food",
+        "fallbackQuery": "Mexico restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Tulum, Mexico — dining"
+      },
+      {
+        "key": "bestman/cities/tulum-mx/bars",
+        "query": "Tulum Mexico rooftop bar nightlife",
+        "fallbackQuery": "Mexico bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Tulum, Mexico — bars"
+      },
+      {
+        "key": "bestman/cities/san-juan-pr/lodging",
+        "query": "San Juan Puerto Rico vacation rental house pool",
+        "fallbackQuery": "San Juan skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/San Juan, Puerto Rico — lodging"
+      },
+      {
+        "key": "bestman/cities/san-juan-pr/dining",
+        "query": "San Juan Puerto Rico steakhouse restaurant food",
+        "fallbackQuery": "Puerto Rico restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/San Juan, Puerto Rico — dining"
+      },
+      {
+        "key": "bestman/cities/san-juan-pr/bars",
+        "query": "San Juan Puerto Rico rooftop bar nightlife",
+        "fallbackQuery": "Puerto Rico bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/San Juan, Puerto Rico — bars"
+      },
+      {
+        "key": "bestman/cities/cartagena-co/lodging",
+        "query": "Cartagena Colombia vacation rental house pool",
+        "fallbackQuery": "Cartagena skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cartagena, Colombia — lodging"
+      },
+      {
+        "key": "bestman/cities/cartagena-co/dining",
+        "query": "Cartagena Colombia steakhouse restaurant food",
+        "fallbackQuery": "Colombia restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cartagena, Colombia — dining"
+      },
+      {
+        "key": "bestman/cities/cartagena-co/bars",
+        "query": "Cartagena Colombia rooftop bar nightlife",
+        "fallbackQuery": "Colombia bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cartagena, Colombia — bars"
+      },
+      {
+        "key": "bestman/cities/montreal-ca/lodging",
+        "query": "Montreal Canada vacation rental house pool",
+        "fallbackQuery": "Montreal skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Montreal, Canada — lodging"
+      },
+      {
+        "key": "bestman/cities/montreal-ca/dining",
+        "query": "Montreal Canada steakhouse restaurant food",
+        "fallbackQuery": "Canada restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Montreal, Canada — dining"
+      },
+      {
+        "key": "bestman/cities/montreal-ca/bars",
+        "query": "Montreal Canada rooftop bar nightlife",
+        "fallbackQuery": "Canada bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Montreal, Canada — bars"
+      },
+      {
+        "key": "bestman/cities/new-york-ny/lodging",
+        "query": "New York NY vacation rental house pool",
+        "fallbackQuery": "New York skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/New York, NY — lodging"
+      },
+      {
+        "key": "bestman/cities/new-york-ny/dining",
+        "query": "New York NY steakhouse restaurant food",
+        "fallbackQuery": "New York restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/New York, NY — dining"
+      },
+      {
+        "key": "bestman/cities/new-york-ny/bars",
+        "query": "New York NY rooftop bar nightlife",
+        "fallbackQuery": "New York bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/New York, NY — bars"
+      },
+      {
+        "key": "bestman/cities/boston-ma/lodging",
+        "query": "Boston MA vacation rental house pool",
+        "fallbackQuery": "Boston skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Boston, MA — lodging"
+      },
+      {
+        "key": "bestman/cities/boston-ma/dining",
+        "query": "Boston MA steakhouse restaurant food",
+        "fallbackQuery": "Massachusetts restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Boston, MA — dining"
+      },
+      {
+        "key": "bestman/cities/boston-ma/bars",
+        "query": "Boston MA rooftop bar nightlife",
+        "fallbackQuery": "Massachusetts bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Boston, MA — bars"
+      },
+      {
+        "key": "bestman/cities/philadelphia-pa/lodging",
+        "query": "Philadelphia PA vacation rental house pool",
+        "fallbackQuery": "Philadelphia skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Philadelphia, PA — lodging"
+      },
+      {
+        "key": "bestman/cities/philadelphia-pa/dining",
+        "query": "Philadelphia PA steakhouse restaurant food",
+        "fallbackQuery": "Pennsylvania restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Philadelphia, PA — dining"
+      },
+      {
+        "key": "bestman/cities/philadelphia-pa/bars",
+        "query": "Philadelphia PA rooftop bar nightlife",
+        "fallbackQuery": "Pennsylvania bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Philadelphia, PA — bars"
+      },
+      {
+        "key": "bestman/cities/pittsburgh-pa/lodging",
+        "query": "Pittsburgh PA vacation rental house pool",
+        "fallbackQuery": "Pittsburgh skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Pittsburgh, PA — lodging"
+      },
+      {
+        "key": "bestman/cities/pittsburgh-pa/dining",
+        "query": "Pittsburgh PA steakhouse restaurant food",
+        "fallbackQuery": "Pennsylvania restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Pittsburgh, PA — dining"
+      },
+      {
+        "key": "bestman/cities/pittsburgh-pa/bars",
+        "query": "Pittsburgh PA rooftop bar nightlife",
+        "fallbackQuery": "Pennsylvania bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Pittsburgh, PA — bars"
+      },
+      {
+        "key": "bestman/cities/minneapolis-mn/lodging",
+        "query": "Minneapolis MN vacation rental house pool",
+        "fallbackQuery": "Minneapolis skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Minneapolis, MN — lodging"
+      },
+      {
+        "key": "bestman/cities/minneapolis-mn/dining",
+        "query": "Minneapolis MN steakhouse restaurant food",
+        "fallbackQuery": "Minnesota restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Minneapolis, MN — dining"
+      },
+      {
+        "key": "bestman/cities/minneapolis-mn/bars",
+        "query": "Minneapolis MN rooftop bar nightlife",
+        "fallbackQuery": "Minnesota bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Minneapolis, MN — bars"
+      },
+      {
+        "key": "bestman/cities/milwaukee-wi/lodging",
+        "query": "Milwaukee WI vacation rental house pool",
+        "fallbackQuery": "Milwaukee skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Milwaukee, WI — lodging"
+      },
+      {
+        "key": "bestman/cities/milwaukee-wi/dining",
+        "query": "Milwaukee WI steakhouse restaurant food",
+        "fallbackQuery": "Wisconsin restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Milwaukee, WI — dining"
+      },
+      {
+        "key": "bestman/cities/milwaukee-wi/bars",
+        "query": "Milwaukee WI rooftop bar nightlife",
+        "fallbackQuery": "Wisconsin bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Milwaukee, WI — bars"
+      },
+      {
+        "key": "bestman/cities/detroit-mi/lodging",
+        "query": "Detroit MI vacation rental house pool",
+        "fallbackQuery": "Detroit skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Detroit, MI — lodging"
+      },
+      {
+        "key": "bestman/cities/detroit-mi/dining",
+        "query": "Detroit MI steakhouse restaurant food",
+        "fallbackQuery": "Michigan restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Detroit, MI — dining"
+      },
+      {
+        "key": "bestman/cities/detroit-mi/bars",
+        "query": "Detroit MI rooftop bar nightlife",
+        "fallbackQuery": "Michigan bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Detroit, MI — bars"
+      },
+      {
+        "key": "bestman/cities/san-francisco-ca/lodging",
+        "query": "San Francisco CA vacation rental house pool",
+        "fallbackQuery": "San Francisco skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/San Francisco, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/san-francisco-ca/dining",
+        "query": "San Francisco CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/San Francisco, CA — dining"
+      },
+      {
+        "key": "bestman/cities/san-francisco-ca/bars",
+        "query": "San Francisco CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/San Francisco, CA — bars"
+      },
+      {
+        "key": "bestman/cities/los-angeles-ca/lodging",
+        "query": "Los Angeles CA vacation rental house pool",
+        "fallbackQuery": "Los Angeles skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Los Angeles, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/los-angeles-ca/dining",
+        "query": "Los Angeles CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Los Angeles, CA — dining"
+      },
+      {
+        "key": "bestman/cities/los-angeles-ca/bars",
+        "query": "Los Angeles CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Los Angeles, CA — bars"
+      },
+      {
+        "key": "bestman/cities/seattle-wa/lodging",
+        "query": "Seattle WA vacation rental house pool",
+        "fallbackQuery": "Seattle skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Seattle, WA — lodging"
+      },
+      {
+        "key": "bestman/cities/seattle-wa/dining",
+        "query": "Seattle WA steakhouse restaurant food",
+        "fallbackQuery": "Washington restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Seattle, WA — dining"
+      },
+      {
+        "key": "bestman/cities/seattle-wa/bars",
+        "query": "Seattle WA rooftop bar nightlife",
+        "fallbackQuery": "Washington bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Seattle, WA — bars"
+      },
+      {
+        "key": "bestman/cities/san-antonio-tx/lodging",
+        "query": "San Antonio TX vacation rental house pool",
+        "fallbackQuery": "San Antonio skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/San Antonio, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/san-antonio-tx/dining",
+        "query": "San Antonio TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/San Antonio, TX — dining"
+      },
+      {
+        "key": "bestman/cities/san-antonio-tx/bars",
+        "query": "San Antonio TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/San Antonio, TX — bars"
+      },
+      {
+        "key": "bestman/cities/memphis-tn/lodging",
+        "query": "Memphis TN vacation rental house pool",
+        "fallbackQuery": "Memphis skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Memphis, TN — lodging"
+      },
+      {
+        "key": "bestman/cities/memphis-tn/dining",
+        "query": "Memphis TN steakhouse restaurant food",
+        "fallbackQuery": "Tennessee restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Memphis, TN — dining"
+      },
+      {
+        "key": "bestman/cities/memphis-tn/bars",
+        "query": "Memphis TN rooftop bar nightlife",
+        "fallbackQuery": "Tennessee bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Memphis, TN — bars"
+      },
+      {
+        "key": "bestman/cities/louisville-ky/lodging",
+        "query": "Louisville KY vacation rental house pool",
+        "fallbackQuery": "Louisville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Louisville, KY — lodging"
+      },
+      {
+        "key": "bestman/cities/louisville-ky/dining",
+        "query": "Louisville KY steakhouse restaurant food",
+        "fallbackQuery": "Kentucky restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Louisville, KY — dining"
+      },
+      {
+        "key": "bestman/cities/louisville-ky/bars",
+        "query": "Louisville KY rooftop bar nightlife",
+        "fallbackQuery": "Kentucky bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Louisville, KY — bars"
+      },
+      {
+        "key": "bestman/cities/gatlinburg-tn/lodging",
+        "query": "Gatlinburg TN vacation rental house pool",
+        "fallbackQuery": "Gatlinburg skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Gatlinburg, TN — lodging"
+      },
+      {
+        "key": "bestman/cities/gatlinburg-tn/dining",
+        "query": "Gatlinburg TN steakhouse restaurant food",
+        "fallbackQuery": "Tennessee restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Gatlinburg, TN — dining"
+      },
+      {
+        "key": "bestman/cities/gatlinburg-tn/bars",
+        "query": "Gatlinburg TN rooftop bar nightlife",
+        "fallbackQuery": "Tennessee bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Gatlinburg, TN — bars"
+      },
+      {
+        "key": "bestman/cities/atlantic-city-nj/lodging",
+        "query": "Atlantic City NJ vacation rental house pool",
+        "fallbackQuery": "Atlantic City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Atlantic City, NJ — lodging"
+      },
+      {
+        "key": "bestman/cities/atlantic-city-nj/dining",
+        "query": "Atlantic City NJ steakhouse restaurant food",
+        "fallbackQuery": "New Jersey restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Atlantic City, NJ — dining"
+      },
+      {
+        "key": "bestman/cities/atlantic-city-nj/bars",
+        "query": "Atlantic City NJ rooftop bar nightlife",
+        "fallbackQuery": "New Jersey bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Atlantic City, NJ — bars"
+      },
+      {
+        "key": "bestman/cities/st-augustine-fl/lodging",
+        "query": "St. Augustine FL vacation rental house pool",
+        "fallbackQuery": "St. Augustine skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/St. Augustine, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/st-augustine-fl/dining",
+        "query": "St. Augustine FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/St. Augustine, FL — dining"
+      },
+      {
+        "key": "bestman/cities/st-augustine-fl/bars",
+        "query": "St. Augustine FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/St. Augustine, FL — bars"
+      },
+      {
+        "key": "bestman/cities/lake-of-the-ozarks-mo/lodging",
+        "query": "Lake of the Ozarks MO vacation rental house pool",
+        "fallbackQuery": "Lake of the Ozarks skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Lake of the Ozarks, MO — lodging"
+      },
+      {
+        "key": "bestman/cities/lake-of-the-ozarks-mo/dining",
+        "query": "Lake of the Ozarks MO steakhouse restaurant food",
+        "fallbackQuery": "Missouri restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Lake of the Ozarks, MO — dining"
+      },
+      {
+        "key": "bestman/cities/lake-of-the-ozarks-mo/bars",
+        "query": "Lake of the Ozarks MO rooftop bar nightlife",
+        "fallbackQuery": "Missouri bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Lake of the Ozarks, MO — bars"
+      },
+      {
+        "key": "bestman/cities/honolulu-hi/lodging",
+        "query": "Honolulu HI vacation rental house pool",
+        "fallbackQuery": "Honolulu skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Honolulu, HI — lodging"
+      },
+      {
+        "key": "bestman/cities/honolulu-hi/dining",
+        "query": "Honolulu HI steakhouse restaurant food",
+        "fallbackQuery": "Hawaii restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Honolulu, HI — dining"
+      },
+      {
+        "key": "bestman/cities/honolulu-hi/bars",
+        "query": "Honolulu HI rooftop bar nightlife",
+        "fallbackQuery": "Hawaii bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Honolulu, HI — bars"
+      },
+      {
+        "key": "bestman/cities/raleigh-durham-nc/lodging",
+        "query": "Raleigh-Durham NC vacation rental house pool",
+        "fallbackQuery": "Raleigh-Durham skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Raleigh-Durham, NC — lodging"
+      },
+      {
+        "key": "bestman/cities/raleigh-durham-nc/dining",
+        "query": "Raleigh-Durham NC steakhouse restaurant food",
+        "fallbackQuery": "North Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Raleigh-Durham, NC — dining"
+      },
+      {
+        "key": "bestman/cities/raleigh-durham-nc/bars",
+        "query": "Raleigh-Durham NC rooftop bar nightlife",
+        "fallbackQuery": "North Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Raleigh-Durham, NC — bars"
+      },
+      {
+        "key": "bestman/cities/jacksonville-fl/lodging",
+        "query": "Jacksonville FL vacation rental house pool",
+        "fallbackQuery": "Jacksonville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Jacksonville, FL — lodging"
+      },
+      {
+        "key": "bestman/cities/jacksonville-fl/dining",
+        "query": "Jacksonville FL steakhouse restaurant food",
+        "fallbackQuery": "Florida restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Jacksonville, FL — dining"
+      },
+      {
+        "key": "bestman/cities/jacksonville-fl/bars",
+        "query": "Jacksonville FL rooftop bar nightlife",
+        "fallbackQuery": "Florida bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Jacksonville, FL — bars"
+      },
+      {
+        "key": "bestman/cities/outer-banks-nc/lodging",
+        "query": "Outer Banks NC vacation rental house pool",
+        "fallbackQuery": "Outer Banks skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Outer Banks, NC — lodging"
+      },
+      {
+        "key": "bestman/cities/outer-banks-nc/dining",
+        "query": "Outer Banks NC steakhouse restaurant food",
+        "fallbackQuery": "North Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Outer Banks, NC — dining"
+      },
+      {
+        "key": "bestman/cities/outer-banks-nc/bars",
+        "query": "Outer Banks NC rooftop bar nightlife",
+        "fallbackQuery": "North Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Outer Banks, NC — bars"
+      },
+      {
+        "key": "bestman/cities/aspen-co/lodging",
+        "query": "Aspen CO vacation rental house pool",
+        "fallbackQuery": "Aspen skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Aspen, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/aspen-co/dining",
+        "query": "Aspen CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Aspen, CO — dining"
+      },
+      {
+        "key": "bestman/cities/aspen-co/bars",
+        "query": "Aspen CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Aspen, CO — bars"
+      },
+      {
+        "key": "bestman/cities/moab-ut/lodging",
+        "query": "Moab UT vacation rental house pool",
+        "fallbackQuery": "Moab skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Moab, UT — lodging"
+      },
+      {
+        "key": "bestman/cities/moab-ut/dining",
+        "query": "Moab UT steakhouse restaurant food",
+        "fallbackQuery": "Utah restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Moab, UT — dining"
+      },
+      {
+        "key": "bestman/cities/moab-ut/bars",
+        "query": "Moab UT rooftop bar nightlife",
+        "fallbackQuery": "Utah bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Moab, UT — bars"
+      },
+      {
+        "key": "bestman/cities/fredericksburg-tx/lodging",
+        "query": "Fredericksburg TX vacation rental house pool",
+        "fallbackQuery": "Fredericksburg skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Fredericksburg, TX — lodging"
+      },
+      {
+        "key": "bestman/cities/fredericksburg-tx/dining",
+        "query": "Fredericksburg TX steakhouse restaurant food",
+        "fallbackQuery": "Texas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Fredericksburg, TX — dining"
+      },
+      {
+        "key": "bestman/cities/fredericksburg-tx/bars",
+        "query": "Fredericksburg TX rooftop bar nightlife",
+        "fallbackQuery": "Texas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Fredericksburg, TX — bars"
+      },
+      {
+        "key": "bestman/cities/oklahoma-city-ok/lodging",
+        "query": "Oklahoma City OK vacation rental house pool",
+        "fallbackQuery": "Oklahoma City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Oklahoma City, OK — lodging"
+      },
+      {
+        "key": "bestman/cities/oklahoma-city-ok/dining",
+        "query": "Oklahoma City OK steakhouse restaurant food",
+        "fallbackQuery": "Oklahoma restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Oklahoma City, OK — dining"
+      },
+      {
+        "key": "bestman/cities/oklahoma-city-ok/bars",
+        "query": "Oklahoma City OK rooftop bar nightlife",
+        "fallbackQuery": "Oklahoma bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Oklahoma City, OK — bars"
+      },
+      {
+        "key": "bestman/cities/jackson-hole-wy/lodging",
+        "query": "Jackson Hole WY vacation rental house pool",
+        "fallbackQuery": "Jackson Hole skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Jackson Hole, WY — lodging"
+      },
+      {
+        "key": "bestman/cities/jackson-hole-wy/dining",
+        "query": "Jackson Hole WY steakhouse restaurant food",
+        "fallbackQuery": "Wyoming restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Jackson Hole, WY — dining"
+      },
+      {
+        "key": "bestman/cities/jackson-hole-wy/bars",
+        "query": "Jackson Hole WY rooftop bar nightlife",
+        "fallbackQuery": "Wyoming bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Jackson Hole, WY — bars"
+      },
+      {
+        "key": "bestman/cities/washington-dc/lodging",
+        "query": "Washington DC vacation rental house pool",
+        "fallbackQuery": "Washington skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Washington, DC — lodging"
+      },
+      {
+        "key": "bestman/cities/washington-dc/dining",
+        "query": "Washington DC steakhouse restaurant food",
+        "fallbackQuery": "DC restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Washington, DC — dining"
+      },
+      {
+        "key": "bestman/cities/washington-dc/bars",
+        "query": "Washington DC rooftop bar nightlife",
+        "fallbackQuery": "DC bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Washington, DC — bars"
+      },
+      {
+        "key": "bestman/cities/breckenridge-co/lodging",
+        "query": "Breckenridge CO vacation rental house pool",
+        "fallbackQuery": "Breckenridge skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Breckenridge, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/breckenridge-co/dining",
+        "query": "Breckenridge CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Breckenridge, CO — dining"
+      },
+      {
+        "key": "bestman/cities/breckenridge-co/bars",
+        "query": "Breckenridge CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Breckenridge, CO — bars"
+      },
+      {
+        "key": "bestman/cities/steamboat-springs-co/lodging",
+        "query": "Steamboat Springs CO vacation rental house pool",
+        "fallbackQuery": "Steamboat Springs skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Steamboat Springs, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/steamboat-springs-co/dining",
+        "query": "Steamboat Springs CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Steamboat Springs, CO — dining"
+      },
+      {
+        "key": "bestman/cities/steamboat-springs-co/bars",
+        "query": "Steamboat Springs CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Steamboat Springs, CO — bars"
+      },
+      {
+        "key": "bestman/cities/telluride-co/lodging",
+        "query": "Telluride CO vacation rental house pool",
+        "fallbackQuery": "Telluride skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Telluride, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/telluride-co/dining",
+        "query": "Telluride CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Telluride, CO — dining"
+      },
+      {
+        "key": "bestman/cities/telluride-co/bars",
+        "query": "Telluride CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Telluride, CO — bars"
+      },
+      {
+        "key": "bestman/cities/big-sky-mt/lodging",
+        "query": "Big Sky MT vacation rental house pool",
+        "fallbackQuery": "Big Sky skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Big Sky, MT — lodging"
+      },
+      {
+        "key": "bestman/cities/big-sky-mt/dining",
+        "query": "Big Sky MT steakhouse restaurant food",
+        "fallbackQuery": "Montana restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Big Sky, MT — dining"
+      },
+      {
+        "key": "bestman/cities/big-sky-mt/bars",
+        "query": "Big Sky MT rooftop bar nightlife",
+        "fallbackQuery": "Montana bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Big Sky, MT — bars"
+      },
+      {
+        "key": "bestman/cities/bozeman-mt/lodging",
+        "query": "Bozeman MT vacation rental house pool",
+        "fallbackQuery": "Bozeman skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Bozeman, MT — lodging"
+      },
+      {
+        "key": "bestman/cities/bozeman-mt/dining",
+        "query": "Bozeman MT steakhouse restaurant food",
+        "fallbackQuery": "Montana restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Bozeman, MT — dining"
+      },
+      {
+        "key": "bestman/cities/bozeman-mt/bars",
+        "query": "Bozeman MT rooftop bar nightlife",
+        "fallbackQuery": "Montana bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Bozeman, MT — bars"
+      },
+      {
+        "key": "bestman/cities/durango-co/lodging",
+        "query": "Durango CO vacation rental house pool",
+        "fallbackQuery": "Durango skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Durango, CO — lodging"
+      },
+      {
+        "key": "bestman/cities/durango-co/dining",
+        "query": "Durango CO steakhouse restaurant food",
+        "fallbackQuery": "Colorado restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Durango, CO — dining"
+      },
+      {
+        "key": "bestman/cities/durango-co/bars",
+        "query": "Durango CO rooftop bar nightlife",
+        "fallbackQuery": "Colorado bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Durango, CO — bars"
+      },
+      {
+        "key": "bestman/cities/whitefish-mt/lodging",
+        "query": "Whitefish MT vacation rental house pool",
+        "fallbackQuery": "Whitefish skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Whitefish, MT — lodging"
+      },
+      {
+        "key": "bestman/cities/whitefish-mt/dining",
+        "query": "Whitefish MT steakhouse restaurant food",
+        "fallbackQuery": "Montana restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Whitefish, MT — dining"
+      },
+      {
+        "key": "bestman/cities/whitefish-mt/bars",
+        "query": "Whitefish MT rooftop bar nightlife",
+        "fallbackQuery": "Montana bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Whitefish, MT — bars"
+      },
+      {
+        "key": "bestman/cities/sun-valley-id/lodging",
+        "query": "Sun Valley ID vacation rental house pool",
+        "fallbackQuery": "Sun Valley skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Sun Valley, ID — lodging"
+      },
+      {
+        "key": "bestman/cities/sun-valley-id/dining",
+        "query": "Sun Valley ID steakhouse restaurant food",
+        "fallbackQuery": "Idaho restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Sun Valley, ID — dining"
+      },
+      {
+        "key": "bestman/cities/sun-valley-id/bars",
+        "query": "Sun Valley ID rooftop bar nightlife",
+        "fallbackQuery": "Idaho bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Sun Valley, ID — bars"
+      },
+      {
+        "key": "bestman/cities/spokane-wa/lodging",
+        "query": "Spokane WA vacation rental house pool",
+        "fallbackQuery": "Spokane skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Spokane, WA — lodging"
+      },
+      {
+        "key": "bestman/cities/spokane-wa/dining",
+        "query": "Spokane WA steakhouse restaurant food",
+        "fallbackQuery": "Washington restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Spokane, WA — dining"
+      },
+      {
+        "key": "bestman/cities/spokane-wa/bars",
+        "query": "Spokane WA rooftop bar nightlife",
+        "fallbackQuery": "Washington bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Spokane, WA — bars"
+      },
+      {
+        "key": "bestman/cities/eugene-or/lodging",
+        "query": "Eugene OR vacation rental house pool",
+        "fallbackQuery": "Eugene skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Eugene, OR — lodging"
+      },
+      {
+        "key": "bestman/cities/eugene-or/dining",
+        "query": "Eugene OR steakhouse restaurant food",
+        "fallbackQuery": "Oregon restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Eugene, OR — dining"
+      },
+      {
+        "key": "bestman/cities/eugene-or/bars",
+        "query": "Eugene OR rooftop bar nightlife",
+        "fallbackQuery": "Oregon bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Eugene, OR — bars"
+      },
+      {
+        "key": "bestman/cities/leavenworth-wa/lodging",
+        "query": "Leavenworth WA vacation rental house pool",
+        "fallbackQuery": "Leavenworth skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Leavenworth, WA — lodging"
+      },
+      {
+        "key": "bestman/cities/leavenworth-wa/dining",
+        "query": "Leavenworth WA steakhouse restaurant food",
+        "fallbackQuery": "Washington restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Leavenworth, WA — dining"
+      },
+      {
+        "key": "bestman/cities/leavenworth-wa/bars",
+        "query": "Leavenworth WA rooftop bar nightlife",
+        "fallbackQuery": "Washington bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Leavenworth, WA — bars"
+      },
+      {
+        "key": "bestman/cities/cannon-beach-or/lodging",
+        "query": "Cannon Beach OR vacation rental house pool",
+        "fallbackQuery": "Cannon Beach skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cannon Beach, OR — lodging"
+      },
+      {
+        "key": "bestman/cities/cannon-beach-or/dining",
+        "query": "Cannon Beach OR steakhouse restaurant food",
+        "fallbackQuery": "Oregon restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cannon Beach, OR — dining"
+      },
+      {
+        "key": "bestman/cities/cannon-beach-or/bars",
+        "query": "Cannon Beach OR rooftop bar nightlife",
+        "fallbackQuery": "Oregon bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cannon Beach, OR — bars"
+      },
+      {
+        "key": "bestman/cities/walla-walla-wa/lodging",
+        "query": "Walla Walla WA vacation rental house pool",
+        "fallbackQuery": "Walla Walla skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Walla Walla, WA — lodging"
+      },
+      {
+        "key": "bestman/cities/walla-walla-wa/dining",
+        "query": "Walla Walla WA steakhouse restaurant food",
+        "fallbackQuery": "Washington restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Walla Walla, WA — dining"
+      },
+      {
+        "key": "bestman/cities/walla-walla-wa/bars",
+        "query": "Walla Walla WA rooftop bar nightlife",
+        "fallbackQuery": "Washington bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Walla Walla, WA — bars"
+      },
+      {
+        "key": "bestman/cities/hood-river-or/lodging",
+        "query": "Hood River OR vacation rental house pool",
+        "fallbackQuery": "Hood River skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Hood River, OR — lodging"
+      },
+      {
+        "key": "bestman/cities/hood-river-or/dining",
+        "query": "Hood River OR steakhouse restaurant food",
+        "fallbackQuery": "Oregon restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Hood River, OR — dining"
+      },
+      {
+        "key": "bestman/cities/hood-river-or/bars",
+        "query": "Hood River OR rooftop bar nightlife",
+        "fallbackQuery": "Oregon bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Hood River, OR — bars"
+      },
+      {
+        "key": "bestman/cities/kansas-city-mo/lodging",
+        "query": "Kansas City MO vacation rental house pool",
+        "fallbackQuery": "Kansas City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Kansas City, MO — lodging"
+      },
+      {
+        "key": "bestman/cities/kansas-city-mo/dining",
+        "query": "Kansas City MO steakhouse restaurant food",
+        "fallbackQuery": "Missouri restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Kansas City, MO — dining"
+      },
+      {
+        "key": "bestman/cities/kansas-city-mo/bars",
+        "query": "Kansas City MO rooftop bar nightlife",
+        "fallbackQuery": "Missouri bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Kansas City, MO — bars"
+      },
+      {
+        "key": "bestman/cities/indianapolis-in/lodging",
+        "query": "Indianapolis IN vacation rental house pool",
+        "fallbackQuery": "Indianapolis skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Indianapolis, IN — lodging"
+      },
+      {
+        "key": "bestman/cities/indianapolis-in/dining",
+        "query": "Indianapolis IN steakhouse restaurant food",
+        "fallbackQuery": "Indiana restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Indianapolis, IN — dining"
+      },
+      {
+        "key": "bestman/cities/indianapolis-in/bars",
+        "query": "Indianapolis IN rooftop bar nightlife",
+        "fallbackQuery": "Indiana bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Indianapolis, IN — bars"
+      },
+      {
+        "key": "bestman/cities/st-louis-mo/lodging",
+        "query": "St. Louis MO vacation rental house pool",
+        "fallbackQuery": "St. Louis skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/St. Louis, MO — lodging"
+      },
+      {
+        "key": "bestman/cities/st-louis-mo/dining",
+        "query": "St. Louis MO steakhouse restaurant food",
+        "fallbackQuery": "Missouri restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/St. Louis, MO — dining"
+      },
+      {
+        "key": "bestman/cities/st-louis-mo/bars",
+        "query": "St. Louis MO rooftop bar nightlife",
+        "fallbackQuery": "Missouri bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/St. Louis, MO — bars"
+      },
+      {
+        "key": "bestman/cities/cincinnati-oh/lodging",
+        "query": "Cincinnati OH vacation rental house pool",
+        "fallbackQuery": "Cincinnati skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cincinnati, OH — lodging"
+      },
+      {
+        "key": "bestman/cities/cincinnati-oh/dining",
+        "query": "Cincinnati OH steakhouse restaurant food",
+        "fallbackQuery": "Ohio restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cincinnati, OH — dining"
+      },
+      {
+        "key": "bestman/cities/cincinnati-oh/bars",
+        "query": "Cincinnati OH rooftop bar nightlife",
+        "fallbackQuery": "Ohio bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cincinnati, OH — bars"
+      },
+      {
+        "key": "bestman/cities/cleveland-oh/lodging",
+        "query": "Cleveland OH vacation rental house pool",
+        "fallbackQuery": "Cleveland skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cleveland, OH — lodging"
+      },
+      {
+        "key": "bestman/cities/cleveland-oh/dining",
+        "query": "Cleveland OH steakhouse restaurant food",
+        "fallbackQuery": "Ohio restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cleveland, OH — dining"
+      },
+      {
+        "key": "bestman/cities/cleveland-oh/bars",
+        "query": "Cleveland OH rooftop bar nightlife",
+        "fallbackQuery": "Ohio bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cleveland, OH — bars"
+      },
+      {
+        "key": "bestman/cities/columbus-oh/lodging",
+        "query": "Columbus OH vacation rental house pool",
+        "fallbackQuery": "Columbus skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Columbus, OH — lodging"
+      },
+      {
+        "key": "bestman/cities/columbus-oh/dining",
+        "query": "Columbus OH steakhouse restaurant food",
+        "fallbackQuery": "Ohio restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Columbus, OH — dining"
+      },
+      {
+        "key": "bestman/cities/columbus-oh/bars",
+        "query": "Columbus OH rooftop bar nightlife",
+        "fallbackQuery": "Ohio bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Columbus, OH — bars"
+      },
+      {
+        "key": "bestman/cities/baltimore-md/lodging",
+        "query": "Baltimore MD vacation rental house pool",
+        "fallbackQuery": "Baltimore skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Baltimore, MD — lodging"
+      },
+      {
+        "key": "bestman/cities/baltimore-md/dining",
+        "query": "Baltimore MD steakhouse restaurant food",
+        "fallbackQuery": "Maryland restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Baltimore, MD — dining"
+      },
+      {
+        "key": "bestman/cities/baltimore-md/bars",
+        "query": "Baltimore MD rooftop bar nightlife",
+        "fallbackQuery": "Maryland bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Baltimore, MD — bars"
+      },
+      {
+        "key": "bestman/cities/providence-ri/lodging",
+        "query": "Providence RI vacation rental house pool",
+        "fallbackQuery": "Providence skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Providence, RI — lodging"
+      },
+      {
+        "key": "bestman/cities/providence-ri/dining",
+        "query": "Providence RI steakhouse restaurant food",
+        "fallbackQuery": "Rhode Island restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Providence, RI — dining"
+      },
+      {
+        "key": "bestman/cities/providence-ri/bars",
+        "query": "Providence RI rooftop bar nightlife",
+        "fallbackQuery": "Rhode Island bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Providence, RI — bars"
+      },
+      {
+        "key": "bestman/cities/portland-me/lodging",
+        "query": "Portland ME vacation rental house pool",
+        "fallbackQuery": "Portland skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, ME — lodging"
+      },
+      {
+        "key": "bestman/cities/portland-me/dining",
+        "query": "Portland ME steakhouse restaurant food",
+        "fallbackQuery": "Maine restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, ME — dining"
+      },
+      {
+        "key": "bestman/cities/portland-me/bars",
+        "query": "Portland ME rooftop bar nightlife",
+        "fallbackQuery": "Maine bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Portland, ME — bars"
+      },
+      {
+        "key": "bestman/cities/montauk-ny/lodging",
+        "query": "Montauk NY vacation rental house pool",
+        "fallbackQuery": "Montauk skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Montauk, NY — lodging"
+      },
+      {
+        "key": "bestman/cities/montauk-ny/dining",
+        "query": "Montauk NY steakhouse restaurant food",
+        "fallbackQuery": "New York restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Montauk, NY — dining"
+      },
+      {
+        "key": "bestman/cities/montauk-ny/bars",
+        "query": "Montauk NY rooftop bar nightlife",
+        "fallbackQuery": "New York bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Montauk, NY — bars"
+      }
+    ],
+    "moh": [
+      {
+        "key": "moh/cities/nashville-tn",
+        "query": "Nashville TN rooftop bachelorette glam",
+        "fallbackQuery": "Tennessee skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Nashville, TN"
+      },
+      {
+        "key": "moh/cities/scottsdale-az",
+        "query": "Scottsdale AZ rooftop bachelorette glam",
+        "fallbackQuery": "Arizona skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Scottsdale, AZ"
+      },
+      {
+        "key": "moh/cities/miami-fl",
+        "query": "Miami FL rooftop bachelorette glam",
+        "fallbackQuery": "Florida skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Miami, FL"
+      },
+      {
+        "key": "moh/cities/new-orleans-la",
+        "query": "New Orleans LA rooftop bachelorette glam",
+        "fallbackQuery": "Louisiana skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/New Orleans, LA"
+      },
+      {
+        "key": "moh/cities/charleston-sc",
+        "query": "Charleston SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Charleston, SC"
+      },
+      {
+        "key": "moh/cities/savannah-ga",
+        "query": "Savannah GA rooftop bachelorette glam",
+        "fallbackQuery": "Georgia skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Savannah, GA"
+      },
+      {
+        "key": "moh/cities/austin-tx",
+        "query": "Austin TX rooftop bachelorette glam",
+        "fallbackQuery": "Texas skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Austin, TX"
+      },
+      {
+        "key": "moh/cities/asheville-nc",
+        "query": "Asheville NC rooftop bachelorette glam",
+        "fallbackQuery": "North Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Asheville, NC"
+      },
+      {
+        "key": "moh/cities/sedona-az",
+        "query": "Sedona AZ rooftop bachelorette glam",
+        "fallbackQuery": "Arizona skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Sedona, AZ"
+      },
+      {
+        "key": "moh/cities/palm-springs-ca",
+        "query": "Palm Springs CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Palm Springs, CA"
+      },
+      {
+        "key": "moh/cities/new-york-ny",
+        "query": "New York City NY rooftop bachelorette glam",
+        "fallbackQuery": "New York skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/New York City, NY"
+      },
+      {
+        "key": "moh/cities/key-west-fl",
+        "query": "Key West FL rooftop bachelorette glam",
+        "fallbackQuery": "Florida skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Key West, FL"
+      },
+      {
+        "key": "moh/cities/napa-valley-ca",
+        "query": "Napa Valley CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Napa Valley, CA"
+      },
+      {
+        "key": "moh/cities/bozeman-mt",
+        "query": "Bozeman MT rooftop bachelorette glam",
+        "fallbackQuery": "Montana skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Bozeman, MT"
+      },
+      {
+        "key": "moh/cities/las-vegas-nv",
+        "query": "Las Vegas NV rooftop bachelorette glam",
+        "fallbackQuery": "Nevada skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Las Vegas, NV"
+      },
+      {
+        "key": "moh/cities/chicago-il",
+        "query": "Chicago IL rooftop bachelorette glam",
+        "fallbackQuery": "Illinois skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Chicago, IL"
+      },
+      {
+        "key": "moh/cities/washington-dc",
+        "query": "Washington DC rooftop bachelorette glam",
+        "fallbackQuery": "DC skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Washington, DC"
+      },
+      {
+        "key": "moh/cities/philadelphia-pa",
+        "query": "Philadelphia PA rooftop bachelorette glam",
+        "fallbackQuery": "Pennsylvania skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Philadelphia, PA"
+      },
+      {
+        "key": "moh/cities/atlanta-ga",
+        "query": "Atlanta GA rooftop bachelorette glam",
+        "fallbackQuery": "Georgia skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Atlanta, GA"
+      },
+      {
+        "key": "moh/cities/dallas-tx",
+        "query": "Dallas TX rooftop bachelorette glam",
+        "fallbackQuery": "Texas skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Dallas, TX"
+      },
+      {
+        "key": "moh/cities/los-angeles-ca",
+        "query": "Los Angeles CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Los Angeles, CA"
+      },
+      {
+        "key": "moh/cities/san-diego-ca",
+        "query": "San Diego CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/San Diego, CA"
+      },
+      {
+        "key": "moh/cities/denver-co",
+        "query": "Denver CO rooftop bachelorette glam",
+        "fallbackQuery": "Colorado skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Denver, CO"
+      },
+      {
+        "key": "moh/cities/portland-or",
+        "query": "Portland OR rooftop bachelorette glam",
+        "fallbackQuery": "Oregon skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Portland, OR"
+      },
+      {
+        "key": "moh/cities/fort-worth-tx",
+        "query": "Fort Worth TX rooftop bachelorette glam",
+        "fallbackQuery": "Texas skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Fort Worth, TX"
+      },
+      {
+        "key": "moh/cities/santa-fe-nm",
+        "query": "Santa Fe NM rooftop bachelorette glam",
+        "fallbackQuery": "New Mexico skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Santa Fe, NM"
+      },
+      {
+        "key": "moh/cities/hamptons-ny",
+        "query": "The Hamptons NY rooftop bachelorette glam",
+        "fallbackQuery": "New York skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/The Hamptons, NY"
+      },
+      {
+        "key": "moh/cities/nantucket-ma",
+        "query": "Nantucket MA rooftop bachelorette glam",
+        "fallbackQuery": "Massachusetts skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Nantucket, MA"
+      },
+      {
+        "key": "moh/cities/marthas-vineyard-ma",
+        "query": "Martha's Vineyard MA rooftop bachelorette glam",
+        "fallbackQuery": "Massachusetts skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Martha's Vineyard, MA"
+      },
+      {
+        "key": "moh/cities/newport-ri",
+        "query": "Newport RI rooftop bachelorette glam",
+        "fallbackQuery": "Rhode Island skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Newport, RI"
+      },
+      {
+        "key": "moh/cities/cape-cod-ma",
+        "query": "Cape Cod MA rooftop bachelorette glam",
+        "fallbackQuery": "Massachusetts skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Cape Cod, MA"
+      },
+      {
+        "key": "moh/cities/portland-me",
+        "query": "Portland ME rooftop bachelorette glam",
+        "fallbackQuery": "Maine skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Portland, ME"
+      },
+      {
+        "key": "moh/cities/hilton-head-sc",
+        "query": "Hilton Head SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Hilton Head, SC"
+      },
+      {
+        "key": "moh/cities/kiawah-island-sc",
+        "query": "Kiawah Island SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Kiawah Island, SC"
+      },
+      {
+        "key": "moh/cities/myrtle-beach-sc",
+        "query": "Myrtle Beach SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Myrtle Beach, SC"
+      },
+      {
+        "key": "moh/cities/destin-fl",
+        "query": "Destin FL rooftop bachelorette glam",
+        "fallbackQuery": "Florida skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Destin, FL"
+      },
+      {
+        "key": "moh/cities/santa-barbara-ca",
+        "query": "Santa Barbara CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Santa Barbara, CA"
+      },
+      {
+        "key": "moh/cities/hudson-valley-ny",
+        "query": "Hudson Valley NY rooftop bachelorette glam",
+        "fallbackQuery": "New York skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Hudson Valley, NY"
+      },
+      {
+        "key": "moh/cities/tampa-fl",
+        "query": "Tampa FL rooftop bachelorette glam",
+        "fallbackQuery": "Florida skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Tampa, FL"
+      },
+      {
+        "key": "moh/cities/fort-lauderdale-fl",
+        "query": "Fort Lauderdale FL rooftop bachelorette glam",
+        "fallbackQuery": "Florida skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Fort Lauderdale, FL"
+      },
+      {
+        "key": "moh/cities/sonoma-ca",
+        "query": "Sonoma CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Sonoma, CA"
+      },
+      {
+        "key": "moh/cities/willamette-valley-or",
+        "query": "Willamette Valley OR rooftop bachelorette glam",
+        "fallbackQuery": "Oregon skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Willamette Valley, OR"
+      },
+      {
+        "key": "moh/cities/finger-lakes-ny",
+        "query": "Finger Lakes NY rooftop bachelorette glam",
+        "fallbackQuery": "New York skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Finger Lakes, NY"
+      },
+      {
+        "key": "moh/cities/carmel-ca",
+        "query": "Carmel-by-the-Sea CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Carmel-by-the-Sea, CA"
+      },
+      {
+        "key": "moh/cities/park-city-ut",
+        "query": "Park City UT rooftop bachelorette glam",
+        "fallbackQuery": "Utah skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Park City, UT"
+      },
+      {
+        "key": "moh/cities/jackson-hole-wy",
+        "query": "Jackson Hole WY rooftop bachelorette glam",
+        "fallbackQuery": "Wyoming skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Jackson Hole, WY"
+      },
+      {
+        "key": "moh/cities/lake-tahoe-ca",
+        "query": "Lake Tahoe CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Lake Tahoe, CA"
+      },
+      {
+        "key": "moh/cities/maui-hi",
+        "query": "Maui HI rooftop bachelorette glam",
+        "fallbackQuery": "Hawaii skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Maui, HI"
+      },
+      {
+        "key": "moh/cities/oahu-hi",
+        "query": "Oahu HI rooftop bachelorette glam",
+        "fallbackQuery": "Hawaii skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Oahu, HI"
+      },
+      {
+        "key": "moh/cities/san-juan-pr",
+        "query": "San Juan PR rooftop bachelorette glam",
+        "fallbackQuery": "PR skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/San Juan, PR"
+      }
+    ],
+    "tdf": [
+      {
+        "key": "tdf/destinations/scottsdale-az",
+        "query": "Scottsdale AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Scottsdale, AZ"
+      },
+      {
+        "key": "tdf/destinations/sedona-az",
+        "query": "Sedona AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Sedona, AZ"
+      },
+      {
+        "key": "tdf/destinations/tucson-az",
+        "query": "Tucson AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Tucson, AZ"
+      },
+      {
+        "key": "tdf/destinations/st-george-ut",
+        "query": "St. George UT landscape",
+        "fallbackQuery": "Utah landscape",
+        "addedBy": "tdf",
+        "label": "St. George, UT"
+      },
+      {
+        "key": "tdf/destinations/mesquite-nv",
+        "query": "Mesquite NV landscape",
+        "fallbackQuery": "Nevada landscape",
+        "addedBy": "tdf",
+        "label": "Mesquite, NV"
+      },
+      {
+        "key": "tdf/destinations/santa-fe-nm",
+        "query": "Santa Fe NM landscape",
+        "fallbackQuery": "New Mexico landscape",
+        "addedBy": "tdf",
+        "label": "Santa Fe, NM"
+      },
+      {
+        "key": "tdf/destinations/flagstaff-az",
+        "query": "Flagstaff AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Flagstaff, AZ"
+      },
+      {
+        "key": "tdf/destinations/las-vegas-nv",
+        "query": "Las Vegas NV landscape",
+        "fallbackQuery": "Nevada landscape",
+        "addedBy": "tdf",
+        "label": "Las Vegas, NV"
+      },
+      {
+        "key": "tdf/destinations/reno-nv",
+        "query": "Reno NV landscape",
+        "fallbackQuery": "Nevada landscape",
+        "addedBy": "tdf",
+        "label": "Reno, NV"
+      },
+      {
+        "key": "tdf/destinations/phoenix-mesa-az",
+        "query": "Phoenix / Mesa AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Phoenix / Mesa, AZ"
+      },
+      {
+        "key": "tdf/destinations/albuquerque-nm",
+        "query": "Albuquerque NM landscape",
+        "fallbackQuery": "New Mexico landscape",
+        "addedBy": "tdf",
+        "label": "Albuquerque, NM"
+      },
+      {
+        "key": "tdf/destinations/lake-havasu-city-az",
+        "query": "Lake Havasu City AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Lake Havasu City, AZ"
+      },
+      {
+        "key": "tdf/destinations/laughlin-nv",
+        "query": "Laughlin NV landscape",
+        "fallbackQuery": "Nevada landscape",
+        "addedBy": "tdf",
+        "label": "Laughlin, NV"
+      },
+      {
+        "key": "tdf/destinations/payson-az",
+        "query": "Payson AZ landscape",
+        "fallbackQuery": "Arizona landscape",
+        "addedBy": "tdf",
+        "label": "Payson, AZ"
+      },
+      {
+        "key": "tdf/destinations/bend-or",
+        "query": "Bend OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Bend, OR"
+      },
+      {
+        "key": "tdf/destinations/bandon-or",
+        "query": "Bandon OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Bandon, OR"
+      },
+      {
+        "key": "tdf/destinations/sunriver-or",
+        "query": "Sunriver OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Sunriver, OR"
+      },
+      {
+        "key": "tdf/destinations/coeur-dalene-id",
+        "query": "Coeur d'Alene ID landscape",
+        "fallbackQuery": "Idaho landscape",
+        "addedBy": "tdf",
+        "label": "Coeur d'Alene, ID"
+      },
+      {
+        "key": "tdf/destinations/boise-id",
+        "query": "Boise ID landscape",
+        "fallbackQuery": "Idaho landscape",
+        "addedBy": "tdf",
+        "label": "Boise, ID"
+      },
+      {
+        "key": "tdf/destinations/hood-river-or",
+        "query": "Hood River OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Hood River, OR"
+      },
+      {
+        "key": "tdf/destinations/portland-or",
+        "query": "Portland OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Portland, OR"
+      },
+      {
+        "key": "tdf/destinations/seattle-wa",
+        "query": "Seattle WA landscape",
+        "fallbackQuery": "Washington landscape",
+        "addedBy": "tdf",
+        "label": "Seattle, WA"
+      },
+      {
+        "key": "tdf/destinations/spokane-wa",
+        "query": "Spokane WA landscape",
+        "fallbackQuery": "Washington landscape",
+        "addedBy": "tdf",
+        "label": "Spokane, WA"
+      },
+      {
+        "key": "tdf/destinations/sun-valley-id",
+        "query": "Sun Valley / Ketchum ID landscape",
+        "fallbackQuery": "Idaho landscape",
+        "addedBy": "tdf",
+        "label": "Sun Valley / Ketchum, ID"
+      },
+      {
+        "key": "tdf/destinations/sandpoint-id",
+        "query": "Sandpoint ID landscape",
+        "fallbackQuery": "Idaho landscape",
+        "addedBy": "tdf",
+        "label": "Sandpoint, ID"
+      },
+      {
+        "key": "tdf/destinations/walla-walla-wa",
+        "query": "Walla Walla WA landscape",
+        "fallbackQuery": "Washington landscape",
+        "addedBy": "tdf",
+        "label": "Walla Walla, WA"
+      },
+      {
+        "key": "tdf/destinations/eugene-or",
+        "query": "Eugene OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Eugene, OR"
+      },
+      {
+        "key": "tdf/destinations/leavenworth-wa",
+        "query": "Leavenworth WA landscape",
+        "fallbackQuery": "Washington landscape",
+        "addedBy": "tdf",
+        "label": "Leavenworth, WA"
+      },
+      {
+        "key": "tdf/destinations/cannon-beach-or",
+        "query": "Cannon Beach / Seaside OR landscape",
+        "fallbackQuery": "Oregon landscape",
+        "addedBy": "tdf",
+        "label": "Cannon Beach / Seaside, OR"
+      },
+      {
+        "key": "tdf/destinations/gig-harbor-wa",
+        "query": "Gig Harbor WA landscape",
+        "fallbackQuery": "Washington landscape",
+        "addedBy": "tdf",
+        "label": "Gig Harbor, WA"
+      },
+      {
+        "key": "tdf/destinations/whitefish-mt",
+        "query": "Whitefish MT landscape",
+        "fallbackQuery": "Montana landscape",
+        "addedBy": "tdf",
+        "label": "Whitefish, MT"
+      },
+      {
+        "key": "tdf/destinations/big-sky-mt",
+        "query": "Big Sky MT landscape",
+        "fallbackQuery": "Montana landscape",
+        "addedBy": "tdf",
+        "label": "Big Sky, MT"
+      },
+      {
+        "key": "tdf/destinations/steamboat-springs-co",
+        "query": "Steamboat Springs CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Steamboat Springs, CO"
+      },
+      {
+        "key": "tdf/destinations/durango-co",
+        "query": "Durango CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Durango, CO"
+      },
+      {
+        "key": "tdf/destinations/park-city-ut",
+        "query": "Park City UT landscape",
+        "fallbackQuery": "Utah landscape",
+        "addedBy": "tdf",
+        "label": "Park City, UT"
+      },
+      {
+        "key": "tdf/destinations/jackson-hole-wy",
+        "query": "Jackson WY landscape",
+        "fallbackQuery": "Wyoming landscape",
+        "addedBy": "tdf",
+        "label": "Jackson, WY"
+      },
+      {
+        "key": "tdf/destinations/deadwood-sd",
+        "query": "Deadwood SD landscape",
+        "fallbackQuery": "South Dakota landscape",
+        "addedBy": "tdf",
+        "label": "Deadwood, SD"
+      },
+      {
+        "key": "tdf/destinations/mccall-id",
+        "query": "McCall ID landscape",
+        "fallbackQuery": "Idaho landscape",
+        "addedBy": "tdf",
+        "label": "McCall, ID"
+      },
+      {
+        "key": "tdf/destinations/bozeman-mt",
+        "query": "Bozeman MT landscape",
+        "fallbackQuery": "Montana landscape",
+        "addedBy": "tdf",
+        "label": "Bozeman, MT"
+      },
+      {
+        "key": "tdf/destinations/missoula-mt",
+        "query": "Missoula MT landscape",
+        "fallbackQuery": "Montana landscape",
+        "addedBy": "tdf",
+        "label": "Missoula, MT"
+      },
+      {
+        "key": "tdf/destinations/colorado-springs-co",
+        "query": "Colorado Springs CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Colorado Springs, CO"
+      },
+      {
+        "key": "tdf/destinations/breckenridge-co",
+        "query": "Breckenridge CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Breckenridge, CO"
+      },
+      {
+        "key": "tdf/destinations/vail-co",
+        "query": "Vail CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Vail, CO"
+      },
+      {
+        "key": "tdf/destinations/telluride-co",
+        "query": "Telluride CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Telluride, CO"
+      },
+      {
+        "key": "tdf/destinations/fort-collins-co",
+        "query": "Fort Collins CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Fort Collins, CO"
+      },
+      {
+        "key": "tdf/destinations/glenwood-springs-co",
+        "query": "Glenwood Springs CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Glenwood Springs, CO"
+      },
+      {
+        "key": "tdf/destinations/pagosa-springs-co",
+        "query": "Pagosa Springs CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Pagosa Springs, CO"
+      },
+      {
+        "key": "tdf/destinations/salida-co",
+        "query": "Salida CO landscape",
+        "fallbackQuery": "Colorado landscape",
+        "addedBy": "tdf",
+        "label": "Salida, CO"
+      },
+      {
+        "key": "tdf/destinations/cody-wy",
+        "query": "Cody WY landscape",
+        "fallbackQuery": "Wyoming landscape",
+        "addedBy": "tdf",
+        "label": "Cody, WY"
+      },
+      {
+        "key": "tdf/destinations/rapid-city-sd",
+        "query": "Rapid City SD landscape",
+        "fallbackQuery": "South Dakota landscape",
+        "addedBy": "tdf",
+        "label": "Rapid City, SD"
+      },
+      {
+        "key": "tdf/destinations/keystone-custer-sd",
+        "query": "Keystone / Custer SD landscape",
+        "fallbackQuery": "South Dakota landscape",
+        "addedBy": "tdf",
+        "label": "Keystone / Custer, SD"
+      },
+      {
+        "key": "tdf/destinations/kohler-wi",
+        "query": "Kohler WI landscape",
+        "fallbackQuery": "Wisconsin landscape",
+        "addedBy": "tdf",
+        "label": "Kohler, WI"
+      },
+      {
+        "key": "tdf/destinations/traverse-city-mi",
+        "query": "Traverse City MI landscape",
+        "fallbackQuery": "Michigan landscape",
+        "addedBy": "tdf",
+        "label": "Traverse City, MI"
+      },
+      {
+        "key": "tdf/destinations/galena-il",
+        "query": "Galena IL landscape",
+        "fallbackQuery": "Illinois landscape",
+        "addedBy": "tdf",
+        "label": "Galena, IL"
+      },
+      {
+        "key": "tdf/destinations/lake-geneva-wi",
+        "query": "Lake Geneva WI landscape",
+        "fallbackQuery": "Wisconsin landscape",
+        "addedBy": "tdf",
+        "label": "Lake Geneva, WI"
+      },
+      {
+        "key": "tdf/destinations/french-lick-in",
+        "query": "French Lick IN landscape",
+        "fallbackQuery": "Indiana landscape",
+        "addedBy": "tdf",
+        "label": "French Lick, IN"
+      },
+      {
+        "key": "tdf/destinations/duluth-mn",
+        "query": "Duluth MN landscape",
+        "fallbackQuery": "Minnesota landscape",
+        "addedBy": "tdf",
+        "label": "Duluth, MN"
+      },
+      {
+        "key": "tdf/destinations/harbor-springs-petoskey-mi",
+        "query": "Harbor Springs / Petoskey MI landscape",
+        "fallbackQuery": "Michigan landscape",
+        "addedBy": "tdf",
+        "label": "Harbor Springs / Petoskey, MI"
+      },
+      {
+        "key": "tdf/destinations/grand-rapids-mi",
+        "query": "Grand Rapids MI landscape",
+        "fallbackQuery": "Michigan landscape",
+        "addedBy": "tdf",
+        "label": "Grand Rapids, MI"
+      },
+      {
+        "key": "tdf/destinations/door-county-wi",
+        "query": "Door County WI landscape",
+        "fallbackQuery": "Wisconsin landscape",
+        "addedBy": "tdf",
+        "label": "Door County, WI"
+      },
+      {
+        "key": "tdf/destinations/madison-wi",
+        "query": "Madison WI landscape",
+        "fallbackQuery": "Wisconsin landscape",
+        "addedBy": "tdf",
+        "label": "Madison, WI"
+      },
+      {
+        "key": "tdf/destinations/brainerd-mn",
+        "query": "Brainerd MN landscape",
+        "fallbackQuery": "Minnesota landscape",
+        "addedBy": "tdf",
+        "label": "Brainerd, MN"
+      },
+      {
+        "key": "tdf/destinations/cincinnati-oh",
+        "query": "Cincinnati OH landscape",
+        "fallbackQuery": "Ohio landscape",
+        "addedBy": "tdf",
+        "label": "Cincinnati, OH"
+      },
+      {
+        "key": "tdf/destinations/columbus-oh",
+        "query": "Columbus OH landscape",
+        "fallbackQuery": "Ohio landscape",
+        "addedBy": "tdf",
+        "label": "Columbus, OH"
+      },
+      {
+        "key": "tdf/destinations/indianapolis-in",
+        "query": "Indianapolis IN landscape",
+        "fallbackQuery": "Indiana landscape",
+        "addedBy": "tdf",
+        "label": "Indianapolis, IN"
+      },
+      {
+        "key": "tdf/destinations/des-moines-ia",
+        "query": "Des Moines IA landscape",
+        "fallbackQuery": "Iowa landscape",
+        "addedBy": "tdf",
+        "label": "Des Moines, IA"
+      },
+      {
+        "key": "tdf/destinations/marquette-mi",
+        "query": "Marquette MI landscape",
+        "fallbackQuery": "Michigan landscape",
+        "addedBy": "tdf",
+        "label": "Marquette, MI"
+      },
+      {
+        "key": "tdf/destinations/st-louis-mo",
+        "query": "St. Louis MO landscape",
+        "fallbackQuery": "Missouri landscape",
+        "addedBy": "tdf",
+        "label": "St. Louis, MO"
+      },
+      {
+        "key": "tdf/destinations/kansas-city-mo",
+        "query": "Kansas City MO landscape",
+        "fallbackQuery": "Missouri landscape",
+        "addedBy": "tdf",
+        "label": "Kansas City, MO"
+      },
+      {
+        "key": "tdf/destinations/milwaukee-wi",
+        "query": "Milwaukee WI landscape",
+        "fallbackQuery": "Wisconsin landscape",
+        "addedBy": "tdf",
+        "label": "Milwaukee, WI"
+      },
+      {
+        "key": "tdf/destinations/omaha-ne",
+        "query": "Omaha NE landscape",
+        "fallbackQuery": "Nebraska landscape",
+        "addedBy": "tdf",
+        "label": "Omaha, NE"
+      },
+      {
+        "key": "tdf/destinations/pinehurst-nc",
+        "query": "Pinehurst NC landscape",
+        "fallbackQuery": "North Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Pinehurst, NC"
+      },
+      {
+        "key": "tdf/destinations/kiawah-island-sc",
+        "query": "Kiawah Island SC landscape",
+        "fallbackQuery": "South Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Kiawah Island, SC"
+      },
+      {
+        "key": "tdf/destinations/hilton-head-sc",
+        "query": "Hilton Head SC landscape",
+        "fallbackQuery": "South Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Hilton Head, SC"
+      },
+      {
+        "key": "tdf/destinations/gulf-shores-al",
+        "query": "Gulf Shores AL landscape",
+        "fallbackQuery": "Alabama landscape",
+        "addedBy": "tdf",
+        "label": "Gulf Shores, AL"
+      },
+      {
+        "key": "tdf/destinations/savannah-ga",
+        "query": "Savannah GA landscape",
+        "fallbackQuery": "Georgia landscape",
+        "addedBy": "tdf",
+        "label": "Savannah, GA"
+      },
+      {
+        "key": "tdf/destinations/lexington-ky",
+        "query": "Lexington KY landscape",
+        "fallbackQuery": "Kentucky landscape",
+        "addedBy": "tdf",
+        "label": "Lexington, KY"
+      },
+      {
+        "key": "tdf/destinations/asheville-nc",
+        "query": "Asheville NC landscape",
+        "fallbackQuery": "North Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Asheville, NC"
+      },
+      {
+        "key": "tdf/destinations/destin-30a-fl",
+        "query": "Destin FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "Destin, FL"
+      },
+      {
+        "key": "tdf/destinations/charleston-sc",
+        "query": "Charleston SC landscape",
+        "fallbackQuery": "South Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Charleston, SC"
+      },
+      {
+        "key": "tdf/destinations/myrtle-beach-sc",
+        "query": "Myrtle Beach SC landscape",
+        "fallbackQuery": "South Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Myrtle Beach, SC"
+      },
+      {
+        "key": "tdf/destinations/nashville-tn",
+        "query": "Nashville TN landscape",
+        "fallbackQuery": "Tennessee landscape",
+        "addedBy": "tdf",
+        "label": "Nashville, TN"
+      },
+      {
+        "key": "tdf/destinations/chattanooga-tn",
+        "query": "Chattanooga TN landscape",
+        "fallbackQuery": "Tennessee landscape",
+        "addedBy": "tdf",
+        "label": "Chattanooga, TN"
+      },
+      {
+        "key": "tdf/destinations/amelia-island-fl",
+        "query": "Amelia Island FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "Amelia Island, FL"
+      },
+      {
+        "key": "tdf/destinations/st-augustine-fl",
+        "query": "St. Augustine FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "St. Augustine, FL"
+      },
+      {
+        "key": "tdf/destinations/naples-fl",
+        "query": "Naples FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "Naples, FL"
+      },
+      {
+        "key": "tdf/destinations/sarasota-fl",
+        "query": "Sarasota FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "Sarasota, FL"
+      },
+      {
+        "key": "tdf/destinations/orlando-fl",
+        "query": "Orlando FL landscape",
+        "fallbackQuery": "Florida landscape",
+        "addedBy": "tdf",
+        "label": "Orlando, FL"
+      },
+      {
+        "key": "tdf/destinations/biloxi-ms",
+        "query": "Biloxi MS landscape",
+        "fallbackQuery": "Mississippi landscape",
+        "addedBy": "tdf",
+        "label": "Biloxi, MS"
+      },
+      {
+        "key": "tdf/destinations/virginia-beach-va",
+        "query": "Virginia Beach VA landscape",
+        "fallbackQuery": "Virginia landscape",
+        "addedBy": "tdf",
+        "label": "Virginia Beach, VA"
+      },
+      {
+        "key": "tdf/destinations/pawleys-island-sc",
+        "query": "Pawleys Island SC landscape",
+        "fallbackQuery": "South Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Pawleys Island, SC"
+      },
+      {
+        "key": "tdf/destinations/outer-banks-nc",
+        "query": "Outer Banks NC landscape",
+        "fallbackQuery": "North Carolina landscape",
+        "addedBy": "tdf",
+        "label": "Outer Banks, NC"
+      },
+      {
+        "key": "tdf/destinations/sea-island-ga",
+        "query": "Sea Island / St. Simons GA landscape",
+        "fallbackQuery": "Georgia landscape",
+        "addedBy": "tdf",
+        "label": "Sea Island / St. Simons, GA"
+      },
+      {
+        "key": "tdf/destinations/reynolds-lake-oconee-ga",
+        "query": "Reynolds Lake Oconee GA landscape",
+        "fallbackQuery": "Georgia landscape",
+        "addedBy": "tdf",
+        "label": "Reynolds Lake Oconee, GA"
+      },
+      {
+        "key": "tdf/destinations/cape-cod-ma",
+        "query": "Cape Cod MA landscape",
+        "fallbackQuery": "Massachusetts landscape",
+        "addedBy": "tdf",
+        "label": "Cape Cod, MA"
+      },
+      {
+        "key": "tdf/destinations/lake-placid-ny",
+        "query": "Lake Placid NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Lake Placid, NY"
+      },
+      {
+        "key": "tdf/destinations/williamsburg-va",
+        "query": "Williamsburg VA landscape",
+        "fallbackQuery": "Virginia landscape",
+        "addedBy": "tdf",
+        "label": "Williamsburg, VA"
+      },
+      {
+        "key": "tdf/destinations/saratoga-springs-ny",
+        "query": "Saratoga Springs NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Saratoga Springs, NY"
+      },
+      {
+        "key": "tdf/destinations/finger-lakes-ny",
+        "query": "Finger Lakes NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Finger Lakes, NY"
+      },
+      {
+        "key": "tdf/destinations/poconos-pa",
+        "query": "Poconos PA landscape",
+        "fallbackQuery": "Pennsylvania landscape",
+        "addedBy": "tdf",
+        "label": "Poconos, PA"
+      },
+      {
+        "key": "tdf/destinations/berkshires-ma",
+        "query": "Berkshires MA landscape",
+        "fallbackQuery": "Massachusetts landscape",
+        "addedBy": "tdf",
+        "label": "Berkshires, MA"
+      },
+      {
+        "key": "tdf/destinations/stowe-vt",
+        "query": "Stowe VT landscape",
+        "fallbackQuery": "Vermont landscape",
+        "addedBy": "tdf",
+        "label": "Stowe, VT"
+      },
+      {
+        "key": "tdf/destinations/portland-me",
+        "query": "Portland ME landscape",
+        "fallbackQuery": "Maine landscape",
+        "addedBy": "tdf",
+        "label": "Portland, ME"
+      },
+      {
+        "key": "tdf/destinations/kennebunkport-me",
+        "query": "Kennebunkport ME landscape",
+        "fallbackQuery": "Maine landscape",
+        "addedBy": "tdf",
+        "label": "Kennebunkport, ME"
+      },
+      {
+        "key": "tdf/destinations/newport-ri",
+        "query": "Newport RI landscape",
+        "fallbackQuery": "Rhode Island landscape",
+        "addedBy": "tdf",
+        "label": "Newport, RI"
+      },
+      {
+        "key": "tdf/destinations/atlantic-city-nj",
+        "query": "Atlantic City NJ landscape",
+        "fallbackQuery": "New Jersey landscape",
+        "addedBy": "tdf",
+        "label": "Atlantic City, NJ"
+      },
+      {
+        "key": "tdf/destinations/hershey-pa",
+        "query": "Hershey PA landscape",
+        "fallbackQuery": "Pennsylvania landscape",
+        "addedBy": "tdf",
+        "label": "Hershey, PA"
+      },
+      {
+        "key": "tdf/destinations/ocean-city-md",
+        "query": "Ocean City MD landscape",
+        "fallbackQuery": "Maryland landscape",
+        "addedBy": "tdf",
+        "label": "Ocean City, MD"
+      },
+      {
+        "key": "tdf/destinations/catskills-ny",
+        "query": "Catskills NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Catskills, NY"
+      },
+      {
+        "key": "tdf/destinations/bretton-woods-nh",
+        "query": "Bretton Woods NH landscape",
+        "fallbackQuery": "New Hampshire landscape",
+        "addedBy": "tdf",
+        "label": "Bretton Woods, NH"
+      },
+      {
+        "key": "tdf/destinations/bar-harbor-me",
+        "query": "Bar Harbor ME landscape",
+        "fallbackQuery": "Maine landscape",
+        "addedBy": "tdf",
+        "label": "Bar Harbor, ME"
+      },
+      {
+        "key": "tdf/destinations/burlington-vt",
+        "query": "Burlington VT landscape",
+        "fallbackQuery": "Vermont landscape",
+        "addedBy": "tdf",
+        "label": "Burlington, VT"
+      },
+      {
+        "key": "tdf/destinations/cooperstown-ny",
+        "query": "Cooperstown NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Cooperstown, NY"
+      },
+      {
+        "key": "tdf/destinations/cape-may-nj",
+        "query": "Cape May NJ landscape",
+        "fallbackQuery": "New Jersey landscape",
+        "addedBy": "tdf",
+        "label": "Cape May, NJ"
+      },
+      {
+        "key": "tdf/destinations/mystic-ct",
+        "query": "Mystic CT landscape",
+        "fallbackQuery": "Connecticut landscape",
+        "addedBy": "tdf",
+        "label": "Mystic, CT"
+      },
+      {
+        "key": "tdf/destinations/hudson-valley-ny",
+        "query": "Hudson Valley NY landscape",
+        "fallbackQuery": "New York landscape",
+        "addedBy": "tdf",
+        "label": "Hudson Valley, NY"
+      },
+      {
+        "key": "tdf/destinations/horseshoe-bay-tx",
+        "query": "Horseshoe Bay TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Horseshoe Bay, TX"
+      },
+      {
+        "key": "tdf/destinations/fredericksburg-tx",
+        "query": "Fredericksburg TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Fredericksburg, TX"
+      },
+      {
+        "key": "tdf/destinations/hot-springs-ar",
+        "query": "Hot Springs AR landscape",
+        "fallbackQuery": "Arkansas landscape",
+        "addedBy": "tdf",
+        "label": "Hot Springs, AR"
+      },
+      {
+        "key": "tdf/destinations/branson-mo",
+        "query": "Branson MO landscape",
+        "fallbackQuery": "Missouri landscape",
+        "addedBy": "tdf",
+        "label": "Branson, MO"
+      },
+      {
+        "key": "tdf/destinations/san-antonio-tx",
+        "query": "San Antonio TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "San Antonio, TX"
+      },
+      {
+        "key": "tdf/destinations/austin-tx",
+        "query": "Austin TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Austin, TX"
+      },
+      {
+        "key": "tdf/destinations/dallas-fort-worth-tx",
+        "query": "Dallas-Fort Worth TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Dallas-Fort Worth, TX"
+      },
+      {
+        "key": "tdf/destinations/houston-tx",
+        "query": "Houston TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Houston, TX"
+      },
+      {
+        "key": "tdf/destinations/new-orleans-la",
+        "query": "New Orleans LA landscape",
+        "fallbackQuery": "Louisiana landscape",
+        "addedBy": "tdf",
+        "label": "New Orleans, LA"
+      },
+      {
+        "key": "tdf/destinations/louisville-ky",
+        "query": "Louisville KY landscape",
+        "fallbackQuery": "Kentucky landscape",
+        "addedBy": "tdf",
+        "label": "Louisville, KY"
+      },
+      {
+        "key": "tdf/destinations/tulsa-ok",
+        "query": "Tulsa OK landscape",
+        "fallbackQuery": "Oklahoma landscape",
+        "addedBy": "tdf",
+        "label": "Tulsa, OK"
+      },
+      {
+        "key": "tdf/destinations/oklahoma-city-ok",
+        "query": "Oklahoma City OK landscape",
+        "fallbackQuery": "Oklahoma landscape",
+        "addedBy": "tdf",
+        "label": "Oklahoma City, OK"
+      },
+      {
+        "key": "tdf/destinations/shreveport-bossier-la",
+        "query": "Shreveport-Bossier City LA landscape",
+        "fallbackQuery": "Louisiana landscape",
+        "addedBy": "tdf",
+        "label": "Shreveport-Bossier City, LA"
+      },
+      {
+        "key": "tdf/destinations/little-rock-ar",
+        "query": "Little Rock AR landscape",
+        "fallbackQuery": "Arkansas landscape",
+        "addedBy": "tdf",
+        "label": "Little Rock, AR"
+      },
+      {
+        "key": "tdf/destinations/baton-rouge-la",
+        "query": "Baton Rouge LA landscape",
+        "fallbackQuery": "Louisiana landscape",
+        "addedBy": "tdf",
+        "label": "Baton Rouge, LA"
+      },
+      {
+        "key": "tdf/destinations/lake-of-the-ozarks-mo",
+        "query": "Lake of the Ozarks MO landscape",
+        "fallbackQuery": "Missouri landscape",
+        "addedBy": "tdf",
+        "label": "Lake of the Ozarks, MO"
+      },
+      {
+        "key": "tdf/destinations/galveston-tx",
+        "query": "Galveston TX landscape",
+        "fallbackQuery": "Texas landscape",
+        "addedBy": "tdf",
+        "label": "Galveston, TX"
+      },
+      {
+        "key": "tdf/bachelorParty/scottsdale-az",
+        "query": "Scottsdale nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Scottsdale bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/sedona-az",
+        "query": "Sedona nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Sedona bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/tucson-az",
+        "query": "Tucson nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Tucson bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/st-george-ut",
+        "query": "St. George nightlife skyline",
+        "fallbackQuery": "Utah downtown night",
+        "addedBy": "tdf",
+        "label": "St. George bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/mesquite-nv",
+        "query": "Mesquite nightlife skyline",
+        "fallbackQuery": "Nevada downtown night",
+        "addedBy": "tdf",
+        "label": "Mesquite bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/santa-fe-nm",
+        "query": "Santa Fe nightlife skyline",
+        "fallbackQuery": "New Mexico downtown night",
+        "addedBy": "tdf",
+        "label": "Santa Fe bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/flagstaff-az",
+        "query": "Flagstaff nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Flagstaff bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/las-vegas-nv",
+        "query": "Las Vegas nightlife skyline",
+        "fallbackQuery": "Nevada downtown night",
+        "addedBy": "tdf",
+        "label": "Las Vegas bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/reno-nv",
+        "query": "Reno nightlife skyline",
+        "fallbackQuery": "Nevada downtown night",
+        "addedBy": "tdf",
+        "label": "Reno bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/phoenix-mesa-az",
+        "query": "Phoenix / Mesa nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Phoenix / Mesa bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/albuquerque-nm",
+        "query": "Albuquerque nightlife skyline",
+        "fallbackQuery": "New Mexico downtown night",
+        "addedBy": "tdf",
+        "label": "Albuquerque bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/lake-havasu-city-az",
+        "query": "Lake Havasu City nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Lake Havasu City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/laughlin-nv",
+        "query": "Laughlin nightlife skyline",
+        "fallbackQuery": "Nevada downtown night",
+        "addedBy": "tdf",
+        "label": "Laughlin bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/payson-az",
+        "query": "Payson nightlife skyline",
+        "fallbackQuery": "Arizona downtown night",
+        "addedBy": "tdf",
+        "label": "Payson bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/bend-or",
+        "query": "Bend nightlife skyline",
+        "fallbackQuery": "Oregon downtown night",
+        "addedBy": "tdf",
+        "label": "Bend bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/coeur-dalene-id",
+        "query": "Coeur d'Alene nightlife skyline",
+        "fallbackQuery": "Idaho downtown night",
+        "addedBy": "tdf",
+        "label": "Coeur d'Alene bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/boise-id",
+        "query": "Boise nightlife skyline",
+        "fallbackQuery": "Idaho downtown night",
+        "addedBy": "tdf",
+        "label": "Boise bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/hood-river-or",
+        "query": "Hood River nightlife skyline",
+        "fallbackQuery": "Oregon downtown night",
+        "addedBy": "tdf",
+        "label": "Hood River bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/portland-or",
+        "query": "Portland nightlife skyline",
+        "fallbackQuery": "Oregon downtown night",
+        "addedBy": "tdf",
+        "label": "Portland bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/seattle-wa",
+        "query": "Seattle nightlife skyline",
+        "fallbackQuery": "Washington downtown night",
+        "addedBy": "tdf",
+        "label": "Seattle bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/spokane-wa",
+        "query": "Spokane nightlife skyline",
+        "fallbackQuery": "Washington downtown night",
+        "addedBy": "tdf",
+        "label": "Spokane bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/walla-walla-wa",
+        "query": "Walla Walla nightlife skyline",
+        "fallbackQuery": "Washington downtown night",
+        "addedBy": "tdf",
+        "label": "Walla Walla bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/eugene-or",
+        "query": "Eugene nightlife skyline",
+        "fallbackQuery": "Oregon downtown night",
+        "addedBy": "tdf",
+        "label": "Eugene bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/cannon-beach-or",
+        "query": "Cannon Beach / Seaside nightlife skyline",
+        "fallbackQuery": "Oregon downtown night",
+        "addedBy": "tdf",
+        "label": "Cannon Beach / Seaside bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/gig-harbor-wa",
+        "query": "Gig Harbor nightlife skyline",
+        "fallbackQuery": "Washington downtown night",
+        "addedBy": "tdf",
+        "label": "Gig Harbor bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/whitefish-mt",
+        "query": "Whitefish nightlife skyline",
+        "fallbackQuery": "Montana downtown night",
+        "addedBy": "tdf",
+        "label": "Whitefish bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/steamboat-springs-co",
+        "query": "Steamboat Springs nightlife skyline",
+        "fallbackQuery": "Colorado downtown night",
+        "addedBy": "tdf",
+        "label": "Steamboat Springs bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/durango-co",
+        "query": "Durango nightlife skyline",
+        "fallbackQuery": "Colorado downtown night",
+        "addedBy": "tdf",
+        "label": "Durango bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/park-city-ut",
+        "query": "Park City nightlife skyline",
+        "fallbackQuery": "Utah downtown night",
+        "addedBy": "tdf",
+        "label": "Park City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/jackson-hole-wy",
+        "query": "Jackson nightlife skyline",
+        "fallbackQuery": "Wyoming downtown night",
+        "addedBy": "tdf",
+        "label": "Jackson bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/bozeman-mt",
+        "query": "Bozeman nightlife skyline",
+        "fallbackQuery": "Montana downtown night",
+        "addedBy": "tdf",
+        "label": "Bozeman bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/missoula-mt",
+        "query": "Missoula nightlife skyline",
+        "fallbackQuery": "Montana downtown night",
+        "addedBy": "tdf",
+        "label": "Missoula bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/colorado-springs-co",
+        "query": "Colorado Springs nightlife skyline",
+        "fallbackQuery": "Colorado downtown night",
+        "addedBy": "tdf",
+        "label": "Colorado Springs bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/fort-collins-co",
+        "query": "Fort Collins nightlife skyline",
+        "fallbackQuery": "Colorado downtown night",
+        "addedBy": "tdf",
+        "label": "Fort Collins bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/glenwood-springs-co",
+        "query": "Glenwood Springs nightlife skyline",
+        "fallbackQuery": "Colorado downtown night",
+        "addedBy": "tdf",
+        "label": "Glenwood Springs bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/cody-wy",
+        "query": "Cody nightlife skyline",
+        "fallbackQuery": "Wyoming downtown night",
+        "addedBy": "tdf",
+        "label": "Cody bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/rapid-city-sd",
+        "query": "Rapid City nightlife skyline",
+        "fallbackQuery": "South Dakota downtown night",
+        "addedBy": "tdf",
+        "label": "Rapid City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/traverse-city-mi",
+        "query": "Traverse City nightlife skyline",
+        "fallbackQuery": "Michigan downtown night",
+        "addedBy": "tdf",
+        "label": "Traverse City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/lake-geneva-wi",
+        "query": "Lake Geneva nightlife skyline",
+        "fallbackQuery": "Wisconsin downtown night",
+        "addedBy": "tdf",
+        "label": "Lake Geneva bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/duluth-mn",
+        "query": "Duluth nightlife skyline",
+        "fallbackQuery": "Minnesota downtown night",
+        "addedBy": "tdf",
+        "label": "Duluth bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/harbor-springs-petoskey-mi",
+        "query": "Harbor Springs / Petoskey nightlife skyline",
+        "fallbackQuery": "Michigan downtown night",
+        "addedBy": "tdf",
+        "label": "Harbor Springs / Petoskey bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/grand-rapids-mi",
+        "query": "Grand Rapids nightlife skyline",
+        "fallbackQuery": "Michigan downtown night",
+        "addedBy": "tdf",
+        "label": "Grand Rapids bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/door-county-wi",
+        "query": "Door County nightlife skyline",
+        "fallbackQuery": "Wisconsin downtown night",
+        "addedBy": "tdf",
+        "label": "Door County bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/madison-wi",
+        "query": "Madison nightlife skyline",
+        "fallbackQuery": "Wisconsin downtown night",
+        "addedBy": "tdf",
+        "label": "Madison bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/brainerd-mn",
+        "query": "Brainerd nightlife skyline",
+        "fallbackQuery": "Minnesota downtown night",
+        "addedBy": "tdf",
+        "label": "Brainerd bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/cincinnati-oh",
+        "query": "Cincinnati nightlife skyline",
+        "fallbackQuery": "Ohio downtown night",
+        "addedBy": "tdf",
+        "label": "Cincinnati bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/columbus-oh",
+        "query": "Columbus nightlife skyline",
+        "fallbackQuery": "Ohio downtown night",
+        "addedBy": "tdf",
+        "label": "Columbus bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/indianapolis-in",
+        "query": "Indianapolis nightlife skyline",
+        "fallbackQuery": "Indiana downtown night",
+        "addedBy": "tdf",
+        "label": "Indianapolis bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/des-moines-ia",
+        "query": "Des Moines nightlife skyline",
+        "fallbackQuery": "Iowa downtown night",
+        "addedBy": "tdf",
+        "label": "Des Moines bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/marquette-mi",
+        "query": "Marquette nightlife skyline",
+        "fallbackQuery": "Michigan downtown night",
+        "addedBy": "tdf",
+        "label": "Marquette bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/st-louis-mo",
+        "query": "St. Louis nightlife skyline",
+        "fallbackQuery": "Missouri downtown night",
+        "addedBy": "tdf",
+        "label": "St. Louis bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/kansas-city-mo",
+        "query": "Kansas City nightlife skyline",
+        "fallbackQuery": "Missouri downtown night",
+        "addedBy": "tdf",
+        "label": "Kansas City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/milwaukee-wi",
+        "query": "Milwaukee nightlife skyline",
+        "fallbackQuery": "Wisconsin downtown night",
+        "addedBy": "tdf",
+        "label": "Milwaukee bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/omaha-ne",
+        "query": "Omaha nightlife skyline",
+        "fallbackQuery": "Nebraska downtown night",
+        "addedBy": "tdf",
+        "label": "Omaha bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/pinehurst-nc",
+        "query": "Pinehurst nightlife skyline",
+        "fallbackQuery": "North Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Pinehurst bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/hilton-head-sc",
+        "query": "Hilton Head nightlife skyline",
+        "fallbackQuery": "South Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Hilton Head bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/gulf-shores-al",
+        "query": "Gulf Shores nightlife skyline",
+        "fallbackQuery": "Alabama downtown night",
+        "addedBy": "tdf",
+        "label": "Gulf Shores bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/savannah-ga",
+        "query": "Savannah nightlife skyline",
+        "fallbackQuery": "Georgia downtown night",
+        "addedBy": "tdf",
+        "label": "Savannah bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/lexington-ky",
+        "query": "Lexington nightlife skyline",
+        "fallbackQuery": "Kentucky downtown night",
+        "addedBy": "tdf",
+        "label": "Lexington bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/asheville-nc",
+        "query": "Asheville nightlife skyline",
+        "fallbackQuery": "North Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Asheville bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/destin-30a-fl",
+        "query": "Destin nightlife skyline",
+        "fallbackQuery": "Florida downtown night",
+        "addedBy": "tdf",
+        "label": "Destin bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/charleston-sc",
+        "query": "Charleston nightlife skyline",
+        "fallbackQuery": "South Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Charleston bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/myrtle-beach-sc",
+        "query": "Myrtle Beach nightlife skyline",
+        "fallbackQuery": "South Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Myrtle Beach bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/nashville-tn",
+        "query": "Nashville nightlife skyline",
+        "fallbackQuery": "Tennessee downtown night",
+        "addedBy": "tdf",
+        "label": "Nashville bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/chattanooga-tn",
+        "query": "Chattanooga nightlife skyline",
+        "fallbackQuery": "Tennessee downtown night",
+        "addedBy": "tdf",
+        "label": "Chattanooga bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/st-augustine-fl",
+        "query": "St. Augustine nightlife skyline",
+        "fallbackQuery": "Florida downtown night",
+        "addedBy": "tdf",
+        "label": "St. Augustine bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/naples-fl",
+        "query": "Naples nightlife skyline",
+        "fallbackQuery": "Florida downtown night",
+        "addedBy": "tdf",
+        "label": "Naples bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/sarasota-fl",
+        "query": "Sarasota nightlife skyline",
+        "fallbackQuery": "Florida downtown night",
+        "addedBy": "tdf",
+        "label": "Sarasota bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/orlando-fl",
+        "query": "Orlando nightlife skyline",
+        "fallbackQuery": "Florida downtown night",
+        "addedBy": "tdf",
+        "label": "Orlando bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/biloxi-ms",
+        "query": "Biloxi nightlife skyline",
+        "fallbackQuery": "Mississippi downtown night",
+        "addedBy": "tdf",
+        "label": "Biloxi bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/virginia-beach-va",
+        "query": "Virginia Beach nightlife skyline",
+        "fallbackQuery": "Virginia downtown night",
+        "addedBy": "tdf",
+        "label": "Virginia Beach bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/outer-banks-nc",
+        "query": "Outer Banks nightlife skyline",
+        "fallbackQuery": "North Carolina downtown night",
+        "addedBy": "tdf",
+        "label": "Outer Banks bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/cape-cod-ma",
+        "query": "Cape Cod nightlife skyline",
+        "fallbackQuery": "Massachusetts downtown night",
+        "addedBy": "tdf",
+        "label": "Cape Cod bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/williamsburg-va",
+        "query": "Williamsburg nightlife skyline",
+        "fallbackQuery": "Virginia downtown night",
+        "addedBy": "tdf",
+        "label": "Williamsburg bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/saratoga-springs-ny",
+        "query": "Saratoga Springs nightlife skyline",
+        "fallbackQuery": "New York downtown night",
+        "addedBy": "tdf",
+        "label": "Saratoga Springs bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/finger-lakes-ny",
+        "query": "Finger Lakes nightlife skyline",
+        "fallbackQuery": "New York downtown night",
+        "addedBy": "tdf",
+        "label": "Finger Lakes bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/poconos-pa",
+        "query": "Poconos nightlife skyline",
+        "fallbackQuery": "Pennsylvania downtown night",
+        "addedBy": "tdf",
+        "label": "Poconos bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/berkshires-ma",
+        "query": "Berkshires nightlife skyline",
+        "fallbackQuery": "Massachusetts downtown night",
+        "addedBy": "tdf",
+        "label": "Berkshires bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/portland-me",
+        "query": "Portland nightlife skyline",
+        "fallbackQuery": "Maine downtown night",
+        "addedBy": "tdf",
+        "label": "Portland bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/newport-ri",
+        "query": "Newport nightlife skyline",
+        "fallbackQuery": "Rhode Island downtown night",
+        "addedBy": "tdf",
+        "label": "Newport bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/atlantic-city-nj",
+        "query": "Atlantic City nightlife skyline",
+        "fallbackQuery": "New Jersey downtown night",
+        "addedBy": "tdf",
+        "label": "Atlantic City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/hershey-pa",
+        "query": "Hershey nightlife skyline",
+        "fallbackQuery": "Pennsylvania downtown night",
+        "addedBy": "tdf",
+        "label": "Hershey bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/ocean-city-md",
+        "query": "Ocean City nightlife skyline",
+        "fallbackQuery": "Maryland downtown night",
+        "addedBy": "tdf",
+        "label": "Ocean City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/burlington-vt",
+        "query": "Burlington nightlife skyline",
+        "fallbackQuery": "Vermont downtown night",
+        "addedBy": "tdf",
+        "label": "Burlington bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/hudson-valley-ny",
+        "query": "Hudson Valley nightlife skyline",
+        "fallbackQuery": "New York downtown night",
+        "addedBy": "tdf",
+        "label": "Hudson Valley bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/fredericksburg-tx",
+        "query": "Fredericksburg nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "Fredericksburg bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/hot-springs-ar",
+        "query": "Hot Springs nightlife skyline",
+        "fallbackQuery": "Arkansas downtown night",
+        "addedBy": "tdf",
+        "label": "Hot Springs bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/branson-mo",
+        "query": "Branson nightlife skyline",
+        "fallbackQuery": "Missouri downtown night",
+        "addedBy": "tdf",
+        "label": "Branson bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/san-antonio-tx",
+        "query": "San Antonio nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "San Antonio bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/austin-tx",
+        "query": "Austin nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "Austin bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/dallas-fort-worth-tx",
+        "query": "Dallas-Fort Worth nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "Dallas-Fort Worth bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/houston-tx",
+        "query": "Houston nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "Houston bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/new-orleans-la",
+        "query": "New Orleans nightlife skyline",
+        "fallbackQuery": "Louisiana downtown night",
+        "addedBy": "tdf",
+        "label": "New Orleans bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/louisville-ky",
+        "query": "Louisville nightlife skyline",
+        "fallbackQuery": "Kentucky downtown night",
+        "addedBy": "tdf",
+        "label": "Louisville bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/tulsa-ok",
+        "query": "Tulsa nightlife skyline",
+        "fallbackQuery": "Oklahoma downtown night",
+        "addedBy": "tdf",
+        "label": "Tulsa bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/oklahoma-city-ok",
+        "query": "Oklahoma City nightlife skyline",
+        "fallbackQuery": "Oklahoma downtown night",
+        "addedBy": "tdf",
+        "label": "Oklahoma City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/shreveport-bossier-la",
+        "query": "Shreveport-Bossier City nightlife skyline",
+        "fallbackQuery": "Louisiana downtown night",
+        "addedBy": "tdf",
+        "label": "Shreveport-Bossier City bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/little-rock-ar",
+        "query": "Little Rock nightlife skyline",
+        "fallbackQuery": "Arkansas downtown night",
+        "addedBy": "tdf",
+        "label": "Little Rock bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/baton-rouge-la",
+        "query": "Baton Rouge nightlife skyline",
+        "fallbackQuery": "Louisiana downtown night",
+        "addedBy": "tdf",
+        "label": "Baton Rouge bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/lake-of-the-ozarks-mo",
+        "query": "Lake of the Ozarks nightlife skyline",
+        "fallbackQuery": "Missouri downtown night",
+        "addedBy": "tdf",
+        "label": "Lake of the Ozarks bachelor"
+      },
+      {
+        "key": "tdf/bachelorParty/galveston-tx",
+        "query": "Galveston nightlife skyline",
+        "fallbackQuery": "Texas downtown night",
+        "addedBy": "tdf",
+        "label": "Galveston bachelor"
+      },
+      {
+        "key": "tdf/guides/how-to-plan-a-group-golf-trip",
+        "query": "group golf friends",
+        "addedBy": "tdf",
+        "label": "tdf guide:how-to-plan-a-group-golf-trip"
+      },
+      {
+        "key": "tdf/guides/best-golf-trip-destinations-by-month",
+        "query": "golf course seasons",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-golf-trip-destinations-by-month"
+      },
+      {
+        "key": "tdf/guides/best-walkable-golf-courses",
+        "query": "links golf walking",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-walkable-golf-courses"
+      },
+      {
+        "key": "tdf/guides/golf-trip-budget-guide",
+        "query": "golf bag fairway",
+        "addedBy": "tdf",
+        "label": "tdf guide:golf-trip-budget-guide"
+      },
+      {
+        "key": "tdf/guides/golf-trip-packing-list",
+        "query": "golf travel bag",
+        "addedBy": "tdf",
+        "label": "tdf guide:golf-trip-packing-list"
+      },
+      {
+        "key": "tdf/guides/best-golf-trips-under-500",
+        "query": "affordable golf course",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-golf-trips-under-500"
+      },
+      {
+        "key": "tdf/guides/desert-vs-coastal-vs-mountain-golf",
+        "query": "desert golf course sunset",
+        "addedBy": "tdf",
+        "label": "tdf guide:desert-vs-coastal-vs-mountain-golf"
+      },
+      {
+        "key": "tdf/guides/best-golf-destinations-for-large-groups",
+        "query": "golf foursome celebration",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-golf-destinations-for-large-groups"
+      },
+      {
+        "key": "tdf/guides/top-bucket-list-golf-courses",
+        "query": "iconic golf course aerial",
+        "addedBy": "tdf",
+        "label": "tdf guide:top-bucket-list-golf-courses"
+      },
+      {
+        "key": "tdf/guides/first-time-golf-trip-mistakes",
+        "query": "golfer thinking fairway",
+        "addedBy": "tdf",
+        "label": "tdf guide:first-time-golf-trip-mistakes"
+      },
+      {
+        "key": "tdf/guides/best-golf-trips-near-airports",
+        "query": "golf course aerial landscape",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-golf-trips-near-airports"
+      },
+      {
+        "key": "tdf/guides/best-fall-golf-trip-destinations",
+        "query": "fall golf course leaves",
+        "addedBy": "tdf",
+        "label": "tdf guide:best-fall-golf-trip-destinations"
+      }
+    ]
+  },
+  "totalQueries": 569
+}
