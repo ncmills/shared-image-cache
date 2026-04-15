@@ -1,0 +1,85 @@
+name: Fetch Unsplash images
+
+# Runs the shared-image-cache fetcher on a schedule, writing new entries
+# back to the repo. Replaces the local nohup bash loop — runs entirely
+# on GitHub's free Actions tier for public repos.
+#
+# Schedule: every 2 hours. Each run processes ~90 queries across 3 keys
+# (60% utilization per key, 30/key max). Exits early if cache is up to date.
+#
+# Keys: set as repo secrets via `gh secret set` — see infra docs.
+
+on:
+  schedule:
+    # Every 2 hours at :07 past the hour (avoids the :00 contention window
+    # where most cron jobs fire and GitHub scheduler delays runs by 10+ min).
+    - cron: '7 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      project:
+        description: 'Project to fetch (bestman, moh, tdf, or blank for all)'
+        required: false
+        default: ''
+      limit:
+        description: 'Queries per project per run'
+        required: false
+        default: '40'
+
+# Only one fetch run at a time — prevents two workflows committing conflicting
+# cache.json snapshots (cache.json is a single file, concurrent writes race).
+concurrency:
+  group: fetch-images
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # We'll commit back, so we need full history + write access.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install
+
+      - name: Configure git
+        run: |
+          git config user.name "shared-image-cache bot"
+          git config user.email "actions@github.com"
+
+      - name: Fetch — MOH
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
+          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
+        run: |
+          npx tsx scripts/fetch.ts --project=moh --limit=${{ inputs.limit || '15' }} --commit
+
+      - name: Fetch — BESTMAN
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
+          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
+        run: |
+          npx tsx scripts/fetch.ts --project=bestman --limit=${{ inputs.limit || '40' }} --commit
+
+      - name: Fetch — TDF
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
+          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
+        run: |
+          npx tsx scripts/fetch.ts --project=tdf --limit=${{ inputs.limit || '35' }} --commit
+
+      - name: Print stats
+        run: npm run stats
