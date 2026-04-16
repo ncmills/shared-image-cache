@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T14:26:38.130Z",
+  "generatedAt": "2026-04-16T13:58:51.304Z",
   "projects": {
     "bestman": [
       {
@@ -1912,6 +1912,531 @@
         "fallbackQuery": "New York bar nightlife",
         "addedBy": "bestman",
         "label": "bestman/Montauk, NY — bars"
+      },
+      {
+        "key": "bestman/cities/knoxville-tn/lodging",
+        "query": "Knoxville TN vacation rental house pool",
+        "fallbackQuery": "Knoxville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Knoxville, TN — lodging"
+      },
+      {
+        "key": "bestman/cities/knoxville-tn/dining",
+        "query": "Knoxville TN steakhouse restaurant food",
+        "fallbackQuery": "Tennessee restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Knoxville, TN — dining"
+      },
+      {
+        "key": "bestman/cities/knoxville-tn/bars",
+        "query": "Knoxville TN rooftop bar nightlife",
+        "fallbackQuery": "Tennessee bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Knoxville, TN — bars"
+      },
+      {
+        "key": "bestman/cities/burlington-vt/lodging",
+        "query": "Burlington VT vacation rental house pool",
+        "fallbackQuery": "Burlington skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Burlington, VT — lodging"
+      },
+      {
+        "key": "bestman/cities/burlington-vt/dining",
+        "query": "Burlington VT steakhouse restaurant food",
+        "fallbackQuery": "Vermont restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Burlington, VT — dining"
+      },
+      {
+        "key": "bestman/cities/burlington-vt/bars",
+        "query": "Burlington VT rooftop bar nightlife",
+        "fallbackQuery": "Vermont bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Burlington, VT — bars"
+      },
+      {
+        "key": "bestman/cities/stowe-vt/lodging",
+        "query": "Stowe VT vacation rental house pool",
+        "fallbackQuery": "Stowe skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Stowe, VT — lodging"
+      },
+      {
+        "key": "bestman/cities/stowe-vt/dining",
+        "query": "Stowe VT steakhouse restaurant food",
+        "fallbackQuery": "Vermont restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Stowe, VT — dining"
+      },
+      {
+        "key": "bestman/cities/stowe-vt/bars",
+        "query": "Stowe VT rooftop bar nightlife",
+        "fallbackQuery": "Vermont bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Stowe, VT — bars"
+      },
+      {
+        "key": "bestman/cities/block-island-ri/lodging",
+        "query": "Block Island RI vacation rental house pool",
+        "fallbackQuery": "Block Island skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Block Island, RI — lodging"
+      },
+      {
+        "key": "bestman/cities/block-island-ri/dining",
+        "query": "Block Island RI steakhouse restaurant food",
+        "fallbackQuery": "Rhode Island restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Block Island, RI — dining"
+      },
+      {
+        "key": "bestman/cities/block-island-ri/bars",
+        "query": "Block Island RI rooftop bar nightlife",
+        "fallbackQuery": "Rhode Island bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Block Island, RI — bars"
+      },
+      {
+        "key": "bestman/cities/tucson-az/lodging",
+        "query": "Tucson AZ vacation rental house pool",
+        "fallbackQuery": "Tucson skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Tucson, AZ — lodging"
+      },
+      {
+        "key": "bestman/cities/tucson-az/dining",
+        "query": "Tucson AZ steakhouse restaurant food",
+        "fallbackQuery": "Arizona restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Tucson, AZ — dining"
+      },
+      {
+        "key": "bestman/cities/tucson-az/bars",
+        "query": "Tucson AZ rooftop bar nightlife",
+        "fallbackQuery": "Arizona bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Tucson, AZ — bars"
+      },
+      {
+        "key": "bestman/cities/flagstaff-az/lodging",
+        "query": "Flagstaff AZ vacation rental house pool",
+        "fallbackQuery": "Flagstaff skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Flagstaff, AZ — lodging"
+      },
+      {
+        "key": "bestman/cities/flagstaff-az/dining",
+        "query": "Flagstaff AZ steakhouse restaurant food",
+        "fallbackQuery": "Arizona restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Flagstaff, AZ — dining"
+      },
+      {
+        "key": "bestman/cities/flagstaff-az/bars",
+        "query": "Flagstaff AZ rooftop bar nightlife",
+        "fallbackQuery": "Arizona bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Flagstaff, AZ — bars"
+      },
+      {
+        "key": "bestman/cities/galena-il/lodging",
+        "query": "Galena IL vacation rental house pool",
+        "fallbackQuery": "Galena skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Galena, IL — lodging"
+      },
+      {
+        "key": "bestman/cities/galena-il/dining",
+        "query": "Galena IL steakhouse restaurant food",
+        "fallbackQuery": "Illinois restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Galena, IL — dining"
+      },
+      {
+        "key": "bestman/cities/galena-il/bars",
+        "query": "Galena IL rooftop bar nightlife",
+        "fallbackQuery": "Illinois bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Galena, IL — bars"
+      },
+      {
+        "key": "bestman/cities/cody-wy/lodging",
+        "query": "Cody WY vacation rental house pool",
+        "fallbackQuery": "Cody skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Cody, WY — lodging"
+      },
+      {
+        "key": "bestman/cities/cody-wy/dining",
+        "query": "Cody WY steakhouse restaurant food",
+        "fallbackQuery": "Wyoming restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Cody, WY — dining"
+      },
+      {
+        "key": "bestman/cities/cody-wy/bars",
+        "query": "Cody WY rooftop bar nightlife",
+        "fallbackQuery": "Wyoming bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Cody, WY — bars"
+      },
+      {
+        "key": "bestman/cities/provincetown-ma/lodging",
+        "query": "Provincetown MA vacation rental house pool",
+        "fallbackQuery": "Provincetown skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Provincetown, MA — lodging"
+      },
+      {
+        "key": "bestman/cities/provincetown-ma/dining",
+        "query": "Provincetown MA steakhouse restaurant food",
+        "fallbackQuery": "Massachusetts restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Provincetown, MA — dining"
+      },
+      {
+        "key": "bestman/cities/provincetown-ma/bars",
+        "query": "Provincetown MA rooftop bar nightlife",
+        "fallbackQuery": "Massachusetts bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Provincetown, MA — bars"
+      },
+      {
+        "key": "bestman/cities/greenville-sc/lodging",
+        "query": "Greenville SC vacation rental house pool",
+        "fallbackQuery": "Greenville skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Greenville, SC — lodging"
+      },
+      {
+        "key": "bestman/cities/greenville-sc/dining",
+        "query": "Greenville SC steakhouse restaurant food",
+        "fallbackQuery": "South Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Greenville, SC — dining"
+      },
+      {
+        "key": "bestman/cities/greenville-sc/bars",
+        "query": "Greenville SC rooftop bar nightlife",
+        "fallbackQuery": "South Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Greenville, SC — bars"
+      },
+      {
+        "key": "bestman/cities/lake-george-ny/lodging",
+        "query": "Lake George NY vacation rental house pool",
+        "fallbackQuery": "Lake George skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Lake George, NY — lodging"
+      },
+      {
+        "key": "bestman/cities/lake-george-ny/dining",
+        "query": "Lake George NY steakhouse restaurant food",
+        "fallbackQuery": "New York restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Lake George, NY — dining"
+      },
+      {
+        "key": "bestman/cities/lake-george-ny/bars",
+        "query": "Lake George NY rooftop bar nightlife",
+        "fallbackQuery": "New York bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Lake George, NY — bars"
+      },
+      {
+        "key": "bestman/cities/hot-springs-ar/lodging",
+        "query": "Hot Springs AR vacation rental house pool",
+        "fallbackQuery": "Hot Springs skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Hot Springs, AR — lodging"
+      },
+      {
+        "key": "bestman/cities/hot-springs-ar/dining",
+        "query": "Hot Springs AR steakhouse restaurant food",
+        "fallbackQuery": "Arkansas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Hot Springs, AR — dining"
+      },
+      {
+        "key": "bestman/cities/hot-springs-ar/bars",
+        "query": "Hot Springs AR rooftop bar nightlife",
+        "fallbackQuery": "Arkansas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Hot Springs, AR — bars"
+      },
+      {
+        "key": "bestman/cities/beaufort-sc/lodging",
+        "query": "Beaufort SC vacation rental house pool",
+        "fallbackQuery": "Beaufort skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Beaufort, SC — lodging"
+      },
+      {
+        "key": "bestman/cities/beaufort-sc/dining",
+        "query": "Beaufort SC steakhouse restaurant food",
+        "fallbackQuery": "South Carolina restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Beaufort, SC — dining"
+      },
+      {
+        "key": "bestman/cities/beaufort-sc/bars",
+        "query": "Beaufort SC rooftop bar nightlife",
+        "fallbackQuery": "South Carolina bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Beaufort, SC — bars"
+      },
+      {
+        "key": "bestman/cities/eureka-springs-ar/lodging",
+        "query": "Eureka Springs AR vacation rental house pool",
+        "fallbackQuery": "Eureka Springs skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Eureka Springs, AR — lodging"
+      },
+      {
+        "key": "bestman/cities/eureka-springs-ar/dining",
+        "query": "Eureka Springs AR steakhouse restaurant food",
+        "fallbackQuery": "Arkansas restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Eureka Springs, AR — dining"
+      },
+      {
+        "key": "bestman/cities/eureka-springs-ar/bars",
+        "query": "Eureka Springs AR rooftop bar nightlife",
+        "fallbackQuery": "Arkansas bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Eureka Springs, AR — bars"
+      },
+      {
+        "key": "bestman/cities/ocean-city-md/lodging",
+        "query": "Ocean City MD vacation rental house pool",
+        "fallbackQuery": "Ocean City skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Ocean City, MD — lodging"
+      },
+      {
+        "key": "bestman/cities/ocean-city-md/dining",
+        "query": "Ocean City MD steakhouse restaurant food",
+        "fallbackQuery": "Maryland restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Ocean City, MD — dining"
+      },
+      {
+        "key": "bestman/cities/ocean-city-md/bars",
+        "query": "Ocean City MD rooftop bar nightlife",
+        "fallbackQuery": "Maryland bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Ocean City, MD — bars"
+      },
+      {
+        "key": "bestman/cities/rehoboth-beach-de/lodging",
+        "query": "Rehoboth Beach DE vacation rental house pool",
+        "fallbackQuery": "Rehoboth Beach skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Rehoboth Beach, DE — lodging"
+      },
+      {
+        "key": "bestman/cities/rehoboth-beach-de/dining",
+        "query": "Rehoboth Beach DE steakhouse restaurant food",
+        "fallbackQuery": "Delaware restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Rehoboth Beach, DE — dining"
+      },
+      {
+        "key": "bestman/cities/rehoboth-beach-de/bars",
+        "query": "Rehoboth Beach DE rooftop bar nightlife",
+        "fallbackQuery": "Delaware bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Rehoboth Beach, DE — bars"
+      },
+      {
+        "key": "bestman/cities/door-county-wi/lodging",
+        "query": "Door County WI vacation rental house pool",
+        "fallbackQuery": "Door County skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Door County, WI — lodging"
+      },
+      {
+        "key": "bestman/cities/door-county-wi/dining",
+        "query": "Door County WI steakhouse restaurant food",
+        "fallbackQuery": "Wisconsin restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Door County, WI — dining"
+      },
+      {
+        "key": "bestman/cities/door-county-wi/bars",
+        "query": "Door County WI rooftop bar nightlife",
+        "fallbackQuery": "Wisconsin bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Door County, WI — bars"
+      },
+      {
+        "key": "bestman/cities/mackinac-island-mi/lodging",
+        "query": "Mackinac Island MI vacation rental house pool",
+        "fallbackQuery": "Mackinac Island skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Mackinac Island, MI — lodging"
+      },
+      {
+        "key": "bestman/cities/mackinac-island-mi/dining",
+        "query": "Mackinac Island MI steakhouse restaurant food",
+        "fallbackQuery": "Michigan restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Mackinac Island, MI — dining"
+      },
+      {
+        "key": "bestman/cities/mackinac-island-mi/bars",
+        "query": "Mackinac Island MI rooftop bar nightlife",
+        "fallbackQuery": "Michigan bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Mackinac Island, MI — bars"
+      },
+      {
+        "key": "bestman/cities/coeur-dalene-id/lodging",
+        "query": "Coeur d'Alene ID vacation rental house pool",
+        "fallbackQuery": "Coeur d'Alene skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Coeur d'Alene, ID — lodging"
+      },
+      {
+        "key": "bestman/cities/coeur-dalene-id/dining",
+        "query": "Coeur d'Alene ID steakhouse restaurant food",
+        "fallbackQuery": "Idaho restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Coeur d'Alene, ID — dining"
+      },
+      {
+        "key": "bestman/cities/coeur-dalene-id/bars",
+        "query": "Coeur d'Alene ID rooftop bar nightlife",
+        "fallbackQuery": "Idaho bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Coeur d'Alene, ID — bars"
+      },
+      {
+        "key": "bestman/cities/black-hills-sd/lodging",
+        "query": "Black Hills SD vacation rental house pool",
+        "fallbackQuery": "Black Hills skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Black Hills, SD — lodging"
+      },
+      {
+        "key": "bestman/cities/black-hills-sd/dining",
+        "query": "Black Hills SD steakhouse restaurant food",
+        "fallbackQuery": "South Dakota restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Black Hills, SD — dining"
+      },
+      {
+        "key": "bestman/cities/black-hills-sd/bars",
+        "query": "Black Hills SD rooftop bar nightlife",
+        "fallbackQuery": "South Dakota bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Black Hills, SD — bars"
+      },
+      {
+        "key": "bestman/cities/big-bear-lake-ca/lodging",
+        "query": "Big Bear Lake CA vacation rental house pool",
+        "fallbackQuery": "Big Bear Lake skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Big Bear Lake, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/big-bear-lake-ca/dining",
+        "query": "Big Bear Lake CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Big Bear Lake, CA — dining"
+      },
+      {
+        "key": "bestman/cities/big-bear-lake-ca/bars",
+        "query": "Big Bear Lake CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Big Bear Lake, CA — bars"
+      },
+      {
+        "key": "bestman/cities/gulfport-ms/lodging",
+        "query": "Gulfport MS vacation rental house pool",
+        "fallbackQuery": "Gulfport skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Gulfport, MS — lodging"
+      },
+      {
+        "key": "bestman/cities/gulfport-ms/dining",
+        "query": "Gulfport MS steakhouse restaurant food",
+        "fallbackQuery": "Mississippi restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Gulfport, MS — dining"
+      },
+      {
+        "key": "bestman/cities/gulfport-ms/bars",
+        "query": "Gulfport MS rooftop bar nightlife",
+        "fallbackQuery": "Mississippi bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Gulfport, MS — bars"
+      },
+      {
+        "key": "bestman/cities/branson-mo/lodging",
+        "query": "Branson MO vacation rental house pool",
+        "fallbackQuery": "Branson skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Branson, MO — lodging"
+      },
+      {
+        "key": "bestman/cities/branson-mo/dining",
+        "query": "Branson MO steakhouse restaurant food",
+        "fallbackQuery": "Missouri restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Branson, MO — dining"
+      },
+      {
+        "key": "bestman/cities/branson-mo/bars",
+        "query": "Branson MO rooftop bar nightlife",
+        "fallbackQuery": "Missouri bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Branson, MO — bars"
+      },
+      {
+        "key": "bestman/cities/lexington-ky/lodging",
+        "query": "Lexington KY vacation rental house pool",
+        "fallbackQuery": "Lexington skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Lexington, KY — lodging"
+      },
+      {
+        "key": "bestman/cities/lexington-ky/dining",
+        "query": "Lexington KY steakhouse restaurant food",
+        "fallbackQuery": "Kentucky restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Lexington, KY — dining"
+      },
+      {
+        "key": "bestman/cities/lexington-ky/bars",
+        "query": "Lexington KY rooftop bar nightlife",
+        "fallbackQuery": "Kentucky bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Lexington, KY — bars"
+      },
+      {
+        "key": "bestman/cities/mendocino-ca/lodging",
+        "query": "Mendocino CA vacation rental house pool",
+        "fallbackQuery": "Mendocino skyline night",
+        "addedBy": "bestman",
+        "label": "bestman/Mendocino, CA — lodging"
+      },
+      {
+        "key": "bestman/cities/mendocino-ca/dining",
+        "query": "Mendocino CA steakhouse restaurant food",
+        "fallbackQuery": "California restaurant food",
+        "addedBy": "bestman",
+        "label": "bestman/Mendocino, CA — dining"
+      },
+      {
+        "key": "bestman/cities/mendocino-ca/bars",
+        "query": "Mendocino CA rooftop bar nightlife",
+        "fallbackQuery": "California bar nightlife",
+        "addedBy": "bestman",
+        "label": "bestman/Mendocino, CA — bars"
       }
     ],
     "moh": [
@@ -2264,6 +2789,181 @@
         "fallbackQuery": "PR skyline pink sunset",
         "addedBy": "moh",
         "label": "moh/San Juan, PR"
+      },
+      {
+        "key": "moh/cities/knoxville-tn",
+        "query": "Knoxville TN rooftop bachelorette glam",
+        "fallbackQuery": "Tennessee skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Knoxville, TN"
+      },
+      {
+        "key": "moh/cities/burlington-vt",
+        "query": "Burlington VT rooftop bachelorette glam",
+        "fallbackQuery": "Vermont skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Burlington, VT"
+      },
+      {
+        "key": "moh/cities/stowe-vt",
+        "query": "Stowe VT rooftop bachelorette glam",
+        "fallbackQuery": "Vermont skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Stowe, VT"
+      },
+      {
+        "key": "moh/cities/block-island-ri",
+        "query": "Block Island RI rooftop bachelorette glam",
+        "fallbackQuery": "Rhode Island skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Block Island, RI"
+      },
+      {
+        "key": "moh/cities/tucson-az",
+        "query": "Tucson AZ rooftop bachelorette glam",
+        "fallbackQuery": "Arizona skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Tucson, AZ"
+      },
+      {
+        "key": "moh/cities/flagstaff-az",
+        "query": "Flagstaff AZ rooftop bachelorette glam",
+        "fallbackQuery": "Arizona skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Flagstaff, AZ"
+      },
+      {
+        "key": "moh/cities/galena-il",
+        "query": "Galena IL rooftop bachelorette glam",
+        "fallbackQuery": "Illinois skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Galena, IL"
+      },
+      {
+        "key": "moh/cities/cody-wy",
+        "query": "Cody WY rooftop bachelorette glam",
+        "fallbackQuery": "Wyoming skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Cody, WY"
+      },
+      {
+        "key": "moh/cities/provincetown-ma",
+        "query": "Provincetown MA rooftop bachelorette glam",
+        "fallbackQuery": "Massachusetts skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Provincetown, MA"
+      },
+      {
+        "key": "moh/cities/greenville-sc",
+        "query": "Greenville SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Greenville, SC"
+      },
+      {
+        "key": "moh/cities/lake-george-ny",
+        "query": "Lake George NY rooftop bachelorette glam",
+        "fallbackQuery": "New York skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Lake George, NY"
+      },
+      {
+        "key": "moh/cities/hot-springs-ar",
+        "query": "Hot Springs AR rooftop bachelorette glam",
+        "fallbackQuery": "Arkansas skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Hot Springs, AR"
+      },
+      {
+        "key": "moh/cities/beaufort-sc",
+        "query": "Beaufort SC rooftop bachelorette glam",
+        "fallbackQuery": "South Carolina skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Beaufort, SC"
+      },
+      {
+        "key": "moh/cities/eureka-springs-ar",
+        "query": "Eureka Springs AR rooftop bachelorette glam",
+        "fallbackQuery": "Arkansas skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Eureka Springs, AR"
+      },
+      {
+        "key": "moh/cities/ocean-city-md",
+        "query": "Ocean City MD rooftop bachelorette glam",
+        "fallbackQuery": "Maryland skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Ocean City, MD"
+      },
+      {
+        "key": "moh/cities/rehoboth-beach-de",
+        "query": "Rehoboth Beach DE rooftop bachelorette glam",
+        "fallbackQuery": "Delaware skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Rehoboth Beach, DE"
+      },
+      {
+        "key": "moh/cities/door-county-wi",
+        "query": "Door County WI rooftop bachelorette glam",
+        "fallbackQuery": "Wisconsin skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Door County, WI"
+      },
+      {
+        "key": "moh/cities/mackinac-island-mi",
+        "query": "Mackinac Island MI rooftop bachelorette glam",
+        "fallbackQuery": "Michigan skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Mackinac Island, MI"
+      },
+      {
+        "key": "moh/cities/coeur-dalene-id",
+        "query": "Coeur d'Alene ID rooftop bachelorette glam",
+        "fallbackQuery": "Idaho skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Coeur d'Alene, ID"
+      },
+      {
+        "key": "moh/cities/black-hills-sd",
+        "query": "Black Hills SD rooftop bachelorette glam",
+        "fallbackQuery": "South Dakota skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Black Hills, SD"
+      },
+      {
+        "key": "moh/cities/big-bear-lake-ca",
+        "query": "Big Bear Lake CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Big Bear Lake, CA"
+      },
+      {
+        "key": "moh/cities/gulfport-ms",
+        "query": "Gulfport MS rooftop bachelorette glam",
+        "fallbackQuery": "Mississippi skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Gulfport, MS"
+      },
+      {
+        "key": "moh/cities/branson-mo",
+        "query": "Branson MO rooftop bachelorette glam",
+        "fallbackQuery": "Missouri skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Branson, MO"
+      },
+      {
+        "key": "moh/cities/lexington-ky",
+        "query": "Lexington KY rooftop bachelorette glam",
+        "fallbackQuery": "Kentucky skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Lexington, KY"
+      },
+      {
+        "key": "moh/cities/mendocino-ca",
+        "query": "Mendocino CA rooftop bachelorette glam",
+        "fallbackQuery": "California skyline pink sunset",
+        "addedBy": "moh",
+        "label": "moh/Mendocino, CA"
       }
     ],
     "tdf": [
@@ -3979,5 +4679,5 @@
       }
     ]
   },
-  "totalQueries": 569
+  "totalQueries": 669
 }
