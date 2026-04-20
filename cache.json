@@ -132,7 +132,7 @@
   "bestman/cities/austin-tx/dining": {
     "url": "https://images.unsplash.com/photo-1629124838579-6e3d8dbab6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc1OTM4MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "person holding stainless steel spoon eating cooked food",
-    "photographerName": "Sangria Señorial",
+    "photographerName": "Sangria Se\u00f1orial",
     "photographerUrl": "https://unsplash.com/@sangriasenorial?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/person-holding-stainless-steel-spoon-eating-cooked-food-NX3rtjkX-E8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Austin TX steakhouse restaurant food",
@@ -442,7 +442,7 @@
   "bestman/cities/cartagena-co/bars": {
     "url": "https://images.unsplash.com/photo-1671240434571-a21d691f713b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2xvbWJpYSUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDI0NDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a colorful bag hanging from the side of a building",
-    "photographerName": "Gustavo Sánchez",
+    "photographerName": "Gustavo S\u00e1nchez",
     "photographerUrl": "https://unsplash.com/@gustavo0351?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/a-colorful-bag-hanging-from-the-side-of-a-building-mETRnfE3yQw?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Colombia bar nightlife",
@@ -701,7 +701,7 @@
   },
   "bestman/cities/denver-co/lodging": {
     "url": "https://images.unsplash.com/photo-1705575890268-7826a62990b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "A swimming pool and supply building made of huge shipping containers in the “Taxi” district of the RiNo – a neighborhood of Denver, Colorado",
+    "alt": "A swimming pool and supply building made of huge shipping containers in the \u201cTaxi\u201d district of the RiNo \u2013 a neighborhood of Denver, Colorado",
     "photographerName": "Carol Highsmith's America",
     "photographerUrl": "https://unsplash.com/@carolhighsmith?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/a-swimming-pool-and-supply-building-made-of-huge-shipping-containers-in-the-taxi-district-of-the-rino-a-neighborhood-of-denver-colorado-NmgA2BlSpd8?utm_source=shared_image_cache&utm_medium=referral",
@@ -1582,7 +1582,7 @@
   "bestman/cities/montauk-ny/lodging": {
     "url": "https://images.unsplash.com/photo-1656618387526-80ab7e9f5ef2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb250YXVrJTIwTlklMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzc2MTE1MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a building with a tower and a flag on top",
-    "photographerName": "Bernd 📷 Dittrich",
+    "photographerName": "Bernd \ud83d\udcf7 Dittrich",
     "photographerUrl": "https://unsplash.com/@hdbernd?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-tower-and-a-flag-on-top-PdQSB_o2SzA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Montauk NY vacation rental house pool",
@@ -2342,7 +2342,7 @@
   "bestman/cities/sedona-az/bars": {
     "url": "https://images.unsplash.com/photo-1720213802119-b260ec6d399f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAyMDU5NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A group of people sitting at a table under an umbrella",
-    "photographerName": "kilo 🐍",
+    "photographerName": "kilo \ud83d\udc0d",
     "photographerUrl": "https://unsplash.com/@cloudsarejoy?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-under-an-umbrella-uYfbwWwcx3c?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sedona AZ rooftop bar nightlife",
@@ -2836,36 +2836,6 @@
     "photographerUrl": "",
     "unsplashUrl": "",
     "query": "chris-chicago-illinois-the-king lodging",
-    "fetchedAt": "1970-01-01T00:00:00.000Z",
-    "addedBy": "bestman"
-  },
-  "bestman/showcases/dan-gatlinburg-tn-weekend-warrior/bars": {
-    "url": "https://images.unsplash.com/photo-1603224154349-2ec9c2ddd2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxMHx8T2xlJTIwU21va3klMjBNb29uc2hpbmUlMjBIb2xsZXIlMjBHYXRsaW5idXJnJTIwUGFya3dheSUyMHRhc3Rpbmd8ZW58MHwwfHx8MTc3NTg2NTEwNHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "bars for dan-gatlinburg-tn-weekend-warrior",
-    "photographerName": "",
-    "photographerUrl": "",
-    "unsplashUrl": "",
-    "query": "dan-gatlinburg-tn-weekend-warrior bars",
-    "fetchedAt": "1970-01-01T00:00:00.000Z",
-    "addedBy": "bestman"
-  },
-  "bestman/showcases/dan-gatlinburg-tn-weekend-warrior/dining": {
-    "url": "https://images.unsplash.com/photo-1633642582912-d939cf98e4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTJDJTIwVE4lMjByZXN0YXVyYW50JTIwZm9vZHxlbnwwfDB8fHwxNzc1ODY1MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "dining for dan-gatlinburg-tn-weekend-warrior",
-    "photographerName": "",
-    "photographerUrl": "",
-    "unsplashUrl": "",
-    "query": "dan-gatlinburg-tn-weekend-warrior dining",
-    "fetchedAt": "1970-01-01T00:00:00.000Z",
-    "addedBy": "bestman"
-  },
-  "bestman/showcases/dan-gatlinburg-tn-weekend-warrior/lodging": {
-    "url": "https://images.unsplash.com/photo-1644865460006-11d3706bd709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTJDJTIwVE4lMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlfGVufDB8MHx8fDE3NzU4NjUwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "lodging for dan-gatlinburg-tn-weekend-warrior",
-    "photographerName": "",
-    "photographerUrl": "",
-    "unsplashUrl": "",
-    "query": "dan-gatlinburg-tn-weekend-warrior lodging",
     "fetchedAt": "1970-01-01T00:00:00.000Z",
     "addedBy": "bestman"
   },
@@ -3372,7 +3342,7 @@
   "moh/cities/austin-tx": {
     "url": "https://images.unsplash.com/photo-1629123399455-173cc3c7f168?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMTkxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "man and woman standing beside railings during daytime",
-    "photographerName": "Sangria Señorial",
+    "photographerName": "Sangria Se\u00f1orial",
     "photographerUrl": "https://unsplash.com/@sangriasenorial?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/man-and-woman-standing-beside-railings-during-daytime-GQa2rYrNd-k?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Austin TX rooftop bachelorette glam",
@@ -3662,7 +3632,7 @@
   "moh/cities/newport-ri": {
     "url": "https://images.unsplash.com/photo-1631666589183-15e1b88d8d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUkklMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a woman standing on a rocky beach next to the ocean",
-    "photographerName": "Jacqueline Beaulé",
+    "photographerName": "Jacqueline Beaul\u00e9",
     "photographerUrl": "https://unsplash.com/@jacquelinebeaule?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/a-woman-standing-on-a-rocky-beach-next-to-the-ocean-5A8dgPKc8sc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Newport RI rooftop bachelorette glam",
@@ -4392,7 +4362,7 @@
   "tdf/destinations/amelia-island-fl": {
     "url": "https://images.unsplash.com/photo-1758464643876-76d6eb6ea262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBbWVsaWElMjBJc2xhbmQlMjBGTCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODY5NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Vast grassy plain under a cloudy blue sky",
-    "photographerName": "𝕡𝕒𝕨𝕤 𝕒𝕟𝕕 𝕡𝕣𝕚𝕟𝕥𝕤",
+    "photographerName": "\ud835\udd61\ud835\udd52\ud835\udd68\ud835\udd64 \ud835\udd52\ud835\udd5f\ud835\udd55 \ud835\udd61\ud835\udd63\ud835\udd5a\ud835\udd5f\ud835\udd65\ud835\udd64",
     "photographerUrl": "https://unsplash.com/@paws_and_prints?utm_source=shared_image_cache&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/vast-grassy-plain-under-a-cloudy-blue-sky-yXpq-33JLQU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Amelia Island FL landscape",
@@ -4732,7 +4702,7 @@
   "tdf/destinations/door-county-wi": {
     "url": "https://images.unsplash.com/photo-1621973876569-6765ad50fe83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwV0klMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2MjA3OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown concrete wall near body of water during daytime",
-    "photographerName": "Salomé Guruli",
+    "photographerName": "Salom\u00e9 Guruli",
     "photographerUrl": "https://unsplash.com/@sguruli?utm_source=tour_de_fore&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/brown-concrete-wall-near-body-of-water-during-daytime-ame1JHlm2jI?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Door County WI landscape",
@@ -5442,7 +5412,7 @@
   "tdf/destinations/sandpoint-id": {
     "url": "https://images.unsplash.com/photo-1567595746947-3f281458b289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW5kcG9pbnQlMjBJRCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown sand near beach",
-    "photographerName": "Mário Rui André",
+    "photographerName": "M\u00e1rio Rui Andr\u00e9",
     "photographerUrl": "https://unsplash.com/@mruiandre?utm_source=tour_de_fore&utm_medium=referral",
     "unsplashUrl": "https://unsplash.com/photos/brown-sand-near-beach-9PWTV5ZcTpc?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Sandpoint ID landscape",
@@ -5708,5 +5678,35 @@
     "query": "Williamsburg VA landscape",
     "fetchedAt": "2026-04-11T01:06:19.487Z",
     "addedBy": "tdf"
+  },
+  "bestman/showcases/dan-gatlinburg-tennessee-weekend-warrior/bars": {
+    "url": "https://images.unsplash.com/photo-1603224154349-2ec9c2ddd2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxMHx8T2xlJTIwU21va3klMjBNb29uc2hpbmUlMjBIb2xsZXIlMjBHYXRsaW5idXJnJTIwUGFya3dheSUyMHRhc3Rpbmd8ZW58MHwwfHx8MTc3NTg2NTEwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bars for dan-gatlinburg-tennessee-weekend-warrior",
+    "photographerName": "",
+    "photographerUrl": "",
+    "unsplashUrl": "",
+    "query": "dan-gatlinburg-tennessee-weekend-warrior bars",
+    "fetchedAt": "1970-01-01T00:00:00.000Z",
+    "addedBy": "bestman"
+  },
+  "bestman/showcases/dan-gatlinburg-tennessee-weekend-warrior/dining": {
+    "url": "https://images.unsplash.com/photo-1633642582912-d939cf98e4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTJDJTIwVE4lMjByZXN0YXVyYW50JTIwZm9vZHxlbnwwfDB8fHwxNzc1ODY1MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "dining for dan-gatlinburg-tennessee-weekend-warrior",
+    "photographerName": "",
+    "photographerUrl": "",
+    "unsplashUrl": "",
+    "query": "dan-gatlinburg-tennessee-weekend-warrior dining",
+    "fetchedAt": "1970-01-01T00:00:00.000Z",
+    "addedBy": "bestman"
+  },
+  "bestman/showcases/dan-gatlinburg-tennessee-weekend-warrior/lodging": {
+    "url": "https://images.unsplash.com/photo-1644865460006-11d3706bd709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyOTF8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTJDJTIwVE4lMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlfGVufDB8MHx8fDE3NzU4NjUwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "lodging for dan-gatlinburg-tennessee-weekend-warrior",
+    "photographerName": "",
+    "photographerUrl": "",
+    "unsplashUrl": "",
+    "query": "dan-gatlinburg-tennessee-weekend-warrior lodging",
+    "fetchedAt": "1970-01-01T00:00:00.000Z",
+    "addedBy": "bestman"
   }
 }
