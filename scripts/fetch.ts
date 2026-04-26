@@ -23,6 +23,10 @@ import {
   searchUnsplash,
   UnsplashRateLimitError,
 } from "../lib/unsplash";
+import {
+  searchPexels,
+  PexelsRateLimitError,
+} from "../lib/pexels";
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
 import { getTdfQueries } from "./queries/tdf";
 import { getBestmanQueries } from "./queries/bestman";
@@ -130,6 +134,16 @@ async function main() {
   }
   console.log(`  Using ${keys.length} Unsplash key${keys.length > 1 ? "s" : ""} (round-robin pool)`);
 
+  // Pexels — optional second source (free 200 req/hr, 20K/mo). When set,
+  // fires only after Unsplash primary + fallbackQuery both miss. Drop
+  // PEXELS_API_KEY=... in .env.local; key sign-up is free at
+  // https://www.pexels.com/api/.
+  const pexelsKey = env.PEXELS_API_KEY || process.env.PEXELS_API_KEY || null;
+  let pexelsRemaining = 200; // optimistic — pexels reports actual via header
+  if (pexelsKey) {
+    console.log(`  Pexels secondary source enabled (rate-limited tracking via header)`);
+  }
+
   const args = parseArgs();
   const cache = loadCache();
 
@@ -190,14 +204,44 @@ async function main() {
         }
       }
 
+      // Tier 3: Pexels fallback — only if both Unsplash queries returned
+      // nothing AND a Pexels key is configured. Pexels has a different
+      // photo library so often resolves where Unsplash didn't, breaking
+      // duplicate-photo collisions on generic fallback queries.
+      let usedPexels = false;
+      if (!result.entry && pexelsKey && pexelsRemaining > 5) {
+        await sleep(SLEEP_MS);
+        try {
+          const pex = await searchPexels(item.fallbackQuery || item.query, pexelsKey);
+          if (pex.entry) {
+            // Inject `result` shape compatibility — Pexels entry already
+            // matches Omit<CacheEntry, "addedBy"> per pexels.ts.
+            result = { entry: pex.entry, ratelimitRemaining: result.ratelimitRemaining };
+            usedPexels = true;
+          }
+          if (!Number.isNaN(pex.ratelimitRemaining)) {
+            pexelsRemaining = pex.ratelimitRemaining;
+          }
+        } catch (err) {
+          if (err instanceof PexelsRateLimitError) {
+            console.log(`  ⚠ Pexels rate-limited; disabling for the rest of this run`);
+            pexelsRemaining = 0;
+          } else {
+            console.error(`  Pexels error on "${item.query}":`, err instanceof Error ? err.message : err);
+          }
+        }
+      }
+
       if (result.entry) {
         const entry: CacheEntry = { ...result.entry, addedBy: item.addedBy };
         cache[item.key] = entry;
         added++;
-        const tag = usedFallback ? "↻" : "✓";
+        const tag = usedPexels ? "⊕" : usedFallback ? "↻" : "✓";
+        const sourceLabel = usedPexels ? `pexels: ${pexelsRemaining} left` : `${result.ratelimitRemaining} left`;
         console.log(
-          `  [${processed}/${batch.length}] ${item.label || item.key} ${tag} (${result.ratelimitRemaining} left)` +
-            (usedFallback ? `  fallback: "${item.fallbackQuery}"` : ""),
+          `  [${processed}/${batch.length}] ${item.label || item.key} ${tag} (${sourceLabel})` +
+            (usedFallback && !usedPexels ? `  fallback: "${item.fallbackQuery}"` : "") +
+            (usedPexels ? `  via Pexels` : ""),
         );
       } else {
         console.log(
