@@ -61,7 +61,11 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/lodging`,
       query: `${dest.city} ${dest.state} vacation rental house pool`,
-      fallbackQuery: `${dest.city} skyline night`,
+      // Fallback: city-specific architecture descriptor (was the generic
+      // `${dest.city} skyline night`, which collapsed nearby cities to the
+      // same skyline photo). Updated 2026-04-26 dedup pass to break those
+      // collisions while staying city-grounded.
+      fallbackQuery: `${dest.city} downtown architecture historic`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — lodging`,
     });
@@ -70,7 +74,9 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/dining`,
       query: `${dest.city} ${dest.state} steakhouse restaurant food`,
-      fallbackQuery: `${stateName} restaurant food`,
+      // Fallback: city-specific (was `${stateName} restaurant food` which
+      // collapsed all Texas cities to the same Austin BBQ photo).
+      fallbackQuery: `${dest.city} chef tasting menu interior`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — dining`,
     });
@@ -79,17 +85,20 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/bars`,
       query: `${dest.city} ${dest.state} rooftop bar nightlife`,
-      fallbackQuery: `${stateName} bar nightlife`,
+      // Fallback: city-specific (was `${stateName} bar nightlife` which
+      // served the same photo to 7 California + 6 Texas cities).
+      fallbackQuery: `${dest.city} cocktail lounge speakeasy interior`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — bars`,
     });
 
-    // Activities hero — covers the "What to Do" section. Added 2026-04-26
-    // to close the 96 missing activities entries across the cache.
+    // Activities hero — covers the "What to Do" section.
     queries.push({
       key: `bestman/cities/${dest.id}/activities`,
       query: `${dest.city} ${dest.state} adventure outdoor sport`,
-      fallbackQuery: `${stateName} outdoor adventure landscape`,
+      // Fallback: city-specific (was `${stateName} outdoor adventure
+      // landscape` — too generic).
+      fallbackQuery: `${dest.city} outdoor recreation landscape`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — activities`,
     });

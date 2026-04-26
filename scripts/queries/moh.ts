@@ -50,15 +50,18 @@ export async function getMohQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `moh/cities/${dest.id}`,
       query: `${dest.city} ${dest.state} rooftop bachelorette glam`,
-      fallbackQuery: `${stateName} skyline pink sunset`,
+      // Fallback: city-specific scene (was `${stateName} skyline pink
+      // sunset` which collapsed 4 California cities to the same photo).
+      // Updated 2026-04-26 dedup pass.
+      fallbackQuery: `${dest.city} historic district golden hour`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state}`,
     });
 
     // Category fan-out — added 2026-04-26 to mirror the BESTMAN HQ
-    // bars/dining/lodging/activities split. Closes the MOH category gap
-    // where every city used the same photo regardless of what section
-    // was rendering.
+    // bars/dining/lodging/activities split. All fallbacks are now
+    // city-specific (was state-level; collapsed nearby cities to the
+    // same photo). Updated 2026-04-26 dedup pass.
     queries.push({
       key: `moh/cities/${dest.id}/lodging`,
       query: `${dest.city} ${dest.state} boutique hotel bachelorette suite`,
@@ -69,21 +72,21 @@ export async function getMohQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `moh/cities/${dest.id}/dining`,
       query: `${dest.city} ${dest.state} editorial restaurant brunch`,
-      fallbackQuery: `${stateName} restaurant farm-to-table`,
+      fallbackQuery: `${dest.city} farm-to-table tasting menu`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — dining`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/bars`,
       query: `${dest.city} ${dest.state} cocktail bar pink sunset`,
-      fallbackQuery: `${stateName} cocktail bar interior`,
+      fallbackQuery: `${dest.city} cocktail lounge speakeasy interior`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — bars`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/activities`,
       query: `${dest.city} ${dest.state} spa wellness retreat`,
-      fallbackQuery: `${stateName} wellness retreat outdoor`,
+      fallbackQuery: `${dest.city} wellness outdoor scene`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — activities`,
     });
