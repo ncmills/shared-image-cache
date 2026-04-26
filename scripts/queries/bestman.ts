@@ -83,6 +83,16 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — bars`,
     });
+
+    // Activities hero — covers the "What to Do" section. Added 2026-04-26
+    // to close the 96 missing activities entries across the cache.
+    queries.push({
+      key: `bestman/cities/${dest.id}/activities`,
+      query: `${dest.city} ${dest.state} adventure outdoor sport`,
+      fallbackQuery: `${stateName} outdoor adventure landscape`,
+      addedBy: "bestman",
+      label: `bestman/${dest.city}, ${dest.state} — activities`,
+    });
   }
 
   return queries;

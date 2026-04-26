@@ -43,12 +43,49 @@ export async function getMohQueries(): Promise<QueryItem[]> {
 
   for (const dest of allDestinations) {
     const stateName = STATE_NAMES[dest.state] || dest.state;
+
+    // City-level hero (legacy single-photo key — kept for backward-compat
+    // with existing consumers; will be deprecated once category fan-out
+    // is fully populated below).
     queries.push({
       key: `moh/cities/${dest.id}`,
       query: `${dest.city} ${dest.state} rooftop bachelorette glam`,
       fallbackQuery: `${stateName} skyline pink sunset`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state}`,
+    });
+
+    // Category fan-out — added 2026-04-26 to mirror the BESTMAN HQ
+    // bars/dining/lodging/activities split. Closes the MOH category gap
+    // where every city used the same photo regardless of what section
+    // was rendering.
+    queries.push({
+      key: `moh/cities/${dest.id}/lodging`,
+      query: `${dest.city} ${dest.state} boutique hotel bachelorette suite`,
+      fallbackQuery: `${dest.city} luxury hotel pool`,
+      addedBy: "moh",
+      label: `moh/${dest.city}, ${dest.state} — lodging`,
+    });
+    queries.push({
+      key: `moh/cities/${dest.id}/dining`,
+      query: `${dest.city} ${dest.state} editorial restaurant brunch`,
+      fallbackQuery: `${stateName} restaurant farm-to-table`,
+      addedBy: "moh",
+      label: `moh/${dest.city}, ${dest.state} — dining`,
+    });
+    queries.push({
+      key: `moh/cities/${dest.id}/bars`,
+      query: `${dest.city} ${dest.state} cocktail bar pink sunset`,
+      fallbackQuery: `${stateName} cocktail bar interior`,
+      addedBy: "moh",
+      label: `moh/${dest.city}, ${dest.state} — bars`,
+    });
+    queries.push({
+      key: `moh/cities/${dest.id}/activities`,
+      query: `${dest.city} ${dest.state} spa wellness retreat`,
+      fallbackQuery: `${stateName} wellness retreat outdoor`,
+      addedBy: "moh",
+      label: `moh/${dest.city}, ${dest.state} — activities`,
     });
   }
 
