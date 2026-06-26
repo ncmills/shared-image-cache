@@ -4289,6 +4289,16 @@
     "fetchedAt": "2026-06-26T17:58:54.861Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/gather-greene": {
+    "url": "https://images.unsplash.com/photo-1763743289996-ab72739d0180?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYXRoZXIlMjBHcmVlbmUlMjBIdWRzb24lMjBWYWxsZXklMjBjYWJpbnMlMjBwYXZpbGlvbiUyMGZvcmVzdHxlbnwxfDB8fHwxNzgyNDk4MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Rustic wooden shelter with green roof in autumn forest",
+    "photographerName": "Richard Burlton",
+    "photographerUrl": "https://unsplash.com/@richardworks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/rustic-wooden-shelter-with-green-roof-in-autumn-forest-yftl3DfQDok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gather Greene Hudson Valley cabins pavilion forest",
+    "fetchedAt": "2026-06-26T18:20:56.577Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/gleneagles": {
     "url": "https://images.unsplash.com/photo-1761900072552-357b6b7ca270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxjb3VudHJ5c2lkZSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNDk2NjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Lush green lawn with a large tree and distant hills.",
@@ -4409,6 +4419,16 @@
     "fetchedAt": "2026-06-26T17:59:14.417Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/hidden-pond-auberge": {
+    "url": "https://images.unsplash.com/photo-1601122797924-c9d98279621a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIaWRkZW4lMjBQb25kJTIwQXViZXJnZSUyMEtlbm5lYnVua3BvcnQlMjBNYWluZSUyMGJ1bmdhbG93cyUyMGJpcmNofGVufDF8MHx8fDE3ODI0OTgwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near body of water during daytime",
+    "photographerName": "Chris Jones",
+    "photographerUrl": "https://unsplash.com/@chrisjones59?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-e4BMcUasopc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hidden Pond Auberge Kennebunkport Maine bungalows birch",
+    "fetchedAt": "2026-06-26T18:20:58.090Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/holiday-club-saariselka-lapland": {
     "url": "https://images.unsplash.com/photo-1674973543867-b7c3864ca853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYWFyaXNlbGthJTIwTGFwbGFuZCUyMGxha2VzaWRlJTIwbG9kZ2UlMjBub3J0aGVybiUyMGxpZ2h0cyUyMEZpbmxhbmR8ZW58MXwwfHx8MTc4MjQ5NjgzMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a log cabin in the middle of a snowy forest",
@@ -4497,6 +4517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-gray-rock-formation-under-white-sky-during-daytime-Y0Xk-pvCw9s?utm_source=shared_image_cache&utm_medium=referral",
     "query": "desert corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T18:03:14.092Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/kauri-cliffs-lodge": {
+    "url": "https://images.unsplash.com/photo-1622695712230-1408d054c9c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLYXVyaSUyMENsaWZmcyUyMGdvbGYlMjBjbGlmZnRvcCUyMFBhY2lmaWMlMjBOb3J0aGxhbmR8ZW58MXwwfHx8MTc4MjQ5ODAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near body of water during daytime",
+    "photographerName": "Cristina Glebova",
+    "photographerUrl": "https://unsplash.com/@cristina_glebova?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-body-of-water-during-daytime-UpYZ_lr8mi4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kauri Cliffs golf clifftop Pacific Northland",
+    "fetchedAt": "2026-06-26T18:20:37.403Z",
     "addedBy": "offsite"
   },
   "offsite/venues/kempinski-das-tirol-kitzbuhel": {
@@ -4607,6 +4637,16 @@
     "unsplashUrl": "https://unsplash.com/photos/photography-of-lake-surrounded-by-green-trees-f3WAMssIKjc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "lake corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T17:59:58.909Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/margaret-river-bunker-bay-cluster": {
+    "url": "https://images.unsplash.com/photo-1684442470448-982390b3acfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYXJnYXJldCUyMFJpdmVyJTIwQnVua2VyJTIwQmF5JTIwdmluZXlhcmQlMjBzdXJmJTIwY29hc3R8ZW58MXwwfHx8MTc4MjQ5ODA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large body of water near a small island",
+    "photographerName": "Kathleen Banks",
+    "photographerUrl": "https://unsplash.com/@kitkatlandscapes?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-near-a-small-island-0h2KOlfkGck?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Margaret River Bunker Bay vineyard surf coast",
+    "fetchedAt": "2026-06-26T18:20:47.564Z",
     "addedBy": "offsite"
   },
   "offsite/venues/marques-de-riscal": {
@@ -4737,6 +4777,26 @@
     "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-gray-rock-formation-under-white-sky-during-daytime-Y0Xk-pvCw9s?utm_source=shared_image_cache&utm_medium=referral",
     "query": "desert corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T18:03:41.101Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/qualia-hamilton-island": {
+    "url": "https://images.unsplash.com/photo-1494918913717-47991c5f4031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxpc2xhbmQlMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjQ5NjkyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bird's eye view photo of island",
+    "photographerName": "Jakob Owens",
+    "photographerUrl": "https://unsplash.com/@jakobowens1?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/birds-eye-view-photo-of-island-TOKJ6zP2sr0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "island corporate retreat venue landscape",
+    "fetchedAt": "2026-06-26T18:20:44.357Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/queenstown-rees-eichardts-cluster": {
+    "url": "https://images.unsplash.com/photo-1512017615494-fdf6146235ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxRdWVlbnN0b3duJTIwTGFrZSUyMFdha2F0aXB1JTIwRWljaGFyZHQlMjdzJTIwd2F0ZXJmcm9udHxlbnwxfDB8fHwxNzgyNDk4MDQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photography of white houses near body of water under white clouds at daytime",
+    "photographerName": "Michael Amadeus",
+    "photographerUrl": "https://unsplash.com/@fifthperspective?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-white-houses-near-body-of-water-under-white-clouds-at-daytime-W47UMydgshw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Queenstown Lake Wakatipu Eichardt's waterfront",
+    "fetchedAt": "2026-06-26T18:20:41.738Z",
     "addedBy": "offsite"
   },
   "offsite/venues/quinta-da-comporta": {
@@ -4887,6 +4947,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-riding-on-the-back-of-a-safari-vehicle-0z4ZI9fdQiM?utm_source=shared_image_cache&utm_medium=referral",
     "query": "safari corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T18:02:48.147Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/saffire-freycinet": {
+    "url": "https://images.unsplash.com/photo-1446038202205-1c96430dbdab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxjb2FzdGFsJTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHZlbnVlJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI0OTY4NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "ocean view during daytime",
+    "photographerName": "Ian Schneider",
+    "photographerUrl": "https://unsplash.com/@goian?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/ocean-view-during-daytime-XJfHMPJ0e-g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "coastal corporate retreat venue landscape",
+    "fetchedAt": "2026-06-26T18:20:51.821Z",
     "addedBy": "offsite"
   },
   "offsite/venues/sagamore-lake-george": {
@@ -5077,6 +5147,16 @@
     "unsplashUrl": "https://unsplash.com/photos/photography-of-lake-surrounded-by-green-trees-f3WAMssIKjc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "lake corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T18:00:24.108Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/spicers-hunter-valley-cluster": {
+    "url": "https://images.unsplash.com/photo-1664970925595-90402bf3fbcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTcGljZXJzJTIwVmluZXlhcmRzJTIwRXN0YXRlJTIwSHVudGVyJTIwVmFsbGV5JTIwY2VsbGFyJTIwZG9vciUyMHZpbmVzfGVufDF8MHx8fDE3ODI0OTgwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "rows of plants in a field",
+    "photographerName": "Arie Oldman",
+    "photographerUrl": "https://unsplash.com/@arizard?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/rows-of-plants-in-a-field-EQRTs_I9Jq8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Spicers Vineyards Estate Hunter Valley cellar door vines",
+    "fetchedAt": "2026-06-26T18:20:45.879Z",
     "addedBy": "offsite"
   },
   "offsite/venues/st-regis-punta-mita": {
