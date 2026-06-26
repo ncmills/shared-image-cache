@@ -86,5 +86,13 @@ jobs:
         run: |
           npx tsx scripts/fetch.ts --project=tdf --limit=${{ inputs.limit || '35' }} --commit
 
+      - name: Fetch — OFFSITE
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
+          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
+        run: |
+          npx tsx scripts/fetch.ts --project=offsite --limit=${{ inputs.limit || '30' }} --commit
+
       - name: Print stats
         run: npm run stats

@@ -1,0 +1,72 @@
+name: Daily Unsplash max-out
+
+# A dedicated daily agent that pushes the shared cache toward completeness at
+# the MAXIMUM utilization the Unsplash API allows in a single window.
+#
+# Rate math (demo tier): each key = 50 requests/hour. We pool 3 keys
+# (round-robined per request) = ~150 requests/hour of headroom. The fetcher
+# round-robins keys and stops on its own at RATELIMIT_FLOOR, so a single
+# `--limit=150` pass consumes essentially the entire hourly budget and then
+# exits cleanly — the most images we can legally pull in one run.
+#
+# This runs ALL projects (no --project filter): the queue auto-skips
+# already-cached keys, so whatever is newest/most-incomplete (currently the
+# offsite backfill of ~337 entries) is filled first. Over consecutive days it
+# converges the whole cache, then idles ("nothing to fetch") cheaply.
+#
+# Complements fetch-images.yml (every-2h incremental top-up). Shares the
+# `fetch-images` concurrency group so the two never race on cache.json.
+
+on:
+  schedule:
+    # 09:13 UTC daily (off the :00 contention window).
+    - cron: '13 9 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max queries this run (≈ full hourly budget across 3 keys)'
+        required: false
+        default: '150'
+
+concurrency:
+  group: fetch-images
+  cancel-in-progress: false
+
+jobs:
+  maxout:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install
+
+      - name: Configure git
+        run: |
+          git config user.name "shared-image-cache bot"
+          git config user.email "actions@github.com"
+
+      - name: Fetch — ALL projects, max budget
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
+          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          npx tsx scripts/fetch.ts --limit=${{ inputs.limit || '150' }} --commit
+
+      - name: Print stats
+        run: npm run stats

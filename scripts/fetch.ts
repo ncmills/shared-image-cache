@@ -29,6 +29,7 @@ import {
 } from "../lib/pexels";
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
 import { getTdfQueries } from "./queries/tdf";
+import { getOffsiteQueries } from "./queries/offsite";
 import { getBestmanQueries } from "./queries/bestman";
 import { getMohQueries } from "./queries/moh";
 
@@ -158,6 +159,9 @@ async function main() {
   }
   if (!args.project || args.project === "moh") {
     allQueries.push(...(await getMohQueries()));
+  }
+  if (!args.project || args.project === "offsite") {
+    allQueries.push(...(await getOffsiteQueries()));
   }
 
   // Filter out already-cached entries

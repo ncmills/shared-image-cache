@@ -18,6 +18,7 @@ import type { QueryItem } from "../lib/types";
 import { getBestmanQueries } from "./queries/bestman";
 import { getMohQueries } from "./queries/moh";
 import { getTdfQueries } from "./queries/tdf";
+import { getOffsiteQueries } from "./queries/offsite";
 
 const SNAPSHOT_PATH = resolve(__dirname, "..", "queries.snapshot.json");
 
@@ -34,6 +35,7 @@ async function main() {
     bestman: await getBestmanQueries(),
     moh: await getMohQueries(),
     tdf: await getTdfQueries(),
+    offsite: await getOffsiteQueries(),
   };
 
   let total = 0;
