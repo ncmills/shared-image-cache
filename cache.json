@@ -3299,6 +3299,46 @@
     "fetchedAt": "2026-04-12T19:04:38.360Z",
     "addedBy": "moh"
   },
+  "moh/cities/key-west-fl": {
+    "url": "https://images.unsplash.com/photo-1757029379203-4f8689329087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwaGlzdG9yaWMlMjBkaXN0cmljdCUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4Mjc3NDg3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Cars parked along a street lined with palm trees.",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-along-a-street-lined-with-palm-trees-kKynV_4hbto?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West historic district golden hour",
+    "fetchedAt": "2026-06-29T23:14:34.440Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/key-west-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1696175204668-63d770ef0b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRkwlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4Mjc3NDg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of surfboards sitting on top of a sandy beach",
+    "photographerName": "Thomas Besseling",
+    "photographerUrl": "https://unsplash.com/@thomasbesseling?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-surfboards-sitting-on-top-of-a-sandy-beach-msLbwl2vm4k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West FL spa wellness retreat",
+    "fetchedAt": "2026-06-29T23:14:41.203Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/key-west-fl/bars": {
+    "url": "https://images.unsplash.com/photo-1757175800238-4803dc797b01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRkwlMjBjb2NrdGFpbCUyMGJhciUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc4Mjc3NDg3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Sailboats on the ocean at sunset",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/sailboats-on-the-ocean-at-sunset-IrCDZ9ngn3M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West FL cocktail bar pink sunset",
+    "fetchedAt": "2026-06-29T23:14:39.828Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/key-west-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1746586860685-a804ac6e3f9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRkwlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI3NzQ4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Shrimp cocktail, cocktails, and seafood.",
+    "photographerName": "Kevin Torres",
+    "photographerUrl": "https://unsplash.com/@kevintorres?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/shrimp-cocktail-cocktails-and-seafood-gX3Hs8kqZyU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West FL editorial restaurant brunch",
+    "fetchedAt": "2026-06-29T23:14:38.427Z",
+    "addedBy": "moh"
+  },
   "moh/cities/lake-tahoe-ca": {
     "url": "https://images.unsplash.com/photo-1516570379421-c7bd617e8db0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMjA2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "landscape of seashore",
@@ -3399,6 +3439,16 @@
     "fetchedAt": "2026-06-29T17:35:22.707Z",
     "addedBy": "moh"
   },
+  "moh/cities/napa-valley-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1648293639607-8183379d7841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ0ElMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4Mjc3NDg4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room with a couch a bed and a flat screen tv",
+    "photographerName": "Andrea Davis",
+    "photographerUrl": "https://unsplash.com/@andreaedavis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-a-bed-and-a-flat-screen-tv-6l5JsuIv3Z0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley CA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-29T23:14:45.400Z",
+    "addedBy": "moh"
+  },
   "moh/cities/nashville-tn": {
     "url": "https://images.unsplash.com/photo-1666648126154-058fbf61dcd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZW5uZXNzZWUlMjBza3lsaW5lJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzc1ODY1NzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of the mountains and the sky",
@@ -3497,6 +3547,26 @@
     "unsplashUrl": "https://unsplash.com/photos/ornate-buildings-line-a-city-street-with-street-signs-N8IHBN9uWew?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New York City historic district golden hour",
     "fetchedAt": "2026-06-29T21:43:20.849Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/new-york-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1546436836-07a91091f160?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyME5ZJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI3NzQ4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Empire State building",
+    "photographerName": "Emiliano Bar",
+    "photographerUrl": "https://unsplash.com/@emilianobar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/empire-state-building-kheTI8pIywU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York City NY spa wellness retreat",
+    "fetchedAt": "2026-06-29T23:14:31.749Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/new-york-ny/bars": {
+    "url": "https://images.unsplash.com/photo-1747617569207-aa428f83e4d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyME5ZJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODI3NzQ4NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A pink sunset over new york city.",
+    "photographerName": "DJ",
+    "photographerUrl": "https://unsplash.com/@djthoms?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pink-sunset-over-new-york-city-J3-j4i_JYEc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York City NY cocktail bar pink sunset",
+    "fetchedAt": "2026-06-29T23:14:30.295Z",
     "addedBy": "moh"
   },
   "moh/cities/new-york-ny/dining": {
