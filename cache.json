@@ -5909,6 +5909,16 @@
     "fetchedAt": "2026-04-26T17:23:46.403Z",
     "addedBy": "tdf"
   },
+  "tdf/bachelorParty/louisville-ky": {
+    "url": "https://images.unsplash.com/photo-1763518186257-e679dc84976e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMb3Vpc3ZpbGxlJTIwbmlnaHRsaWZlJTIwc2t5bGluZXxlbnwxfDB8fHwxNzgyNzUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "City skyline at dusk with illuminated buildings",
+    "photographerName": "Chris Marlin",
+    "photographerUrl": "https://unsplash.com/@mitchbagnet?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-at-dusk-with-illuminated-buildings-A9LoLmADuRk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Louisville nightlife skyline",
+    "fetchedAt": "2026-06-29T16:41:54.840Z",
+    "addedBy": "tdf"
+  },
   "tdf/bachelorParty/madison-wi": {
     "url": "https://images.unsplash.com/photo-1668232295546-c8bd49625f4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXaXNjb25zaW4lMjBkb3dudG93biUyMG5pZ2h0fGVufDF8MHx8fDE3NzcyMTM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a traffic light in front of a large building",
@@ -6319,6 +6329,36 @@
     "fetchedAt": "2026-04-26T14:27:27.259Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/acme-mi": {
+    "url": "https://images.unsplash.com/photo-1746347319314-3b215761c973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBY21lJTIwTUklMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A beautiful garden path leads to rolling hills.",
+    "photographerName": "Declan Sun",
+    "photographerUrl": "https://unsplash.com/@declansun?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beautiful-garden-path-leads-to-rolling-hills-_5GB3bFTnwM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Acme MI landscape",
+    "fetchedAt": "2026-06-29T16:40:29.084Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/aiken-sc": {
+    "url": "https://images.unsplash.com/photo-1596203542547-45c3581b1cb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBaWtlbiUyMFNDJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near body of water during daytime",
+    "photographerName": "Emily Grace Corley",
+    "photographerUrl": "https://unsplash.com/@eg_corley?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-_DTixsU7jxs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aiken SC landscape",
+    "fetchedAt": "2026-06-29T16:40:00.478Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/akron-oh": {
+    "url": "https://images.unsplash.com/photo-1767764448309-9868d01fdace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBa3JvbiUyME9IJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Lone tree in a field at sunset",
+    "photographerName": "Sean Conroy",
+    "photographerUrl": "https://unsplash.com/@shizzzle?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/lone-tree-in-a-field-at-sunset-qqnH5IyhUlw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Akron OH landscape",
+    "fetchedAt": "2026-06-29T16:40:30.357Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/albuquerque-nm": {
     "url": "https://images.unsplash.com/photo-1600988192144-bf022cf7db01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBbGJ1cXVlcnF1ZSUyME5NJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NTgyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "black metal window frame during daytime",
@@ -6329,6 +6369,16 @@
     "fetchedAt": "2026-04-10T21:58:05.923Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/algarve-portugal": {
+    "url": "https://images.unsplash.com/photo-1559315542-780c225b5239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBbGdhcnZlJTIwUG9ydHVnYWwlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "rock mountains near seashore",
+    "photographerName": "Paula Sotomayor",
+    "photographerUrl": "https://unsplash.com/@sotomayorpau?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/rock-mountains-near-seashore-1nmvU_SpGuM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Algarve Portugal landscape",
+    "fetchedAt": "2026-06-29T16:39:49.755Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/amelia-island-fl": {
     "url": "https://images.unsplash.com/photo-1758464643876-76d6eb6ea262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBbWVsaWElMjBJc2xhbmQlMjBGTCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODY5NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Vast grassy plain under a cloudy blue sky",
@@ -6337,6 +6387,16 @@
     "unsplashUrl": "https://unsplash.com/photos/vast-grassy-plain-under-a-cloudy-blue-sky-yXpq-33JLQU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Amelia Island FL landscape",
     "fetchedAt": "2026-04-11T01:05:59.401Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/aptos-ca": {
+    "url": "https://images.unsplash.com/photo-1701489232332-1c3417cbe116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBcHRvcyUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEzMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a mountain range with a lake in the foreground",
+    "photographerName": "Donna Elliot",
+    "photographerUrl": "https://unsplash.com/@peakdancer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-a-lake-in-the-foreground-KOaZj83ZRTg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aptos CA landscape",
+    "fetchedAt": "2026-06-29T16:41:47.190Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/asheville-nc": {
@@ -6359,6 +6419,26 @@
     "fetchedAt": "2026-04-26T17:22:44.673Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/auburn-opelika-al": {
+    "url": "https://images.unsplash.com/photo-1646328655173-08b9dc1cfea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBbGFiYW1hJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a rocky landscape with mountains in the background",
+    "photographerName": "Lisha Riabinina",
+    "photographerUrl": "https://unsplash.com/@weekendtripcreator?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-rocky-landscape-with-mountains-in-the-background-JlATZ86a8ak?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Alabama landscape",
+    "fetchedAt": "2026-06-29T16:40:05.827Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/augusta-ga": {
+    "url": "https://images.unsplash.com/photo-1587832084732-aaa3c2982638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdWd1c3RhJTIwR0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white dandelion in close up photography",
+    "photographerName": "Luis Morera",
+    "photographerUrl": "https://unsplash.com/@luismorerat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-dandelion-in-close-up-photography-DFA39WIp8Hs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Augusta GA landscape",
+    "fetchedAt": "2026-06-29T16:40:14.782Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/austin-tx": {
     "url": "https://images.unsplash.com/photo-1651262516388-be71a36dcdc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODY5NjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a bridge over a river",
@@ -6367,6 +6447,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-river-dsucxlU9Xxg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Austin TX landscape",
     "fetchedAt": "2026-04-11T01:06:51.310Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bakersfield-ca": {
+    "url": "https://images.unsplash.com/photo-1605063482908-7e4ee5d5a0b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCYWtlcnNmaWVsZCUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden fence on green grass field during daytime",
+    "photographerName": "Javier Haro",
+    "photographerUrl": "https://unsplash.com/@capturedbyjavi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-fence-on-green-grass-field-during-daytime-IiVutAC39k4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bakersfield CA landscape",
+    "fetchedAt": "2026-06-29T16:41:43.145Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/ballybunion-southwest-ireland": {
+    "url": "https://images.unsplash.com/photo-1511219096939-ce77f5f44cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCYWxseWJ1bmlvbiUyMElyZWxhbmQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photo of plains",
+    "photographerName": "Nils Nedel",
+    "photographerUrl": "https://unsplash.com/@nilsnedel?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photo-of-plains-FauBUuNPq5k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Ballybunion Ireland landscape",
+    "fetchedAt": "2026-06-29T16:39:43.227Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/bandon-or": {
@@ -6399,6 +6499,16 @@
     "fetchedAt": "2026-04-11T03:09:44.290Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/bay-harbor-mi": {
+    "url": "https://images.unsplash.com/photo-1616499062101-3a7e34488ae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNaWNoaWdhbiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown grass field near body of water during daytime",
+    "photographerName": "Adam Bouse",
+    "photographerUrl": "https://unsplash.com/@adambouse?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-grass-field-near-body-of-water-during-daytime-d6e8U8myhWs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Michigan landscape",
+    "fetchedAt": "2026-06-29T16:40:27.797Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/bend-or": {
     "url": "https://images.unsplash.com/photo-1634590764920-00866b6a8e73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg1ODI5MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a river running through a forest filled with lots of trees",
@@ -6407,6 +6517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-forest-filled-with-lots-of-trees-vEcsm1FduG4?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Bend OR landscape",
     "fetchedAt": "2026-04-10T21:58:10.884Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bentonville-ar": {
+    "url": "https://images.unsplash.com/photo-1600442716034-40e3e96baa2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW50b252aWxsZSUyMEFSJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and black concrete building",
+    "photographerName": "Karsten Winegeart",
+    "photographerUrl": "https://unsplash.com/@_karsten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-black-concrete-building-ZV6VAKLsrpw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bentonville AR landscape",
+    "fetchedAt": "2026-06-29T16:41:30.350Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/berkshires-ma": {
@@ -6439,6 +6559,46 @@
     "fetchedAt": "2026-04-11T01:06:07.094Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/birmingham-al": {
+    "url": "https://images.unsplash.com/photo-1440582096070-fa5961d9d682?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaXJtaW5naGFtJTIwQUwlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "landscape photography of cityscape by water",
+    "photographerName": "Zachary Farmer",
+    "photographerUrl": "https://unsplash.com/@z?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/landscape-photography-of-cityscape-by-water-TkunxoS98q0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Birmingham AL landscape",
+    "fetchedAt": "2026-06-29T16:40:03.292Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bismarck-nd": {
+    "url": "https://images.unsplash.com/photo-1646288160085-3427e685fa01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCaXNtYXJjayUyME5EJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a body of water surrounded by a forest",
+    "photographerName": "Robin St",
+    "photographerUrl": "https://unsplash.com/@cinematicgraphics?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-a-forest-6U_l4VdufFc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bismarck ND landscape",
+    "fetchedAt": "2026-06-29T16:40:40.731Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bloomington-in": {
+    "url": "https://images.unsplash.com/photo-1621431735623-95fcba6b89ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbG9vbWluZ3RvbiUyMElOJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field under blue sky during daytime",
+    "photographerName": "Aaron Shafer",
+    "photographerUrl": "https://unsplash.com/@aaronaa?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-AY3FP_cebFs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bloomington IN landscape",
+    "fetchedAt": "2026-06-29T16:40:36.888Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bluffton-sc": {
+    "url": "https://images.unsplash.com/photo-1728420118171-a146b1419746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbHVmZnRvbiUyMFNDJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A long wooden bridge over a body of water",
+    "photographerName": "natalie",
+    "photographerUrl": "https://unsplash.com/@ddotjpg?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-long-wooden-bridge-over-a-body-of-water-CCw8lAXGE2s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bluffton SC landscape",
+    "fetchedAt": "2026-06-29T16:39:59.110Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/boise-id": {
     "url": "https://images.unsplash.com/photo-1661368120626-63ce17e84b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElEJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NTgyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a hill with trees and water below",
@@ -6447,6 +6607,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-hill-with-trees-and-water-below-uub1Y1GGzZg?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Boise ID landscape",
     "fetchedAt": "2026-04-10T21:58:15.964Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/boulder-city-nv": {
+    "url": "https://images.unsplash.com/photo-1578546609384-4984fec3e74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3VsZGVyJTIwQ2l0eSUyME5WJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "dirt road during day",
+    "photographerName": "Wesley Tingey",
+    "photographerUrl": "https://unsplash.com/@wesleyphotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/dirt-road-during-day-ptSJZoEjp3M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boulder City NV landscape",
+    "fetchedAt": "2026-06-29T16:41:00.466Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/bowling-green-ky": {
+    "url": "https://images.unsplash.com/photo-1596279152537-3cefe721191e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3dsaW5nJTIwR3JlZW4lMjBLWSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "yellow ball on green grass field",
+    "photographerName": "Alan Miller",
+    "photographerUrl": "https://unsplash.com/@pan2000?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/yellow-ball-on-green-grass-field-3ubjGu0zwEE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bowling Green KY landscape",
+    "fetchedAt": "2026-06-29T16:41:31.652Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/bozeman-mt": {
@@ -6499,6 +6679,16 @@
     "fetchedAt": "2026-04-11T01:06:36.287Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/brewster-wa": {
+    "url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water near trees during daytime",
+    "photographerName": "Andy He",
+    "photographerUrl": "https://unsplash.com/@andy_hehe?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-near-trees-during-daytime-PuJc2Sodi94?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington landscape",
+    "fetchedAt": "2026-06-29T16:41:35.414Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/burlington-vt": {
     "url": "https://images.unsplash.com/photo-1666830868340-62e1d025ee08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2OTU5OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a city from a hill",
@@ -6539,6 +6729,36 @@
     "fetchedAt": "2026-04-11T01:06:41.160Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/carlsbad-ca": {
+    "url": "https://images.unsplash.com/photo-1647881806727-cbf60c4ecd5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJsc2JhZCUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a close up of a flower on a tree",
+    "photographerName": "Samantha Fortney",
+    "photographerUrl": "https://unsplash.com/@goldencoastgrams?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-tree-mqa_L0sKwfk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carlsbad CA landscape",
+    "fetchedAt": "2026-06-29T16:39:37.808Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/carmel-ca": {
+    "url": "https://images.unsplash.com/photo-1745907429376-95a4b3455435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Beautiful beach scene at sunset.",
+    "photographerName": "Erick Morales Oyola",
+    "photographerUrl": "https://unsplash.com/@ejmoralesoyola?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/beautiful-beach-scene-at-sunset-WRpReb4x1rw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea CA landscape",
+    "fetchedAt": "2026-06-29T16:39:20.637Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/carrabassett-valley-me": {
+    "url": "https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXJyYWJhc3NldHQlMjBWYWxsZXklMjBNRSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "mountain covered with green grass",
+    "photographerName": "Claudel Rheault",
+    "photographerUrl": "https://unsplash.com/@claudelrheault?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carrabassett Valley ME landscape",
+    "fetchedAt": "2026-06-29T16:41:21.119Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/catskills-ny": {
     "url": "https://images.unsplash.com/photo-1677180823298-f8faa61986f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXRza2lsbHMlMjBOWSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODY5NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an aerial view of a river surrounded by trees",
@@ -6547,6 +6767,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-river-surrounded-by-trees-tCHvWv7wtCw?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Catskills NY landscape",
     "fetchedAt": "2026-04-11T01:06:34.997Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/cedar-city-ut": {
+    "url": "https://images.unsplash.com/photo-1624290709889-2ee23907ea4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDZWRhciUyMENpdHklMjBVVCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and green mountains under blue sky and white clouds during daytime",
+    "photographerName": "emptypokts ..",
+    "photographerUrl": "https://unsplash.com/@emptypockts?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-green-mountains-under-blue-sky-and-white-clouds-during-daytime-Qa-CMwq7OuU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cedar City UT landscape",
+    "fetchedAt": "2026-06-29T16:40:59.171Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/charleston-sc": {
@@ -6579,6 +6809,16 @@
     "fetchedAt": "2026-04-10T23:01:23.649Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/cle-elum-wa": {
+    "url": "https://images.unsplash.com/photo-1446482972539-0ed52b3e9520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDbGUlMjBFbHVtJTIwV0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "photo of tall green trees within mountain range",
+    "photographerName": "Paul Summers",
+    "photographerUrl": "https://unsplash.com/@somonesummers?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/photo-of-tall-green-trees-within-mountain-range-CqBjlUs6t50?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cle Elum WA landscape",
+    "fetchedAt": "2026-06-29T16:41:36.691Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/cody-wy": {
     "url": "https://images.unsplash.com/photo-1557622221-c99eb181ba43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV1klMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2MjA2MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green grass field",
@@ -6609,6 +6849,16 @@
     "fetchedAt": "2026-04-10T21:58:44.521Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/columbus-ga": {
+    "url": "https://images.unsplash.com/photo-1593865409468-2fa73ca58cf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHZW9yZ2lhJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green mountains under white clouds during daytime",
+    "photographerName": "Ben Dutton",
+    "photographerUrl": "https://unsplash.com/@benjamiindutton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-mountains-under-white-clouds-during-daytime-koCRYAPR2-0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Georgia landscape",
+    "fetchedAt": "2026-06-29T16:40:13.544Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/columbus-oh": {
     "url": "https://images.unsplash.com/photo-1722964439336-cad53a03ec6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyME9IJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NjIwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A body of water surrounded by trees and rocks",
@@ -6629,6 +6879,36 @@
     "fetchedAt": "2026-04-11T01:06:39.939Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/corpus-christi-tx": {
+    "url": "https://images.unsplash.com/photo-1747837816663-42895d650793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb3JwdXMlMjBDaHJpc3RpJTIwVFglMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "People enjoy a sunny day at the beach.",
+    "photographerName": "Hameen Reynolds",
+    "photographerUrl": "https://unsplash.com/@hameen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-enjoy-a-sunny-day-at-the-beach-nC8rXxksMWM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Corpus Christi TX landscape",
+    "fetchedAt": "2026-06-29T16:41:29.105Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/costa-del-sol-spain": {
+    "url": "https://images.unsplash.com/photo-1686058858158-63c5e49fdf21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb3N0YSUyMGRlbCUyMFNvbCUyMFNwYWluJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a street lined with palm trees next to a beach",
+    "photographerName": "Lucia P.",
+    "photographerUrl": "https://unsplash.com/@luciapolla?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-street-lined-with-palm-trees-next-to-a-beach-y7Y2YBbJGic?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Costa del Sol Spain landscape",
+    "fetchedAt": "2026-06-29T16:39:51.014Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/crested-butte-co": {
+    "url": "https://images.unsplash.com/photo-1622979358300-68884045fa62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDcmVzdGVkJTIwQnV0dGUlMjBDTyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field under blue sky during daytime",
+    "photographerName": "Samuel Field",
+    "photographerUrl": "https://unsplash.com/@s_giovanni?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-OyamzdtPqfw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Crested Butte CO landscape",
+    "fetchedAt": "2026-06-29T16:40:44.658Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/dallas-fort-worth-tx": {
     "url": "https://images.unsplash.com/photo-1770845386652-a25048712823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEYWxsYXMtRm9ydCUyMFdvcnRoJTIwVFglMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2OTYxMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Empty park bench overlooks a cemetery in winter",
@@ -6637,6 +6917,16 @@
     "unsplashUrl": "https://unsplash.com/photos/empty-park-bench-overlooks-a-cemetery-in-winter-Bn_s-fpIqVY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Dallas-Fort Worth TX landscape",
     "fetchedAt": "2026-04-11T01:06:52.555Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/dayton-oh": {
+    "url": "https://images.unsplash.com/photo-1603720670419-bf4684bcf36e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEYXl0b24lMjBPSCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and blue basketball hoop on green grass field during daytime",
+    "photographerName": "Michael Bowman",
+    "photographerUrl": "https://unsplash.com/@bowmanmc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-blue-basketball-hoop-on-green-grass-field-during-daytime-SbAAgieOKeY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dayton OH landscape",
+    "fetchedAt": "2026-06-29T16:40:32.938Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/deadwood-sd": {
@@ -6679,6 +6969,16 @@
     "fetchedAt": "2026-04-10T23:01:18.960Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/dublin-oh": {
+    "url": "https://images.unsplash.com/photo-1767764448309-9868d01fdace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPaGlvJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Lone tree in a field at sunset",
+    "photographerName": "Sean Conroy",
+    "photographerUrl": "https://unsplash.com/@shizzzle?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/lone-tree-in-a-field-at-sunset-qqnH5IyhUlw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Ohio landscape",
+    "fetchedAt": "2026-06-29T16:40:35.560Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/duluth-mn": {
     "url": "https://images.unsplash.com/photo-1609817742023-ddc9ddb60a8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEdWx1dGglMjBNTiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white and black lighthouse covered by snow",
@@ -6699,6 +6999,26 @@
     "fetchedAt": "2026-04-10T21:58:35.501Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/edwards-co": {
+    "url": "https://images.unsplash.com/photo-1746347319314-3b215761c973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxFZHdhcmRzJTIwQ08lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A beautiful garden path leads to rolling hills.",
+    "photographerName": "Declan Sun",
+    "photographerUrl": "https://unsplash.com/@declansun?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beautiful-garden-path-leads-to-rolling-hills-_5GB3bFTnwM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Edwards CO landscape",
+    "fetchedAt": "2026-06-29T16:40:43.331Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/erin-hills-wi": {
+    "url": "https://images.unsplash.com/photo-1523829949029-7e28e82aa713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxFcmluJTIwSGlsbHMlMjBXSSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "photo of green grass field",
+    "photographerName": "Chris Barbalis",
+    "photographerUrl": "https://unsplash.com/@cbarbalis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/photo-of-green-grass-field-doicC_ATzkQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Erin Hills WI landscape",
+    "fetchedAt": "2026-06-29T16:40:21.320Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/eugene-or": {
     "url": "https://images.unsplash.com/photo-1595350576575-e481a38122bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPUiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green and brown trees under blue sky during daytime",
@@ -6707,6 +7027,16 @@
     "unsplashUrl": "https://unsplash.com/photos/green-and-brown-trees-under-blue-sky-during-daytime-cfsl3CPQUlI?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Eugene OR landscape",
     "fetchedAt": "2026-04-10T21:58:26.288Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/farmington-pa": {
+    "url": "https://images.unsplash.com/photo-1595190490656-8e3037da0d3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQZW5uc3lsdmFuaWElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near lake under blue sky during daytime",
+    "photographerName": "Foto Phanatic",
+    "photographerUrl": "https://unsplash.com/@j_b_foto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-lake-under-blue-sky-during-daytime-oQf2-KqYEwM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Pennsylvania landscape",
+    "fetchedAt": "2026-06-29T16:41:09.867Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/finger-lakes-ny": {
@@ -6727,6 +7057,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-long-road-with-a-cloudy-sky-in-the-background-YCxlN6lpfBc?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Flagstaff AZ landscape",
     "fetchedAt": "2026-04-10T21:58:01.098Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/florence-shoals-al": {
+    "url": "https://images.unsplash.com/photo-1516186366443-0744a82bffef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGbG9yZW5jZSUyMEFMJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water between buildings during daytime",
+    "photographerName": "Giuseppe Mondì",
+    "photographerUrl": "https://unsplash.com/@masinutoscana?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-between-buildings-during-daytime-gEUXp5iFYNw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Florence AL landscape",
+    "fetchedAt": "2026-06-29T16:40:08.330Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/fort-collins-co": {
@@ -6759,6 +7099,16 @@
     "fetchedAt": "2026-04-10T23:01:12.002Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/frisco-tx": {
+    "url": "https://images.unsplash.com/photo-1623620961449-7a982d6d2eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGcmlzY28lMjBUWCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and red water tank under blue sky during daytime",
+    "photographerName": "Nancy Jo Lambert",
+    "photographerUrl": "https://unsplash.com/@nancyjolambert?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-red-water-tank-under-blue-sky-during-daytime-b0VHSmn4IyA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Frisco TX landscape",
+    "fetchedAt": "2026-06-29T16:41:26.210Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/galena-il": {
     "url": "https://images.unsplash.com/photo-1531513903732-f1613c3aad88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxJbGxpbm9pcyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "river flowing between high-rise buildings during daytime photo",
@@ -6779,6 +7129,16 @@
     "fetchedAt": "2026-04-26T17:22:45.899Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/gaylord-mi": {
+    "url": "https://images.unsplash.com/photo-1494187570835-b188e7f0f26e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHYXlsb3JkJTIwTUklMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass fiels",
+    "photographerName": "Dawid Zawiła",
+    "photographerUrl": "https://unsplash.com/@davealmine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-fiels-9d33wIMMzoE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gaylord MI landscape",
+    "fetchedAt": "2026-06-29T16:40:24.071Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/gig-harbor-wa": {
     "url": "https://images.unsplash.com/photo-1662371256693-040cd35c0956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHaWclMjBIYXJib3IlMjBXQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a dock with boats on it",
@@ -6787,6 +7147,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-dock-with-boats-on-it-mTfHqf1c4cA?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Gig Harbor WA landscape",
     "fetchedAt": "2026-04-10T21:58:29.979Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/gleneden-beach-or": {
+    "url": "https://images.unsplash.com/photo-1659695089569-1dd183fa5aaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHbGVuZWRlbiUyMEJlYWNoJTIwT1IlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach with blue water",
+    "photographerName": "Mariko Akagi",
+    "photographerUrl": "https://unsplash.com/@marikoa888?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-with-blue-water-K5znWBYPk-Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gleneden Beach OR landscape",
+    "fetchedAt": "2026-06-29T16:41:38.050Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/glenwood-springs-co": {
@@ -6799,6 +7169,16 @@
     "fetchedAt": "2026-04-10T23:00:56.820Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/grand-junction-co": {
+    "url": "https://images.unsplash.com/photo-1706050662976-18a6e63b4b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHcmFuZCUyMEp1bmN0aW9uJTIwQ08lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a valley and mountains",
+    "photographerName": "Jeff Heaton",
+    "photographerUrl": "https://unsplash.com/@heatonthetrail?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-valley-and-mountains-EBgaJ8Rpcag?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Grand Junction CO landscape",
+    "fetchedAt": "2026-06-29T16:40:45.955Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/grand-rapids-mi": {
     "url": "https://images.unsplash.com/photo-1691431815539-157a129f9562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHcmFuZCUyMFJhcGlkcyUyME1JJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NjIwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a close up of a tree branch with leaves",
@@ -6809,6 +7189,36 @@
     "fetchedAt": "2026-04-10T23:01:17.205Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/green-lake-wi": {
+    "url": "https://images.unsplash.com/photo-1709172299509-c781ff1c947a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHcmVlbiUyMExha2UlMjBXSSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a horse standing in a field with a body of water in the background",
+    "photographerName": "Ted Balmer",
+    "photographerUrl": "https://unsplash.com/@midkiffaries?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-horse-standing-in-a-field-with-a-body-of-water-in-the-background-ksZHSa6Z1F8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Green Lake WI landscape",
+    "fetchedAt": "2026-06-29T16:40:22.754Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/greensboro-nc": {
+    "url": "https://images.unsplash.com/photo-1620826057607-45e23652e4a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHcmVlbnNib3JvJTIwTkMlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass near body of water during daytime",
+    "photographerName": "Elijah Mears",
+    "photographerUrl": "https://unsplash.com/@elijahjmears?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-near-body-of-water-during-daytime-eNHSGl0_JTk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Greensboro NC landscape",
+    "fetchedAt": "2026-06-29T16:40:09.621Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/greenville-sc": {
+    "url": "https://images.unsplash.com/photo-1594145330793-deddb0ae1cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHcmVlbnZpbGxlJTIwU0MlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field under blue sky during daytime",
+    "photographerName": "Jonathan Hanna",
+    "photographerUrl": "https://unsplash.com/@funnelhead?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-cDDlPKr8vBU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Greenville SC landscape",
+    "fetchedAt": "2026-06-29T16:40:01.769Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/gulf-shores-al": {
     "url": "https://images.unsplash.com/photo-1773600480912-74cbff1aa438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHdWxmJTIwU2hvcmVzJTIwQUwlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2MjEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Sunset over a calm ocean with reflection",
@@ -6817,6 +7227,26 @@
     "unsplashUrl": "https://unsplash.com/photos/sunset-over-a-calm-ocean-with-reflection-kd7dYpdmAmk?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Gulf Shores AL landscape",
     "fetchedAt": "2026-04-10T23:01:40.975Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/gullane-east-lothian-scotland": {
+    "url": "https://images.unsplash.com/photo-1551801691-f0bce83d4f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHdWxsYW5lJTIwU2NvdGxhbmQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass on mountain under white cloudy sky",
+    "photographerName": "Bjorn Snelders",
+    "photographerUrl": "https://unsplash.com/@bjorns?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-on-mountain-under-white-cloudy-sky-Cd3Ek7rNXSk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gullane Scotland landscape",
+    "fetchedAt": "2026-06-29T16:39:41.782Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/half-moon-bay-ca": {
+    "url": "https://images.unsplash.com/photo-1554107088-063e5a601c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIYWxmJTIwTW9vbiUyMEJheSUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photography of green field near body of water at daytime",
+    "photographerName": "Tareq Ismail",
+    "photographerUrl": "https://unsplash.com/@tareqismail?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-green-field-near-body-of-water-at-daytime-jWuQPtNN8VY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Half Moon Bay CA landscape",
+    "fetchedAt": "2026-06-29T16:39:35.071Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/harbor-springs-petoskey-mi": {
@@ -6899,6 +7329,16 @@
     "fetchedAt": "2026-04-11T01:06:43.618Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/hutchinson-ks": {
+    "url": "https://images.unsplash.com/photo-1622979358300-68884045fa62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIdXRjaGluc29uJTIwS1MlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field under blue sky during daytime",
+    "photographerName": "Samuel Field",
+    "photographerUrl": "https://unsplash.com/@s_giovanni?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-OyamzdtPqfw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hutchinson KS landscape",
+    "fetchedAt": "2026-06-29T16:40:39.467Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/indianapolis-in": {
     "url": "https://images.unsplash.com/photo-1663467221843-960a7d60d443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxJbmRpYW5hcG9saXMlMjBJTiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large building with a large lawn",
@@ -6959,6 +7399,16 @@
     "fetchedAt": "2026-04-10T23:01:38.375Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/knoxville-tn": {
+    "url": "https://images.unsplash.com/photo-1609772110904-4a4a02051d62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUTiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "snow covered trees during daytime",
+    "photographerName": "Nick Pryde",
+    "photographerUrl": "https://unsplash.com/@nicholaspryde?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/snow-covered-trees-during-daytime-Jfgno4WZZxo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville TN landscape",
+    "fetchedAt": "2026-06-29T16:40:16.088Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/kohler-wi": {
     "url": "https://images.unsplash.com/photo-1627931257267-ca2fd78387fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaXNjb25zaW4lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2MjA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "silhouette of mountain during sunset",
@@ -6977,6 +7427,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-houses-on-a-hill-in-the-background-a3bRp3dxWRk?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Lake Geneva WI landscape",
     "fetchedAt": "2026-04-10T23:01:10.752Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/lake-george-ny": {
+    "url": "https://images.unsplash.com/photo-1613492676474-0dfbd4ecfa52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYWtlJTIwR2VvcmdlJTIwTlklMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of island during daytime",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-island-during-daytime-TbrP4ONZlTE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake George NY landscape",
+    "fetchedAt": "2026-06-29T16:41:17.168Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/lake-havasu-city-az": {
@@ -7007,6 +7467,16 @@
     "unsplashUrl": "https://unsplash.com/photos/snow-covered-trees-line-a-calm-lake-under-a-cloudy-sky-0_alZTuQlVo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Lake Placid NY landscape",
     "fetchedAt": "2026-04-11T01:06:18.155Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/las-cruces-nm": {
+    "url": "https://images.unsplash.com/photo-1751924769522-f10f5e331c9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYXMlMjBDcnVjZXMlMjBOTSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A path leads through the grassy hills.",
+    "photographerName": "Sav Sewell",
+    "photographerUrl": "https://unsplash.com/@savsewell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-leads-through-the-grassy-hills-rb4XV3D036k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Cruces NM landscape",
+    "fetchedAt": "2026-06-29T16:41:04.699Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/las-vegas-nv": {
@@ -7059,6 +7529,36 @@
     "fetchedAt": "2026-04-11T03:09:40.579Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/long-island-ny": {
+    "url": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "panoramic photography of Brooklyn Bridge",
+    "photographerName": "Luca Bravo",
+    "photographerUrl": "https://unsplash.com/@lucabravo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/panoramic-photography-of-brooklyn-bridge-_QdFx92MO2U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York landscape",
+    "fetchedAt": "2026-06-29T16:41:13.633Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/los-angeles-ca": {
+    "url": "https://images.unsplash.com/flagged/photo-1575555201693-7cd442b8023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green palm tree and city view",
+    "photographerName": "Cedric Letsch",
+    "photographerUrl": "https://unsplash.com/@cedricletsch?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-palm-tree-and-city-view-UZVlSjrIJ3o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles CA landscape",
+    "fetchedAt": "2026-06-29T16:39:28.529Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/los-cabos-mexico": {
+    "url": "https://images.unsplash.com/photo-1580846629083-02669741360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3MlMjBDYWJvcyUyME1leGljbyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rock formation on sea under blue sky during daytime",
+    "photographerName": "Victoria Bragg",
+    "photographerUrl": "https://unsplash.com/@toritimephotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-on-sea-under-blue-sky-during-daytime-A3yGqGbILao?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Cabos Mexico landscape",
+    "fetchedAt": "2026-06-29T16:39:47.162Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/louisville-ky": {
     "url": "https://images.unsplash.com/photo-1580170584445-d11be60f833d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3Vpc3ZpbGxlJTIwS1klMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg3Njk3MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green trees and green grass during daytime",
@@ -7079,6 +7579,26 @@
     "fetchedAt": "2026-04-10T23:01:21.010Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/manchester-vt": {
+    "url": "https://images.unsplash.com/photo-1599008938301-61c4e98bdd6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxWZXJtb250JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees and green grass field near body of water during daytime",
+    "photographerName": "KADM Creations",
+    "photographerUrl": "https://unsplash.com/@kadm_creations?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-and-green-grass-field-near-body-of-water-during-daytime-8JmXXZWt7EA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Vermont landscape",
+    "fetchedAt": "2026-06-29T16:41:23.672Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/marana-az": {
+    "url": "https://images.unsplash.com/photo-1643568186105-b9d56813453a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXJhbmElMjBBWiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large cloud is in the sky above a field",
+    "photographerName": "Quin Bizek",
+    "photographerUrl": "https://unsplash.com/@happilyquin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-cloud-is-in-the-sky-above-a-field-SdXniuEiPd4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Marana AZ landscape",
+    "fetchedAt": "2026-06-29T16:40:53.718Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/marquette-mi": {
     "url": "https://images.unsplash.com/photo-1760371461443-5d62d5f3352c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXJxdWV0dGUlMjBNSSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Close-up of colorful pebbles and rocks on the ground.",
@@ -7089,6 +7609,16 @@
     "fetchedAt": "2026-04-10T23:01:29.406Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/mashantucket-ct": {
+    "url": "https://images.unsplash.com/photo-1669087460556-2e44ebc02257?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb25uZWN0aWN1dCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of houses and trees",
+    "photographerName": "Hayrullah Gozcu",
+    "photographerUrl": "https://unsplash.com/@highrula?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-houses-and-trees-GytLIxS302k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Connecticut landscape",
+    "fetchedAt": "2026-06-29T16:41:19.803Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/mccall-id": {
     "url": "https://images.unsplash.com/photo-1599663253423-7cad6e5fae1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNY0NhbGwlMjBJRCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green trees beside river under white sky during daytime",
@@ -7097,6 +7627,16 @@
     "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-river-under-white-sky-during-daytime-BmITQhaDSw8?utm_source=tour_de_fore&utm_medium=referral",
     "query": "McCall ID landscape",
     "fetchedAt": "2026-04-10T21:58:40.644Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/memphis-tn": {
+    "url": "https://images.unsplash.com/photo-1606969947849-63da0236f682?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNZW1waGlzJTIwVE4lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city skyline under cloudy sky during daytime",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://unsplash.com/@gabrielrana?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-cloudy-sky-during-daytime-irPtf8ojy7w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Memphis TN landscape",
+    "fetchedAt": "2026-06-29T16:40:17.372Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/mesquite-nv": {
@@ -7129,6 +7669,46 @@
     "fetchedAt": "2026-04-10T21:58:43.322Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/moab-ut": {
+    "url": "https://images.unsplash.com/photo-1594846601745-a7ee9ac7b696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb2FiJTIwVVQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field under white clouds during daytime",
+    "photographerName": "Ivan Calderon",
+    "photographerUrl": "https://unsplash.com/@ivancalderon?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-under-white-clouds-during-daytime-2i6RaNxucA4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Moab UT landscape",
+    "fetchedAt": "2026-06-29T16:40:57.903Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/mobile-al": {
+    "url": "https://images.unsplash.com/photo-1775571714499-3c55bd5a4670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb2JpbGUlMjBBTCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A serene landscape with a bridge over a calm lake.",
+    "photographerName": "Terrance Agar",
+    "photographerUrl": "https://unsplash.com/@tassas?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-serene-landscape-with-a-bridge-over-a-calm-lake-ni5J-JK0PD8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mobile AL landscape",
+    "fetchedAt": "2026-06-29T16:40:07.088Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/monterey-ca": {
+    "url": "https://images.unsplash.com/photo-1603080720385-a71ab9f977e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb250ZXJleSUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass near body of water during daytime",
+    "photographerName": "Ron Turner",
+    "photographerUrl": "https://unsplash.com/@wohpman?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-near-body-of-water-during-daytime-_VTSXBddvAw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Monterey CA landscape",
+    "fetchedAt": "2026-06-29T16:39:19.281Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/montrose-co": {
+    "url": "https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2xvcmFkbyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green and beige trees beside mountains",
+    "photographerName": "Thomas Morse",
+    "photographerUrl": "https://unsplash.com/@timorse?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Colorado landscape",
+    "fetchedAt": "2026-06-29T16:40:48.458Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/myrtle-beach-sc": {
     "url": "https://images.unsplash.com/photo-1655485617185-c19cfa4450ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NjIxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a beach with a body of water and buildings",
@@ -7147,6 +7727,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-stream-running-through-a-lush-green-forest-ORwigSfCFYE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Mystic CT landscape",
     "fetchedAt": "2026-04-11T01:06:42.423Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/napa-ca": {
+    "url": "https://images.unsplash.com/photo-1648973063287-95c6e136d870?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large field of orange flowers with mountains in the background",
+    "photographerName": "Vanessa Sezini",
+    "photographerUrl": "https://unsplash.com/@vsezini?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-field-of-orange-flowers-with-mountains-in-the-background-WOTMIX9mbVU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa CA landscape",
+    "fetchedAt": "2026-06-29T16:39:24.488Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/naples-fl": {
@@ -7169,6 +7759,26 @@
     "fetchedAt": "2026-04-10T23:01:50.284Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/nassau-bahamas": {
+    "url": "https://images.unsplash.com/photo-1723567017685-86060d4861c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYXNzYXUlMjBCYWhhbWFzJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A body of water that is very clear",
+    "photographerName": "Calavera Divers",
+    "photographerUrl": "https://unsplash.com/@calaveradivers?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-that-is-very-clear-A1uLghEcuFA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nassau Bahamas landscape",
+    "fetchedAt": "2026-06-29T16:39:52.338Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/new-braunfels-tx": {
+    "url": "https://images.unsplash.com/photo-1775572001738-69b46597e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOZXclMjBCcmF1bmZlbHMlMjBUWCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A scenic river flows through a forest with autumn foliage.",
+    "photographerName": "Terrance Agar",
+    "photographerUrl": "https://unsplash.com/@tassas?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-river-flows-through-a-forest-with-autumn-foliage-6TTwtcDX39U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New Braunfels TX landscape",
+    "fetchedAt": "2026-06-29T16:41:27.508Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/new-orleans-la": {
     "url": "https://images.unsplash.com/photo-1633318562999-79df85ed78ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBPcmxlYW5zJTIwTEElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg3Njk2OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "the sun is setting behind a tower in the sky",
@@ -7177,6 +7787,16 @@
     "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-behind-a-tower-in-the-sky-5wT5rOt_lfs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New Orleans LA landscape",
     "fetchedAt": "2026-04-11T03:09:29.107Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/newcastle-northern-ireland": {
+    "url": "https://images.unsplash.com/photo-1601387186254-7cff8fc80ed6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOZXdjYXN0bGUlMjBOb3J0aGVybiUyMElyZWxhbmQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near mountain during sunset",
+    "photographerName": "K. Mitch Hodge",
+    "photographerUrl": "https://unsplash.com/@kmitchhodge?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-mountain-during-sunset-JxQHK_gvyBE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newcastle Northern Ireland landscape",
+    "fetchedAt": "2026-06-29T16:39:45.867Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/newport-ri": {
@@ -7197,6 +7817,16 @@
     "unsplashUrl": "https://unsplash.com/photos/crashing-ocean-waves-under-a-dark-sky-4D9SeWrx1J0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Ocean City MD landscape",
     "fetchedAt": "2026-04-11T01:06:33.798Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/ojai-ca": {
+    "url": "https://images.unsplash.com/photo-1609960722436-e90e5304d46b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxPamFpJTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees and mountains under blue sky during daytime",
+    "photographerName": "Johanna Zender",
+    "photographerUrl": "https://unsplash.com/@johannavzender?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-and-mountains-under-blue-sky-during-daytime-HpnxDROrv4o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Ojai CA landscape",
+    "fetchedAt": "2026-06-29T16:39:29.834Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/oklahoma-city-ok": {
@@ -7249,6 +7879,26 @@
     "fetchedAt": "2026-04-10T23:00:58.071Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/palm-desert-ca": {
+    "url": "https://images.unsplash.com/photo-1688578731898-f2ae07db8ecf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYWxtJTIwRGVzZXJ0JTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of lawn chairs sitting next to a swimming pool",
+    "photographerName": "E Mens",
+    "photographerUrl": "https://unsplash.com/@kwakus?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-lawn-chairs-sitting-next-to-a-swimming-pool-C1sGutffT_4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Desert CA landscape",
+    "fetchedAt": "2026-06-29T16:39:23.245Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/palm-springs-ca": {
+    "url": "https://images.unsplash.com/photo-1574876999742-a8be3a43f151?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "structure beside palm trees",
+    "photographerName": "Cody Board",
+    "photographerUrl": "https://unsplash.com/@codypboard?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/structure-beside-palm-trees-quuG8oNM61A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA landscape",
+    "fetchedAt": "2026-06-29T16:39:21.928Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/park-city-ut": {
     "url": "https://images.unsplash.com/photo-1623969391109-bc5bffbaad41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NTgzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green trees on green mountain under blue sky during daytime",
@@ -7279,6 +7929,16 @@
     "fetchedAt": "2026-04-10T23:00:53.875Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/philadelphia-pa": {
+    "url": "https://images.unsplash.com/photo-1581909811589-a1317515f20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBQQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city skyline during day time",
+    "photographerName": "Alejandro Barba",
+    "photographerUrl": "https://unsplash.com/@albrb?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-day-time-YLn87mac45M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Philadelphia PA landscape",
+    "fetchedAt": "2026-06-29T16:41:11.113Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/phoenix-mesa-az": {
     "url": "https://images.unsplash.com/photo-1688066368560-8fa0e3eacfb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQaG9lbml4JTIwJTJGJTIwTWVzYSUyMEFaJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3NzU4NTgyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a cactus garden with a mountain in the background",
@@ -7299,6 +7959,16 @@
     "fetchedAt": "2026-04-10T23:01:36.982Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/pinetop-lakeside-az": {
+    "url": "https://images.unsplash.com/photo-1716789923631-9bdc5b18bf20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQaW5ldG9wLUxha2VzaWRlJTIwQVolMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large rock sitting in the middle of a lake",
+    "photographerName": "Greg Bulla",
+    "photographerUrl": "https://unsplash.com/@gregbulla?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-rock-sitting-in-the-middle-of-a-lake-h9YTgxEJ3cM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Pinetop-Lakeside AZ landscape",
+    "fetchedAt": "2026-06-29T16:40:56.418Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/poconos-pa": {
     "url": "https://images.unsplash.com/photo-1697811139386-d7dd2cbdd989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb2Nvbm9zJTIwUEElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg2OTU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a scenic view of a valley with trees in the foreground",
@@ -7307,6 +7977,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-valley-with-trees-in-the-foreground-_9eD_SiFi0k?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Poconos PA landscape",
     "fetchedAt": "2026-04-11T01:06:23.422Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/ponte-vedra-beach-fl": {
+    "url": "https://images.unsplash.com/photo-1557247177-9e0c630f62bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb250ZSUyMFZlZHJhJTIwQmVhY2glMjBGTCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown garden dock",
+    "photographerName": "Melissa",
+    "photographerUrl": "https://unsplash.com/@melissamullinator?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-garden-dock-0p5MetOTcVM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Ponte Vedra Beach FL landscape",
+    "fetchedAt": "2026-06-29T16:39:56.226Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/portland-me": {
@@ -7327,6 +8007,36 @@
     "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-body-of-water-during-sunset-bqfgYXdj64k?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Portland OR landscape",
     "fetchedAt": "2026-04-10T21:58:18.389Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/portmarnock-dublin-ireland": {
+    "url": "https://images.unsplash.com/photo-1663356836270-548e9f9abc80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bWFybm9jayUyMElyZWxhbmQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a body of water with rocks and grass on the side",
+    "photographerName": "Nik_ing610",
+    "photographerUrl": "https://unsplash.com/@niking610?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-rocks-and-grass-on-the-side-pJqnHB5nq5k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portmarnock Ireland landscape",
+    "fetchedAt": "2026-06-29T16:39:44.599Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/prescott-az": {
+    "url": "https://images.unsplash.com/photo-1739559564604-84340ea1126b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQcmVzY290dCUyMEFaJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large body of water sitting next to a lush green field",
+    "photographerName": "Emily Whitten",
+    "photographerUrl": "https://unsplash.com/@ekwhitten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-sitting-next-to-a-lush-green-field-PcBKguvIlSQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Prescott AZ landscape",
+    "fetchedAt": "2026-06-29T16:40:50.967Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/punta-cana-dominican-republic": {
+    "url": "https://images.unsplash.com/photo-1504897264915-7a1d030ccd00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQdW50YSUyMENhbmElMjBEb21pbmljYW4lMjBSZXB1YmxpYyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette of person standing near body of water",
+    "photographerName": "Joe deSousa",
+    "photographerUrl": "https://unsplash.com/@mustangjoe?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-person-standing-near-body-of-water-v2WBFSBeOew?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Punta Cana Dominican Republic landscape",
+    "fetchedAt": "2026-06-29T16:39:48.439Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/rapid-city-sd": {
@@ -7359,6 +8069,46 @@
     "fetchedAt": "2026-04-11T01:06:15.444Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/roanoke-va": {
+    "url": "https://images.unsplash.com/photo-1574037713375-9311e01e0fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxSb2Fub2tlJTIwVkElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "top view of cityscape under gray sky",
+    "photographerName": "Zachary Kadolph",
+    "photographerUrl": "https://unsplash.com/@zacharykadolph?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/top-view-of-cityscape-under-gray-sky-nGZnoojRpOk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Roanoke VA landscape",
+    "fetchedAt": "2026-06-29T16:41:24.959Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/roscommon-mi": {
+    "url": "https://images.unsplash.com/photo-1636606711308-5ed798bb7420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxSb3Njb21tb24lMjBNSSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a tree leaning over on the shore of a lake",
+    "photographerName": "Michael Liskey",
+    "photographerUrl": "https://unsplash.com/@meliskey?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-tree-leaning-over-on-the-shore-of-a-lake-zgdjaZ60eHA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Roscommon MI landscape",
+    "fetchedAt": "2026-06-29T16:40:25.307Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/ruidoso-nm": {
+    "url": "https://images.unsplash.com/photo-1470164971321-eb5ac2c35f2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxSdWlkb3NvJTIwTk0lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "landscape photography of mountains",
+    "photographerName": "Robert Murray",
+    "photographerUrl": "https://unsplash.com/@fastturtle?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/landscape-photography-of-mountains-toCqTyxsT4Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Ruidoso NM landscape",
+    "fetchedAt": "2026-06-29T16:41:03.022Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/sacramento-ca": {
+    "url": "https://images.unsplash.com/photo-1610073676652-34feff934460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYWNyYW1lbnRvJTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of city buildings during daytime",
+    "photographerName": "Aiden Frazier",
+    "photographerUrl": "https://unsplash.com/@theaidenfrazier?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-HvIq2Gdynds?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sacramento CA landscape",
+    "fetchedAt": "2026-06-29T16:39:36.515Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/salida-co": {
     "url": "https://images.unsplash.com/photo-1711051308657-770f6d565bef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYWxpZGElMjBDTyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a road in the middle of a snowy mountain range",
@@ -7379,6 +8129,36 @@
     "fetchedAt": "2026-04-11T01:06:50.050Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/san-diego-ca": {
+    "url": "https://images.unsplash.com/photo-1630375604571-4e370942fa65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking on sidewalk near body of water during daytime",
+    "photographerName": "Sean Mullowney",
+    "photographerUrl": "https://unsplash.com/@sean_mullowney?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-near-body-of-water-during-daytime-3BgUBmDKwiI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA landscape",
+    "fetchedAt": "2026-06-29T16:39:27.252Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/san-francisco-ca": {
+    "url": "https://images.unsplash.com/photo-1610494475096-ad11c3a21638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBGcmFuY2lzY28lMjBDQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city buildings under blue sky during daytime",
+    "photographerName": "Shen Pan",
+    "photographerUrl": "https://unsplash.com/@shenpan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-buildings-under-blue-sky-during-daytime-IWXxaPTzsyM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Francisco CA landscape",
+    "fetchedAt": "2026-06-29T16:41:45.934Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/sand-valley-wi": {
+    "url": "https://images.unsplash.com/photo-1660056252469-a1996f1f5080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXaXNjb25zaW4lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a small house on a grassy hill",
+    "photographerName": "Dave Hoefler",
+    "photographerUrl": "https://unsplash.com/@iamthedave?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-house-on-a-grassy-hill-K_D0i6UgK2c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wisconsin landscape",
+    "fetchedAt": "2026-06-29T16:40:19.904Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/sandpoint-id": {
     "url": "https://images.unsplash.com/photo-1567595746947-3f281458b289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW5kcG9pbnQlMjBJRCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown sand near beach",
@@ -7387,6 +8167,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-sand-near-beach-9PWTV5ZcTpc?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Sandpoint ID landscape",
     "fetchedAt": "2026-04-10T21:58:23.561Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/santa-barbara-ca": {
+    "url": "https://images.unsplash.com/photo-1609623279016-698dc83c2841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "sea waves crashing on shore during daytime",
+    "photographerName": "Jeff W",
+    "photographerUrl": "https://unsplash.com/@fortheloveofsmoke?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/sea-waves-crashing-on-shore-during-daytime-8PX-jC_8Mck?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA landscape",
+    "fetchedAt": "2026-06-29T16:39:31.160Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/santa-fe-nm": {
@@ -7469,6 +8259,16 @@
     "fetchedAt": "2026-04-10T21:52:04.385Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/sheridan-wy": {
+    "url": "https://images.unsplash.com/photo-1609794585274-c8961a076fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTaGVyaWRhbiUyMFdZJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray concrete road between brown grass field under blue sky and white clouds during daytime",
+    "photographerName": "Kate Arpin",
+    "photographerUrl": "https://unsplash.com/@sturdykate?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-concrete-road-between-brown-grass-field-under-blue-sky-and-white-clouds-during-daytime-5WZvX7_eCdw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sheridan WY landscape",
+    "fetchedAt": "2026-06-29T16:40:49.697Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/shreveport-bossier-la": {
     "url": "https://images.unsplash.com/photo-1599188522330-f7526f2c2269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3Vpc2lhbmElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg3Njk3OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green trees beside lake during daytime",
@@ -7479,6 +8279,46 @@
     "fetchedAt": "2026-04-11T03:09:39.323Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/sioux-falls-sd": {
+    "url": "https://images.unsplash.com/photo-1780493705136-6fc5e35539c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTaW91eCUyMEZhbGxzJTIwU0QlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A powerful waterfall cascades over rugged red rock formations.",
+    "photographerName": "Jesse Wilkens",
+    "photographerUrl": "https://unsplash.com/@jwilkens?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-powerful-waterfall-cascades-over-rugged-red-rock-formations-inrK78xg7Ik?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sioux Falls SD landscape",
+    "fetchedAt": "2026-06-29T16:40:42.049Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/sisters-or": {
+    "url": "https://images.unsplash.com/photo-1504836054726-3e36882ddaf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTaXN0ZXJzJTIwT1IlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "women sitting on rock near body of water",
+    "photographerName": "Roberto Nickson",
+    "photographerUrl": "https://unsplash.com/@rpnickson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/women-sitting-on-rock-near-body-of-water-vRAYwESFc-U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sisters OR landscape",
+    "fetchedAt": "2026-06-29T16:41:39.341Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/sonoma-ca": {
+    "url": "https://images.unsplash.com/photo-1615253003266-d2f738a44877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "purple and yellow flower field during daytime",
+    "photographerName": "Karam Alani",
+    "photographerUrl": "https://unsplash.com/@karamalani?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/purple-and-yellow-flower-field-during-daytime-uRkZujQHXyE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma CA landscape",
+    "fetchedAt": "2026-06-29T16:39:26.009Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/south-lake-tahoe-ca": {
+    "url": "https://images.unsplash.com/flagged/photo-1571060426446-874801b9b026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMExha2UlMjBUYWhvZSUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette of trees and mountain near body of water",
+    "photographerName": "Tim Stief",
+    "photographerUrl": "https://unsplash.com/@timstief?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-trees-and-mountain-near-body-of-water-TCb1hk-g74s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "South Lake Tahoe CA landscape",
+    "fetchedAt": "2026-06-29T16:41:44.453Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/spokane-wa": {
     "url": "https://images.unsplash.com/photo-1726508670667-39e52fd5c5c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTcG9rYW5lJTIwV0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg1ODMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A dirt road surrounded by trees under a blue sky",
@@ -7487,6 +8327,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-dirt-road-surrounded-by-trees-under-a-blue-sky-DNTrgJ2oJ9Q?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Spokane WA landscape",
     "fetchedAt": "2026-04-10T21:58:20.829Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/st-andrews-scotland": {
+    "url": "https://images.unsplash.com/photo-1546706872-9c90b8d0c94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdCUyMEFuZHJld3MlMjBTY290bGFuZCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "birds'-eye view photography of hills",
+    "photographerName": "Reuben Teo",
+    "photographerUrl": "https://unsplash.com/@reubenteo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/birds-eye-view-photography-of-hills-fUZWpaUknyI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "St Andrews Scotland landscape",
+    "fetchedAt": "2026-06-29T16:39:39.102Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/st-augustine-fl": {
@@ -7539,6 +8389,16 @@
     "fetchedAt": "2026-04-11T01:06:26.305Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/streamsong-fl": {
+    "url": "https://images.unsplash.com/photo-1557247177-9e0c630f62bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown garden dock",
+    "photographerName": "Melissa",
+    "photographerUrl": "https://unsplash.com/@melissamullinator?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-garden-dock-0p5MetOTcVM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Florida landscape",
+    "fetchedAt": "2026-06-29T16:39:54.931Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/sun-valley-id": {
     "url": "https://images.unsplash.com/photo-1754875641466-4fe112925792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdW4lMjBWYWxsZXklMjAlMkYlMjBLZXRjaHVtJTIwSUQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg1ODMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Empty road through snow-covered mountains at dusk",
@@ -7559,6 +8419,26 @@
     "fetchedAt": "2026-04-10T21:58:13.438Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/tampa-fl": {
+    "url": "https://images.unsplash.com/photo-1609964956781-519678450be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white boat on body of water near city buildings during daytime",
+    "photographerName": "Anita Denunzio",
+    "photographerUrl": "https://unsplash.com/@dronepilot?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-boat-on-body-of-water-near-city-buildings-during-daytime-VyyNcb4plSM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL landscape",
+    "fetchedAt": "2026-06-29T16:39:57.564Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/taos-nm": {
+    "url": "https://images.unsplash.com/photo-1695596254299-c541eee4eef7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUYW9zJTIwTk0lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large adobe building with mountains in the background",
+    "photographerName": "Richard Hedrick",
+    "photographerUrl": "https://unsplash.com/@fortuitousfoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-adobe-building-with-mountains-in-the-background-qutH27y57b4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Taos NM landscape",
+    "fetchedAt": "2026-06-29T16:41:01.741Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/telluride-co": {
     "url": "https://images.unsplash.com/photo-1610141432413-0936ed8e785a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZWxsdXJpZGUlMjBDTyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown and green mountains under white clouds during daytime",
@@ -7569,6 +8449,26 @@
     "fetchedAt": "2026-04-10T21:58:48.472Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/temecula-ca": {
+    "url": "https://images.unsplash.com/photo-1673595643254-a945bbde9ea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUZW1lY3VsYSUyMENBJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a red sky with a few clouds in the distance",
+    "photographerName": "Mahavir Shah",
+    "photographerUrl": "https://unsplash.com/@mahavirshah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-red-sky-with-a-few-clouds-in-the-distance-BPu-aTgABHQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Temecula CA landscape",
+    "fetchedAt": "2026-06-29T16:39:32.461Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/toledo-oh": {
+    "url": "https://images.unsplash.com/photo-1756832430925-d1c85f282736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUb2xlZG8lMjBPSCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Aerial view of a baseball stadium at dusk",
+    "photographerName": "Leo Escala",
+    "photographerUrl": "https://unsplash.com/@leonardoescala?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-a-baseball-stadium-at-dusk-8tjUqoLKyWw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Toledo OH landscape",
+    "fetchedAt": "2026-06-29T16:40:31.593Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/traverse-city-mi": {
     "url": "https://images.unsplash.com/photo-1623173812137-b702ceb8d48d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUcmF2ZXJzZSUyMENpdHklMjBNSSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODYyMDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an aerial view of a body of water covered in ice",
@@ -7577,6 +8477,46 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-body-of-water-covered-in-ice-2Xmhike7pxg?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Traverse City MI landscape",
     "fetchedAt": "2026-04-10T23:01:07.023Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/tri-cities-wa": {
+    "url": "https://images.unsplash.com/photo-1686710542727-a6a6cc0e8f7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUcmktQ2l0aWVzJTIwV0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTMwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a lake surrounded by trees",
+    "photographerName": "Taisia Karaseva",
+    "photographerUrl": "https://unsplash.com/@taisiat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lake-surrounded-by-trees-ndqGj3JhftU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tri-Cities WA landscape",
+    "fetchedAt": "2026-06-29T16:41:49.770Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/troon-ayrshire-scotland": {
+    "url": "https://images.unsplash.com/photo-1551801691-f0bce83d4f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUcm9vbiUyMFNjb3RsYW5kJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTExODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass on mountain under white cloudy sky",
+    "photographerName": "Bjorn Snelders",
+    "photographerUrl": "https://unsplash.com/@bjorns?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-on-mountain-under-white-cloudy-sky-Cd3Ek7rNXSk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Troon Scotland landscape",
+    "fetchedAt": "2026-06-29T16:39:40.451Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/truckee-ca": {
+    "url": "https://images.unsplash.com/photo-1701489232332-1c3417cbe116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUcnVja2VlJTIwQ0ElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTE3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a mountain range with a lake in the foreground",
+    "photographerName": "Donna Elliot",
+    "photographerUrl": "https://unsplash.com/@peakdancer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-a-lake-in-the-foreground-KOaZj83ZRTg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Truckee CA landscape",
+    "fetchedAt": "2026-06-29T16:39:33.812Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/tubac-az": {
+    "url": "https://images.unsplash.com/photo-1667777213916-245ff45a901f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUdWJhYyUyMEFaJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large green field with trees and a fence and a mountain in the background",
+    "photographerName": "John Nupp",
+    "photographerUrl": "https://unsplash.com/@jwknopf?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-green-field-with-trees-and-a-fence-and-a-mountain-in-the-background-R6WbrjDojbA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tubac AZ landscape",
+    "fetchedAt": "2026-06-29T16:40:54.954Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/tucson-az": {
@@ -7599,6 +8539,16 @@
     "fetchedAt": "2026-04-11T03:09:31.576Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/university-place-wa": {
+    "url": "https://images.unsplash.com/photo-1735848252052-7caf507d7831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXR5JTIwUGxhY2UlMjBXQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people playing a game of frisbee",
+    "photographerName": "Peter Robbins",
+    "photographerUrl": "https://unsplash.com/@prphotography262?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-playing-a-game-of-frisbee-fk8snbxvloE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "University Place WA landscape",
+    "fetchedAt": "2026-06-29T16:41:32.927Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/vail-co": {
     "url": "https://images.unsplash.com/photo-1661659711145-29652259ac20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxWYWlsJTIwQ08lMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc3NTg1ODMyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a landscape with trees and mountains",
@@ -7607,6 +8557,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-landscape-with-trees-and-mountains-7Y1cDSjY0WI?utm_source=tour_de_fore&utm_medium=referral",
     "query": "Vail CO landscape",
     "fetchedAt": "2026-04-10T21:58:47.280Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/verona-ny": {
+    "url": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI3NTEyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "panoramic photography of Brooklyn Bridge",
+    "photographerName": "Luca Bravo",
+    "photographerUrl": "https://unsplash.com/@lucabravo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/panoramic-photography-of-brooklyn-bridge-_QdFx92MO2U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York landscape",
+    "fetchedAt": "2026-06-29T16:41:15.908Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/virginia-beach-va": {
@@ -7629,6 +8589,16 @@
     "fetchedAt": "2026-04-10T21:58:24.850Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/white-sulphur-springs-wv": {
+    "url": "https://images.unsplash.com/photo-1669488825919-151f302fd51f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXZXN0JTIwVmlyZ2luaWElMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a winding road through a forest",
+    "photographerName": "Nils Huenerfuerst",
+    "photographerUrl": "https://unsplash.com/@nhuenerfuerst?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-winding-road-through-a-forest-U6pM04m6cfg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "West Virginia landscape",
+    "fetchedAt": "2026-06-29T16:41:07.264Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/whitefish-mt": {
     "url": "https://images.unsplash.com/photo-1570168212140-b8c68bbea166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaGl0ZWZpc2glMjBNVCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODU4MzExfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white and yellow cable car",
@@ -7639,6 +8609,26 @@
     "fetchedAt": "2026-04-10T21:58:31.306Z",
     "addedBy": "tdf"
   },
+  "tdf/destinations/wichita-ks": {
+    "url": "https://images.unsplash.com/photo-1599776433790-2917ddfc4e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaWNoaXRhJTIwS1MlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees on mountain during daytime",
+    "photographerName": "Dorrell Tibbs",
+    "photographerUrl": "https://unsplash.com/@whatuprell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-on-mountain-during-daytime-prK3QFnjDCk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wichita KS landscape",
+    "fetchedAt": "2026-06-29T16:40:38.182Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/wickenburg-az": {
+    "url": "https://images.unsplash.com/photo-1728335418676-2be8fbd74470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaWNrZW5idXJnJTIwQVolMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A field full of yellow flowers with trees in the background",
+    "photographerName": "Jordyn Dickens",
+    "photographerUrl": "https://unsplash.com/@jordyn_nicolephotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-field-full-of-yellow-flowers-with-trees-in-the-background-2mgJQzYoYBQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wickenburg AZ landscape",
+    "fetchedAt": "2026-06-29T16:40:52.217Z",
+    "addedBy": "tdf"
+  },
   "tdf/destinations/williamsburg-va": {
     "url": "https://images.unsplash.com/photo-1572466920113-5c75b857c4dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaWxsaWFtc2J1cmclMjBWQSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzc1ODY5NTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown bricked building",
@@ -7647,6 +8637,26 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-bricked-building-EAZpA9RzzjE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Williamsburg VA landscape",
     "fetchedAt": "2026-04-11T01:06:19.487Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/wilmington-nc": {
+    "url": "https://images.unsplash.com/photo-1657074293425-ad3af9057825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaWxtaW5ndG9uJTIwTkMlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4Mjc1MTIxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach with houses and water",
+    "photographerName": "Samuel Cruz",
+    "photographerUrl": "https://unsplash.com/@samuelcruz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-with-houses-and-water-danWxMtwW_g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wilmington NC landscape",
+    "fetchedAt": "2026-06-29T16:40:10.979Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/worley-id": {
+    "url": "https://images.unsplash.com/photo-1525159873586-29425110f608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxJZGFobyUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyNzUxMzAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "landscape photography of mountains covered with green grasses under cloudy sky",
+    "photographerName": "Jeremy Bishop",
+    "photographerUrl": "https://unsplash.com/@jeremybishop?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/landscape-photography-of-mountains-covered-with-green-grasses-under-cloudy-sky-pnSwnfQpPf4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Idaho landscape",
+    "fetchedAt": "2026-06-29T16:41:41.858Z",
     "addedBy": "tdf"
   },
   "tdf/guides/best-golf-trip-destinations-by-month": {
