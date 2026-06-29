@@ -3049,6 +3049,36 @@
     "fetchedAt": "2026-04-12T18:38:52.451Z",
     "addedBy": "moh"
   },
+  "moh/cities/asheville-nc/activities": {
+    "url": "https://images.unsplash.com/photo-1704823822782-4b0d3b8b958c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyNzU3MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a building with mountains in the background",
+    "photographerName": "Simon Ray",
+    "photographerUrl": "https://unsplash.com/@simonbhray?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-building-with-mountains-in-the-background-LVLPK6e-ZJ0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville NC spa wellness retreat",
+    "fetchedAt": "2026-06-29T18:23:01.025Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/asheville-nc/bars": {
+    "url": "https://images.unsplash.com/photo-1693774419888-82833b65f03b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzgyNzU3Mzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "the sun is setting over the mountains and trees",
+    "photographerName": "Audri Van Gores",
+    "photographerUrl": "https://unsplash.com/@audrivangores?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-and-trees-SlAlkMMMa2k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville NC cocktail bar pink sunset",
+    "fetchedAt": "2026-06-29T18:22:59.476Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/asheville-nc/lodging": {
+    "url": "https://images.unsplash.com/photo-1704823822782-4b0d3b8b958c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyNzU3Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a building with mountains in the background",
+    "photographerName": "Simon Ray",
+    "photographerUrl": "https://unsplash.com/@simonbhray?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-building-with-mountains-in-the-background-LVLPK6e-ZJ0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville NC boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-29T18:22:55.429Z",
+    "addedBy": "moh"
+  },
   "moh/cities/atlanta-ga": {
     "url": "https://images.unsplash.com/photo-1590950438368-110fea5acf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "red and white city of chicago signage",
@@ -3067,6 +3097,36 @@
     "unsplashUrl": "https://unsplash.com/photos/man-and-woman-standing-beside-railings-during-daytime-GQa2rYrNd-k?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Austin TX rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:38:49.984Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/austin-tx/activities": {
+    "url": "https://images.unsplash.com/photo-1609798431759-b9629897c987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyNzU3MzczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field during sunset",
+    "photographerName": "Lewis Guapo",
+    "photographerUrl": "https://unsplash.com/@lewisguapo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-during-sunset-WO6_UO8Vm8Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Austin TX spa wellness retreat",
+    "fetchedAt": "2026-06-29T18:22:54.004Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/austin-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1650338031185-1e97add7a389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4Mjc1NzM2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting outside of a restaurant",
+    "photographerName": "Daniel",
+    "photographerUrl": "https://unsplash.com/@unsplashbydan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-outside-of-a-restaurant-4aZa5ucTsB0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Austin TX editorial restaurant brunch",
+    "fetchedAt": "2026-06-29T18:22:49.948Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/austin-tx/lodging": {
+    "url": "https://images.unsplash.com/photo-1632854270121-0b0d4f33c99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyNzU3MzY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room filled with lots of green furniture",
+    "photographerName": "Michelle Williams",
+    "photographerUrl": "https://unsplash.com/@agirlfromtx?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-filled-with-lots-of-green-furniture-yuBjGOF8LvM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Austin TX boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-29T18:22:48.560Z",
     "addedBy": "moh"
   },
   "moh/cities/bozeman-mt": {
@@ -3529,6 +3589,36 @@
     "fetchedAt": "2026-04-12T18:38:48.596Z",
     "addedBy": "moh"
   },
+  "moh/cities/savannah-ga/activities": {
+    "url": "https://images.unsplash.com/photo-1600791609038-363e433653ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdBJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI3NTczNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in white dress walking on pathway between trees during daytime",
+    "photographerName": "Benjamin Disinger",
+    "photographerUrl": "https://unsplash.com/@benjamindisinger?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-white-dress-walking-on-pathway-between-trees-during-daytime-s5jWWYTB41g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Savannah GA spa wellness retreat",
+    "fetchedAt": "2026-06-29T18:22:47.104Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/savannah-ga/dining": {
+    "url": "https://images.unsplash.com/photo-1599666782416-c5b8ed6e480d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdBJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgyNzU3MzYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red telephone booth beside brown brick building",
+    "photographerName": "Philip Arambula",
+    "photographerUrl": "https://unsplash.com/@philiparambula?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-telephone-booth-beside-brown-brick-building-7FL1XjfgN00?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Savannah GA editorial restaurant brunch",
+    "fetchedAt": "2026-06-29T18:22:43.168Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/savannah-ga/lodging": {
+    "url": "https://images.unsplash.com/photo-1608996662204-fa1833820eb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdBJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODI3NTczNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and white concrete building",
+    "photographerName": "Philip Arambula",
+    "photographerUrl": "https://unsplash.com/@philiparambula?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-nzcJjpGrvfk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Savannah GA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-29T18:22:41.672Z",
+    "addedBy": "moh"
+  },
   "moh/cities/scottsdale-az": {
     "url": "https://images.unsplash.com/photo-1762402019853-71e4bdec6fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBcml6b25hJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NTg2NTcxNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Pink clouds drift over distant mountains at dusk.",
@@ -3587,6 +3677,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-standing-next-to-a-table-with-a-cake-on-it-OnQEh2Qp67w?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sedona AZ rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:38:53.809Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sedona-az/dining": {
+    "url": "https://images.unsplash.com/photo-1626372416494-3183a0c4f726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4Mjc1NzM4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "egg with tomato and green leaf vegetable on white ceramic plate",
+    "photographerName": "Michael Dagonakis",
+    "photographerUrl": "https://unsplash.com/@mdagonakis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ editorial restaurant brunch",
+    "fetchedAt": "2026-06-29T18:23:05.040Z",
     "addedBy": "moh"
   },
   "moh/cities/tampa-fl": {
