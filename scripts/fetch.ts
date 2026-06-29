@@ -165,7 +165,29 @@ async function main() {
   }
 
   // Filter out already-cached entries
-  const queue = allQueries.filter((q) => args.refetch || !cache[q.key]);
+  const pending = allQueries.filter((q) => args.refetch || !cache[q.key]);
+
+  // Round-robin interleave across projects so every project with pending work
+  // makes progress each run. A fixed concat (tdf→bestman→moh→offsite) starves
+  // whatever loads LAST until the others finish — which left offsite (loaded
+  // last) at 0 backfill behind ~1600 other pending. This matches the
+  // daily-maxout "newest/most-incomplete filled first" intent. With --project,
+  // there's a single lane so behaviour is unchanged.
+  const lanes = new Map<string, QueryItem[]>();
+  for (const q of pending) {
+    const p = q.key.split("/")[0];
+    let lane = lanes.get(p);
+    if (!lane) {
+      lane = [];
+      lanes.set(p, lane);
+    }
+    lane.push(q);
+  }
+  const laneArr = [...lanes.values()];
+  const queue: QueryItem[] = [];
+  for (let i = 0; laneArr.some((l) => i < l.length); i++) {
+    for (const lane of laneArr) if (i < lane.length) queue.push(lane[i]);
+  }
 
   console.log(
     `Shared cache fetch — ${allQueries.length} total queries, ${queue.length} pending`,
