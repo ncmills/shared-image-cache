@@ -3489,6 +3489,36 @@
     "fetchedAt": "2026-06-29T17:35:54.072Z",
     "addedBy": "moh"
   },
+  "moh/cities/new-york-ny": {
+    "url": "https://images.unsplash.com/photo-1769702936920-4b2d6233d273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyMGhpc3RvcmljJTIwZGlzdHJpY3QlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODI3Njk0MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Ornate buildings line a city street with street signs.",
+    "photographerName": "Ayman Akil",
+    "photographerUrl": "https://unsplash.com/@vymvnv?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/ornate-buildings-line-a-city-street-with-street-signs-N8IHBN9uWew?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York City historic district golden hour",
+    "fetchedAt": "2026-06-29T21:43:20.849Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/new-york-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1672779932992-99d339dcfeb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyMGZhcm0tdG8tdGFibGUlMjB0YXN0aW5nJTIwbWVudXxlbnwxfDB8fHwxNzgyNzY5NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man sitting under an umbrella in front of a bridge",
+    "photographerName": "Bernd 📷 Dittrich",
+    "photographerUrl": "https://unsplash.com/@hdbernd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-under-an-umbrella-in-front-of-a-bridge-MJZnB4i1hLk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York City farm-to-table tasting menu",
+    "fetchedAt": "2026-06-29T21:43:26.100Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/new-york-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1765741836851-8071475d4911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzgyNzY5NDAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Aerial view of a rooftop pool and lounge area.",
+    "photographerName": "Matthew Zheng",
+    "photographerUrl": "https://unsplash.com/@che_3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-a-rooftop-pool-and-lounge-area-vC5f-Dr23qc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York City luxury hotel pool",
+    "fetchedAt": "2026-06-29T21:43:23.379Z",
+    "addedBy": "moh"
+  },
   "moh/cities/newport-ri": {
     "url": "https://images.unsplash.com/photo-1631666589183-15e1b88d8d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUkklMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a woman standing on a rocky beach next to the ocean",
@@ -3507,6 +3537,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-purple-dress-posing-for-a-picture-z0GTcqBzcj8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Oahu HI rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:42.451Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/palm-springs-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1669694575282-03ed7faf6360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI3NjkzOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pool with chairs and umbrellas by it",
+    "photographerName": "Ruth Bourke",
+    "photographerUrl": "https://unsplash.com/@nocturnecapture?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pool-with-chairs-and-umbrellas-by-it-fWhrnLVu4M4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA spa wellness retreat",
+    "fetchedAt": "2026-06-29T21:43:17.965Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/palm-springs-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1602278812745-258903964254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODI3NjkzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette of trees during night time",
+    "photographerName": "Brandon Hoogenboom",
+    "photographerUrl": "https://unsplash.com/@bhoogenboom?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-trees-during-night-time-a9qM-lMvRao?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA cocktail bar pink sunset",
+    "fetchedAt": "2026-06-29T21:43:16.493Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/palm-springs-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1554094830-addc7e887420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgyNzY5Mzk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "low angle photo of coconut trees",
+    "photographerName": "Jocelynne Flor",
+    "photographerUrl": "https://unsplash.com/@jocelynneflor?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/low-angle-photo-of-coconut-trees-PEaAKHpBTzw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA editorial restaurant brunch",
+    "fetchedAt": "2026-06-29T21:43:15.162Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/palm-springs-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1669694575282-03ed7faf6360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzgyNzY5MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pool with chairs and umbrellas by it",
+    "photographerName": "Ruth Bourke",
+    "photographerUrl": "https://unsplash.com/@nocturnecapture?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pool-with-chairs-and-umbrellas-by-it-fWhrnLVu4M4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs luxury hotel pool",
+    "fetchedAt": "2026-06-29T21:43:13.880Z",
     "addedBy": "moh"
   },
   "moh/cities/park-city-ut": {
@@ -3677,6 +3747,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-standing-next-to-a-table-with-a-cake-on-it-OnQEh2Qp67w?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sedona AZ rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:38:53.809Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sedona-az/activities": {
+    "url": "https://images.unsplash.com/photo-1579408795979-966a21467a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjB3ZWxsbmVzcyUyMG91dGRvb3IlMjBzY2VuZXxlbnwxfDB8fHwxNzgyNzY5Mzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of mountains and trees in the distance",
+    "photographerName": "Edmundo Mendez, Jr.",
+    "photographerUrl": "https://unsplash.com/@mundojr?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-mountains-and-trees-in-the-distance-dJXZAO9hVjw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona wellness outdoor scene",
+    "fetchedAt": "2026-06-29T21:43:08.675Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sedona-az/bars": {
+    "url": "https://images.unsplash.com/photo-1608332081503-81d43e3ec74e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzgyNzY5Mzg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a mountain range with trees and rocks under a cloudy sky",
+    "photographerName": "Emily Lewis",
+    "photographerUrl": "https://unsplash.com/@emily_lewis_photography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-mountain-range-with-trees-and-rocks-under-a-cloudy-sky-acF_5jm1Dhk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ cocktail bar pink sunset",
+    "fetchedAt": "2026-06-29T21:43:05.516Z",
     "addedBy": "moh"
   },
   "moh/cities/sedona-az/dining": {
