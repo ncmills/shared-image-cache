@@ -89,17 +89,36 @@ jobs:
       - name: Refresh consumer sites that gained images
         if: steps.fetch.outputs.changed == 'true'
         env:
-          OFFSITE_DEPLOY_HOOK: ${{ secrets.OFFSITE_DEPLOY_HOOK }}
+          HOOK_BESTMAN: ${{ secrets.HOOK_BESTMAN }}
+          HOOK_MOH: ${{ secrets.HOOK_MOH }}
+          HOOK_TDF: ${{ secrets.HOOK_TDF }}
+          HOOK_OFFSITE: ${{ secrets.HOOK_OFFSITE }}
         run: |
+          set -u
           projects="${{ steps.fetch.outputs.projects }}"
           echo "Projects with new images this run: ${projects:-none}"
-          if echo " $projects " | grep -q " offsite "; then
-            if [ -n "$OFFSITE_DEPLOY_HOOK" ]; then
-              curl -fsS -X POST "$OFFSITE_DEPLOY_HOOK" >/dev/null \
-                && echo "✓ offsite-outpost redeploy triggered (will rebuild with fresh cache)"
+          fail=0
+          refresh () {
+            local token="$1" hook="$2"
+            if echo " $projects " | grep -q " $token "; then
+              if [ -z "$hook" ]; then
+                echo "::warning::$token gained images but no deploy hook configured"; return 0
+              fi
+              code=$(curl -s -o /dev/null -w '%{http_code}' -X POST "$hook")
+              if [ "$code" = "200" ] || [ "$code" = "201" ]; then
+                echo "✓ $token rebuild triggered ($code)"
+              else
+                echo "::error::$token rebuild failed (HTTP $code)"; fail=1
+              fi
             else
-              echo "OFFSITE_DEPLOY_HOOK not set — skipping offsite refresh"
+              echo "· $token unchanged — no rebuild"
             fi
-          else
-            echo "No new offsite images this run — offsite redeploy not needed"
+          }
+          refresh bestman "$HOOK_BESTMAN"
+          refresh moh     "$HOOK_MOH"
+          refresh tdf     "$HOOK_TDF"
+          refresh offsite "$HOOK_OFFSITE"
+          if [ "$fail" = "1" ]; then
+            echo "One or more rebuilds failed — see errors above."; exit 1
           fi
+          echo "Per-site refresh complete."
