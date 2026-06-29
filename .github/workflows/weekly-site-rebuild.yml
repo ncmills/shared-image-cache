@@ -1,0 +1,59 @@
+name: Weekly site rebuild (incorporate new images)
+
+# Each consuming site's `prebuild` step re-runs `sync-image-cache.ts`, which
+# pulls the latest cache.json from this repo and projects it into the site's
+# image data (showcase-images.json / city-images.json / course-images.json).
+# That only happens when the site BUILDS — so cold sites never pick up new
+# images. This job pings each site's Vercel deploy hook weekly to force a
+# rebuild, baking the latest cache into the live site. No commits, no diffs.
+#
+# Cadence: Mondays 10:00 UTC (after the daily max-out at 09:13). Run manually
+# any time via the "Run workflow" button.
+
+on:
+  schedule:
+    - cron: '0 10 * * 1'
+  workflow_dispatch:
+    inputs:
+      site:
+        description: 'Single site to rebuild (bestman, moh, tdf, offsite) or blank for all'
+        required: false
+        default: ''
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel rebuilds
+        env:
+          HOOK_BESTMAN: ${{ secrets.HOOK_BESTMAN }}
+          HOOK_MOH: ${{ secrets.HOOK_MOH }}
+          HOOK_TDF: ${{ secrets.HOOK_TDF }}
+          HOOK_OFFSITE: ${{ secrets.HOOK_OFFSITE }}
+          ONLY: ${{ github.event.inputs.site }}
+        run: |
+          set -u
+          fail=0
+          trigger () {
+            local name="$1" hook="$2"
+            if [ -n "$ONLY" ] && [ "$ONLY" != "$name" ]; then
+              echo "skip $name (filtered to '$ONLY')"; return 0
+            fi
+            if [ -z "$hook" ]; then
+              echo "::warning::no deploy hook configured for $name"; return 0
+            fi
+            code=$(curl -s -o /dev/null -w '%{http_code}' -X POST "$hook")
+            if [ "$code" = "200" ] || [ "$code" = "201" ]; then
+              echo "✓ $name rebuild triggered ($code)"
+            else
+              echo "::error::$name rebuild failed (HTTP $code)"; fail=1
+            fi
+          }
+          trigger bestman "$HOOK_BESTMAN"
+          trigger moh     "$HOOK_MOH"
+          trigger tdf     "$HOOK_TDF"
+          trigger offsite "$HOOK_OFFSITE"
+          if [ "$fail" = "1" ]; then
+            echo "One or more rebuilds failed — see errors above."; exit 1
+          fi
+          echo "All requested rebuilds triggered."
