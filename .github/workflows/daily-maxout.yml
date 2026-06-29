@@ -60,13 +60,46 @@ jobs:
           git config user.email "actions@github.com"
 
       - name: Fetch — ALL projects, max budget
+        id: fetch
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
           UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
+          before=$(git rev-parse HEAD)
           npx tsx scripts/fetch.ts --limit=${{ inputs.limit || '150' }} --commit
+          after=$(git rev-parse HEAD)
+          if [ "$before" != "$after" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            # which consumer projects gained entries this run (added JSON keys in the diff)
+            projects=$(git show "$after" -- cache.json | grep -E '^\+' | grep -oE '"(offsite|bestman|moh|tdf)/' | tr -d '"/' | sort -u | tr '\n' ' ')
+            echo "projects=$projects" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Print stats
         run: npm run stats
+
+      # Consumer sites pull the shared cache at build time (prebuild sync), so a
+      # cache change only reaches a live site on its next deploy. Ping the deploy
+      # hook for each site that gained images this run — keeps the freshest, most
+      # relevant photos paired with their content within a day, no manual redeploy.
+      - name: Refresh consumer sites that gained images
+        if: steps.fetch.outputs.changed == 'true'
+        env:
+          OFFSITE_DEPLOY_HOOK: ${{ secrets.OFFSITE_DEPLOY_HOOK }}
+        run: |
+          projects="${{ steps.fetch.outputs.projects }}"
+          echo "Projects with new images this run: ${projects:-none}"
+          if echo " $projects " | grep -q " offsite "; then
+            if [ -n "$OFFSITE_DEPLOY_HOOK" ]; then
+              curl -fsS -X POST "$OFFSITE_DEPLOY_HOOK" >/dev/null \
+                && echo "✓ offsite-outpost redeploy triggered (will rebuild with fresh cache)"
+            else
+              echo "OFFSITE_DEPLOY_HOOK not set — skipping offsite refresh"
+            fi
+          else
+            echo "No new offsite images this run — offsite redeploy not needed"
+          fi
