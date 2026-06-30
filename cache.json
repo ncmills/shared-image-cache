@@ -5349,6 +5349,16 @@
     "fetchedAt": "2026-06-30T09:59:44.617Z",
     "addedBy": "offsite"
   },
+  "offsite/outings/cigar-lounge-bourbon-library": {
+    "url": "https://images.unsplash.com/photo-1612659429327-8f59b894959b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaWdhciUyMExvdW5nZSUyMCUyNiUyMEJvdXJib24lMjBMaWJyYXJ5JTIwc3Bpcml0cyUyMGNvcnBvcmF0ZSUyMG91dGluZ3xlbnwxfDB8fHwxNzgyODIyMjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "clear drinking glass beside brown bottle",
+    "photographerName": "Considerate Agency",
+    "photographerUrl": "https://unsplash.com/@considerateagency?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/clear-drinking-glass-beside-brown-bottle-f5hCYk1PdA0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cigar Lounge & Bourbon Library spirits corporate outing",
+    "fetchedAt": "2026-06-30T12:23:58.991Z",
+    "addedBy": "offsite"
+  },
   "offsite/outings/clays-and-cigars": {
     "url": "https://images.unsplash.com/photo-1610899999189-e0cea195d793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxmaWVsZC1zcG9ydHMlMjBjb3Jwb3JhdGUlMjBldmVudCUyMG91dGRvb3J8ZW58MXwwfHx8MTc4Mjc5MzQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green blue and red plastic toy",
@@ -5487,6 +5497,16 @@
     "unsplashUrl": "https://unsplash.com/photos/crow-of-people-PA2rnR4pF9A?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Museum After-Hours — Private Gallery Night nightlife corporate outing",
     "fetchedAt": "2026-06-30T09:59:57.681Z",
+    "addedBy": "offsite"
+  },
+  "offsite/outings/immersive-art-experience-buyout": {
+    "url": "https://images.unsplash.com/photo-1545128485-c400e7702796?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxJbW1lcnNpdmUtQXJ0JTIwRXhwZXJpZW5jZSUyMEJ1eW91dCUyMG5pZ2h0bGlmZSUyMGNvcnBvcmF0ZSUyMG91dGluZ3xlbnwxfDB8fHwxNzgyODIyMjQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people partying inside room",
+    "photographerName": "Pim Myten",
+    "photographerUrl": "https://unsplash.com/@pimmyten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-partying-inside-room-m41k1lTzjVM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Immersive-Art Experience Buyout nightlife corporate outing",
+    "fetchedAt": "2026-06-30T12:24:00.380Z",
     "addedBy": "offsite"
   },
   "offsite/outings/indoor-karting-grand-prix": {
@@ -5677,6 +5697,146 @@
     "unsplashUrl": "https://unsplash.com/photos/closeup-photo-of-orange-and-black-helicopter-BibxoLzkbg4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Wine-Country Fly-Out (Helicopter) air corporate outing",
     "fetchedAt": "2026-06-30T10:00:16.739Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/alpine": {
+    "url": "https://images.unsplash.com/photo-1668120089662-42642838cfef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxhbHBpbmUlMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large green lawn with bushes and trees",
+    "photographerName": "Raelle Cameron",
+    "photographerUrl": "https://unsplash.com/@raegocreative?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-green-lawn-with-bushes-and-trees-JUNyb_cetns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "alpine luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:01.814Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/castle": {
+    "url": "https://images.unsplash.com/photo-1717584125850-136a4eac966c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxjYXN0bGUlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man standing on top of a cliff next to a body of water",
+    "photographerName": "Anastasiia Ovcharenko",
+    "photographerUrl": "https://unsplash.com/@ov_anastasiia_vl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-top-of-a-cliff-next-to-a-body-of-water-5MV3KKDbzdg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "castle resort landscape",
+    "fetchedAt": "2026-06-30T12:24:04.500Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/coastal": {
+    "url": "https://images.unsplash.com/photo-1760259410333-1f8eef2b9928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxjb2FzdGFsJTIwbHV4dXJ5JTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHJlc29ydCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyODIyMjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Row of palm trees reflected in calm water",
+    "photographerName": "Luo Jin Hong",
+    "photographerUrl": "https://unsplash.com/@logichom?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/row-of-palm-trees-reflected-in-calm-water-Mqy4fb7Fqkg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "coastal luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:05.860Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/countryside": {
+    "url": "https://images.unsplash.com/photo-1771479452299-b0fcb537b313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxjb3VudHJ5c2lkZSUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A scenic landscape with rolling hills and green fields.",
+    "photographerName": "Truong Tuyet Ly",
+    "photographerUrl": "https://unsplash.com/@liliantruong2603?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-landscape-with-rolling-hills-and-green-fields-sH4SU_nSBC0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "countryside luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:07.299Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/desert": {
+    "url": "https://images.unsplash.com/photo-1660061540506-7ea770652676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pool surrounded by buildings and trees",
+    "photographerName": "kaleb tapp",
+    "photographerUrl": "https://unsplash.com/@kalebtapp?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pool-surrounded-by-buildings-and-trees-q7kTw4thhvA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "desert luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:08.630Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/island": {
+    "url": "https://images.unsplash.com/photo-1779325523265-70901681a084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxpc2xhbmQlMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Luxury tropical resort with palm trees and distant ocean.",
+    "photographerName": "Logan Voss",
+    "photographerUrl": "https://unsplash.com/@loganvoss?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/luxury-tropical-resort-with-palm-trees-and-distant-ocean-HeVNZMI89B8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "island luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:10.012Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/lake": {
+    "url": "https://images.unsplash.com/photo-1753958509901-a2676dbb4c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxsYWtlJTIwbHV4dXJ5JTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHJlc29ydCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyODIyMjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A beautiful beach scene at dusk with lights on.",
+    "photographerName": "Mushvig Niftaliyev",
+    "photographerUrl": "https://unsplash.com/@mushvig95?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beautiful-beach-scene-at-dusk-with-lights-on-C4h-odPz8zQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "lake luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:11.348Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/links": {
+    "url": "https://images.unsplash.com/photo-1768396747921-5a18367415d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxsaW5rcyUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Autumn golf course with colorful trees and a bridge.",
+    "photographerName": "Andy Wang",
+    "photographerUrl": "https://unsplash.com/@space_launch_system?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/autumn-golf-course-with-colorful-trees-and-a-bridge-y_7bEVdM924?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "links luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:12.901Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/palace": {
+    "url": "https://images.unsplash.com/photo-1780405637475-8417b34aba81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxwYWxhY2UlMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Picturesque island settlement on a lake with mountains.",
+    "photographerName": "Yoanna Yordanova",
+    "photographerUrl": "https://unsplash.com/@iso_excited?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/picturesque-island-settlement-on-a-lake-with-mountains-8lq53q9Sz38?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "palace luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:14.236Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/ranch": {
+    "url": "https://images.unsplash.com/photo-1777872721419-f738c532df1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxyYW5jaCUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Modern swimming pool with unique seating areas in green landscape.",
+    "photographerName": "Ammar Sajan",
+    "photographerUrl": "https://unsplash.com/@4mmar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/modern-swimming-pool-with-unique-seating-areas-in-green-landscape-OvKQmmmySto?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "ranch luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:15.836Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/safari": {
+    "url": "https://images.unsplash.com/photo-1708787101150-844cebbad46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxzYWZhcmklMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a grassy area with benches and trees in the background",
+    "photographerName": "Khushi Singh",
+    "photographerUrl": "https://unsplash.com/@khushisingh0329?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-grassy-area-with-benches-and-trees-in-the-background-kMrpuzZnQtI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "safari luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:17.278Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/ski-resort": {
+    "url": "https://images.unsplash.com/photo-1602861750390-b74b801290e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxza2ktcmVzb3J0JTIwbHV4dXJ5JTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHJlc29ydCUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyODIyMjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown house on snow covered ground during daytime",
+    "photographerName": "Hans Eiskonen",
+    "photographerUrl": "https://unsplash.com/@eiskonen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-house-on-snow-covered-ground-during-daytime-0orVsXlSdfs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "ski-resort luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:18.730Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/tropical": {
+    "url": "https://images.unsplash.com/photo-1535205148555-bcbbc2a78913?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white concrete house",
+    "photographerName": "Christian Lambert",
+    "photographerUrl": "https://unsplash.com/@_christianlambert?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-concrete-house-diYY2TMBY5g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "tropical luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:20.290Z",
+    "addedBy": "offsite"
+  },
+  "offsite/settings/vineyard": {
+    "url": "https://images.unsplash.com/photo-1626667973496-73be1fc96390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHx2aW5leWFyZCUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a winding road in the woods",
+    "photographerName": "Thai Tong",
+    "photographerUrl": "https://unsplash.com/@thaitong?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-winding-road-in-the-woods-8mO1Jpm2d2I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "vineyard luxury corporate retreat resort landscape",
+    "fetchedAt": "2026-06-30T12:24:21.745Z",
     "addedBy": "offsite"
   },
   "offsite/venues/al-maha-dubai": {
