@@ -3089,6 +3089,16 @@
     "fetchedAt": "2026-04-12T18:39:14.764Z",
     "addedBy": "moh"
   },
+  "moh/cities/atlanta-ga/lodging": {
+    "url": "https://images.unsplash.com/photo-1590950438368-110fea5acf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4Mjg1MDU2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red and white city of chicago signage",
+    "photographerName": "Maria Oswalt",
+    "photographerUrl": "https://unsplash.com/@mcoswalt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-and-white-city-of-chicago-signage-ySRuIL_b1So?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta GA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-30T20:16:08.477Z",
+    "addedBy": "moh"
+  },
   "moh/cities/austin-tx": {
     "url": "https://images.unsplash.com/photo-1629123399455-173cc3c7f168?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMTkxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "man and woman standing beside railings during daytime",
@@ -3787,6 +3797,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-skyline-from-a-rooftop-oy_gQcqlGYk?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Philadelphia PA rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T18:39:13.267Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/philadelphia-pa/activities": {
+    "url": "https://images.unsplash.com/photo-1617113539536-a941fffdde95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBQQSUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyODUwNTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in black and white polka dot dress holding blue tablet computer",
+    "photographerName": "Ashley Piszek",
+    "photographerUrl": "https://unsplash.com/@missswiss?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-black-and-white-polka-dot-dress-holding-blue-tablet-computer-nBkNe7-t-WI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Philadelphia PA spa wellness retreat",
+    "fetchedAt": "2026-06-30T20:16:07.221Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/philadelphia-pa/bars": {
+    "url": "https://images.unsplash.com/photo-1690335008680-dfb61f773c08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBjb2NrdGFpbCUyMGxvdW5nZSUyMHNwZWFrZWFzeSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODI4NTA1NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting at a bar with drinks",
+    "photographerName": "Steven Hastings",
+    "photographerUrl": "https://unsplash.com/@jaeyoony?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-bar-with-drinks-YgblYRSuwRY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Philadelphia cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-06-30T20:16:05.436Z",
     "addedBy": "moh"
   },
   "moh/cities/philadelphia-pa/dining": {
