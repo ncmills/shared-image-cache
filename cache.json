@@ -3089,6 +3089,26 @@
     "fetchedAt": "2026-04-12T18:39:14.764Z",
     "addedBy": "moh"
   },
+  "moh/cities/atlanta-ga/activities": {
+    "url": "https://images.unsplash.com/photo-1682997343554-019479aed918?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4Mjg2MjY1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a water fountain with a statue in the middle of it",
+    "photographerName": "Brice Cooper",
+    "photographerUrl": "https://unsplash.com/@brice_cooper18?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-water-fountain-with-a-statue-in-the-middle-of-it-T4Mn-2JCwjY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta GA spa wellness retreat",
+    "fetchedAt": "2026-06-30T23:37:30.306Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlanta-ga/dining": {
+    "url": "https://images.unsplash.com/photo-1651977560790-42e0c5cf2ba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI4NjI2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a wooden cabin with a table and chairs",
+    "photographerName": "Daniel",
+    "photographerUrl": "https://unsplash.com/@unsplashbydan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-cabin-with-a-table-and-chairs-oQXWKzGivyU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta GA editorial restaurant brunch",
+    "fetchedAt": "2026-06-30T23:37:26.225Z",
+    "addedBy": "moh"
+  },
   "moh/cities/atlanta-ga/lodging": {
     "url": "https://images.unsplash.com/photo-1590950438368-110fea5acf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4Mjg1MDU2OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "red and white city of chicago signage",
