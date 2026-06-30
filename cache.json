@@ -3249,6 +3249,16 @@
     "fetchedAt": "2026-04-12T18:39:09.599Z",
     "addedBy": "moh"
   },
+  "moh/cities/chicago-il/lodging": {
+    "url": "https://images.unsplash.com/photo-1643768664581-dd8803c6bfca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4MjgxMzU0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a white bed sitting in a bedroom next to a window",
+    "photographerName": "Benjamin R.",
+    "photographerUrl": "https://unsplash.com/@dapperprofessional?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-white-bed-sitting-in-a-bedroom-next-to-a-window-fuo8XrnsVo4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago IL boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-30T09:59:02.117Z",
+    "addedBy": "moh"
+  },
   "moh/cities/dallas-tx": {
     "url": "https://images.unsplash.com/photo-1766275827053-1d46fec02858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "City skyline silhouette against a colorful sunset.",
@@ -3387,6 +3397,46 @@
     "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-XXcGQ2kq7lQ?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Nevada skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:08.341Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/las-vegas-nv/activities": {
+    "url": "https://images.unsplash.com/photo-1673687785095-f1b45db8a6cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyME5WJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI4MTM1NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an empty swimming pool with lounge chairs around it",
+    "photographerName": "Frugal Flyer",
+    "photographerUrl": "https://unsplash.com/@frugalflyer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-lounge-chairs-around-it-i8PoYjIp2so?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas NV spa wellness retreat",
+    "fetchedAt": "2026-06-30T09:59:00.731Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/las-vegas-nv/bars": {
+    "url": "https://images.unsplash.com/photo-1694717024901-53460940be07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4MjgxMzUzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sign that says welcome to las vegas",
+    "photographerName": "Nejc Soklič",
+    "photographerUrl": "https://unsplash.com/@nejc_soklic?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-that-says-welcome-to-las-vegas-qswwBhxP_48?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-06-30T09:58:59.176Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/las-vegas-nv/dining": {
+    "url": "https://images.unsplash.com/photo-1755875341396-cdbd4698912e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyME5WJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgyODEzNTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Las vegas skyline with arch bridge and buildings",
+    "photographerName": "Luana Scorsoni",
+    "photographerUrl": "https://unsplash.com/@scorsoniphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/las-vegas-skyline-with-arch-bridge-and-buildings-FNZg1GgRIzk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas NV editorial restaurant brunch",
+    "fetchedAt": "2026-06-30T09:58:56.346Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/las-vegas-nv/lodging": {
+    "url": "https://images.unsplash.com/photo-1580303898329-556c611441bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzgyODEzNTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building near body of water during daytime",
+    "photographerName": "Tobias Smietana",
+    "photographerUrl": "https://unsplash.com/@tobiashh?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-body-of-water-during-daytime-vryVT4TP42k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas luxury hotel pool",
+    "fetchedAt": "2026-06-30T09:58:54.957Z",
     "addedBy": "moh"
   },
   "moh/cities/los-angeles-ca": {
