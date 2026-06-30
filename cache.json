@@ -3789,6 +3789,26 @@
     "fetchedAt": "2026-04-12T18:39:13.267Z",
     "addedBy": "moh"
   },
+  "moh/cities/philadelphia-pa/dining": {
+    "url": "https://images.unsplash.com/photo-1488573783607-039006e42465?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBQQSUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4MjgzNzAzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "shallow focus photography of juice in glass on table",
+    "photographerName": "Helio Ha",
+    "photographerUrl": "https://unsplash.com/@helioha?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photography-of-juice-in-glass-on-table-h_4kjG0HRZw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Philadelphia PA editorial restaurant brunch",
+    "fetchedAt": "2026-06-30T16:30:34.182Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/philadelphia-pa/lodging": {
+    "url": "https://images.unsplash.com/photo-1617113539536-a941fffdde95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBQQSUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyODM3MDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in black and white polka dot dress holding blue tablet computer",
+    "photographerName": "Ashley Piszek",
+    "photographerUrl": "https://unsplash.com/@missswiss?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-black-and-white-polka-dot-dress-holding-blue-tablet-computer-nBkNe7-t-WI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Philadelphia PA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-30T16:30:32.512Z",
+    "addedBy": "moh"
+  },
   "moh/cities/portland-me": {
     "url": "https://images.unsplash.com/photo-1504661953924-e1085509f26a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME1FJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAxOTE3OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "bride and groom standing on wooden dock near body of water",
@@ -3987,6 +4007,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-ducks-in-it-SV6Gzr8EKko?utm_source=shared_image_cache&utm_medium=referral",
     "query": "DC skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:12.025Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/washington-dc/activities": {
+    "url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwREMlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4MjgzNzAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water near trees during daytime",
+    "photographerName": "Andy He",
+    "photographerUrl": "https://unsplash.com/@andy_hehe?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-near-trees-during-daytime-PuJc2Sodi94?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington DC spa wellness retreat",
+    "fetchedAt": "2026-06-30T16:30:31.207Z",
     "addedBy": "moh"
   },
   "moh/cities/washington-dc/dining": {
