@@ -1,0 +1,113 @@
+/**
+ * gap-report.ts — the image-gap identifier for the shared cache.
+ *
+ * Loads every project's query loader (the SAME source of truth the fetcher
+ * uses), diffs the desired keys against cache.json, and reports — per project
+ * and per category — exactly which images are still missing. This is the
+ * "identify gaps" half of the daily loop: the fetcher pulls what's missing
+ * (bounded, under the API ceiling) and the deploy hooks plug new images into
+ * each site; this script makes the remaining gap visible and trackable so we
+ * can watch the cache converge day over day.
+ *
+ * Pure read-only — no network, no writes (unless --write-summary is passed,
+ * which appends a markdown table to $GITHUB_STEP_SUMMARY for the daily run).
+ *
+ * Usage:
+ *   npx tsx scripts/gap-report.ts                 # human report to stdout
+ *   npx tsx scripts/gap-report.ts --write-summary # also append GH step summary
+ *   npx tsx scripts/gap-report.ts --list=offsite  # list every missing key for a project
+ */
+import { readFileSync, existsSync, appendFileSync } from "node:fs";
+import { resolve } from "node:path";
+import type { Cache, QueryItem } from "../lib/types";
+import { getTdfQueries } from "./queries/tdf";
+import { getOffsiteQueries } from "./queries/offsite";
+import { getBestmanQueries } from "./queries/bestman";
+import { getMohQueries } from "./queries/moh";
+
+const REPO_ROOT = resolve(__dirname, "..");
+const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
+
+const LOADERS: Record<string, () => Promise<QueryItem[]>> = {
+  tdf: getTdfQueries,
+  bestman: getBestmanQueries,
+  moh: getMohQueries,
+  offsite: getOffsiteQueries,
+};
+
+async function main() {
+  const args = process.argv.slice(2);
+  const listProject = args.find((a) => a.startsWith("--list="))?.slice(7);
+  const writeSummary = args.includes("--write-summary");
+
+  const cache: Cache = existsSync(CACHE_PATH)
+    ? JSON.parse(readFileSync(CACHE_PATH, "utf8"))
+    : {};
+
+  type ProjStat = {
+    total: number;
+    cached: number;
+    missing: number;
+    byCategory: Record<string, { total: number; missing: number }>;
+    missingKeys: string[];
+  };
+  const stats: Record<string, ProjStat> = {};
+
+  for (const [project, loader] of Object.entries(LOADERS)) {
+    const queries = await loader();
+    const s: ProjStat = { total: 0, cached: 0, missing: 0, byCategory: {}, missingKeys: [] };
+    for (const q of queries) {
+      s.total++;
+      const cat = q.key.split("/")[1] ?? "_";
+      s.byCategory[cat] ??= { total: 0, missing: 0 };
+      s.byCategory[cat].total++;
+      if (cache[q.key]) {
+        s.cached++;
+      } else {
+        s.missing++;
+        s.byCategory[cat].missing++;
+        s.missingKeys.push(q.key);
+      }
+    }
+    stats[project] = s;
+  }
+
+  // ── human report ─────────────────────────────────────────────────────
+  let totalMissing = 0;
+  const lines: string[] = [];
+  lines.push("# Shared image-cache — gap report\n");
+  lines.push("| Project | desired | cached | MISSING | coverage |");
+  lines.push("|---|--:|--:|--:|--:|");
+  for (const [project, s] of Object.entries(stats)) {
+    totalMissing += s.missing;
+    const pct = s.total ? Math.round((s.cached / s.total) * 100) : 100;
+    lines.push(`| ${project} | ${s.total} | ${s.cached} | ${s.missing} | ${pct}% |`);
+  }
+  lines.push("");
+  for (const [project, s] of Object.entries(stats)) {
+    if (s.missing === 0) continue;
+    const cats = Object.entries(s.byCategory)
+      .filter(([, c]) => c.missing > 0)
+      .sort((a, b) => b[1].missing - a[1].missing)
+      .map(([cat, c]) => `${cat}:${c.missing}`)
+      .join(" · ");
+    lines.push(`**${project}** — ${s.missing} missing by category: ${cats}`);
+  }
+
+  console.log(lines.join("\n"));
+  console.log(`\nTotal missing across all sites: ${totalMissing}`);
+
+  if (listProject && stats[listProject]) {
+    console.log(`\n── every missing key for ${listProject} ──`);
+    for (const k of stats[listProject].missingKeys) console.log("  " + k);
+  }
+
+  if (writeSummary && process.env.GITHUB_STEP_SUMMARY) {
+    appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + `\n\n**Total missing: ${totalMissing}**\n`);
+  }
+}
+
+main().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});

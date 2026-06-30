@@ -82,6 +82,13 @@ jobs:
       - name: Print stats
         run: npm run stats
 
+      # Identify the remaining image gaps (per site + per category) AFTER this
+      # run's pull, so the cache's convergence is visible day over day in the
+      # run summary. Read-only; the fetcher above already pulled what it could
+      # under the API ceiling, and gaps are expected to shrink each day.
+      - name: Report remaining image gaps
+        run: npx tsx scripts/gap-report.ts --write-summary
+
       # Consumer sites pull the shared cache at build time (prebuild sync), so a
       # cache change only reaches a live site on its next deploy. Ping the deploy
       # hook for each site that gained images this run — keeps the freshest, most
