@@ -5399,6 +5399,16 @@
     "fetchedAt": "2026-06-30T09:59:46.213Z",
     "addedBy": "offsite"
   },
+  "offsite/outings/food-tour-competition": {
+    "url": "https://images.unsplash.com/photo-1616734755909-bb016ce64930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb29kLVRvdXIlMjBDb21wZXRpdGlvbiUyMGN1bGluYXJ5JTIwY29ycG9yYXRlJTIwb3V0aW5nfGVufDF8MHx8fDE3ODI4MjAyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man in white chef uniform cooking",
+    "photographerName": "Charanjeet Dhiman",
+    "photographerUrl": "https://unsplash.com/@charanjeet_dhiman?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-in-white-chef-uniform-cooking-9xObRZdEN7g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Food-Tour Competition culinary corporate outing",
+    "fetchedAt": "2026-06-30T11:51:14.928Z",
+    "addedBy": "offsite"
+  },
   "offsite/outings/give-back-day": {
     "url": "https://images.unsplash.com/photo-1683246153430-339416adff0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBHaXZlLUJhY2slMjBEYXklMjBzZXJ2aWNlJTIwY29ycG9yYXRlJTIwb3V0aW5nfGVufDF8MHx8fDE3ODI3OTM0NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man in a green t - shirt that says better outside the walls",
@@ -5507,6 +5517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photography-of-two-man-competing-at-the-polo-pony-m1uT_XHsTQM?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Polo Match Hospitality hospitality corporate outing",
     "fetchedAt": "2026-06-30T10:00:19.683Z",
+    "addedBy": "offsite"
+  },
+  "offsite/outings/private-chefs-competition": {
+    "url": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQcml2YXRlJTIwQ2hlZiUyN3MlMjBDb21wZXRpdGlvbiUyMGN1bGluYXJ5JTIwY29ycG9yYXRlJTIwb3V0aW5nfGVufDF8MHx8fDE3ODI4MjAyODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in white chef uniform holding green plate with food",
+    "photographerName": "Mohamed Nohassi",
+    "photographerUrl": "https://unsplash.com/@coopery?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-white-chef-uniform-holding-green-plate-with-food-DdglEoIC2y4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Private Chef's Competition culinary corporate outing",
+    "fetchedAt": "2026-06-30T11:51:23.100Z",
     "addedBy": "offsite"
   },
   "offsite/outings/private-suite-at-the-game": {
@@ -6187,6 +6207,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-green-golf-course-lTWh2FLKTzU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Finca Cortesin Andalusia cortijo hotel golf pool aerial",
     "fetchedAt": "2026-06-26T17:58:38.198Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/four-seasons-hualalai": {
+    "url": "https://images.unsplash.com/photo-1557858832-b23c89645f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyODIwMjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green-leafed coconut trees",
+    "photographerName": "Sarah Brown",
+    "photographerUrl": "https://unsplash.com/@sweetpagesco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-leafed-coconut-trees-4TioRmkVNKU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "tropical corporate retreat venue landscape",
+    "fetchedAt": "2026-06-30T11:50:58.078Z",
     "addedBy": "offsite"
   },
   "offsite/venues/four-seasons-koh-samui": {
