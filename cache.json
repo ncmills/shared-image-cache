@@ -3249,6 +3249,26 @@
     "fetchedAt": "2026-04-12T18:39:09.599Z",
     "addedBy": "moh"
   },
+  "moh/cities/chicago-il/activities": {
+    "url": "https://images.unsplash.com/photo-1724320660920-b0d0a62b5155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4MjgyMjE5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A river running through a city next to tall buildings",
+    "photographerName": "Acool rocket",
+    "photographerUrl": "https://unsplash.com/@acoolrocket?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-6zciovKug3Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago IL spa wellness retreat",
+    "fetchedAt": "2026-06-30T12:23:16.292Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/chicago-il/dining": {
+    "url": "https://images.unsplash.com/photo-1597548515800-17158541f8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI4MjIxOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grayscale photo of dining table and chairs",
+    "photographerName": "Mark Pecar",
+    "photographerUrl": "https://unsplash.com/@mgpecar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-dining-table-and-chairs-CNdjopTC1qA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago IL editorial restaurant brunch",
+    "fetchedAt": "2026-06-30T12:23:12.308Z",
+    "addedBy": "moh"
+  },
   "moh/cities/chicago-il/lodging": {
     "url": "https://images.unsplash.com/photo-1643768664581-dd8803c6bfca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4MjgxMzU0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a white bed sitting in a bedroom next to a window",
@@ -3967,6 +3987,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-ducks-in-it-SV6Gzr8EKko?utm_source=shared_image_cache&utm_medium=referral",
     "query": "DC skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:12.025Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/washington-dc/dining": {
+    "url": "https://images.unsplash.com/photo-1519418683053-bebf0b4400d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwREMlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI4MjIxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "person holding smartphone near long-stem drinking glass",
+    "photographerName": "Jared Arango",
+    "photographerUrl": "https://unsplash.com/@jaredrossarango?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-holding-smartphone-near-long-stem-drinking-glass-OvcsPbbfzu4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington DC editorial restaurant brunch",
+    "fetchedAt": "2026-06-30T12:23:19.102Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/washington-dc/lodging": {
+    "url": "https://images.unsplash.com/photo-1761757821641-3b347c034042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwREMlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4MjgyMjE5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A stylish bedroom with a metal bed and artwork.",
+    "photographerName": "Lori Payne",
+    "photographerUrl": "https://unsplash.com/@einheitconsulting?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-stylish-bedroom-with-a-metal-bed-and-artwork-XWgTzyymwj8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington DC boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-30T12:23:17.644Z",
     "addedBy": "moh"
   },
   "moh/cities/willamette-valley-or": {
