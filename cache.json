@@ -3139,6 +3139,36 @@
     "fetchedAt": "2026-04-12T18:39:05.862Z",
     "addedBy": "moh"
   },
+  "moh/cities/bozeman-mt/activities": {
+    "url": "https://images.unsplash.com/photo-1608768557474-d4c5651d3230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4Mjc5MzM2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown field near mountains under white clouds during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-field-near-mountains-under-white-clouds-during-daytime-cWFlYyJp2PE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman MT spa wellness retreat",
+    "fetchedAt": "2026-06-30T04:22:49.285Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bozeman-mt/bars": {
+    "url": "https://images.unsplash.com/photo-1705707027806-6af471265135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwY29ja3RhaWwlMjBsb3VuZ2UlMjBzcGVha2Vhc3klMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzgyNzkzMzY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room with a couch and a table",
+    "photographerName": "Charles Moll",
+    "photographerUrl": "https://unsplash.com/@charlesmollphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-pIH5DX-jlAY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-06-30T04:22:47.606Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bozeman-mt/lodging": {
+    "url": "https://images.unsplash.com/photo-1705707027806-6af471265135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4Mjc5MzM2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room with a couch and a table",
+    "photographerName": "Charles Moll",
+    "photographerUrl": "https://unsplash.com/@charlesmollphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-pIH5DX-jlAY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman MT boutique hotel bachelorette suite",
+    "fetchedAt": "2026-06-30T04:22:42.069Z",
+    "addedBy": "moh"
+  },
   "moh/cities/cape-cod-ma": {
     "url": "https://images.unsplash.com/photo-1701450647612-07e4b3149908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXNzYWNodXNldHRzJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a pink and blue sky with some clouds",
@@ -3437,6 +3467,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-pool-with-a-fountain-in-it-and-buildings-in-the-background-N_EnjLpCOeU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Miami FL boutique hotel bachelorette suite",
     "fetchedAt": "2026-06-29T17:35:22.707Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/napa-valley-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1663016829039-f9cf17ae0467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ0ElMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4Mjc5MzM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a house in the middle of a forest",
+    "photographerName": "Josh Bean",
+    "photographerUrl": "https://unsplash.com/@jtbean?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-house-in-the-middle-of-a-forest-5DdCMzovXbs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley CA spa wellness retreat",
+    "fetchedAt": "2026-06-30T04:22:40.711Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/napa-valley-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1627935563301-3ab81beb385f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwZmFybS10by10YWJsZSUyMHRhc3RpbmclMjBtZW51fGVufDF8MHx8fDE3ODI3OTMzNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white flowers on green grass field during daytime",
+    "photographerName": "Ugi K.",
+    "photographerUrl": "https://unsplash.com/@wizzyfx?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-flowers-on-green-grass-field-during-daytime-eSl_QHc_hFo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley farm-to-table tasting menu",
+    "fetchedAt": "2026-06-30T04:22:36.501Z",
     "addedBy": "moh"
   },
   "moh/cities/napa-valley-ca/lodging": {
