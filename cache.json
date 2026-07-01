@@ -3799,6 +3799,16 @@
     "fetchedAt": "2026-04-12T19:04:31.193Z",
     "addedBy": "moh"
   },
+  "moh/cities/fort-worth-tx": {
+    "url": "https://images.unsplash.com/photo-1681605011813-0fbe143ccd69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUWCUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODI5NDIzMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man and a woman standing next to each other",
+    "photographerName": "Tony Luginsland",
+    "photographerUrl": "https://unsplash.com/@tonyluginsland?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-and-a-woman-standing-next-to-each-other-NjvFdH8iYmE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth TX rooftop bachelorette glam",
+    "fetchedAt": "2026-07-01T21:45:36.755Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fort-worth-tx/activities": {
     "url": "https://images.unsplash.com/photo-1704743679449-3f561ad20457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUWCUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyOTA4NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a small waterfall in the middle of a forest",
