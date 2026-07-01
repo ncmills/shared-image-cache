@@ -6540,14 +6540,14 @@
     "addedBy": "offsite"
   },
   "offsite/settings/links": {
-    "url": "https://images.unsplash.com/photo-1768396747921-5a18367415d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxsaW5rcyUyMGx1eHVyeSUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjByZXNvcnQlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MjgyMjI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "Autumn golf course with colorful trees and a bridge.",
-    "photographerName": "Andy Wang",
-    "photographerUrl": "https://unsplash.com/@space_launch_system?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/autumn-golf-course-with-colorful-trees-and-a-bridge-y_7bEVdM924?utm_source=shared_image_cache&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1672825952732-ecef34882416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "alt": "A links golf green above the ocean, with dunes and surf behind",
+    "photographerName": "Frederik Rosar",
+    "photographerUrl": "https://unsplash.com/@segerfredo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/Alo3lgdV2CU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "links luxury corporate retreat resort landscape",
-    "fetchedAt": "2026-06-30T12:24:12.901Z",
-    "addedBy": "offsite"
+    "fetchedAt": "2026-07-01T00:00:00.000Z",
+    "addedBy": "offsite-manual-curation"
   },
   "offsite/settings/palace": {
     "url": "https://images.unsplash.com/photo-1780405637475-8417b34aba81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxwYWxhY2UlMjBsdXh1cnklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwcmVzb3J0JTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI4MjIyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
