@@ -8739,6 +8739,16 @@
     "fetchedAt": "2026-06-29T18:24:09.012Z",
     "addedBy": "tdf"
   },
+  "tdf/bachelorParty/bismarck-nd": {
+    "url": "https://images.unsplash.com/photo-1579126651289-6e9fd0a7bd18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMERha290YSUyMGRvd250b3duJTIwbmlnaHR8ZW58MXwwfHx8MTc4Mjk0MjM3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "panoramic photography of a brown concrete building front",
+    "photographerName": "Jared Anders",
+    "photographerUrl": "https://unsplash.com/@jandr2020?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/panoramic-photography-of-a-brown-concrete-building-front-8M9dPuejedo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "North Dakota downtown night",
+    "fetchedAt": "2026-07-01T21:46:17.813Z",
+    "addedBy": "tdf"
+  },
   "tdf/bachelorParty/bloomington-in": {
     "url": "https://images.unsplash.com/photo-1527125218795-3fc804b70f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbG9vbWluZ3RvbiUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4Mjc2OTQ0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "car on road during night",
@@ -8787,6 +8797,16 @@
     "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-kczeUEAhDZI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bowling Green nightlife skyline",
     "fetchedAt": "2026-06-29T23:15:21.917Z",
+    "addedBy": "tdf"
+  },
+  "tdf/bachelorParty/bozeman-mt": {
+    "url": "https://images.unsplash.com/photo-1608352071754-1a81161417b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwbmlnaHRsaWZlJTIwc2t5bGluZXxlbnwxfDB8fHwxNzgyOTQyMzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of city during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-during-daytime-zyqv4QlnqVI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman nightlife skyline",
+    "fetchedAt": "2026-07-01T21:46:01.264Z",
     "addedBy": "tdf"
   },
   "tdf/bachelorParty/brainerd-mn": {
@@ -11447,6 +11467,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-trees-and-a-building-in-the-background-MgkjG9gm7Lg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Little Rock AR landscape",
     "fetchedAt": "2026-04-11T03:09:40.579Z",
+    "addedBy": "tdf"
+  },
+  "tdf/destinations/lompoc-ca": {
+    "url": "https://images.unsplash.com/photo-1591164115502-09f4edf9f005?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI5NDIzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rocky mountain beside body of water during daytime",
+    "photographerName": "Craig Melville",
+    "photographerUrl": "https://unsplash.com/@craigmelville?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rocky-mountain-beside-body-of-water-during-daytime-NDIegxhmeWw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "California landscape",
+    "fetchedAt": "2026-07-01T21:45:57.114Z",
     "addedBy": "tdf"
   },
   "tdf/destinations/long-island-ny": {
