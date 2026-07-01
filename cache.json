@@ -3649,6 +3649,16 @@
     "fetchedAt": "2026-06-30T12:23:16.292Z",
     "addedBy": "moh"
   },
+  "moh/cities/chicago-il/bars": {
+    "url": "https://images.unsplash.com/photo-1722872095966-19fb39234c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwY29ja3RhaWwlMjBsb3VuZ2UlMjBzcGVha2Vhc3klMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzgyOTQ5MjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large sign that reads chicago on it",
+    "photographerName": "Mariah Hewines",
+    "photographerUrl": "https://unsplash.com/@mariahhewines?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-sign-that-reads-chicago-on-it-Aovsxh3W0t8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-01T23:40:32.861Z",
+    "addedBy": "moh"
+  },
   "moh/cities/chicago-il/dining": {
     "url": "https://images.unsplash.com/photo-1597548515800-17158541f8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI4MjIxOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "grayscale photo of dining table and chairs",
