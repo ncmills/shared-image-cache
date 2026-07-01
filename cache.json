@@ -3319,6 +3319,26 @@
     "fetchedAt": "2026-04-12T18:39:17.378Z",
     "addedBy": "moh"
   },
+  "moh/cities/dallas-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1681281154239-a5c633df951d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBUWCUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4Mjg4MTQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a close up of a sign on the side of a building",
+    "photographerName": "Brijesh Reddy",
+    "photographerUrl": "https://unsplash.com/@brddy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-sign-on-the-side-of-a-building-LkxRw7pMZDg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dallas TX editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T04:51:24.961Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/dallas-tx/lodging": {
+    "url": "https://images.unsplash.com/photo-1588724813450-0db7eca6a8d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBsdXh1cnklMjBob3RlbCUyMHBvb2x8ZW58MXwwfHx8MTc4Mjg4MTQ4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "swimming pool near trees and high rise buildings during daytime",
+    "photographerName": "Ashley Byrd",
+    "photographerUrl": "https://unsplash.com/@byrdman85?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/swimming-pool-near-trees-and-high-rise-buildings-during-daytime-K1KifQm2p0Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dallas luxury hotel pool",
+    "fetchedAt": "2026-07-01T04:51:23.649Z",
+    "addedBy": "moh"
+  },
   "moh/cities/denver-co": {
     "url": "https://images.unsplash.com/photo-1744915842905-7882ebb2c8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2xvcmFkbyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "City skyline under a colorful sunset.",
