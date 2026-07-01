@@ -3319,6 +3319,26 @@
     "fetchedAt": "2026-04-12T18:39:17.378Z",
     "addedBy": "moh"
   },
+  "moh/cities/dallas-tx/activities": {
+    "url": "https://images.unsplash.com/photo-1574269894544-9030ae9af71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBUWCUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyOTAwNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green-leafed tree",
+    "photographerName": "Linda Knicely",
+    "photographerUrl": "https://unsplash.com/@lindaknicely?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-leafed-tree-cwz09X12RMM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dallas TX spa wellness retreat",
+    "fetchedAt": "2026-07-01T10:09:57.242Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/dallas-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1582417746333-30354bba843e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBjb2NrdGFpbCUyMGxvdW5nZSUyMHNwZWFrZWFzeSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODI5MDA1OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden chairs and tables",
+    "photographerName": "Ashley Byrd",
+    "photographerUrl": "https://unsplash.com/@byrdman85?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-chairs-and-tables-fWBcjhd47H8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dallas cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-01T10:09:55.902Z",
+    "addedBy": "moh"
+  },
   "moh/cities/dallas-tx/dining": {
     "url": "https://images.unsplash.com/photo-1681281154239-a5c633df951d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBUWCUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4Mjg4MTQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a close up of a sign on the side of a building",
