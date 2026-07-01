@@ -1,4 +1,14 @@
 {
+  "bestman/cities/asheville-nc/activities": {
+    "url": "https://images.unsplash.com/photo-1617912172807-ceaf08ba7bf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4NDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees on mountain under white clouds and blue sky during daytime",
+    "photographerName": "Sara Parlier",
+    "photographerUrl": "https://unsplash.com/@sassymoto511?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-on-mountain-under-white-clouds-and-blue-sky-during-daytime-iFNZZyX6coE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville NC adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:14.113Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/asheville-nc/bars": {
     "url": "https://images.unsplash.com/photo-1697673492228-3d3b3d5428de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAyMDYzNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a city with mountains in the background",
@@ -37,6 +47,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-brick-house-near-green-grass-field-and-trees-during-daytime-NllM8-Z6XOA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Aspen CO vacation rental house pool",
     "fetchedAt": "2026-04-13T00:09:15.580Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/atlanta-ga/activities": {
+    "url": "https://images.unsplash.com/photo-1680568332970-0bad285694a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people flying kites on top of a mountain",
+    "photographerName": "Koushalya Karthikeyan",
+    "photographerUrl": "https://unsplash.com/@kouskkn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-flying-kites-on-top-of-a-mountain-nUB6mBtnRfs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta GA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:11.510Z",
     "addedBy": "bestman"
   },
   "bestman/cities/atlanta-ga/bars": {
@@ -169,6 +189,16 @@
     "fetchedAt": "2026-04-13T21:18:03.452Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/bend-or/activities": {
+    "url": "https://images.unsplash.com/photo-1577580529485-d39b28695fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grayscale photo of man rock climbing",
+    "photographerName": "Jeff Ochoa",
+    "photographerUrl": "https://unsplash.com/@jeffochoa?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-man-rock-climbing-53S-oN_r9SU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend OR adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:37.550Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/bend-or/bars": {
     "url": "https://images.unsplash.com/photo-1563138216-f4d79398013c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people sitting at tables on top of a roof",
@@ -187,6 +217,16 @@
     "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-black-pan-Q9yr-cvJr30?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bend OR steakhouse restaurant food",
     "fetchedAt": "2026-04-12T19:03:23.363Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/bend-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1694885190541-40037b8a6b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT1IlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzgyOTA4Mzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an empty swimming pool with an umbrella over it",
+    "photographerName": "Brian Wangenheim",
+    "photographerUrl": "https://unsplash.com/@brianwangenheim?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend OR vacation rental house pool",
+    "fetchedAt": "2026-07-01T12:19:34.899Z",
     "addedBy": "bestman"
   },
   "bestman/cities/big-sky-mt/bars": {
@@ -209,6 +249,16 @@
     "fetchedAt": "2026-04-13T13:08:16.313Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/boise-id/activities": {
+    "url": "https://images.unsplash.com/photo-1699959560616-aa17ace76879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElEJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people hiking up a mountain",
+    "photographerName": "Lucas Canino",
+    "photographerUrl": "https://unsplash.com/@lcanino?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-hiking-up-a-mountain-lUNh8-Zhqo4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise ID adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:55.093Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/boise-id/bars": {
     "url": "https://images.unsplash.com/photo-1502339380875-a75dc1c56364?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElEJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDIwNjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Parking garage signage",
@@ -227,6 +277,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-painting-on-the-wall-pXJqFfQBwvY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Idaho restaurant food",
     "fetchedAt": "2026-04-12T19:03:36.352Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/boise-id/lodging": {
+    "url": "https://images.unsplash.com/photo-1768790997680-6dc2f933c536?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMGRvd250b3duJTIwYXJjaGl0ZWN0dXJlJTIwaGlzdG9yaWN8ZW58MXwwfHx8MTc4MjkwODM5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Row of brick buildings on a cloudy day",
+    "photographerName": "Chris Bischoff",
+    "photographerUrl": "https://unsplash.com/@cbischoff?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/row-of-brick-buildings-on-a-cloudy-day-xip71kHqKNo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise downtown architecture historic",
+    "fetchedAt": "2026-07-01T12:19:51.112Z",
     "addedBy": "bestman"
   },
   "bestman/cities/boston-ma/bars": {
@@ -297,6 +357,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-road-in-the-middle-of-a-forest-with-mountains-in-the-background-Rlu93BglKy0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Breckenridge CO vacation rental house pool",
     "fetchedAt": "2026-04-13T13:04:52.519Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cabo-mx/activities": {
+    "url": "https://images.unsplash.com/photo-1580846629083-02669741360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYWJvJTIwU2FuJTIwTHVjYXMlMjBNZXhpY28lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rock formation on sea under blue sky during daytime",
+    "photographerName": "Victoria Bragg",
+    "photographerUrl": "https://unsplash.com/@toritimephotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-on-sea-under-blue-sky-during-daytime-A3yGqGbILao?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cabo San Lucas Mexico adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:46.511Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cabo-mx/bars": {
+    "url": "https://images.unsplash.com/photo-1527734055665-8def83921139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYWJvJTIwU2FuJTIwTHVjYXMlMjBNZXhpY28lMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODI5MDg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "birds eye view photo of buildings and body of water",
+    "photographerName": "Victor Hughes",
+    "photographerUrl": "https://unsplash.com/@bigvicmedia?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/birds-eye-view-photo-of-buildings-and-body-of-water-QsP5UmrFPlw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cabo San Lucas Mexico rooftop bar nightlife",
+    "fetchedAt": "2026-07-01T12:20:42.545Z",
     "addedBy": "bestman"
   },
   "bestman/cities/cabo-mx/dining": {
@@ -429,6 +509,36 @@
     "fetchedAt": "2026-04-11T20:06:56.501Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/charlotte-nc/activities": {
+    "url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGFybG90dGUlMjBOQyUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman on kayak on body of water holding paddle",
+    "photographerName": "Filip Mroz",
+    "photographerUrl": "https://unsplash.com/@mroz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-on-kayak-on-body-of-water-holding-paddle-zK049OFP4uI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charlotte NC adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:07.510Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/charlotte-nc/bars": {
+    "url": "https://images.unsplash.com/photo-1562762394-3acfba62a48e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDaGFybG90dGUlMjBOQyUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4MjkwODQwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "photography of building during nighttime",
+    "photographerName": "Wes Hicks",
+    "photographerUrl": "https://unsplash.com/@sickhews?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/photography-of-building-during-nighttime-6biN3uBw4Fg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charlotte NC rooftop bar nightlife",
+    "fetchedAt": "2026-07-01T12:20:04.714Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/charlotte-nc/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGFybG90dGUlMjBOQyUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzgyOTA4NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charlotte NC steakhouse restaurant food",
+    "fetchedAt": "2026-07-01T12:20:01.926Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/charlotte-nc/lodging": {
     "url": "https://images.unsplash.com/photo-1755816736022-5d083959ca2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDaGFybG90dGUlMjBOQyUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Covered patio with outdoor seating and grill.",
@@ -437,6 +547,16 @@
     "unsplashUrl": "https://unsplash.com/photos/covered-patio-with-outdoor-seating-and-grill-j0SEMnE_q04?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Charlotte NC vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:44.197Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/chicago-il/activities": {
+    "url": "https://images.unsplash.com/photo-1724320660920-b0d0a62b5155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODM5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A river running through a city next to tall buildings",
+    "photographerName": "Acool rocket",
+    "photographerUrl": "https://unsplash.com/@acoolrocket?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-6zciovKug3Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago IL adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:59.127Z",
     "addedBy": "bestman"
   },
   "bestman/cities/chicago-il/bars": {
@@ -577,6 +697,16 @@
     "unsplashUrl": "https://unsplash.com/photos/swimming-pool-near-trees-and-high-rise-buildings-during-daytime-K1KifQm2p0Q?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Dallas TX vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:17.082Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/denver-co/activities": {
+    "url": "https://images.unsplash.com/photo-1768145488772-db787036bb13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "T-shirts and apparel displayed on store shelves",
+    "photographerName": "Jimmy Funkhouser",
+    "photographerUrl": "https://unsplash.com/@feraldenver?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/t-shirts-and-apparel-displayed-on-store-shelves-xXh9nC_7c7U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:54.714Z",
     "addedBy": "bestman"
   },
   "bestman/cities/denver-co/bars": {
@@ -829,6 +959,36 @@
     "fetchedAt": "2026-04-11T20:07:27.693Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/hilton-head-sc/activities": {
+    "url": "https://images.unsplash.com/photo-1760462568926-1a83660b7370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Cyclists riding mountain bikes on a forest trail.",
+    "photographerName": "Sunil Chandra Sharma",
+    "photographerUrl": "https://unsplash.com/@sunilcsharma?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cyclists-riding-mountain-bikes-on-a-forest-trail-EMFEHJzSsww?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hilton Head SC adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:26.280Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hilton-head-sc/bars": {
+    "url": "https://images.unsplash.com/photo-1748821454217-37110c80ac11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODI5MDg0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A lighthouse tops a harbor-side building.",
+    "photographerName": "Ken Bitar",
+    "photographerUrl": "https://unsplash.com/@kbdroneservices?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lighthouse-tops-a-harbor-side-building-qTYn528bvT8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hilton Head SC rooftop bar nightlife",
+    "fetchedAt": "2026-07-01T12:20:23.459Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hilton-head-sc/dining": {
+    "url": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc4MjkwODQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "fried food on black pan",
+    "photographerName": "Madie Hamilton",
+    "photographerUrl": "https://unsplash.com/@mham3816?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hilton Head SC steakhouse restaurant food",
+    "fetchedAt": "2026-07-01T12:20:20.740Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/honolulu-hi/bars": {
     "url": "https://images.unsplash.com/photo-1771992457677-f7452eadf7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIYXdhaWklMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAzODkzNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Assortment of liquor bottles displayed on bar shelves",
@@ -1069,6 +1229,16 @@
     "fetchedAt": "2026-04-13T00:08:45.188Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/lake-tahoe-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1552083375-1447ce886485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4MzM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "forested lake with island and boats",
+    "photographerName": "Fabian Quintero",
+    "photographerUrl": "https://unsplash.com/@onefabian?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/forested-lake-with-island-and-boats-UWQP2mh5YJI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:58.705Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/lake-tahoe-ca/bars": {
     "url": "https://images.unsplash.com/photo-1770010313690-322e99ecbb18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A bar counter with bottles and glasses",
@@ -1097,6 +1267,16 @@
     "unsplashUrl": "https://unsplash.com/photos/sunrise-over-a-serene-lake-with-snow-covered-docks-N6Bx8QcTCn8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Lake Tahoe CA vacation rental house pool",
     "fetchedAt": "2026-04-12T19:02:52.203Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/las-vegas-nv/activities": {
+    "url": "https://images.unsplash.com/photo-1577334928618-2ff2bf09e827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYXMlMjBWZWdhcyUyME5WJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Las Vegas Nevada billboard under white and blue sky",
+    "photographerName": "Sung Shin",
+    "photographerUrl": "https://unsplash.com/@ironstagram?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/las-vegas-nevada-billboard-under-white-and-blue-sky-sNLdpqkr2YE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Las Vegas NV adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:43.932Z",
     "addedBy": "bestman"
   },
   "bestman/cities/las-vegas-nv/bars": {
@@ -1227,6 +1407,16 @@
     "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-a-city-in-the-distance-LBkjBVTot_Y?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Memphis skyline night",
     "fetchedAt": "2026-04-13T00:08:15.803Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/miami-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1571041804726-53e8bf082096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNaWFtaSUyMEZMJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people at Miami Beach during day",
+    "photographerName": "Marc Fanelli-Isla",
+    "photographerUrl": "https://unsplash.com/@marcfanelliisla?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-at-miami-beach-during-day-4JrhdmdeuKI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Miami FL adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:13.206Z",
     "addedBy": "bestman"
   },
   "bestman/cities/miami-fl/dining": {
@@ -1389,6 +1579,16 @@
     "fetchedAt": "2026-04-12T20:07:44.073Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/myrtle-beach-sc/activities": {
+    "url": "https://images.unsplash.com/photo-1731007128762-c90e3bae855c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDg0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people standing on top of a boat on a beach",
+    "photographerName": "Condor Wei",
+    "photographerUrl": "https://unsplash.com/@cwcanchn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-top-of-a-boat-on-a-beach-TiLEEXohfsY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach SC adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:31.889Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/myrtle-beach-sc/bars": {
     "url": "https://images.unsplash.com/photo-1655485618583-20c7aa1876d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMENhcm9saW5hJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMjA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a street with palm trees and buildings",
@@ -1399,6 +1599,16 @@
     "fetchedAt": "2026-04-12T19:04:06.641Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/myrtle-beach-sc/dining": {
+    "url": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3ODI5MDg0Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "fried food on black pan",
+    "photographerName": "Madie Hamilton",
+    "photographerUrl": "https://unsplash.com/@mham3816?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach SC steakhouse restaurant food",
+    "fetchedAt": "2026-07-01T12:20:29.130Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/myrtle-beach-sc/lodging": {
     "url": "https://images.unsplash.com/photo-1671041232655-01705d4e589d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a beach from behind a fence",
@@ -1407,6 +1617,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-from-behind-a-fence-GC6Pgid03K8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Myrtle Beach SC vacation rental house pool",
     "fetchedAt": "2026-04-12T19:04:02.780Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1522163182402-834f871fd851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ0ElMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODM1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man climbing cliff beside beach",
+    "photographerName": "Hu Chen",
+    "photographerUrl": "https://unsplash.com/@huchenme?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-climbing-cliff-beside-beach-FZ0qzjVF_-c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa CA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:16.843Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1558368417-57d31049c609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYXBhJTIwY29ja3RhaWwlMjBsb3VuZ2UlMjBzcGVha2Vhc3klMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzgyOTA4MzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "two white leather sofa chairs",
+    "photographerName": "Shane Roten",
+    "photographerUrl": "https://unsplash.com/@srphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-white-leather-sofa-chairs--VUniQRnoFM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-01T12:19:14.076Z",
     "addedBy": "bestman"
   },
   "bestman/cities/napa-ca/dining": {
@@ -1589,6 +1819,16 @@
     "fetchedAt": "2026-04-13T00:09:10.216Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/palm-springs-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1671904942522-8e2a0dbb709f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a golf course with a lake and mountains in the background",
+    "photographerName": "Robert Ruggiero",
+    "photographerUrl": "https://unsplash.com/@robert2301?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-golf-course-with-a-lake-and-mountains-in-the-background-qsOlzJgdCeY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:09.905Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/palm-springs-ca/dining": {
     "url": "https://images.unsplash.com/photo-1723629351395-9e4ba45d6297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A couple of people standing in front of a restaurant",
@@ -1607,6 +1847,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-pool-with-chairs-and-umbrellas-by-it-fWhrnLVu4M4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Palm Springs CA vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:02.148Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/park-city-ut/activities": {
+    "url": "https://images.unsplash.com/photo-1713447524562-439227b37386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large metal structure sitting on top of a lush green field",
+    "photographerName": "Jeffrey Eisen",
+    "photographerUrl": "https://unsplash.com/@jeisen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-metal-structure-sitting-on-top-of-a-lush-green-field-mZRAgqbbO98?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:01.896Z",
     "addedBy": "bestman"
   },
   "bestman/cities/park-city-ut/bars": {
@@ -1699,6 +1949,16 @@
     "fetchedAt": "2026-04-13T21:18:16.132Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/portland-or/activities": {
+    "url": "https://images.unsplash.com/photo-1638792407205-ebb2e001ef20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a neon sign that reads portland oregon at night",
+    "photographerName": "Alan Villasenor",
+    "photographerUrl": "https://unsplash.com/@dead_moth?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-neon-sign-that-reads-portland-oregon-at-night-Bxb4Bkz2rDo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:47.056Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/portland-or/bars": {
     "url": "https://images.unsplash.com/photo-1768913573689-fa59c3c061cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDIwNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Rooftop pool bar overlooking the ocean at dusk",
@@ -1707,6 +1967,26 @@
     "unsplashUrl": "https://unsplash.com/photos/rooftop-pool-bar-overlooking-the-ocean-at-dusk-3mJWW6-4v1M?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Portland OR rooftop bar nightlife",
     "fetchedAt": "2026-04-12T19:03:28.327Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-or/dining": {
+    "url": "https://images.unsplash.com/photo-1570478085835-87d9b2a9d3c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3ODI5MDgzODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Portland signage",
+    "photographerName": "Patrick Lalonde",
+    "photographerUrl": "https://unsplash.com/@patrick_lalonde?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/portland-signage-W2sg3w3Xv2g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR steakhouse restaurant food",
+    "fetchedAt": "2026-07-01T12:19:43.239Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1683840567396-0867e5547cfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc4MjkwODM4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a duck floating on top of a lake next to a house",
+    "photographerName": "Jon Champaigne",
+    "photographerUrl": "https://unsplash.com/@s1id3r0?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-duck-floating-on-top-of-a-lake-next-to-a-house-mBJhbSswqVU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR vacation rental house pool",
+    "fetchedAt": "2026-07-01T12:19:40.496Z",
     "addedBy": "bestman"
   },
   "bestman/cities/providence-ri/bars": {
@@ -1749,6 +2029,16 @@
     "fetchedAt": "2026-04-13T00:09:03.916Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/salt-lake-city-ut/activities": {
+    "url": "https://images.unsplash.com/photo-1669422498933-6e65208f9a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYWx0JTIwTGFrZSUyMENpdHklMjBVVCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4NDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city below a mountain",
+    "photographerName": "Chris Kofoed",
+    "photographerUrl": "https://unsplash.com/@kofoed66?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-below-a-mountain-devhvGfqNjA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Salt Lake City UT adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:20:39.899Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/salt-lake-city-ut/dining": {
     "url": "https://images.unsplash.com/photo-1571116213508-2a5017ab1324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYWx0JTIwTGFrZSUyMENpdHklMjBVVCUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDIwNjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "burger on board",
@@ -1777,6 +2067,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-lush-green-park-next-to-a-tall-building-xRxdhlr4Taw?utm_source=shared_image_cache&utm_medium=referral",
     "query": "San Antonio TX vacation rental house pool",
     "fetchedAt": "2026-04-12T20:21:00.844Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-diego-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1669351922360-b4678cbbf75e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people on a beach",
+    "photographerName": "Craig Marolf",
+    "photographerUrl": "https://unsplash.com/@craigmarolf?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-on-a-beach-4yICUuLdgGs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:51.884Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-diego-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1687947598430-0c577110c94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4MjkwODMyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room filled with lots of furniture",
+    "photographerName": "ASR Design Studio",
+    "photographerUrl": "https://unsplash.com/@asrdesignstudio?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-filled-with-lots-of-furniture-uJPOfMyCRxc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-01T12:18:47.945Z",
     "addedBy": "bestman"
   },
   "bestman/cities/san-diego-ca/dining": {
@@ -1849,6 +2159,16 @@
     "fetchedAt": "2026-04-12T19:04:23.952Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/santa-barbara-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1704145294791-773ba63eab07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4MzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a beach and mountains",
+    "photographerName": "Steve Gribble",
+    "photographerUrl": "https://unsplash.com/@steve_g_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:30.114Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/santa-barbara-ca/lodging": {
     "url": "https://images.unsplash.com/photo-1704145294791-773ba63eab07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYwMjA1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a scenic view of a beach and mountains",
@@ -1887,6 +2207,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-lake-surrounded-by-trees-4t6p1T2OSPU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Savannah GA vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:01.501Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/scottsdale-az/activities": {
+    "url": "https://images.unsplash.com/photo-1640585364166-cee701a73ab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTY290dHNkYWxlJTIwQVolMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODMyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city and mountains from a hill",
+    "photographerName": "Kody Goodson",
+    "photographerUrl": "https://unsplash.com/@kodyg?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-and-mountains-from-a-hill-Lz50VTflxLQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Scottsdale AZ adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:40.591Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/scottsdale-az/bars": {
+    "url": "https://images.unsplash.com/photo-1706403222567-06fe8d8dc93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTY290dHNkYWxlJTIwQVolMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODI5MDgzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of a city with mountains in the background",
+    "photographerName": "Matthew Hamilton",
+    "photographerUrl": "https://unsplash.com/@thatsmrbio?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-mountains-in-the-background-akE66HU-_Kg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Scottsdale AZ rooftop bar nightlife",
+    "fetchedAt": "2026-07-01T12:18:36.611Z",
     "addedBy": "bestman"
   },
   "bestman/cities/scottsdale-az/dining": {
@@ -1937,6 +2277,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-houses-along-it-TK2EMq5L6XA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Seattle WA vacation rental house pool",
     "fetchedAt": "2026-04-12T20:20:55.828Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sedona-az/activities": {
+    "url": "https://images.unsplash.com/photo-1583729476095-82e61108a043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBWiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4MzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rocky mountain under blue sky during daytime",
+    "photographerName": "Kaileen Fitzpatrick",
+    "photographerUrl": "https://unsplash.com/@ofthenobleorder?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rocky-mountain-under-blue-sky-during-daytime-tfqrqGH7S9A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona AZ adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:19:19.448Z",
     "addedBy": "bestman"
   },
   "bestman/cities/sedona-az/bars": {
@@ -2077,6 +2427,16 @@
     "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-brown-wooden-chopping-board-M6L3x7rJdoE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sun Valley ID steakhouse restaurant food",
     "fetchedAt": "2026-04-13T13:08:37.054Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/tampa-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1649184409984-338121520887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgyOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people in canoes paddling down a river",
+    "photographerName": "The Tampa Bay Estuary Program",
+    "photographerUrl": "https://unsplash.com/@tbep?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-in-canoes-paddling-down-a-river-uhrlMpU479s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL adventure outdoor sport",
+    "fetchedAt": "2026-07-01T12:18:19.709Z",
     "addedBy": "bestman"
   },
   "bestman/cities/tampa-fl/bars": {
@@ -3369,6 +3729,46 @@
     "fetchedAt": "2026-04-12T18:39:23.333Z",
     "addedBy": "moh"
   },
+  "moh/cities/denver-co/activities": {
+    "url": "https://images.unsplash.com/photo-1643682661119-28da0685be2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyOTA4MzY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting in a circle in a room",
+    "photographerName": "Dillon Wanner",
+    "photographerUrl": "https://unsplash.com/@dillydallying?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-in-a-circle-in-a-room-ciqbTWuGgBI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:19:28.820Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/denver-co/bars": {
+    "url": "https://images.unsplash.com/photo-1744915842905-7882ebb2c8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzgyOTA4MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "City skyline under a colorful sunset.",
+    "photographerName": "TROY ALLEN",
+    "photographerUrl": "https://unsplash.com/@tisfortroy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-a-colorful-sunset-mJspIYcQfhk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO cocktail bar pink sunset",
+    "fetchedAt": "2026-07-01T12:19:24.664Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/denver-co/dining": {
+    "url": "https://images.unsplash.com/photo-1610414962116-35f622183b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4MjkwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people sitting on chairs near table",
+    "photographerName": "Memento Media",
+    "photographerUrl": "https://unsplash.com/@heymemento?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-chairs-near-table-oepMhLDcHGs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T12:19:20.777Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/denver-co/lodging": {
+    "url": "https://images.unsplash.com/photo-1650137938625-11576502aecd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDTyUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyOTA4MzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room filled with furniture and lots of windows",
+    "photographerName": "Steph Wilson",
+    "photographerUrl": "https://unsplash.com/@stephwilll?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-lots-of-windows-G4fICun7Q48?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver CO boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:19:18.119Z",
+    "addedBy": "moh"
+  },
   "moh/cities/destin-fl": {
     "url": "https://images.unsplash.com/photo-1581727299597-7326efc02eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGTCUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMTkxODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "aerial view of city near sea during daytime",
@@ -3397,6 +3797,76 @@
     "unsplashUrl": "https://unsplash.com/photos/a-sunset-view-of-a-city-and-a-body-of-water-KANXooKn9Po?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Florida skyline pink sunset",
     "fetchedAt": "2026-04-12T19:04:31.193Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-worth-tx/activities": {
+    "url": "https://images.unsplash.com/photo-1704743679449-3f561ad20457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUWCUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgyOTA4NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a small waterfall in the middle of a forest",
+    "photographerName": "Cody Groce",
+    "photographerUrl": "https://unsplash.com/@codygroce?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-waterfall-in-the-middle-of-a-forest-fjOXaVyk1wA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth TX spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:20:00.440Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-worth-tx/lodging": {
+    "url": "https://images.unsplash.com/photo-1757451755847-7341f3ef0fc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUWCUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyOTA4Mzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Two buildings with a modern skyscraper behind",
+    "photographerName": "Fallon Michael",
+    "photographerUrl": "https://unsplash.com/@fallonmichaeltx?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-buildings-with-a-modern-skyscraper-behind-81H60-QQsrM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth TX boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:19:48.388Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hamptons-ny": {
+    "url": "https://images.unsplash.com/photo-1752857015548-cc80cd44a958?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4MjkwODQxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Outdoor lounge with beautiful furniture and lights.",
+    "photographerName": "Vidit Goswami",
+    "photographerUrl": "https://unsplash.com/@viditgoswami?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/outdoor-lounge-with-beautiful-furniture-and-lights-m3nVTvPAZfg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons NY rooftop bachelorette glam",
+    "fetchedAt": "2026-07-01T12:20:15.492Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hamptons-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1773423386572-4ad451dc6c26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI5MDg0Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A wooden room with a tiled hot tub and windows",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-room-with-a-tiled-hot-tub-and-windows-xa2Q7-KkRjY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons NY spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:20:27.697Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hamptons-ny/bars": {
+    "url": "https://images.unsplash.com/photo-1753037641016-adc5543ef954?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODI5MDg0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Pink sunset over a peaceful beach.",
+    "photographerName": "Clay LeConey",
+    "photographerUrl": "https://unsplash.com/@clayleconey?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/pink-sunset-over-a-peaceful-beach-3qkMTyZfC_w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons NY cocktail bar pink sunset",
+    "fetchedAt": "2026-07-01T12:20:24.812Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hamptons-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1475085807956-5e76cdaf6639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgyOTA4NDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grey New York Time newspaper on table together with juice glasses",
+    "photographerName": "Natalia Ostashova",
+    "photographerUrl": "https://unsplash.com/@nataliost?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grey-new-york-time-newspaper-on-table-together-with-juice-glasses-cWhLlFB2IGI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons NY editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T12:20:22.096Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hamptons-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1714138083505-fc47d575e3b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODI5MDg0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bedroom with a checkered floor and a white bed",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bedroom-with-a-checkered-floor-and-a-white-bed-l7eHdsfIYXQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons NY boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:20:19.374Z",
     "addedBy": "moh"
   },
   "moh/cities/hilton-head-sc": {
@@ -3539,6 +4009,46 @@
     "fetchedAt": "2026-04-12T18:39:19.706Z",
     "addedBy": "moh"
   },
+  "moh/cities/los-angeles-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1597982087634-9884f03198ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwd2VsbG5lc3MlMjBvdXRkb29yJTIwc2NlbmV8ZW58MXwwfHx8MTc4MjkwODMzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green palm trees near city buildings during daytime",
+    "photographerName": "Venti Views",
+    "photographerUrl": "https://unsplash.com/@ventiviews?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-palm-trees-near-city-buildings-during-daytime-cHRDevKFDBw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles wellness outdoor scene",
+    "fetchedAt": "2026-07-01T12:18:57.413Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/los-angeles-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1668129829354-8427b343bb5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwQ0ElMjBjb2NrdGFpbCUyMGJhciUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc4MjkwODMzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city skyline with palm trees",
+    "photographerName": "Jessica Christian",
+    "photographerUrl": "https://unsplash.com/@lovesquish?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-with-palm-trees-3fJO4DBFO30?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles CA cocktail bar pink sunset",
+    "fetchedAt": "2026-07-01T12:18:53.162Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/los-angeles-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1589470028798-c0acf0b7f236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwZmFybS10by10YWJsZSUyMHRhc3RpbmclMjBtZW51fGVufDF8MHx8fDE3ODI5MDgzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near mountain under blue sky during daytime",
+    "photographerName": "Anthony Fomin",
+    "photographerUrl": "https://unsplash.com/@aginsbrook?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-mountain-under-blue-sky-during-daytime-q2-QkT9SqFc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles farm-to-table tasting menu",
+    "fetchedAt": "2026-07-01T12:18:50.524Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/los-angeles-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1552526861-591262f50b7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwQ0ElMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4MjkwODMyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "glass window",
+    "photographerName": "Corbin Richardson",
+    "photographerUrl": "https://unsplash.com/@corbin_copy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/glass-window-Wlr0noE5Moo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles CA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:18:45.330Z",
+    "addedBy": "moh"
+  },
   "moh/cities/marthas-vineyard-ma": {
     "url": "https://images.unsplash.com/photo-1731515673111-2cf634579ae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBNQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMTkxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A group of women sitting on top of a white couch",
@@ -3607,6 +4117,36 @@
     "unsplashUrl": "https://unsplash.com/photos/a-pool-with-a-fountain-in-it-and-buildings-in-the-background-N_EnjLpCOeU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Miami FL boutique hotel bachelorette suite",
     "fetchedAt": "2026-06-29T17:35:22.707Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/nantucket-ma": {
+    "url": "https://images.unsplash.com/photo-1777160050974-d4c1a8ea1cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODI5MDg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Woman in white outfit standing at beach kiosk",
+    "photographerName": "Margo Evardson",
+    "photographerUrl": "https://unsplash.com/@stadinstudio?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-white-outfit-standing-at-beach-kiosk-iSZRaYJvCXs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket MA rooftop bachelorette glam",
+    "fetchedAt": "2026-07-01T12:20:30.495Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/nantucket-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1651795867074-524ac7f4305a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjB3ZWxsbmVzcyUyMG91dGRvb3IlMjBzY2VuZXxlbnwxfDB8fHwxNzgyOTA4NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a wooden walkway leading to a beach",
+    "photographerName": "Katherine St-Pierre",
+    "photographerUrl": "https://unsplash.com/@katherinestpierre?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-walkway-leading-to-a-beach-Vw8AEVRR5KA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket wellness outdoor scene",
+    "fetchedAt": "2026-07-01T12:20:45.132Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/nantucket-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1475085807956-5e76cdaf6639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNQSUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4MjkwODQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grey New York Time newspaper on table together with juice glasses",
+    "photographerName": "Natalia Ostashova",
+    "photographerUrl": "https://unsplash.com/@nataliost?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grey-new-york-time-newspaper-on-table-together-with-juice-glasses-cWhLlFB2IGI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket MA editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T12:20:38.583Z",
     "addedBy": "moh"
   },
   "moh/cities/napa-valley-ca/activities": {
@@ -3919,6 +4459,86 @@
     "fetchedAt": "2026-04-12T18:39:24.603Z",
     "addedBy": "moh"
   },
+  "moh/cities/portland-or/activities": {
+    "url": "https://images.unsplash.com/photo-1638792407205-ebb2e001ef20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI5MDgzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a neon sign that reads portland oregon at night",
+    "photographerName": "Alan Villasenor",
+    "photographerUrl": "https://unsplash.com/@dead_moth?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-neon-sign-that-reads-portland-oregon-at-night-Bxb4Bkz2rDo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:19:41.954Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/portland-or/bars": {
+    "url": "https://images.unsplash.com/photo-1631582421783-dd9f823afb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODI5MDgzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city street at dusk with a pink sky",
+    "photographerName": "Elijah Austin",
+    "photographerUrl": "https://unsplash.com/@elijahjaustin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-street-at-dusk-with-a-pink-sky-uf4_ZuxkaXg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR cocktail bar pink sunset",
+    "fetchedAt": "2026-07-01T12:19:39.169Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/portland-or/dining": {
+    "url": "https://images.unsplash.com/photo-1570478085835-87d9b2a9d3c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9SJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgyOTA4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Portland signage",
+    "photographerName": "Patrick Lalonde",
+    "photographerUrl": "https://unsplash.com/@patrick_lalonde?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/portland-signage-W2sg3w3Xv2g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland OR editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T12:19:36.222Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-diego-ca": {
+    "url": "https://images.unsplash.com/photo-1606554626344-893f2f7af053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4MjkwODM0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in blue bikini sitting on white lounge chair near body of water during daytime",
+    "photographerName": "Ikaia Pal",
+    "photographerUrl": "https://unsplash.com/@ikaiapal?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-bikini-sitting-on-white-lounge-chair-near-body-of-water-during-daytime-iTljbnqw7pc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA rooftop bachelorette glam",
+    "fetchedAt": "2026-07-01T12:19:00.086Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-diego-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1618681850501-6e1aae4f916f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODI5MDgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "swimming pool surrounded by palm trees during daytime",
+    "photographerName": "Cory Bjork",
+    "photographerUrl": "https://unsplash.com/@corybjork?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/swimming-pool-surrounded-by-palm-trees-during-daytime-1iy0oJIWtnM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:19:15.390Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-diego-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1782420438194-aeeb89b8136d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODI5MDgzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Vibrant sunset sky behind a building, palm trees, and streetlamp.",
+    "photographerName": "Chloe",
+    "photographerUrl": "https://unsplash.com/@chloe_loe?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/vibrant-sunset-sky-behind-a-building-palm-trees-and-streetlamp-KOIyzXNxZF8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA cocktail bar pink sunset",
+    "fetchedAt": "2026-07-01T12:19:11.239Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-diego-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1717299215158-53c0a25da16c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMGZhcm0tdG8tdGFibGUlMjB0YXN0aW5nJTIwbWVudXxlbnwxfDB8fHwxNzgyOTA4MzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a building with a sign in front of it",
+    "photographerName": "Jon Matthews",
+    "photographerUrl": "https://unsplash.com/@jkmatt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-in-front-of-it-k73LqP0CvJ0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego farm-to-table tasting menu",
+    "fetchedAt": "2026-07-01T12:19:08.456Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-diego-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1606554626344-893f2f7af053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODI5MDgzNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in blue bikini sitting on white lounge chair near body of water during daytime",
+    "photographerName": "Ikaia Pal",
+    "photographerUrl": "https://unsplash.com/@ikaiapal?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-bikini-sitting-on-white-lounge-chair-near-body-of-water-during-daytime-iTljbnqw7pc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego CA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:19:03.269Z",
+    "addedBy": "moh"
+  },
   "moh/cities/san-juan-pr": {
     "url": "https://images.unsplash.com/photo-1768675142255-7d64378910eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQUiUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMjA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Silhouette of city skyline against a dramatic sunset sky",
@@ -3947,6 +4567,36 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-field-under-orange-and-blue-sky-8Dgositul9o?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New Mexico skyline pink sunset",
     "fetchedAt": "2026-04-12T18:39:29.525Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-fe-nm/activities": {
+    "url": "https://images.unsplash.com/photo-1608914870806-190b9596d47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwTk0lMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4MjkwODQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "purple and brown hanging decor",
+    "photographerName": "Sean Quillen",
+    "photographerUrl": "https://unsplash.com/@squillen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/purple-and-brown-hanging-decor-kwNWq3FtETs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Fe NM spa wellness retreat",
+    "fetchedAt": "2026-07-01T12:20:12.817Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-fe-nm/dining": {
+    "url": "https://images.unsplash.com/photo-1762858577765-ea6b63aace36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwTk0lMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI5MDg0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Santa fe train station with palm trees and train",
+    "photographerName": "Marc Snailum",
+    "photographerUrl": "https://unsplash.com/@snailumm?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/santa-fe-train-station-with-palm-trees-and-train-fI44P_dDD4Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Fe NM editorial restaurant brunch",
+    "fetchedAt": "2026-07-01T12:20:05.995Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-fe-nm/lodging": {
+    "url": "https://images.unsplash.com/photo-1595651492943-829bfff09210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwTk0lMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4MjkwODQwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building under blue sky during daytime",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://unsplash.com/@gabrielrana?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-2Aor5Cf_6kE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Fe NM boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-01T12:20:03.404Z",
     "addedBy": "moh"
   },
   "moh/cities/savannah-ga": {
