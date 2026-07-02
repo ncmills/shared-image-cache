@@ -819,6 +819,16 @@
     "fetchedAt": "2026-04-13T17:37:10.152Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/columbus-oh/bars": {
+    "url": "https://images.unsplash.com/photo-1739799120521-c5f44a9335a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4Mjk5NDk0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A dimly lit bar with stools and bottles on the shelves",
+    "photographerName": "Shawn DENG",
+    "photographerUrl": "https://unsplash.com/@dzshawn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dimly-lit-bar-with-stools-and-bottles-on-the-shelves-nsgzQHsxbXE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Columbus cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-02T12:22:28.470Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/columbus-oh/lodging": {
     "url": "https://images.unsplash.com/photo-1625319360085-bec58900018c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyMHNreWxpbmUlMjBuaWdodHxlbnwxfDB8fHwxNzc2MTAxODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "man in black jacket and pants standing on gray concrete pavement near high rise buildings during",
@@ -2447,6 +2457,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-house-with-a-blue-front-porch-and-a-white-door-Q9yhxDjgnUw?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Pittsburgh PA vacation rental house pool",
     "fetchedAt": "2026-04-12T20:08:31.369Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-me/activities": {
+    "url": "https://images.unsplash.com/photo-1638792407205-ebb2e001ef20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME1FJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5OTQ5NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a neon sign that reads portland oregon at night",
+    "photographerName": "Alan Villasenor",
+    "photographerUrl": "https://unsplash.com/@dead_moth?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-neon-sign-that-reads-portland-oregon-at-night-Bxb4Bkz2rDo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland ME adventure outdoor sport",
+    "fetchedAt": "2026-07-02T12:22:39.423Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-me/bars": {
+    "url": "https://images.unsplash.com/photo-1635209896150-ef275dbd52a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME1FJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzgyOTk0OTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large neon sign on top of a building",
+    "photographerName": "Justin Shen",
+    "photographerUrl": "https://unsplash.com/@shenny_visuals?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-neon-sign-on-top-of-a-building-k0VeQ6sXHGg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland ME rooftop bar nightlife",
+    "fetchedAt": "2026-07-02T12:22:37.752Z",
     "addedBy": "bestman"
   },
   "bestman/cities/portland-me/lodging": {
