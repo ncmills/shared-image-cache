@@ -269,6 +269,16 @@
     "fetchedAt": "2026-07-01T12:19:34.899Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/big-sky-mt/activities": {
+    "url": "https://images.unsplash.com/photo-1760954360137-7b48f84e534a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNVCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTg0Njk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Fluffy white clouds over distant green mountains",
+    "photographerName": "C Cai",
+    "photographerUrl": "https://unsplash.com/@asabasai?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fluffy-white-clouds-over-distant-green-mountains-E8l10rP0ekQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky MT adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:31:39.201Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/big-sky-mt/bars": {
     "url": "https://images.unsplash.com/photo-1757804622576-2607c938c6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb250YW5hJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwODU2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Green flask with montana bourbon whiskey label and glass",
@@ -287,6 +297,16 @@
     "unsplashUrl": "https://unsplash.com/photos/neon-signs-for-open-mexican-food-restaurant-uW4o4O3Wi6U?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Montana restaurant food",
     "fetchedAt": "2026-04-13T13:08:16.313Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/big-sky-mt/lodging": {
+    "url": "https://images.unsplash.com/photo-1694885190541-40037b8a6b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNVCUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODI5ODQ2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an empty swimming pool with an umbrella over it",
+    "photographerName": "Brian Wangenheim",
+    "photographerUrl": "https://unsplash.com/@brianwangenheim?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky MT vacation rental house pool",
+    "fetchedAt": "2026-07-02T09:31:37.697Z",
     "addedBy": "bestman"
   },
   "bestman/cities/boise-id/activities": {
@@ -369,6 +389,16 @@
     "fetchedAt": "2026-04-12T20:08:21.035Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/bozeman-mt/activities": {
+    "url": "https://images.unsplash.com/photo-1609364376289-9642c391b30b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk4NDcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field and mountain under blue sky during daytime",
+    "photographerName": "Trevor Vannoy",
+    "photographerUrl": "https://unsplash.com/@tvannoy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-and-mountain-under-blue-sky-during-daytime-yoVEiiiByAQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman MT adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:31:44.077Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/bozeman-mt/bars": {
     "url": "https://images.unsplash.com/photo-1705707027887-be566e16b6e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwODU3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a living room with a couch and a chandelier",
@@ -377,6 +407,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-chandelier-Gphy0oYnBYA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bozeman MT rooftop bar nightlife",
     "fetchedAt": "2026-04-13T13:08:22.711Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/bozeman-mt/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc4Mjk4NDcwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman MT steakhouse restaurant food",
+    "fetchedAt": "2026-07-02T09:31:42.623Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/bozeman-mt/lodging": {
+    "url": "https://images.unsplash.com/photo-1608768557474-d4c5651d3230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzgyOTg0NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown field near mountains under white clouds during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-field-near-mountains-under-white-clouds-during-daytime-cWFlYyJp2PE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman MT vacation rental house pool",
+    "fetchedAt": "2026-07-02T09:31:40.859Z",
     "addedBy": "bestman"
   },
   "bestman/cities/breckenridge-co/activities": {
@@ -497,6 +547,16 @@
     "unsplashUrl": "https://unsplash.com/photos/gray-gazebu-beside-swimming-pool-nYGy9pB5MP4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Cancun Mexico vacation rental house pool",
     "fetchedAt": "2026-04-12T19:04:16.594Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cannon-beach-or/activities": {
+    "url": "https://images.unsplash.com/photo-1626131719997-e216ff236c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYW5ub24lMjBCZWFjaCUyME9SJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5ODQ3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "2 people walking on beach during daytime",
+    "photographerName": "Josh Hild",
+    "photographerUrl": "https://unsplash.com/@joshhild?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/2-people-walking-on-beach-during-daytime-jDneWBngTR8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cannon Beach OR adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:32:13.265Z",
     "addedBy": "bestman"
   },
   "bestman/cities/cannon-beach-or/dining": {
@@ -899,6 +959,16 @@
     "fetchedAt": "2026-07-01T23:41:43.430Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/durango-co/activities": {
+    "url": "https://images.unsplash.com/photo-1697604428866-80ba0e03e686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEdXJhbmdvJTIwQ08lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk4NDcwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people hiking up a hill in the woods",
+    "photographerName": "Miguel Aldama",
+    "photographerUrl": "https://unsplash.com/@neomiguel?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-hiking-up-a-hill-in-the-woods-A9lyBMttmrA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Durango CO adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:31:48.361Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/durango-co/dining": {
     "url": "https://images.unsplash.com/photo-1642047429064-c5e417047ab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2xvcmFkbyUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwODU3MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a row of red chairs sitting outside of a restaurant",
@@ -919,6 +989,16 @@
     "fetchedAt": "2026-04-13T13:08:24.320Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/eugene-or/activities": {
+    "url": "https://images.unsplash.com/photo-1621306558057-1d040ee57bb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPUiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTg0NzI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a person with a backpack walking up a hill",
+    "photographerName": "Ali Kazal",
+    "photographerUrl": "https://unsplash.com/@lureofadventure?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-person-with-a-backpack-walking-up-a-hill-YsrWdRIt5cs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Eugene OR adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:32:06.915Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/eugene-or/bars": {
     "url": "https://images.unsplash.com/photo-1621275471769-e6aa344546d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPUiUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjEwMTc2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown wooden table and chairs set",
@@ -927,6 +1007,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-set-en-u6xqnbsg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Eugene OR rooftop bar nightlife",
     "fetchedAt": "2026-04-13T17:36:06.180Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/eugene-or/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPUiUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzgyOTg0NzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Eugene OR steakhouse restaurant food",
+    "fetchedAt": "2026-07-02T09:32:05.408Z",
     "addedBy": "bestman"
   },
   "bestman/cities/eugene-or/lodging": {
@@ -1497,6 +1587,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-a-lake-in-the-middle-of-it-h2DSFtba464?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Las Vegas NV vacation rental house pool",
     "fetchedAt": "2026-04-12T19:02:38.110Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/leavenworth-wa/activities": {
+    "url": "https://images.unsplash.com/photo-1463567727315-4a5cc526b47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMZWF2ZW53b3J0aCUyMFdBJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5ODQ3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "person sitting on cliff",
+    "photographerName": "Joseph Barrientos",
+    "photographerUrl": "https://unsplash.com/@jbcreate_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-sitting-on-cliff-JtGpJToxQ5c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Leavenworth WA adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:32:08.759Z",
     "addedBy": "bestman"
   },
   "bestman/cities/leavenworth-wa/bars": {
@@ -2839,6 +2939,16 @@
     "fetchedAt": "2026-04-13T13:04:57.638Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/sun-valley-id/activities": {
+    "url": "https://images.unsplash.com/photo-1682685796186-1bb4a5655653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdW4lMjBWYWxsZXklMjBJRCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTg0NzE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man climbing up the side of a mountain",
+    "photographerName": "NEOM",
+    "photographerUrl": "https://unsplash.com/@neom?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-85ey1vFIwkc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sun Valley ID adventure outdoor sport",
+    "fetchedAt": "2026-07-02T09:31:57.696Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/sun-valley-id/bars": {
     "url": "https://images.unsplash.com/photo-1699894068160-34edf0c5bf7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdW4lMjBWYWxsZXklMjBJRCUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjA4NTcxOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a table with chairs and lamps on top of a mountain",
@@ -2857,6 +2967,16 @@
     "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-brown-wooden-chopping-board-M6L3x7rJdoE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sun Valley ID steakhouse restaurant food",
     "fetchedAt": "2026-04-13T13:08:37.054Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sun-valley-id/lodging": {
+    "url": "https://images.unsplash.com/photo-1707010085637-2e6f670a6651?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdW4lMjBWYWxsZXklMjBJRCUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODI5ODQ3MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large backyard with a pool in the middle of it",
+    "photographerName": "Navaneethakrishnan Palanisamy",
+    "photographerUrl": "https://unsplash.com/@krishnk?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-backyard-with-a-pool-in-the-middle-of-it-wKhbXdrxksE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sun Valley ID vacation rental house pool",
+    "fetchedAt": "2026-07-02T09:31:55.713Z",
     "addedBy": "bestman"
   },
   "bestman/cities/tampa-fl/activities": {
