@@ -39,6 +39,36 @@
     "fetchedAt": "2026-04-12T19:03:52.854Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/aspen-co/activities": {
+    "url": "https://images.unsplash.com/photo-1761423214244-5fc5c5e1dc17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENPJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5NjYwMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Majestic mountains rise above a serene lake.",
+    "photographerName": "Chaitanya Rayampally",
+    "photographerUrl": "https://unsplash.com/@chaitanya_rayampally?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/majestic-mountains-rise-above-a-serene-lake-s_tVjvs3wOg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen CO adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:14.410Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/aspen-co/bars": {
+    "url": "https://images.unsplash.com/photo-1621275471769-e6aa344546d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENPJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzgyOTY2MDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table and chairs set",
+    "photographerName": "Brands&People",
+    "photographerUrl": "https://unsplash.com/@brandsandpeople?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-set-en-u6xqnbsg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen CO rooftop bar nightlife",
+    "fetchedAt": "2026-07-02T04:20:13.020Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/aspen-co/dining": {
+    "url": "https://images.unsplash.com/photo-1731412235213-678ada5cd36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMGNoZWYlMjB0YXN0aW5nJTIwbWVudSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODI5NjYwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A menu sitting on top of a table next to a cup of coffee",
+    "photographerName": "Annie Spratt",
+    "photographerUrl": "https://unsplash.com/@anniespratt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-menu-sitting-on-top-of-a-table-next-to-a-cup-of-coffee-h-8ql6184Qc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen chef tasting menu interior",
+    "fetchedAt": "2026-07-02T04:20:11.106Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/aspen-co/lodging": {
     "url": "https://images.unsplash.com/photo-1626867245452-bdc8f7e865cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENPJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAzODk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown brick house near green grass field and trees during daytime",
@@ -87,6 +117,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-wooden-house-during-daytime-VW5YwCYbPyk?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Atlanta GA vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:47.928Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/atlantic-city-nj/activities": {
+    "url": "https://images.unsplash.com/photo-1762440933479-6890b725ecf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjBOSiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTY1OTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Boat and lifeguard stand on a sandy beach.",
+    "photographerName": "Marc Snailum",
+    "photographerUrl": "https://unsplash.com/@snailumm?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/boat-and-lifeguard-stand-on-a-sandy-beach-hIjBWbOyvwk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City NJ adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:19:43.898Z",
     "addedBy": "bestman"
   },
   "bestman/cities/atlantic-city-nj/bars": {
@@ -337,6 +377,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-chandelier-Gphy0oYnBYA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bozeman MT rooftop bar nightlife",
     "fetchedAt": "2026-04-13T13:08:22.711Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/breckenridge-co/activities": {
+    "url": "https://images.unsplash.com/photo-1635822068952-bd7bbaa0739c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcmVja2VucmlkZ2UlMjBDTyUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTY2MDMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of people standing on top of a mountain",
+    "photographerName": "James Coffman",
+    "photographerUrl": "https://unsplash.com/@jamescoffmanmedia?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-mountain-6cjB6xMmE50?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Breckenridge CO adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:30.193Z",
     "addedBy": "bestman"
   },
   "bestman/cities/breckenridge-co/bars": {
@@ -919,6 +969,16 @@
     "fetchedAt": "2026-04-12T18:58:55.975Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/fredericksburg-tx/activities": {
+    "url": "https://images.unsplash.com/photo-1590162392810-7cd5571bdebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGcmVkZXJpY2tzYnVyZyUyMFRYJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5NjYwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "orange kayak on green grass near lake during daytime",
+    "photographerName": "Natasha Freeman",
+    "photographerUrl": "https://unsplash.com/@nf2609?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/orange-kayak-on-green-grass-near-lake-during-daytime-I0eGiHN95Gg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fredericksburg TX adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:22.421Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/fredericksburg-tx/dining": {
     "url": "https://images.unsplash.com/photo-1650772263983-daebce6959c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwODU0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "people sitting at a table",
@@ -957,6 +1017,16 @@
     "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-green-grass-near-body-of-water-during-daytime-12rjyX48AD4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Galveston TX vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:36.906Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/gatlinburg-tn/activities": {
+    "url": "https://images.unsplash.com/photo-1543727363-77916b8189e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTIwVE4lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk2NTk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman kayaking on rapids",
+    "photographerName": "Riley Shannon",
+    "photographerUrl": "https://unsplash.com/@rileyyshan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-kayaking-on-rapids-_dc9aabiDtg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gatlinburg TN adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:19:42.469Z",
     "addedBy": "bestman"
   },
   "bestman/cities/gatlinburg-tn/bars": {
@@ -1059,6 +1129,16 @@
     "fetchedAt": "2026-07-01T12:20:20.740Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/honolulu-hi/activities": {
+    "url": "https://images.unsplash.com/photo-1547537352-ae90c682877e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIb25vbHVsdSUyMEhJJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5NjU5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photography of buildings during daytime",
+    "photographerName": "Zetong Li",
+    "photographerUrl": "https://unsplash.com/@zetong?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-buildings-during-daytime-hiIaDHN5kMY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Honolulu HI adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:19:50.132Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/honolulu-hi/bars": {
     "url": "https://images.unsplash.com/photo-1771992457677-f7452eadf7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIYXdhaWklMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAzODkzNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Assortment of liquor bottles displayed on bar shelves",
@@ -1159,6 +1239,16 @@
     "fetchedAt": "2026-04-13T17:36:51.343Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/jackson-hole-wy/activities": {
+    "url": "https://images.unsplash.com/photo-1654241392214-c447270337a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5NjYwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a person in a raft on the side of a river",
+    "photographerName": "Cee",
+    "photographerUrl": "https://unsplash.com/@theskyandthesea?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-person-in-a-raft-on-the-side-of-a-river-eFQxsih-VUw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole WY adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:27.270Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/jackson-hole-wy/bars": {
     "url": "https://images.unsplash.com/photo-1740604782298-c796a274b2dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MDg1NDg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A group of people sitting around a wooden table",
@@ -1177,6 +1267,26 @@
     "unsplashUrl": "https://unsplash.com/photos/round-white-plastic-plate-on-white-table-UKVUvRxnf9Y?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Jackson Hole WY steakhouse restaurant food",
     "fetchedAt": "2026-04-13T13:04:45.862Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/jackson-hole-wy/lodging": {
+    "url": "https://images.unsplash.com/photo-1707010085637-2e6f670a6651?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc4Mjk2NjAyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large backyard with a pool in the middle of it",
+    "photographerName": "Navaneethakrishnan Palanisamy",
+    "photographerUrl": "https://unsplash.com/@krishnk?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-backyard-with-a-pool-in-the-middle-of-it-wKhbXdrxksE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole WY vacation rental house pool",
+    "fetchedAt": "2026-07-02T04:20:25.407Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/jacksonville-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1599409637214-53da4844be1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxKYWNrc29udmlsbGUlMjBGTCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTY2MDAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking on beach during daytime",
+    "photographerName": "Josh Moore",
+    "photographerUrl": "https://unsplash.com/@masterpiece_solar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-on-beach-during-daytime-a8Y211wwoqs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jacksonville FL adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:03.200Z",
     "addedBy": "bestman"
   },
   "bestman/cities/jacksonville-fl/bars": {
@@ -1267,6 +1377,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-swimming-pool-surrounded-by-palm-trees-xTWx5D40ccA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Key West FL vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:42.505Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lake-of-the-ozarks-mo/activities": {
+    "url": "https://images.unsplash.com/photo-1558371274-c34e2d371073?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWtlJTIwb2YlMjB0aGUlMjBPemFya3MlMjBvdXRkb29yJTIwcmVjcmVhdGlvbiUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzgyOTY1OTg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "trees on calm body of water under clear blue sky at daytime",
+    "photographerName": "Uniq Trek",
+    "photographerUrl": "https://unsplash.com/@uniqtrek?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/trees-on-calm-body-of-water-under-clear-blue-sky-at-daytime-bQYlRayXynE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake of the Ozarks outdoor recreation landscape",
+    "fetchedAt": "2026-07-02T04:19:48.690Z",
     "addedBy": "bestman"
   },
   "bestman/cities/lake-of-the-ozarks-mo/bars": {
@@ -1649,6 +1769,16 @@
     "fetchedAt": "2026-04-12T20:08:37.340Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/moab-ut/activities": {
+    "url": "https://images.unsplash.com/photo-1591585375286-9e382fafa4d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb2FiJTIwVVQlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk2NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "2 women sitting on chair photo",
+    "photographerName": "mana5280",
+    "photographerUrl": "https://unsplash.com/@mana5280?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/2-women-sitting-on-chair-photo-JjK8jSdwKcU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Moab UT adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:18.013Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/moab-ut/bars": {
     "url": "https://images.unsplash.com/photo-1644028932445-a6b47270674f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb2FiJTIwVVQlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMzg5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a mural of the word moab painted on the side of a building",
@@ -1657,6 +1787,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-mural-of-the-word-moab-painted-on-the-side-of-a-building-ul2Xn29bdq0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Moab UT rooftop bar nightlife",
     "fetchedAt": "2026-04-13T00:09:21.920Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/moab-ut/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNb2FiJTIwVVQlMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc4Mjk2NjAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Moab UT steakhouse restaurant food",
+    "fetchedAt": "2026-07-02T04:20:16.257Z",
     "addedBy": "bestman"
   },
   "bestman/cities/moab-ut/lodging": {
@@ -1939,6 +2079,16 @@
     "fetchedAt": "2026-04-12T20:08:17.025Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/oklahoma-city-ok/activities": {
+    "url": "https://images.unsplash.com/photo-1594480257384-7bd287c0a7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPa2xhaG9tYSUyMENpdHklMjBPSyUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTY2MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white ferris wheel near body of water under blue sky during daytime",
+    "photographerName": "Justin Prine",
+    "photographerUrl": "https://unsplash.com/@justinp3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-ferris-wheel-near-body-of-water-under-blue-sky-during-daytime-Ahyh8ySDNF8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oklahoma City OK adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:23.842Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/oklahoma-city-ok/bars": {
     "url": "https://images.unsplash.com/photo-1496952449081-1a054d204f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPa2xhaG9tYSUyMENpdHklMjBPSyUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjA4NTQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown concrete building under blue sky",
@@ -1967,6 +2117,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-red-brick-house-with-blue-shutters-dd8wtp-XRuE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Oklahoma City OK vacation rental house pool",
     "fetchedAt": "2026-04-13T13:04:38.967Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/outer-banks-nc/activities": {
+    "url": "https://images.unsplash.com/photo-1657074293425-ad3af9057825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPdXRlciUyMEJhbmtzJTIwTkMlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk2NjAwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach with houses and water",
+    "photographerName": "Samuel Cruz",
+    "photographerUrl": "https://unsplash.com/@samuelcruz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-with-houses-and-water-danWxMtwW_g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Outer Banks NC adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:07.589Z",
     "addedBy": "bestman"
   },
   "bestman/cities/outer-banks-nc/bars": {
@@ -2589,6 +2749,16 @@
     "fetchedAt": "2026-04-13T17:35:57.127Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/st-augustine-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1699959560616-aa17ace76879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdC4lMjBBdWd1c3RpbmUlMjBGTCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTY1OTg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people hiking up a mountain",
+    "photographerName": "Lucas Canino",
+    "photographerUrl": "https://unsplash.com/@lcanino?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-hiking-up-a-mountain-lUNh8-Zhqo4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "St. Augustine FL adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:19:45.681Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/st-augustine-fl/bars": {
     "url": "https://images.unsplash.com/photo-1586227889348-f22f79a15738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTdC4lMjBBdWd1c3RpbmUlMjBGTCUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NjAzODkyMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white sail boat on sea during daytime",
@@ -2627,6 +2797,16 @@
     "unsplashUrl": "https://unsplash.com/photos/cocktail-and-bread-on-a-restaurant-table-wwv3_wTPbm0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "St. Louis MO steakhouse restaurant food",
     "fetchedAt": "2026-04-13T17:36:57.759Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/steamboat-springs-co/activities": {
+    "url": "https://images.unsplash.com/photo-1689841667551-eeaee48f2247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdGVhbWJvYXQlMjBTcHJpbmdzJTIwQ08lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk2NjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people riding kayaks on top of a river",
+    "photographerName": "Rune Haugseng",
+    "photographerUrl": "https://unsplash.com/@runehaugseng?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-riding-kayaks-on-top-of-a-river-Tgo2oZukkl0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Steamboat Springs CO adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:31.960Z",
     "addedBy": "bestman"
   },
   "bestman/cities/steamboat-springs-co/bars": {
@@ -2807,6 +2987,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Walla Walla WA vacation rental house pool",
     "fetchedAt": "2026-04-13T17:36:33.071Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/washington-dc/activities": {
+    "url": "https://images.unsplash.com/photo-1711895834959-ce9ae8c700dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwREMlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk2NjAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of the capital building in washington d c",
+    "photographerName": "Harrison Mitchell",
+    "photographerUrl": "https://unsplash.com/@harrisonmitchell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-the-capital-building-in-washington-d-c-K6JoDqkkpgA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington DC adventure outdoor sport",
+    "fetchedAt": "2026-07-02T04:20:28.732Z",
     "addedBy": "bestman"
   },
   "bestman/cities/washington-dc/bars": {
