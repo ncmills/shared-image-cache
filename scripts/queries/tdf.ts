@@ -14,7 +14,8 @@ import { STATE_NAMES } from "./state-names";
 import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
-const TDF_DATA_DIR = resolve(HOME, "tour-de-fore/src/data");
+// golf-trip planner (+ its destination data) split off tourdefore.com -> handicaphq.com 2026-07-02
+const TDF_DATA_DIR = resolve(HOME, "handicap-hq/src/data");
 
 interface TdfDestination {
   id: string;
