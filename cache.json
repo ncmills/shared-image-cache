@@ -4529,6 +4529,36 @@
     "fetchedAt": "2026-04-12T18:39:44.219Z",
     "addedBy": "moh"
   },
+  "moh/cities/destin-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1488345979593-09db0f85545f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGTCUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgzMDc5MDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in water pool",
+    "photographerName": "Alex Bertha",
+    "photographerUrl": "https://unsplash.com/@alexbertha?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-water-pool-Jyg7xHRmXiU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin FL spa wellness retreat",
+    "fetchedAt": "2026-07-03T11:44:54.490Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/destin-fl/bars": {
+    "url": "https://images.unsplash.com/photo-1763806500073-da8b3304c6e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGTCUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzgzMDc5MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Buildings with a colorful sunset sky above",
+    "photographerName": "Brian Wu",
+    "photographerUrl": "https://unsplash.com/@brianwu585?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/buildings-with-a-colorful-sunset-sky-above-NURvK62Jij0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin FL cocktail bar pink sunset",
+    "fetchedAt": "2026-07-03T11:44:50.229Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/destin-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1706211870755-35a52633b9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGTCUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4MzA3OTA4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a wooden table topped with plates of food and drinks",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-table-topped-with-plates-of-food-and-drinks-qvjSWaCeHNo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin FL editorial restaurant brunch",
+    "fetchedAt": "2026-07-03T11:44:45.929Z",
+    "addedBy": "moh"
+  },
   "moh/cities/finger-lakes-ny": {
     "url": "https://images.unsplash.com/photo-1519757043093-285fcb07a4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman wearing sunhat riding boat on body of water",
@@ -4687,6 +4717,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-beautiful-sunset-over-a-large-body-of-water-cPlchdTUWn4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New York skyline pink sunset",
     "fetchedAt": "2026-04-12T19:04:28.031Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hudson-valley-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1716892711764-df1fbf5f2bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIdWRzb24lMjBWYWxsZXklMjBOWSUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgzMDc5MTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a wooded area with a lake in the distance",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-wooded-area-with-a-lake-in-the-distance-I_3ihw9nj8w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hudson Valley NY spa wellness retreat",
+    "fetchedAt": "2026-07-03T11:45:29.294Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hudson-valley-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1714138083505-fc47d575e3b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIdWRzb24lMjBWYWxsZXklMjBOWSUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgzMDc5MTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bedroom with a checkered floor and a white bed",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bedroom-with-a-checkered-floor-and-a-white-bed-l7eHdsfIYXQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hudson Valley NY boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-03T11:45:16.040Z",
     "addedBy": "moh"
   },
   "moh/cities/jackson-hole-wy": {
@@ -5007,6 +5057,36 @@
     "unsplashUrl": "https://unsplash.com/photos/a-beach-wedding-ceremony-is-set-up-QoVc0vZrFAU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Myrtle Beach SC rooftop bachelorette glam",
     "fetchedAt": "2026-07-02T11:47:27.118Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/myrtle-beach-sc/activities": {
+    "url": "https://images.unsplash.com/photo-1523457468663-00fe17545879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODMwNzkwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette photography of black wooden dock near shoreline during sunrise",
+    "photographerName": "Kirk Van Nort",
+    "photographerUrl": "https://unsplash.com/@jamespatrick?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-photography-of-black-wooden-dock-near-shoreline-during-sunrise-mPKQ1BrJPdU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach SC spa wellness retreat",
+    "fetchedAt": "2026-07-03T11:44:36.531Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/myrtle-beach-sc/bars": {
+    "url": "https://images.unsplash.com/photo-1697688494916-6152ba0d4919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODMwNzkwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pier that is next to the ocean",
+    "photographerName": "David Frye",
+    "photographerUrl": "https://unsplash.com/@davidsfocus?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pier-that-is-next-to-the-ocean-PBGCIzRiq3E?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach SC cocktail bar pink sunset",
+    "fetchedAt": "2026-07-03T11:44:33.050Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/myrtle-beach-sc/dining": {
+    "url": "https://images.unsplash.com/photo-1630964927595-b0ccb06c9733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNDJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgzMDc5MDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people on beach during daytime",
+    "photographerName": "Zac Gudakov",
+    "photographerUrl": "https://unsplash.com/@zacgudakov?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-on-beach-during-daytime-2PQ-MM8LpJw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach SC editorial restaurant brunch",
+    "fetchedAt": "2026-07-03T11:44:28.383Z",
     "addedBy": "moh"
   },
   "moh/cities/nantucket-ma": {
@@ -5509,6 +5589,46 @@
     "fetchedAt": "2026-04-12T18:58:17.175Z",
     "addedBy": "moh"
   },
+  "moh/cities/santa-barbara-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1704145294791-773ba63eab07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgzMDc5MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a beach and mountains",
+    "photographerName": "Steve Gribble",
+    "photographerUrl": "https://unsplash.com/@steve_g_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA spa wellness retreat",
+    "fetchedAt": "2026-07-03T11:45:11.280Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-barbara-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1776022700312-b36337364be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzgzMDc5MTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Mountains with pink clouds at sunset",
+    "photographerName": "Aayush Subramaniam",
+    "photographerUrl": "https://unsplash.com/@aayushsss1?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/mountains-with-pink-clouds-at-sunset-josjqHJOKfw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA cocktail bar pink sunset",
+    "fetchedAt": "2026-07-03T11:45:07.027Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-barbara-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1777569143756-38f7d7616204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBmYXJtLXRvLXRhYmxlJTIwdGFzdGluZyUyMG1lbnV8ZW58MXwwfHx8MTc4MzA3OTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Mission building with rose garden in foreground",
+    "photographerName": "Peter Beke",
+    "photographerUrl": "https://unsplash.com/@peter_beke?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/mission-building-with-rose-garden-in-foreground-VFUgbNQb0RI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara farm-to-table tasting menu",
+    "fetchedAt": "2026-07-03T11:45:03.569Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/santa-barbara-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1540840430747-71880eb5b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgzMDc5MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with palm trees and mountains in the background",
+    "photographerName": "Yifan Ma",
+    "photographerUrl": "https://unsplash.com/@nina33?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-palm-trees-and-mountains-in-the-background-lVbc4XCaxnk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara CA boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-03T11:44:57.951Z",
+    "addedBy": "moh"
+  },
   "moh/cities/santa-fe-nm": {
     "url": "https://images.unsplash.com/photo-1610490483815-9a3ec9f0aa33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBNZXhpY28lMjBza3lsaW5lJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzc2MDE5MTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown field under orange and blue sky",
@@ -5687,6 +5807,36 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-wearing-black-top-during-daytime-nGyUf2VxTqs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Tampa FL rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:29.057Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tampa-fl/bars": {
+    "url": "https://images.unsplash.com/photo-1592860529217-3c5cca38c8fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4MzA3OTE0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "UNKs coffee shop during night time",
+    "photographerName": "Alex Haney",
+    "photographerUrl": "https://unsplash.com/@alexhaney?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/unks-coffee-shop-during-night-time-I_kxST0q0E4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-03T11:45:42.296Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tampa-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1592861956120-e524fc739696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgzMDc5MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in white shirt eating",
+    "photographerName": "Alex Haney",
+    "photographerUrl": "https://unsplash.com/@alexhaney?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-white-shirt-eating-CAhjZmVk5H4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL editorial restaurant brunch",
+    "fetchedAt": "2026-07-03T11:45:37.424Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tampa-fl/lodging": {
+    "url": "https://images.unsplash.com/photo-1674532076630-cf1f4f730a73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODMwNzkxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room with a couch and rugs",
+    "photographerName": "Gemali Martinez",
+    "photographerUrl": "https://unsplash.com/@gemasphotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-rugs-M4R9RaGDUlY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-03T11:45:32.856Z",
     "addedBy": "moh"
   },
   "moh/cities/washington-dc": {
