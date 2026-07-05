@@ -4579,6 +4579,26 @@
     "fetchedAt": "2026-04-12T19:04:31.193Z",
     "addedBy": "moh"
   },
+  "moh/cities/fort-lauderdale-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1691423332423-f2132628ff72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZMJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODMyNTAxOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a beach with a city in the background",
+    "photographerName": "By Carl",
+    "photographerUrl": "https://unsplash.com/@bycarl17?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-with-a-city-in-the-background-9rqZTw98PWI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale FL spa wellness retreat",
+    "fetchedAt": "2026-07-05T11:16:33.253Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-lauderdale-fl/bars": {
+    "url": "https://images.unsplash.com/photo-1775401665921-df8a538aeb5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZMJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODMyNTAxOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Dramatic clouds with pink and gray hues at sunset.",
+    "photographerName": "Kiran Naidu",
+    "photographerUrl": "https://unsplash.com/@kn3446?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/dramatic-clouds-with-pink-and-gray-hues-at-sunset-Vx3M_R6ZhSQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale FL cocktail bar pink sunset",
+    "fetchedAt": "2026-07-05T11:16:30.324Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fort-worth-tx": {
     "url": "https://images.unsplash.com/photo-1681605011813-0fbe143ccd69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUWCUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODI5NDIzMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man and a woman standing next to each other",
@@ -5807,6 +5827,16 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-wearing-black-top-during-daytime-nGyUf2VxTqs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Tampa FL rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:29.057Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tampa-fl/activities": {
+    "url": "https://images.unsplash.com/photo-1630835425197-50feeba99ecd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODMyNTAxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and black round table near white wall",
+    "photographerName": "Cherosi",
+    "photographerUrl": "https://unsplash.com/@cherosi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-black-round-table-near-white-wall-AV0KNliGvQc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tampa FL spa wellness retreat",
+    "fetchedAt": "2026-07-05T11:16:18.026Z",
     "addedBy": "moh"
   },
   "moh/cities/tampa-fl/bars": {
