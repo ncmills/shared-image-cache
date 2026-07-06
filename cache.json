@@ -479,6 +479,26 @@
     "fetchedAt": "2026-04-13T13:04:52.519Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/burlington-vt/activities": {
+    "url": "https://images.unsplash.com/photo-1635087573995-0f25935f0d34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MzM0Mjk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of cars parked on the side of a road",
+    "photographerName": "Prateek Pisat",
+    "photographerUrl": "https://unsplash.com/@prateekpisat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-cars-parked-on-the-side-of-a-road-w3oDHvb2y9Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington VT adventure outdoor sport",
+    "fetchedAt": "2026-07-06T13:03:08.523Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/burlington-vt/bars": {
+    "url": "https://images.unsplash.com/photo-1737038934055-7583c135e8b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODMzNDI5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A car driving down a street next to a tall white building",
+    "photographerName": "Ronan Furuta",
+    "photographerUrl": "https://unsplash.com/@ronan18?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-white-building-y4V2Y1vT4ok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington VT rooftop bar nightlife",
+    "fetchedAt": "2026-07-06T13:03:04.908Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/cabo-mx/activities": {
     "url": "https://images.unsplash.com/photo-1580846629083-02669741360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYWJvJTIwU2FuJTIwTHVjYXMlMjBNZXhpY28lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown rock formation on sea under blue sky during daytime",
@@ -3059,6 +3079,36 @@
     "fetchedAt": "2026-04-13T13:04:57.638Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/stowe-vt/bars": {
+    "url": "https://images.unsplash.com/photo-1621275471769-e6aa344546d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzgzMzQyOTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table and chairs set",
+    "photographerName": "Brands&People",
+    "photographerUrl": "https://unsplash.com/@brandsandpeople?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-set-en-u6xqnbsg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe VT rooftop bar nightlife",
+    "fetchedAt": "2026-07-06T13:03:19.027Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/stowe-vt/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3ODMzNDI5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe VT steakhouse restaurant food",
+    "fetchedAt": "2026-07-06T13:03:16.155Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/stowe-vt/lodging": {
+    "url": "https://images.unsplash.com/photo-1593029015621-ac5adbfb10aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc4MzM0Mjk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees beside swimming pool under blue sky during daytime",
+    "photographerName": "Gene Gallin",
+    "photographerUrl": "https://unsplash.com/@genefoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-swimming-pool-under-blue-sky-during-daytime-j0Z0VyGFbKE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe VT vacation rental house pool",
+    "fetchedAt": "2026-07-06T13:03:12.091Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/sun-valley-id/activities": {
     "url": "https://images.unsplash.com/photo-1682685796186-1bb4a5655653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdW4lMjBWYWxsZXklMjBJRCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTg0NzE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man climbing up the side of a mountain",
@@ -4319,6 +4369,36 @@
     "fetchedAt": "2026-04-12T19:04:36.311Z",
     "addedBy": "moh"
   },
+  "moh/cities/carmel-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1488345979593-09db0f85545f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENBJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODMzNDI5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in water pool",
+    "photographerName": "Alex Bertha",
+    "photographerUrl": "https://unsplash.com/@alexbertha?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-water-pool-Jyg7xHRmXiU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea CA spa wellness retreat",
+    "fetchedAt": "2026-07-06T13:03:14.249Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/carmel-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1738396525582-12406003a1b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENBJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODMzNDI5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of lights hanging from a wire over a body of water",
+    "photographerName": "Valerie",
+    "photographerUrl": "https://unsplash.com/@leracherry?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-lights-hanging-from-a-wire-over-a-body-of-water-wR0cptRWZ0c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea CA cocktail bar pink sunset",
+    "fetchedAt": "2026-07-06T13:03:10.072Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/carmel-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1535567465397-7523840f2ae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENBJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzgzMzQyOTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "breakfast menu",
+    "photographerName": "Heather Ford",
+    "photographerUrl": "https://unsplash.com/@the_modern_life_mrs?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/breakfast-menu-teuvnOXOGVo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea CA editorial restaurant brunch",
+    "fetchedAt": "2026-07-06T13:03:06.963Z",
+    "addedBy": "moh"
+  },
   "moh/cities/charleston-sc": {
     "url": "https://images.unsplash.com/photo-1659059690223-18fc5d2d1ebb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMENhcm9saW5hJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city landscape at sunset",
@@ -4567,6 +4647,16 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-wearing-sunhat-riding-boat-on-body-of-water-3ktyUGus5zU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Finger Lakes NY rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:35.285Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/finger-lakes-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1644023758008-1060c7ea511f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODMzNDI5Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a small waterfall in the middle of a forest",
+    "photographerName": "Gary Yost",
+    "photographerUrl": "https://unsplash.com/@gyostimages?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-waterfall-in-the-middle-of-a-forest-Py-6280RwKA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes NY spa wellness retreat",
+    "fetchedAt": "2026-07-06T13:02:58.959Z",
     "addedBy": "moh"
   },
   "moh/cities/fort-lauderdale-fl": {
@@ -5419,6 +5509,16 @@
     "fetchedAt": "2026-04-12T19:04:37.336Z",
     "addedBy": "moh"
   },
+  "moh/cities/park-city-ut/lodging": {
+    "url": "https://images.unsplash.com/photo-1713447526482-f8c5a3b2c0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODMzNDI5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of cars parked on the side of a road",
+    "photographerName": "Jeffrey Eisen",
+    "photographerUrl": "https://unsplash.com/@jeisen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-cars-parked-on-the-side-of-a-road-PcdmInnoNho?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-06T13:03:17.575Z",
+    "addedBy": "moh"
+  },
   "moh/cities/philadelphia-pa": {
     "url": "https://images.unsplash.com/photo-1650389827024-4645a00b5095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQaGlsYWRlbHBoaWElMjBQQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMTkxNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a city skyline from a rooftop",
@@ -5819,6 +5919,36 @@
     "fetchedAt": "2026-06-29T18:23:05.040Z",
     "addedBy": "moh"
   },
+  "moh/cities/sonoma-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1709660540045-a6afcca33d0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDQSUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgzMzQyOTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an old wooden church with a steeple on a hill",
+    "photographerName": "Rini Susan V S",
+    "photographerUrl": "https://unsplash.com/@rinisvs?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-old-wooden-church-with-a-steeple-on-a-hill-Nb69Oa21dcc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma CA spa wellness retreat",
+    "fetchedAt": "2026-07-06T13:02:13.737Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sonoma-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1739799120521-c5f44a9335a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBjb2NrdGFpbCUyMGxvdW5nZSUyMHNwZWFrZWFzeSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODMzNDI5Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A dimly lit bar with stools and bottles on the shelves",
+    "photographerName": "Shawn DENG",
+    "photographerUrl": "https://unsplash.com/@dzshawn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dimly-lit-bar-with-stools-and-bottles-on-the-shelves-nsgzQHsxbXE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-06T13:02:09.479Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sonoma-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1626372416494-3183a0c4f726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDQSUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4MzM0MjkyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "egg with tomato and green leaf vegetable on white ceramic plate",
+    "photographerName": "Michael Dagonakis",
+    "photographerUrl": "https://unsplash.com/@mdagonakis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma CA editorial restaurant brunch",
+    "fetchedAt": "2026-07-06T13:02:03.866Z",
+    "addedBy": "moh"
+  },
   "moh/cities/tampa-fl": {
     "url": "https://images.unsplash.com/photo-1508787345756-500fbb7781c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUYW1wYSUyMEZMJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYxNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman wearing black top during daytime",
@@ -5917,6 +6047,26 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-vineyard-in-the-country-xZKItBvNTfY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Willamette Valley OR rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:34.265Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/willamette-valley-or/activities": {
+    "url": "https://images.unsplash.com/photo-1750128307395-036aeda2a1ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaWxsYW1ldHRlJTIwVmFsbGV5JTIwd2VsbG5lc3MlMjBvdXRkb29yJTIwc2NlbmV8ZW58MXwwfHx8MTc4MzM0Mjk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A scenic view of a lush, green valley.",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lush-green-valley-jnnPubvXbsM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Willamette Valley wellness outdoor scene",
+    "fetchedAt": "2026-07-06T13:02:36.923Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/willamette-valley-or/dining": {
+    "url": "https://images.unsplash.com/photo-1565935129803-a2acb2cf48b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaWxsYW1ldHRlJTIwVmFsbGV5JTIwZmFybS10by10YWJsZSUyMHRhc3RpbmclMjBtZW51fGVufDF8MHx8fDE3ODMzNDI5NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "plants and trees",
+    "photographerName": "Dan Meyers",
+    "photographerUrl": "https://unsplash.com/@dmey503?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/plants-and-trees-zaAmsWpLgUI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Willamette Valley farm-to-table tasting menu",
+    "fetchedAt": "2026-07-06T13:02:25.481Z",
     "addedBy": "moh"
   },
   "moh/showcases/1/bars": {
