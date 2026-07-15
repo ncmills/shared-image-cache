@@ -4399,6 +4399,16 @@
     "fetchedAt": "2026-07-06T13:03:06.963Z",
     "addedBy": "moh"
   },
+  "moh/cities/carmel-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzg0MTEzNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "building with infinity pool",
+    "photographerName": "Roberto Nickson",
+    "photographerUrl": "https://unsplash.com/@rpnickson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/building-with-infinity-pool-MA82mPIZeGI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea luxury hotel pool",
+    "fetchedAt": "2026-07-15T11:04:49.959Z",
+    "addedBy": "moh"
+  },
   "moh/cities/charleston-sc": {
     "url": "https://images.unsplash.com/photo-1659059690223-18fc5d2d1ebb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMENhcm9saW5hJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city landscape at sunset",
@@ -5507,6 +5517,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-black-dress-standing-in-front-of-a-lake-Qmys5PsrTnc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Park City UT rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:37.336Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/park-city-ut/bars": {
+    "url": "https://images.unsplash.com/photo-1720678418707-053aba69eb35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NDExMzQ5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A lobby with a chandelier and a statue",
+    "photographerName": "Datingjungle",
+    "photographerUrl": "https://unsplash.com/@datingjungle?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lobby-with-a-chandelier-and-a-statue-9db-Tpz3UwU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-15T11:04:57.705Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/park-city-ut/dining": {
+    "url": "https://images.unsplash.com/photo-1654101747503-ba325323cb54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzg0MTEzNDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a close up of a plate of food with tomatoes",
+    "photographerName": "Secret Travel Guide",
+    "photographerUrl": "https://unsplash.com/@secrettravelguide?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-plate-of-food-with-tomatoes-K0Bdo_l68bY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT editorial restaurant brunch",
+    "fetchedAt": "2026-07-15T11:04:52.455Z",
     "addedBy": "moh"
   },
   "moh/cities/park-city-ut/lodging": {
