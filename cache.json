@@ -4869,6 +4869,26 @@
     "fetchedAt": "2026-04-12T19:04:38.360Z",
     "addedBy": "moh"
   },
+  "moh/cities/jackson-hole-wy/dining": {
+    "url": "https://images.unsplash.com/photo-1626372416494-3183a0c4f726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzg0Mjg2MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "egg with tomato and green leaf vegetable on white ceramic plate",
+    "photographerName": "Michael Dagonakis",
+    "photographerUrl": "https://unsplash.com/@mdagonakis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole WY editorial restaurant brunch",
+    "fetchedAt": "2026-07-17T11:00:59.128Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/jackson-hole-wy/lodging": {
+    "url": "https://images.unsplash.com/photo-1780594773781-6de93ea47816?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzg0Mjg2MDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Outdoor pool reflecting buildings and people under a blue sky.",
+    "photographerName": "Virginia Marinova",
+    "photographerUrl": "https://unsplash.com/@virginiaphotostories?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/outdoor-pool-reflecting-buildings-and-people-under-a-blue-sky-9nTQGA2RPQo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole luxury hotel pool",
+    "fetchedAt": "2026-07-17T11:00:54.566Z",
+    "addedBy": "moh"
+  },
   "moh/cities/key-west-fl": {
     "url": "https://images.unsplash.com/photo-1757029379203-4f8689329087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwaGlzdG9yaWMlMjBkaXN0cmljdCUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4Mjc3NDg3NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Cars parked along a street lined with palm trees.",
@@ -5517,6 +5537,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-black-dress-standing-in-front-of-a-lake-Qmys5PsrTnc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Park City UT rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:37.336Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/park-city-ut/activities": {
+    "url": "https://images.unsplash.com/photo-1713447524562-439227b37386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFVUJTIwc3BhJTIwd2VsbG5lc3MlMjByZXRyZWF0fGVufDF8MHx8fDE3ODQyODYwNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large metal structure sitting on top of a lush green field",
+    "photographerName": "Jeffrey Eisen",
+    "photographerUrl": "https://unsplash.com/@jeisen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-metal-structure-sitting-on-top-of-a-lush-green-field-mZRAgqbbO98?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City UT spa wellness retreat",
+    "fetchedAt": "2026-07-17T11:00:48.513Z",
     "addedBy": "moh"
   },
   "moh/cities/park-city-ut/bars": {
