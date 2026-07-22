@@ -4879,6 +4879,16 @@
     "fetchedAt": "2026-07-18T10:45:07.499Z",
     "addedBy": "moh"
   },
+  "moh/cities/jackson-hole-wy/bars": {
+    "url": "https://images.unsplash.com/photo-1550520293-d34b3f2e116d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NDcxOTM4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden dining table",
+    "photographerName": "Carson Masterson",
+    "photographerUrl": "https://unsplash.com/@carsonmasterson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-dining-table-yuxr5ohFB-g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-22T11:23:03.327Z",
+    "addedBy": "moh"
+  },
   "moh/cities/jackson-hole-wy/dining": {
     "url": "https://images.unsplash.com/photo-1626372416494-3183a0c4f726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFdZJTIwZWRpdG9yaWFsJTIwcmVzdGF1cmFudCUyMGJydW5jaHxlbnwxfDB8fHwxNzg0Mjg2MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "egg with tomato and green leaf vegetable on white ceramic plate",
@@ -4997,6 +5007,36 @@
     "unsplashUrl": "https://unsplash.com/photos/landscape-of-seashore-iCvkYvMiqTg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Lake Tahoe CA rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:39.381Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-tahoe-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1782878981805-542f45a00cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMGNvY2t0YWlsJTIwYmFyJTIwcGluayUyMHN1bnNldHxlbnwxfDB8fHwxNzg0NzE5MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Serene mountain lake reflecting the colorful twilight sky.",
+    "photographerName": "Graham Klingler",
+    "photographerUrl": "https://unsplash.com/@grahamklingler?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/serene-mountain-lake-reflecting-the-colorful-twilight-sky-rd21VHehxKI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA cocktail bar pink sunset",
+    "fetchedAt": "2026-07-22T11:23:13.278Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-tahoe-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1664737835644-4f6e1539fe16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4NDcxOTM5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a dock on a lake",
+    "photographerName": "Drew Tilk",
+    "photographerUrl": "https://unsplash.com/@drewtilk?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dock-on-a-lake-XtTyhR9cE3M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe CA editorial restaurant brunch",
+    "fetchedAt": "2026-07-22T11:23:10.560Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-tahoe-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1599838057998-e68824b8f8c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBsdXh1cnklMjBob3RlbCUyMHBvb2x8ZW58MXwwfHx8MTc4NDcxOTM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden dock on blue sea under blue sky during daytime",
+    "photographerName": "Mick Haupt",
+    "photographerUrl": "https://unsplash.com/@rocinante_11?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-dock-on-blue-sea-under-blue-sky-during-daytime-jw17c8z-boA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Tahoe luxury hotel pool",
+    "fetchedAt": "2026-07-22T11:23:07.149Z",
     "addedBy": "moh"
   },
   "moh/cities/las-vegas-nv": {
