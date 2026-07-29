@@ -5209,6 +5209,46 @@
     "fetchedAt": "2026-04-12T19:04:41.427Z",
     "addedBy": "moh"
   },
+  "moh/cities/maui-hi/activities": {
+    "url": "https://images.unsplash.com/photo-1547537069-537b37a02069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXVpJTIwSEklMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4NTMyNTA1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach that has some rocks in it",
+    "photographerName": "Zetong Li",
+    "photographerUrl": "https://unsplash.com/@zetong?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-that-has-some-rocks-in-it-6xRVVRKvmu4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Maui HI spa wellness retreat",
+    "fetchedAt": "2026-07-29T11:37:31.107Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/maui-hi/bars": {
+    "url": "https://images.unsplash.com/photo-1743592323250-b37a10590ac6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXVpJTIwSEklMjBjb2NrdGFpbCUyMGJhciUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc4NTMyNTA0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Sunset paints the ocean with gorgeous colors.",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/sunset-paints-the-ocean-with-gorgeous-colors--YszGX29rwI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Maui HI cocktail bar pink sunset",
+    "fetchedAt": "2026-07-29T11:37:26.423Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/maui-hi/dining": {
+    "url": "https://images.unsplash.com/photo-1725972264377-06eea77a52b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXVpJTIwSEklMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODUzMjUwNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A plate of food on a table with silverware",
+    "photographerName": "Pat Ferranco",
+    "photographerUrl": "https://unsplash.com/@ptfrrnc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-plate-of-food-on-a-table-with-silverware-blJ6jr1mx8A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Maui HI editorial restaurant brunch",
+    "fetchedAt": "2026-07-29T11:37:21.561Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/maui-hi/lodging": {
+    "url": "https://images.unsplash.com/photo-1624323118407-6356ba4ee473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXVpJTIwSEklMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTMyNTAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black metal table and chairs near glass window",
+    "photographerName": "Benjamin R.",
+    "photographerUrl": "https://unsplash.com/@dapperprofessional?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-metal-table-and-chairs-near-glass-window-233G8RmmRzU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Maui HI boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-29T11:37:17.668Z",
+    "addedBy": "moh"
+  },
   "moh/cities/miami-fl": {
     "url": "https://images.unsplash.com/photo-1482361723510-4c4fa584d1d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNaWFtaSUyMEZMJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NTg2NTczMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman standing near white house and trees during golden hour",
@@ -5557,6 +5597,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-purple-dress-posing-for-a-picture-z0GTcqBzcj8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Oahu HI rooftop bachelorette glam",
     "fetchedAt": "2026-04-12T19:04:42.451Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/oahu-hi/lodging": {
+    "url": "https://images.unsplash.com/photo-1622338122963-832ff4fcc27e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPYWh1JTIwSEklMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTMyNTA1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and purple floral wall decor",
+    "photographerName": "zero take",
+    "photographerUrl": "https://unsplash.com/@zerotake?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-purple-floral-wall-decor-u-6IDH7jkFA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oahu HI boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-29T11:37:34.958Z",
     "addedBy": "moh"
   },
   "moh/cities/palm-springs-ca/activities": {
