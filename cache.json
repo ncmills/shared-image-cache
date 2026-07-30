@@ -1349,6 +1349,16 @@
     "fetchedAt": "2026-06-29T17:36:00.294Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/houston-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1517869129960-b9b74bfcdecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIb3VzdG9uJTIwY29ja3RhaWwlMjBsb3VuZ2UlMjBzcGVha2Vhc3klMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg1NDQ2NDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "barber shop",
+    "photographerName": "Ivan Cortez",
+    "photographerUrl": "https://unsplash.com/@ivancortez14?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/barber-shop-7AFDiiYumkE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Houston cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-30T21:21:06.440Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/houston-tx/dining": {
     "url": "https://images.unsplash.com/photo-1780082755456-3a72460270ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIb3VzdG9uJTIwVFglMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc4Mjc1NDU0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Friends enjoying korean barbecue with many side dishes.",
@@ -1567,6 +1577,16 @@
     "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-92ORW-y9lKA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Knoxville TN rooftop bar nightlife",
     "fetchedAt": "2026-07-02T19:49:40.450Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/knoxville-tn/lodging": {
+    "url": "https://images.unsplash.com/photo-1482782859086-51a957c4bee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUTiUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODU0NDY1NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photography of body of water and trees during daytime",
+    "photographerName": "Nathan Anderson",
+    "photographerUrl": "https://unsplash.com/@nathananderson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-body-of-water-and-trees-during-daytime-9v70xBmNHI8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville TN vacation rental house pool",
+    "fetchedAt": "2026-07-30T21:22:29.455Z",
     "addedBy": "bestman"
   },
   "bestman/cities/lake-of-the-ozarks-mo/activities": {
@@ -2349,6 +2369,16 @@
     "fetchedAt": "2026-04-13T00:09:13.990Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/outer-banks-nc/dining": {
+    "url": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxPdXRlciUyMEJhbmtzJTIwTkMlMjBzdGVha2hvdXNlJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc4NTQ0NjUwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "fried food on black pan",
+    "photographerName": "Madie Hamilton",
+    "photographerUrl": "https://unsplash.com/@mham3816?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Outer Banks NC steakhouse restaurant food",
+    "fetchedAt": "2026-07-30T21:21:44.566Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/outer-banks-nc/lodging": {
     "url": "https://images.unsplash.com/photo-1658439949861-e492d7363495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPdXRlciUyMEJhbmtzJTIwTkMlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzc2MDM4OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of houses",
@@ -2527,6 +2557,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-neon-sign-on-top-of-a-building-k0VeQ6sXHGg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Portland ME rooftop bar nightlife",
     "fetchedAt": "2026-07-02T12:22:37.752Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/portland-me/dining": {
+    "url": "https://images.unsplash.com/photo-1776856933075-dbbf7e35e518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME1FJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3ODU0NDY1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Table setting with food and drinks near window.",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/table-setting-with-food-and-drinks-near-window-UqujQf-HnAU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland ME steakhouse restaurant food",
+    "fetchedAt": "2026-07-30T21:22:28.091Z",
     "addedBy": "bestman"
   },
   "bestman/cities/portland-me/lodging": {
@@ -2819,6 +2859,16 @@
     "fetchedAt": "2026-06-29T17:35:00.268Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/savannah-ga/bars": {
+    "url": "https://images.unsplash.com/photo-1603488897156-cc43835ace68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdBJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg1NDQ2NDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black metal fence near green trees and brown concrete building during night time",
+    "photographerName": "Mick Haupt",
+    "photographerUrl": "https://unsplash.com/@rocinante_11?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-metal-fence-near-green-trees-and-brown-concrete-building-during-night-time-hxTJ9GIPpnU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Savannah GA rooftop bar nightlife",
+    "fetchedAt": "2026-07-30T21:21:01.527Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/savannah-ga/dining": {
     "url": "https://images.unsplash.com/photo-1667489012383-ecd9a46375a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdBJTIwc3RlYWtob3VzZSUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzU5MzgwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a person cooking in a kitchen",
@@ -3017,6 +3067,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-near-body-of-water-during-night-time-kedLA3pO9AI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "St. Augustine skyline night",
     "fetchedAt": "2026-04-13T00:08:39.614Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/st-louis-mo/bars": {
+    "url": "https://images.unsplash.com/photo-1781740500808-da448d0d8415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTdC4lMjBMb3VpcyUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NTQ0NjUzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Feet standing on \"st louis\" tiles on a concrete sidewalk.",
+    "photographerName": "Nichole Hamilton",
+    "photographerUrl": "https://unsplash.com/@nicholehamilton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/feet-standing-on-st-louis-tiles-on-a-concrete-sidewalk-CxeiwrrQvDs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "St. Louis cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-30T21:22:15.549Z",
     "addedBy": "bestman"
   },
   "bestman/cities/st-louis-mo/dining": {
@@ -3357,6 +3417,16 @@
     "unsplashUrl": "https://unsplash.com/photos/potato-fries-and-fried-chicken-on-white-ceramic-plate-_gUDj4o6VKE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Whitefish MT steakhouse restaurant food",
     "fetchedAt": "2026-04-13T13:08:33.011Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/whitefish-mt/lodging": {
+    "url": "https://images.unsplash.com/photo-1635122212082-c4b6f108f36a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaGl0ZWZpc2glMjBNVCUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODU0NDY1MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large swimming pool in a backyard surrounded by trees",
+    "photographerName": "Point3D Commercial Imaging Ltd.",
+    "photographerUrl": "https://unsplash.com/@3dottawa?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-in-a-backyard-surrounded-by-trees-41RtGos7y4g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Whitefish MT vacation rental house pool",
+    "fetchedAt": "2026-07-30T21:21:56.600Z",
     "addedBy": "bestman"
   },
   "bestman/showcases/andre-miami-fl-the-king/bars": {
