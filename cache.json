@@ -319,6 +319,36 @@
     "fetchedAt": "2026-07-02T09:31:37.697Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/block-island-ri/activities": {
+    "url": "https://images.unsplash.com/photo-1631830298489-4e7ed3257fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMG91dGRvb3IlMjByZWNyZWF0aW9uJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODU0NTM1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large brick building with a light house on top of it",
+    "photographerName": "John Angel",
+    "photographerUrl": "https://unsplash.com/@johnangelnyc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-brick-building-with-a-light-house-on-top-of-it-fLb31kFlQXg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island outdoor recreation landscape",
+    "fetchedAt": "2026-07-30T23:19:32.361Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/block-island-ri/bars": {
+    "url": "https://images.unsplash.com/photo-1558368417-57d31049c609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NTQ1MzU2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "two white leather sofa chairs",
+    "photographerName": "Shane Roten",
+    "photographerUrl": "https://unsplash.com/@srphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-white-leather-sofa-chairs--VUniQRnoFM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-07-30T23:19:29.195Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/block-island-ri/lodging": {
+    "url": "https://images.unsplash.com/photo-1781797078717-a036d374e52d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGRvd250b3duJTIwYXJjaGl0ZWN0dXJlJTIwaGlzdG9yaWN8ZW58MXwwfHx8MTc4NTQ1MzU2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Old town street with historic buildings, a church, and trees.",
+    "photographerName": "Roger Starnes Sr",
+    "photographerUrl": "https://unsplash.com/@rstar50?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/old-town-street-with-historic-buildings-a-church-and-trees-GJuBYWzGTac?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island downtown architecture historic",
+    "fetchedAt": "2026-07-30T23:19:22.806Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/boise-id/activities": {
     "url": "https://images.unsplash.com/photo-1699959560616-aa17ace76879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElEJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5MDgzOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people hiking up a mountain",
@@ -1277,6 +1307,16 @@
     "unsplashUrl": "https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Hilton Head SC steakhouse restaurant food",
     "fetchedAt": "2026-07-01T12:20:20.740Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hilton-head-sc/lodging": {
+    "url": "https://images.unsplash.com/photo-1642719287186-53f63061e17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzg1NDUzNDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a house with a lawn in front of a building",
+    "photographerName": "Matt Hardison",
+    "photographerUrl": "https://unsplash.com/@mhardison5?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-house-with-a-lawn-in-front-of-a-building-SPzWapZO9V8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hilton Head SC vacation rental house pool",
+    "fetchedAt": "2026-07-30T23:18:13.371Z",
     "addedBy": "bestman"
   },
   "bestman/cities/honolulu-hi/activities": {
@@ -2399,6 +2439,16 @@
     "fetchedAt": "2026-07-01T12:19:09.905Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/palm-springs-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1707273549352-303194ff800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENBJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg1NDUzNDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "palm trees are silhouetted against the evening sky",
+    "photographerName": "Junipero Verbeke",
+    "photographerUrl": "https://unsplash.com/@juniperoverbeke?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/palm-trees-are-silhouetted-against-the-evening-sky-BmSRKbP_8l0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs CA rooftop bar nightlife",
+    "fetchedAt": "2026-07-30T23:18:05.879Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/palm-springs-ca/dining": {
     "url": "https://images.unsplash.com/photo-1723629351395-9e4ba45d6297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwcmVzdGF1cmFudCUyMGZvb2R8ZW58MXwwfHx8MTc3NjAyMDU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A couple of people standing in front of a restaurant",
@@ -2697,6 +2747,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-stone-building-with-a-sign-in-front-of-it-a4qSFFqtv78?utm_source=shared_image_cache&utm_medium=referral",
     "query": "San Antonio TX adventure outdoor sport",
     "fetchedAt": "2026-07-01T23:42:02.828Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-antonio-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1692193483739-0e378f2eec45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBBbnRvbmlvJTIwVFglMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODU0NTM1MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a river runs through a city at night",
+    "photographerName": "Stephen Crane",
+    "photographerUrl": "https://unsplash.com/@cranesp?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-runs-through-a-city-at-night-XwmqeX7Vsso?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Antonio TX rooftop bar nightlife",
+    "fetchedAt": "2026-07-30T23:18:20.431Z",
     "addedBy": "bestman"
   },
   "bestman/cities/san-antonio-tx/lodging": {
@@ -3139,6 +3199,16 @@
     "fetchedAt": "2026-04-13T13:04:57.638Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/stowe-vt/activities": {
+    "url": "https://images.unsplash.com/photo-1699959560616-aa17ace76879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODU0NTM1NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people hiking up a mountain",
+    "photographerName": "Lucas Canino",
+    "photographerUrl": "https://unsplash.com/@lcanino?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-hiking-up-a-mountain-lUNh8-Zhqo4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe VT adventure outdoor sport",
+    "fetchedAt": "2026-07-30T23:19:19.980Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/stowe-vt/bars": {
     "url": "https://images.unsplash.com/photo-1621275471769-e6aa344546d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwcm9vZnRvcCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzgzMzQyOTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown wooden table and chairs set",
@@ -3249,6 +3319,16 @@
     "fetchedAt": "2026-04-11T20:07:49.992Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/telluride-co/bars": {
+    "url": "https://images.unsplash.com/photo-1693340210360-24fb2851406e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUZWxsdXJpZGUlMjBDTyUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4NTQ1MzUxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of signs that are on a pole",
+    "photographerName": "Eslie Rodriguez",
+    "photographerUrl": "https://unsplash.com/@jannell3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-signs-that-are-on-a-pole-VRz8IPTaQ4o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Telluride CO rooftop bar nightlife",
+    "fetchedAt": "2026-07-30T23:18:36.093Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/telluride-co/dining": {
     "url": "https://images.unsplash.com/photo-1693340210360-24fb2851406e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZWxsdXJpZGUlMjBDTyUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MDg1NTAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a couple of signs that are on a pole",
@@ -3267,6 +3347,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-a-house-in-the-foreground-HrGBOlyASYE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Telluride CO vacation rental house pool",
     "fetchedAt": "2026-04-13T13:05:01.834Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/tucson-az/dining": {
+    "url": "https://images.unsplash.com/photo-1515036918611-4b7f32b8406c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBWiUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzg1NDUzNTc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "person eating fish meat",
+    "photographerName": "Travis Yewell",
+    "photographerUrl": "https://unsplash.com/@shutters_guild?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-eating-fish-meat-xXJciiQAJ-Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson AZ steakhouse restaurant food",
+    "fetchedAt": "2026-07-30T23:19:35.176Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/tucson-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1589399516942-c3fb650ae8b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBWiUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODU0NTM1NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and white concrete building under blue sky during daytime",
+    "photographerName": "Frankie Lopez",
+    "photographerUrl": "https://unsplash.com/@frankielopez?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-H-pK9Njz-9E?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson AZ vacation rental house pool",
+    "fetchedAt": "2026-07-30T23:19:33.793Z",
     "addedBy": "bestman"
   },
   "bestman/cities/tulum-mx/activities": {
