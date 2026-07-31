@@ -2749,6 +2749,36 @@
     "fetchedAt": "2026-04-13T21:18:09.572Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/provincetown-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1719522593719-208dbed9c74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNQSUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4NTQ4MDg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people standing on a dock next to a body of water",
+    "photographerName": "Tyler Butler",
+    "photographerUrl": "https://unsplash.com/@tylerohiobutler?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-a-dock-next-to-a-body-of-water-bl0Ki87z2tg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown MA rooftop bar nightlife",
+    "fetchedAt": "2026-07-31T06:54:49.004Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/provincetown-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNQSUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzg1NDgwODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grilled meat on white ceramic plate",
+    "photographerName": "Tim Toomey",
+    "photographerUrl": "https://unsplash.com/@covertnine?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grilled-meat-on-white-ceramic-plate-pe9dvM1rQkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown MA steakhouse restaurant food",
+    "fetchedAt": "2026-07-31T06:54:47.565Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/provincetown-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1761502127414-61b18193cc58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNQSUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODU0ODA4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Lighthouse on horizon with calm water reflection",
+    "photographerName": "ersma",
+    "photographerUrl": "https://unsplash.com/@ersmalat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/lighthouse-on-horizon-with-calm-water-reflection-jveoCEI3k-w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown MA vacation rental house pool",
+    "fetchedAt": "2026-07-31T06:54:45.665Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/raleigh-durham-nc/bars": {
     "url": "https://images.unsplash.com/photo-1633626460298-314b7f5359a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMENhcm9saW5hJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMzg5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people sitting outside of a building",
