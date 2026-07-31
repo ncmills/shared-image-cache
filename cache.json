@@ -1119,6 +1119,26 @@
     "fetchedAt": "2026-04-13T17:36:03.424Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/flagstaff-az/activities": {
+    "url": "https://images.unsplash.com/photo-1656655562083-324371b12545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBWiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzg1NDY5NzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man and a woman cooking outside",
+    "photographerName": "Derek Owens",
+    "photographerUrl": "https://unsplash.com/@derekowensheart?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-and-a-woman-cooking-outside-rawvHOamp74?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff AZ adventure outdoor sport",
+    "fetchedAt": "2026-07-31T03:48:38.797Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/flagstaff-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1666048087199-119b32ce45bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBkb3dudG93biUyMGFyY2hpdGVjdHVyZSUyMGhpc3RvcmljfGVufDF8MHx8fDE3ODU0Njk3MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a brick building on a street corner",
+    "photographerName": "Jim Witkowski",
+    "photographerUrl": "https://unsplash.com/@jcw?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-brick-building-on-a-street-corner-v1TJQde0kdw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff downtown architecture historic",
+    "fetchedAt": "2026-07-31T03:48:32.047Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/fort-lauderdale-fl/activities": {
     "url": "https://images.unsplash.com/photo-1700357650382-8738ed7c2ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZMJTIwYWR2ZW50dXJlJTIwb3V0ZG9vciUyMHNwb3J0fGVufDF8MHx8fDE3ODI5NDkyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a couple of boats that are sitting in the water",
@@ -1177,6 +1197,36 @@
     "unsplashUrl": "https://unsplash.com/photos/a-night-sky-with-stars-and-trees-in-the-foreground-_9LaKa3dt_c?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fredericksburg skyline night",
     "fetchedAt": "2026-04-13T17:35:53.840Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galena-il/bars": {
+    "url": "https://images.unsplash.com/photo-1621275471769-e6aa344546d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJTCUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4NTQ2OTcyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table and chairs set",
+    "photographerName": "Brands&People",
+    "photographerUrl": "https://unsplash.com/@brandsandpeople?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-set-en-u6xqnbsg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena IL rooftop bar nightlife",
+    "fetchedAt": "2026-07-31T03:48:44.996Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galena-il/dining": {
+    "url": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJTCUyMHN0ZWFraG91c2UlMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzg1NDY5NzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "fried food on black pan",
+    "photographerName": "Madie Hamilton",
+    "photographerUrl": "https://unsplash.com/@mham3816?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena IL steakhouse restaurant food",
+    "fetchedAt": "2026-07-31T03:48:43.244Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galena-il/lodging": {
+    "url": "https://images.unsplash.com/photo-1696994204852-f2deb428f867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBkb3dudG93biUyMGFyY2hpdGVjdHVyZSUyMGhpc3RvcmljfGVufDF8MHx8fDE3ODU0Njk3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a row of cars parked on the side of a road",
+    "photographerName": "Vincent Y @USA",
+    "photographerUrl": "https://unsplash.com/@vincentyuan87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-row-of-cars-parked-on-the-side-of-a-road-cVB6M6sPP1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena downtown architecture historic",
+    "fetchedAt": "2026-07-31T03:48:41.574Z",
     "addedBy": "bestman"
   },
   "bestman/cities/galveston-tx/activities": {
@@ -3347,6 +3397,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-a-house-in-the-foreground-HrGBOlyASYE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Telluride CO vacation rental house pool",
     "fetchedAt": "2026-04-13T13:05:01.834Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/tucson-az/activities": {
+    "url": "https://images.unsplash.com/photo-1708789391875-9c94ce487f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBWiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzg1NDY5NzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man walking on a trail in the desert",
+    "photographerName": "Jeffrey Eisen",
+    "photographerUrl": "https://unsplash.com/@jeisen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-walking-on-a-trail-in-the-desert-oK_Bhrb6VoM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson AZ adventure outdoor sport",
+    "fetchedAt": "2026-07-31T03:48:29.284Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/tucson-az/bars": {
+    "url": "https://images.unsplash.com/photo-1665451302211-dd99627f7a94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBWiUyMHJvb2Z0b3AlMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4NTQ2OTcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city with a mountain in the background",
+    "photographerName": "JC Cervantes",
+    "photographerUrl": "https://unsplash.com/@jcnonstop87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-with-a-mountain-in-the-background-yyU_lZjEFi8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson AZ rooftop bar nightlife",
+    "fetchedAt": "2026-07-31T03:48:27.950Z",
     "addedBy": "bestman"
   },
   "bestman/cities/tucson-az/dining": {
