@@ -869,6 +869,16 @@
     "fetchedAt": "2026-04-13T17:37:10.152Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/columbus-oh/activities": {
+    "url": "https://images.unsplash.com/photo-1612982128234-70b86b4d2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyMG91dGRvb3IlMjByZWNyZWF0aW9uJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODU1MjAyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden house near green trees during daytime",
+    "photographerName": "Ginger Jordan",
+    "photographerUrl": "https://unsplash.com/@ginjor?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-house-near-green-trees-during-daytime-L0N3CnWyNvo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Columbus outdoor recreation landscape",
+    "fetchedAt": "2026-07-31T17:51:25.711Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/columbus-oh/bars": {
     "url": "https://images.unsplash.com/photo-1739799120521-c5f44a9335a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4Mjk5NDk0OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A dimly lit bar with stools and bottles on the shelves",
@@ -3167,6 +3177,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-green-house-sitting-in-the-middle-of-a-desert-JuwfdqwoXF0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sedona AZ vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:12.737Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/spokane-wa/bars": {
+    "url": "https://images.unsplash.com/photo-1628726260699-7daec378e8ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTcG9rYW5lJTIwV0ElMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODU1MjAyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "water falls near bridge during night time",
+    "photographerName": "Clay Elliot",
+    "photographerUrl": "https://unsplash.com/@ibidsy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/water-falls-near-bridge-during-night-time-ZM-dGZYa1lI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Spokane WA rooftop bar nightlife",
+    "fetchedAt": "2026-07-31T17:51:03.392Z",
     "addedBy": "bestman"
   },
   "bestman/cities/spokane-wa/dining": {
