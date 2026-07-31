@@ -4969,6 +4969,26 @@
     "fetchedAt": "2026-07-06T13:02:58.959Z",
     "addedBy": "moh"
   },
+  "moh/cities/finger-lakes-ny/bars": {
+    "url": "https://images.unsplash.com/photo-1560543332-e8e4ed182865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwY29ja3RhaWwlMjBiYXIlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3ODU0OTc4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "calm body of water during daytime",
+    "photographerName": "Clark Van Der Beken",
+    "photographerUrl": "https://unsplash.com/@snapsbyclark?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/calm-body-of-water-during-daytime-tk9A6sV1sec?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes NY cocktail bar pink sunset",
+    "fetchedAt": "2026-07-31T11:38:18.742Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/finger-lakes-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1685687819512-2c40a4e3b9f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzg1NDk3ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large swimming pool next to a fenced in area",
+    "photographerName": "Tristan Joubert",
+    "photographerUrl": "https://unsplash.com/@t_j046748?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-next-to-a-fenced-in-area-ZnvWn04o0ok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes luxury hotel pool",
+    "fetchedAt": "2026-07-31T11:38:08.552Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fort-lauderdale-fl": {
     "url": "https://images.unsplash.com/photo-1639709193832-3789880aebf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbG9yaWRhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAyMDYxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a sunset view of a city and a body of water",
@@ -4997,6 +5017,16 @@
     "unsplashUrl": "https://unsplash.com/photos/dramatic-clouds-with-pink-and-gray-hues-at-sunset-Vx3M_R6ZhSQ?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fort Lauderdale FL cocktail bar pink sunset",
     "fetchedAt": "2026-07-05T11:16:30.324Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-lauderdale-fl/lodging": {
+    "url": "https://images.unsplash.com/photo-1603072388361-1e368b7a84a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZMJTIwYm91dGlxdWUlMjBob3RlbCUyMGJhY2hlbG9yZXR0ZSUyMHN1aXRlfGVufDF8MHx8fDE3ODU0OTc4NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black and white bed linen",
+    "photographerName": "Blake Woolwine",
+    "photographerUrl": "https://unsplash.com/@summitangel?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-and-white-bed-linen-9w4msoUPAmo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale FL boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-31T11:37:37.188Z",
     "addedBy": "moh"
   },
   "moh/cities/fort-worth-tx": {
@@ -5257,6 +5287,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-house-with-palm-trees-LxxXCOOg26U?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Key West FL boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-02T09:30:14.742Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/kiawah-island-sc": {
+    "url": "https://images.unsplash.com/photo-1683945370367-0b134feda876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLaWF3YWglMjBJc2xhbmQlMjBTQyUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODU0OTc4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people standing in front of the ocean",
+    "photographerName": "Javier González Fotógrafo",
+    "photographerUrl": "https://unsplash.com/@livingcolortj?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-the-ocean-7oObfHOIwOo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kiawah Island SC rooftop bachelorette glam",
+    "fetchedAt": "2026-07-31T11:37:11.759Z",
     "addedBy": "moh"
   },
   "moh/cities/kiawah-island-sc/activities": {
@@ -5889,6 +5929,36 @@
     "fetchedAt": "2026-04-12T19:04:42.451Z",
     "addedBy": "moh"
   },
+  "moh/cities/oahu-hi/activities": {
+    "url": "https://images.unsplash.com/photo-1656115883666-1a8c605de3bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPYWh1JTIwd2VsbG5lc3MlMjBvdXRkb29yJTIwc2NlbmV8ZW58MXwwfHx8MTc4NTQ5NzkxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beautiful tropical beach",
+    "photographerName": "Flora Hon",
+    "photographerUrl": "https://unsplash.com/@florahon?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beautiful-tropical-beach-6D5SXEIzpiE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oahu wellness outdoor scene",
+    "fetchedAt": "2026-07-31T11:38:32.900Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/oahu-hi/bars": {
+    "url": "https://images.unsplash.com/photo-1743592322732-191ae0ba7b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPYWh1JTIwSEklMjBjb2NrdGFpbCUyMGJhciUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc4NTQ5NzkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Pink sunset over the ocean, palm trees silhouetted.",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/pink-sunset-over-the-ocean-palm-trees-silhouetted-Gym_DqHj5eE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oahu HI cocktail bar pink sunset",
+    "fetchedAt": "2026-07-31T11:38:27.105Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/oahu-hi/dining": {
+    "url": "https://images.unsplash.com/photo-1560055932-927be486d086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPYWh1JTIwSEklMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODU0OTc5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "ramen on gray ceramic bowl",
+    "photographerName": "Maddi Bazzocco",
+    "photographerUrl": "https://unsplash.com/@maddibazzocco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/ramen-on-gray-ceramic-bowl--A78Sb7x8WA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oahu HI editorial restaurant brunch",
+    "fetchedAt": "2026-07-31T11:38:23.071Z",
+    "addedBy": "moh"
+  },
   "moh/cities/oahu-hi/lodging": {
     "url": "https://images.unsplash.com/photo-1622338122963-832ff4fcc27e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPYWh1JTIwSEklMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTMyNTA1NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white and purple floral wall decor",
@@ -6169,6 +6239,26 @@
     "fetchedAt": "2026-04-12T19:04:44.509Z",
     "addedBy": "moh"
   },
+  "moh/cities/san-juan-pr/dining": {
+    "url": "https://images.unsplash.com/photo-1626372416494-3183a0c4f726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBKdWFuJTIwUFIlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODU0OTc5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "egg with tomato and green leaf vegetable on white ceramic plate",
+    "photographerName": "Michael Dagonakis",
+    "photographerUrl": "https://unsplash.com/@mdagonakis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Juan PR editorial restaurant brunch",
+    "fetchedAt": "2026-07-31T11:38:38.921Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-juan-pr/lodging": {
+    "url": "https://images.unsplash.com/photo-1729605412224-147d072d3667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW4lMjBKdWFuJTIwUFIlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTQ5NzkxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bedroom with a bed and a large window",
+    "photographerName": "Antonio Araujo",
+    "photographerUrl": "https://unsplash.com/@antonioaaaraujo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-large-window-NTgJBVdHQC8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Juan PR boutique hotel bachelorette suite",
+    "fetchedAt": "2026-07-31T11:38:35.847Z",
+    "addedBy": "moh"
+  },
   "moh/cities/santa-barbara-ca": {
     "url": "https://images.unsplash.com/photo-1540840430747-71880eb5b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMjAyOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a city with palm trees and mountains in the background",
@@ -6389,6 +6479,16 @@
     "fetchedAt": "2026-06-29T18:23:05.040Z",
     "addedBy": "moh"
   },
+  "moh/cities/sonoma-ca": {
+    "url": "https://images.unsplash.com/photo-1497336755022-a433d2fcf62c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODU0OTc4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bride and bridesmaid walking on street between green trees",
+    "photographerName": "Eric Ward",
+    "photographerUrl": "https://unsplash.com/@ericjamesward?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/bride-and-bridesmaid-walking-on-street-between-green-trees-UwgVASBRhQw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma CA rooftop bachelorette glam",
+    "fetchedAt": "2026-07-31T11:37:46.133Z",
+    "addedBy": "moh"
+  },
   "moh/cities/sonoma-ca/activities": {
     "url": "https://images.unsplash.com/photo-1709660540045-a6afcca33d0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDQSUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzgzMzQyOTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an old wooden church with a steeple on a hill",
@@ -6537,6 +6637,16 @@
     "unsplashUrl": "https://unsplash.com/photos/plants-and-trees-zaAmsWpLgUI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Willamette Valley farm-to-table tasting menu",
     "fetchedAt": "2026-07-06T13:02:25.481Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/willamette-valley-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1729003702131-51807464dcec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXaWxsYW1ldHRlJTIwVmFsbGV5JTIwbHV4dXJ5JTIwaG90ZWwlMjBwb29sfGVufDF8MHx8fDE3ODU0OTc4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large swimming pool with a lounge chair next to it",
+    "photographerName": "Nereid Ndreu",
+    "photographerUrl": "https://unsplash.com/@nereiq?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-with-a-lounge-chair-next-to-it-cS4Ly93l_RA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Willamette Valley luxury hotel pool",
+    "fetchedAt": "2026-07-31T11:37:57.350Z",
     "addedBy": "moh"
   },
   "moh/showcases/1/bars": {
