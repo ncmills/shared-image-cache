@@ -4579,6 +4579,16 @@
     "fetchedAt": "2026-06-30T23:37:30.306Z",
     "addedBy": "moh"
   },
+  "moh/cities/atlanta-ga/bars": {
+    "url": "https://images.unsplash.com/photo-1633275859001-daaece627fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwY29ja3RhaWwlMjBsb3VuZ2UlMjBzcGVha2Vhc3klMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg1NzEyMDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a crowd of people standing around a neon sign",
+    "photographerName": "Clayton Malquist",
+    "photographerUrl": "https://unsplash.com/@cmalquist?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-standing-around-a-neon-sign-TLYgsqE-d0M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-08-02T23:07:54.896Z",
+    "addedBy": "moh"
+  },
   "moh/cities/atlanta-ga/dining": {
     "url": "https://images.unsplash.com/photo-1651977560790-42e0c5cf2ba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI4NjI2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a wooden cabin with a table and chairs",
