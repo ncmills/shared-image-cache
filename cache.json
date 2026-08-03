@@ -4719,6 +4719,16 @@
     "fetchedAt": "2026-06-30T04:22:42.069Z",
     "addedBy": "moh"
   },
+  "moh/cities/burlington-vt/lodging": {
+    "url": "https://images.unsplash.com/photo-1604809226867-0c54292210d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTc2MDcxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white bed cover near white wooden door",
+    "photographerName": "Andrea Davis",
+    "photographerUrl": "https://unsplash.com/@andreaedavis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-bed-cover-near-white-wooden-door-FhwBrvy8JtU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington VT boutique hotel bachelorette suite",
+    "fetchedAt": "2026-08-03T12:38:38.223Z",
+    "addedBy": "moh"
+  },
   "moh/cities/cape-cod-ma": {
     "url": "https://images.unsplash.com/photo-1701450647612-07e4b3149908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXNzYWNodXNldHRzJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a pink and blue sky with some clouds",
@@ -5449,6 +5459,26 @@
     "fetchedAt": "2026-07-02T11:47:11.599Z",
     "addedBy": "moh"
   },
+  "moh/cities/knoxville-tn/activities": {
+    "url": "https://images.unsplash.com/photo-1491967907596-f5a380749271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUTiUyMHNwYSUyMHdlbGxuZXNzJTIwcmV0cmVhdHxlbnwxfDB8fHwxNzg1NzYwNzExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of a field with a house in the distance",
+    "photographerName": "Nathan Anderson",
+    "photographerUrl": "https://unsplash.com/@nathananderson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-field-with-a-house-in-the-distance-M6IWaSNUe6I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville TN spa wellness retreat",
+    "fetchedAt": "2026-08-03T12:38:31.922Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/knoxville-tn/lodging": {
+    "url": "https://images.unsplash.com/photo-1632829401795-2745c905ac77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUTiUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzg1NzYwNzAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bedroom with blue walls and a large bed",
+    "photographerName": "Spacejoy",
+    "photographerUrl": "https://unsplash.com/@spacejoy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bedroom-with-blue-walls-and-a-large-bed-8wDnylxemkk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville TN boutique hotel bachelorette suite",
+    "fetchedAt": "2026-08-03T12:38:21.760Z",
+    "addedBy": "moh"
+  },
   "moh/cities/lake-tahoe-ca": {
     "url": "https://images.unsplash.com/photo-1516570379421-c7bd617e8db0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMjA2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "landscape of seashore",
@@ -5617,6 +5647,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-and-brown-concrete-house-TfyYaL5Fy-A?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Martha's Vineyard MA spa wellness retreat",
     "fetchedAt": "2026-07-02T11:45:48.732Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/marthas-vineyard-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1679419857738-f8a7ca8c5de5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBjb2NrdGFpbCUyMGxvdW5nZSUyMHNwZWFrZWFzeSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODU3NjA2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a living room filled with furniture and a fire place",
+    "photographerName": "Alek Olson",
+    "photographerUrl": "https://unsplash.com/@alekxandrolsonphotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-fpKNTEJsKns?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Martha's Vineyard cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-08-03T12:37:07.565Z",
     "addedBy": "moh"
   },
   "moh/cities/marthas-vineyard-ma/dining": {
@@ -6357,6 +6397,16 @@
     "unsplashUrl": "https://unsplash.com/photos/silhouette-of-city-skyline-against-a-dramatic-sunset-sky-IjZQTb_KTUo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "PR skyline pink sunset",
     "fetchedAt": "2026-04-12T19:04:44.509Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-juan-pr/activities": {
+    "url": "https://images.unsplash.com/photo-1576141034725-c64b35194fce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBKdWFuJTIwUFIlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4NTc2MDY5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete water fountain during daytime",
+    "photographerName": "Marco Montero Pisani",
+    "photographerUrl": "https://unsplash.com/@monteropisani?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-water-fountain-during-daytime--7YxccKOMic?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Juan PR spa wellness retreat",
+    "fetchedAt": "2026-08-03T12:38:12.283Z",
     "addedBy": "moh"
   },
   "moh/cities/san-juan-pr/dining": {
