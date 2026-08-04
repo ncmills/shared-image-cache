@@ -1179,6 +1179,16 @@
     "fetchedAt": "2026-04-13T17:36:03.424Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/eureka-springs-ar/lodging": {
+    "url": "https://images.unsplash.com/photo-1694885190541-40037b8a6b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFdXJla2ElMjBTcHJpbmdzJTIwQVIlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzg1ODI1NjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an empty swimming pool with an umbrella over it",
+    "photographerName": "Brian Wangenheim",
+    "photographerUrl": "https://unsplash.com/@brianwangenheim?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Eureka Springs AR vacation rental house pool",
+    "fetchedAt": "2026-08-04T06:40:08.022Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/flagstaff-az/activities": {
     "url": "https://images.unsplash.com/photo-1656655562083-324371b12545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBWiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzg1NDY5NzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man and a woman cooking outside",
