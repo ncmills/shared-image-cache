@@ -4759,6 +4759,26 @@
     "fetchedAt": "2026-06-30T04:22:42.069Z",
     "addedBy": "moh"
   },
+  "moh/cities/burlington-vt/activities": {
+    "url": "https://images.unsplash.com/photo-1641659242779-dc0cd20d55ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4NTg0MzQwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a harbor with boats and a gazebo",
+    "photographerName": "Stephen Mease",
+    "photographerUrl": "https://unsplash.com/@smeasevt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-harbor-with-boats-and-a-gazebo-0y7N7Ed0ASY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington VT spa wellness retreat",
+    "fetchedAt": "2026-08-04T11:36:49.367Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/burlington-vt/dining": {
+    "url": "https://images.unsplash.com/photo-1737038934055-7583c135e8b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODU4NDM0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A car driving down a street next to a tall white building",
+    "photographerName": "Ronan Furuta",
+    "photographerUrl": "https://unsplash.com/@ronan18?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-white-building-y4V2Y1vT4ok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington VT editorial restaurant brunch",
+    "fetchedAt": "2026-08-04T11:36:43.478Z",
+    "addedBy": "moh"
+  },
   "moh/cities/burlington-vt/lodging": {
     "url": "https://images.unsplash.com/photo-1604809226867-0c54292210d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBib3V0aXF1ZSUyMGhvdGVsJTIwYmFjaGVsb3JldHRlJTIwc3VpdGV8ZW58MXwwfHx8MTc4NTc2MDcxOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white bed cover near white wooden door",
@@ -5507,6 +5527,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-field-with-a-house-in-the-distance-M6IWaSNUe6I?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Knoxville TN spa wellness retreat",
     "fetchedAt": "2026-08-03T12:38:31.922Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/knoxville-tn/bars": {
+    "url": "https://images.unsplash.com/photo-1748990433850-ea9cac7783f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBjb2NrdGFpbCUyMGxvdW5nZSUyMHNwZWFrZWFzeSUyMGludGVyaW9yfGVufDF8MHx8fDE3ODU4NDMzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A cozy, vintage-style cafe with empty tables.",
+    "photographerName": "Sidney Smith",
+    "photographerUrl": "https://unsplash.com/@sidneyasmith?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-cozy-vintage-style-cafe-with-empty-tables-ucZv4gn94VE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville cocktail lounge speakeasy interior",
+    "fetchedAt": "2026-08-04T11:36:34.687Z",
     "addedBy": "moh"
   },
   "moh/cities/knoxville-tn/lodging": {
@@ -6727,6 +6757,16 @@
     "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sonoma CA editorial restaurant brunch",
     "fetchedAt": "2026-07-06T13:02:03.866Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/stowe-vt": {
+    "url": "https://images.unsplash.com/photo-1752766074168-44afdbaaf390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4NTg0MzQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A rooftop dining table set for an elegant event.",
+    "photographerName": "Deliberate Directions",
+    "photographerUrl": "https://unsplash.com/@deliberatedirections?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-rooftop-dining-table-set-for-an-elegant-event-JaUzpKC2Gjc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe VT rooftop bachelorette glam",
+    "fetchedAt": "2026-08-04T11:36:52.766Z",
     "addedBy": "moh"
   },
   "moh/cities/tampa-fl": {
