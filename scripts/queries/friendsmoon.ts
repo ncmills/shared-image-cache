@@ -225,6 +225,67 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
     );
   }
 
+  /**
+   * Destinations whose templated `${city} ${state} golden hour` query missed.
+   * Reviewed on contact sheets 2026-08-07, 100 of 199 destinations examined.
+   *
+   * One was a genuine WRONG PLACE: "Hamptons New York golden hour" returned the
+   * Manhattan skyline. The Hamptons are a hundred miles east of it and not being
+   * the city is the entire point of going — that is the Santorini-class error,
+   * and the only one in the hundred.
+   *
+   * The rest returned somewhere real but unusable: a derelict concrete lot for
+   * Ambergris Caye, a blurred figure for Iowa City, a near-blank sky for
+   * Killington, a vintage car for Knoxville, an interior window for Cincinnati,
+   * a brick facade for Denver. Named landmarks and specific geography fix all of
+   * them; "golden hour" is what let a generic frame through.
+   */
+  const DEST_OVERRIDE: Record<string, { query: string; fallbackQuery: string }> = {
+    "hamptons-ny": {
+      query: "Montauk Point Lighthouse Long Island",
+      fallbackQuery: "Hamptons Long Island shingled beach house dunes",
+    },
+    "ambergris-caye-bz": {
+      query: "Ambergris Caye Belize pier turquoise water",
+      fallbackQuery: "Belize barrier reef caye palm dock",
+    },
+    "aruba-aw": {
+      query: "Aruba Eagle Beach divi divi tree",
+      fallbackQuery: "Aruba Caribbean coastline turquoise",
+    },
+    "iowa-city-ia": {
+      query: "Iowa City Old Capitol building",
+      fallbackQuery: "Iowa City Iowa downtown pedestrian mall",
+    },
+    "killington-vt": {
+      query: "Killington Vermont green mountains autumn",
+      fallbackQuery: "Vermont ski resort mountain autumn foliage",
+    },
+    "knoxville-tn": {
+      query: "Knoxville Tennessee Sunsphere downtown",
+      fallbackQuery: "Knoxville Tennessee riverfront skyline",
+    },
+    "cincinnati-oh": {
+      query: "Cincinnati Ohio Roebling Bridge skyline",
+      fallbackQuery: "Cincinnati Ohio riverfront downtown",
+    },
+    "denver-co": {
+      query: "Denver Colorado skyline Rocky Mountains",
+      fallbackQuery: "Denver Colorado downtown union station",
+    },
+  };
+
+  // Same assertion the Atlas table gets: a key that matches no destination id is
+  // a silent no-op that looks exactly like a fix.
+  const destIds = new Set(dests.map((d) => d.id));
+  for (const key of Object.keys(DEST_OVERRIDE)) {
+    if (!destIds.has(key)) {
+      throw new Error(
+        `friendsmoon: DEST_OVERRIDE key "${key}" matches no destination id.`,
+      );
+    }
+  }
+
   for (const d of dests) {
     const stateName = STATE_NAMES[d.state] ?? d.state;
     queries.push({
@@ -233,8 +294,9 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
       // noun here ("waterfront", "downtown") narrows it enough that small
       // cities return nothing and silently fall through to the fallback, which
       // is how a destination ends up wearing a generic stock landscape.
-      query: `${d.city} ${stateName} golden hour`,
-      fallbackQuery: `${d.city} ${stateName}`,
+      query: DEST_OVERRIDE[d.id]?.query ?? `${d.city} ${stateName} golden hour`,
+      fallbackQuery:
+        DEST_OVERRIDE[d.id]?.fallbackQuery ?? `${d.city} ${stateName}`,
       addedBy: "friendsmoon",
       label: `friendsmoon/${d.city}, ${d.state}`,
     });
