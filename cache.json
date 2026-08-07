@@ -4769,14 +4769,24 @@
     "fetchedAt": "2026-08-07T04:33:54.617Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/carmel-ca-carmel-beach": {
-    "url": "https://images.unsplash.com/photo-1591158617961-7fed1347dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXJtZWwlMjBCZWFjaCUyMENhbGlmb3JuaWElMjB3aGl0ZSUyMHNhbmQlMjBzdW5zZXQlMjBzaWxob3VldHRlfGVufDF8MHx8fDE3ODYwNzg4NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "woman in black dress walking on beach during sunset",
-    "photographerName": "Jordan Seott",
-    "photographerUrl": "https://unsplash.com/@jordanseott?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/woman-in-black-dress-walking-on-beach-during-sunset-0Ej2xS5CPYM?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Carmel Beach California white sand sunset silhouette",
-    "fetchedAt": "2026-08-07T05:00:53.737Z",
+  "engagedmoon/spots/carmel-ca-garrapata-soberanes-point": {
+    "url": "https://images.unsplash.com/photo-1597105116282-4c33ec6b367d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb2JlcmFuZXMlMjBQb2ludCUyMEdhcnJhcGF0YSUyMFN0YXRlJTIwUGFyayUyMENhbGlmb3JuaWF8ZW58MXwwfHx8MTc4NjEwOTk5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near body of water during daytime",
+    "photographerName": "mana5280",
+    "photographerUrl": "https://unsplash.com/@mana5280?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-body-of-water-during-daytime-rqBR7zyH9XE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Soberanes Point Garrapata State Park California",
+    "fetchedAt": "2026-08-07T13:39:58.194Z",
+    "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/carmel-ca-mcway-falls-overlook": {
+    "url": "https://images.unsplash.com/photo-1592464768455-eb6d2853a1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNY1dheSUyMEZhbGxzJTIwSnVsaWElMjBQZmVpZmZlciUyMEJ1cm5zJTIwU3RhdGUlMjBQYXJrfGVufDF8MHx8fDE3ODYxMDk5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near body of water during daytime",
+    "photographerName": "Jared Lisack",
+    "photographerUrl": "https://unsplash.com/@jredl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-VnJeZLYXmYM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "McWay Falls Julia Pfeiffer Burns State Park",
+    "fetchedAt": "2026-08-07T13:39:56.777Z",
     "addedBy": "engagedmoon"
   },
   "engagedmoon/spots/carmel-ca-point-lobos": {
@@ -4799,6 +4809,16 @@
     "fetchedAt": "2026-08-07T04:33:58.994Z",
     "addedBy": "engagedmoon"
   },
+  "engagedmoon/spots/jackson-hole-wy-oxbow-bend": {
+    "url": "https://images.unsplash.com/photo-1595131264251-63b7cf3b8564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPeGJvdyUyMEJlbmQlMjBTbmFrZSUyMFJpdmVyJTIwR3JhbmQlMjBUZXRvbiUyMHJlZmxlY3Rpb258ZW58MXwwfHx8MTc4NjEwOTk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near lake and snow covered mountain during daytime",
+    "photographerName": "Toan Chu",
+    "photographerUrl": "https://unsplash.com/@toanchu?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-lake-and-snow-covered-mountain-during-daytime-8dvphKlzJ40?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oxbow Bend Snake River Grand Teton reflection",
+    "fetchedAt": "2026-08-07T13:39:53.825Z",
+    "addedBy": "engagedmoon"
+  },
   "engagedmoon/spots/jackson-hole-wy-schwabacher-landing": {
     "url": "https://images.unsplash.com/photo-1625781867670-4e46bb53b339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTY2h3YWJhY2hlciUyMExhbmRpbmclMjBHcmFuZCUyMFRldG9uJTIwcmVmbGVjdGlvbnxlbnwxfDB8fHwxNzg2MDc3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green pine trees near lake under blue sky during daytime",
@@ -4819,6 +4839,26 @@
     "fetchedAt": "2026-08-07T04:33:47.270Z",
     "addedBy": "engagedmoon"
   },
+  "engagedmoon/spots/new-york-ny-bbp-granite-prospect": {
+    "url": "https://images.unsplash.com/photo-1659321381886-bec00cb88731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCcm9va2x5biUyMEJyaWRnZSUyMFBhcmslMjBQaWVyJTIwMSUyME1hbmhhdHRhbiUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NjEwOTk5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people standing on a rocky shore by a body of water with a bridge and a",
+    "photographerName": "Trent Erwin",
+    "photographerUrl": "https://unsplash.com/@tjerwin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-a-rocky-shore-by-a-body-of-water-with-a-bridge-and-a-uXavbOlI6AU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Brooklyn Bridge Park Pier 1 Manhattan skyline",
+    "fetchedAt": "2026-08-07T13:39:59.841Z",
+    "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/new-york-ny-bbp-pebble-beach": {
+    "url": "https://images.unsplash.com/photo-1722470336730-ebe23440f05a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcm9va2x5biUyMEJyaWRnZSUyMFBhcmslMjBQZWJibGUlMjBCZWFjaCUyME1hbmhhdHRhbiUyMEJyaWRnZXxlbnwxfDB8fHwxNzg2MTEwMDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A view of a city and a bridge over a body of water",
+    "photographerName": "Yash Mannepalli",
+    "photographerUrl": "https://unsplash.com/@rollingshots?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-and-a-bridge-over-a-body-of-water-NzvhAjVs5zs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Brooklyn Bridge Park Pebble Beach Manhattan Bridge",
+    "fetchedAt": "2026-08-07T13:40:01.251Z",
+    "addedBy": "engagedmoon"
+  },
   "engagedmoon/spots/new-york-ny-central-park-bethesda-terrace": {
     "url": "https://images.unsplash.com/photo-1705782787292-b99af780cccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZXRoZXNkYSUyMFRlcnJhY2UlMjBDZW50cmFsJTIwUGFyayUyME5ldyUyMFlvcmt8ZW58MXwwfHx8MTc4NjA3NzIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people standing around a fountain in a park",
@@ -4827,6 +4867,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-fountain-in-a-park-8YxxjT-u2Rs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bethesda Terrace Central Park New York",
     "fetchedAt": "2026-08-07T04:33:37.257Z",
+    "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/new-york-ny-gantry-plaza": {
+    "url": "https://images.unsplash.com/photo-1657593715330-bc49896691bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYW50cnklMjBQbGF6YSUyMFN0YXRlJTIwUGFyayUyMExvbmclMjBJc2xhbmQlMjBDaXR5JTIwZ2FudHJpZXN8ZW58MXwwfHx8MTc4NjExMDAwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city skyline with a body of water in front of it",
+    "photographerName": "Hanyang Zhang",
+    "photographerUrl": "https://unsplash.com/@hanyangzhang?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-with-a-body-of-water-in-front-of-it-JT-rrfeI0PQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gantry Plaza State Park Long Island City gantries",
+    "fetchedAt": "2026-08-07T13:40:06.848Z",
+    "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/savannah-ga-bonaventure-cemetery": {
+    "url": "https://images.unsplash.com/photo-1773760504351-b1e1243ec866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb25hdmVudHVyZSUyMENlbWV0ZXJ5JTIwU2F2YW5uYWglMjBsaXZlJTIwb2Frc3xlbnwxfDB8fHwxNzg2MTEwMDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Old cemetery with moss-draped trees and headstones.",
+    "photographerName": "Nick Wilson",
+    "photographerUrl": "https://unsplash.com/@rickoras?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/old-cemetery-with-moss-draped-trees-and-headstones-AbSRBocrh9M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bonaventure Cemetery Savannah live oaks",
+    "fetchedAt": "2026-08-07T13:40:16.751Z",
     "addedBy": "engagedmoon"
   },
   "engagedmoon/spots/savannah-ga-forsyth-park": {

@@ -18,6 +18,20 @@
  * "Craggy Gardens Blue Ridge Parkway North Carolina" returns the ridgeline.
  *
  * ─────────────────────────────────────────────────────────────────────────────
+ * ⚠️ MICRO-LANDMARKS DO NOT SURVIVE A FALLBACK. Seven ids were removed on
+ * 2026-08-07 after repeated wrong subjects, and the failure was always the
+ * same shape: the primary query names a specific small place Unsplash has no
+ * photograph of, the fallback widens to the city, and the city photograph then
+ * ships under the small place's name. "Conservatory Garden, Central Park"
+ * returned a Victorian glasshouse in Bangalore; "Bow Bridge" returned a frame
+ * with a BETHESDA TERRACE sign in it; "White Point Garden" returned Broad
+ * Street. All three were plausible-looking and all three were the wrong place.
+ *
+ * The rule that follows: a spot gets a query ONLY if the place is famous enough
+ * to be photographed BY NAME. Everything else takes the gradient, which is a
+ * designed state. Do not add a widening fallback to rescue coverage — coverage
+ * is not the goal, being right is.
+ *
  * ⚠️ `id` MUST equal the spot's id in engagedmoon's catalog, and a rename there
  * breaks every photograph on the site SILENTLY.
  *
@@ -45,6 +59,45 @@ import type { QueryItem } from "../../lib/types";
  * mismatch renders a gap rather than throwing, so it fails silently.
  */
 const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> = [
+  // Added 2026-08-07: the remaining reachable spots. Every one is a named,
+  // heavily-photographed landmark, so these are queried by their own name
+  // rather than by a city fallback — the fallback is what produced the Lone
+  // Cypress under the Point Lobos key.
+  {
+    id: "jackson-hole-wy-oxbow-bend",
+    query: "Oxbow Bend Snake River Grand Teton reflection",
+    fallbackQuery: "Grand Teton Mount Moran river reflection sunrise",
+  },
+  {
+    id: "carmel-ca-mcway-falls-overlook",
+    query: "McWay Falls Julia Pfeiffer Burns State Park",
+    fallbackQuery: "McWay Falls Big Sur waterfall cove",
+  },
+  {
+    id: "carmel-ca-garrapata-soberanes-point",
+    query: "Soberanes Point Garrapata State Park California",
+    fallbackQuery: "Garrapata State Park Big Sur coastal bluff",
+  },
+  {
+    id: "new-york-ny-bbp-granite-prospect",
+    query: "Brooklyn Bridge Park Pier 1 Manhattan skyline",
+    fallbackQuery: "Brooklyn Bridge Park East River Manhattan skyline dusk",
+  },
+  {
+    id: "new-york-ny-bbp-pebble-beach",
+    query: "Brooklyn Bridge Park Pebble Beach Manhattan Bridge",
+    fallbackQuery: "Brooklyn Bridge Park shoreline Manhattan Bridge",
+  },
+  {
+    id: "new-york-ny-gantry-plaza",
+    query: "Gantry Plaza State Park Long Island City gantries",
+    fallbackQuery: "Long Island City waterfront Manhattan skyline dusk",
+  },
+  {
+    id: "savannah-ga-bonaventure-cemetery",
+    query: "Bonaventure Cemetery Savannah live oaks",
+    fallbackQuery: "Savannah cemetery Spanish moss oak avenue",
+  },
   // Removed 2026-08-07: Cathedral Rock, Airport Mesa, Fort Zachary Taylor,
   // Skyline Wilderness and the Conservatory Garden no longer exist in the
   // migrated catalog. Chasing an id nothing renders just burns rate limit.
@@ -69,14 +122,6 @@ const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> 
     // fallback no longer widens to "Carmel" — the widening is what let it drift.
     query: "Point Lobos State Natural Reserve China Cove",
     fallbackQuery: "Point Lobos State Reserve Monterey cypress cove",
-  },
-  {
-    id: "carmel-ca-carmel-beach",
-    // Rejected on review 2026-08-07: returned a lifeguard tower under flat
-    // overcast. Not wrong, just dead — and a site selling the last hour of
-    // light cannot illustrate it with a photograph that hasn't any.
-    query: "Carmel Beach California white sand sunset silhouette",
-    fallbackQuery: "Carmel by the Sea beach dusk cypress silhouette",
   },
   {
     id: "stateline-nv-sand-harbor-boulders",
