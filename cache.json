@@ -5369,6 +5369,456 @@
     "fetchedAt": "2026-08-07T07:52:04.048Z",
     "addedBy": "friendsmoon"
   },
+  "friendsmoon/destinations/boston-ma": {
+    "url": "https://images.unsplash.com/photo-1714321363628-d65f68f3e2f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of a city with tall buildings",
+    "photographerName": "Rackeem Borges",
+    "photographerUrl": "https://unsplash.com/@yrnkeem?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-tall-buildings-2ma-td2DqBg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts golden hour",
+    "fetchedAt": "2026-08-07T08:57:10.800Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/bozeman-mt": {
+    "url": "https://images.unsplash.com/photo-1608768557474-d4c5651d3230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTW9udGFuYSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown field near mountains under white clouds during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-field-near-mountains-under-white-clouds-during-daytime-cWFlYyJp2PE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman Montana golden hour",
+    "fetchedAt": "2026-08-07T08:57:12.174Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/branson-mo": {
+    "url": "https://images.unsplash.com/photo-1629551383145-cf05865104f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcmFuc29uJTIwTWlzc291cmklMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bridge over a body of water at sunset",
+    "photographerName": "Samantha Sheppard",
+    "photographerUrl": "https://unsplash.com/@samsheppardphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-body-of-water-at-sunset-YyUY9SUz-uA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Branson Missouri golden hour",
+    "fetchedAt": "2026-08-07T08:57:13.579Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/breckenridge-co": {
+    "url": "https://images.unsplash.com/photo-1610733254972-c72d9987d188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCcmVja2VucmlkZ2UlMjBDb2xvcmFkbyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzAzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green and brown trees near snow covered mountain during daytime",
+    "photographerName": "Joe Dudeck",
+    "photographerUrl": "https://unsplash.com/@joetography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-and-brown-trees-near-snow-covered-mountain-during-daytime-uHGkpd2iZ34?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Breckenridge Colorado golden hour",
+    "fetchedAt": "2026-08-07T08:57:15.074Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/burlington-vt": {
+    "url": "https://images.unsplash.com/photo-1665890759638-0feb402f77f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVmVybW9udCUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzAzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a landscape with trees and hills",
+    "photographerName": "Rafael Rodrigues",
+    "photographerUrl": "https://unsplash.com/@rafaelrodrigues?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-landscape-with-trees-and-hills-pxbp5gGPGdo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington Vermont golden hour",
+    "fetchedAt": "2026-08-07T08:57:16.735Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cabo-mx": {
+    "url": "https://images.unsplash.com/photo-1702593496618-68fa8af7b5e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYWJvJTIwU2FuJTIwTHVjYXMlMjBNZXhpY28lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of boats floating on top of a body of water",
+    "photographerName": "Carlos Gilbert",
+    "photographerUrl": "https://unsplash.com/@carlosgilbert01?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-body-of-water-vhSIW3JrEKM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cabo San Lucas Mexico golden hour",
+    "fetchedAt": "2026-08-07T08:57:18.555Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cancun-mx": {
+    "url": "https://images.unsplash.com/photo-1717597485982-802d013eb648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYW5jdW4lMjBNZXhpY28lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a beach with umbrellas and the ocean",
+    "photographerName": "Emmanuel Appiah",
+    "photographerUrl": "https://unsplash.com/@exappiah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-with-umbrellas-and-the-ocean-gHnCtpqx2z8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cancun Mexico golden hour",
+    "fetchedAt": "2026-08-07T08:57:19.989Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cannon-beach-or": {
+    "url": "https://images.unsplash.com/photo-1603232644162-5ac9e5f0f376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYW5ub24lMjBCZWFjaCUyME9yZWdvbiUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rock formation on sea during daytime",
+    "photographerName": "Karsten Winegeart",
+    "photographerUrl": "https://unsplash.com/@_karsten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-on-sea-during-daytime-cvhDKjpIm8c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cannon Beach Oregon golden hour",
+    "fetchedAt": "2026-08-07T08:57:21.419Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cape-cod-ma": {
+    "url": "https://images.unsplash.com/photo-1708458988303-0828184d091e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a path to the beach leading to the ocean",
+    "photographerName": "Alyssa Ruggieri",
+    "photographerUrl": "https://unsplash.com/@alyssar621?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-to-the-beach-leading-to-the-ocean-eJKsNzxZRM4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts golden hour",
+    "fetchedAt": "2026-08-07T08:57:22.868Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cape-may-nj": {
+    "url": "https://images.unsplash.com/photo-1568002870107-82ff0197417a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlJTIwTWF5JTIwTmV3JTIwSmVyc2V5JTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette photography of bird on seashore during golden houir",
+    "photographerName": "Ryan Stone",
+    "photographerUrl": "https://unsplash.com/@rstone_design?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-photography-of-bird-on-seashore-during-golden-houir-CM0Hdyrc2Vw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape May New Jersey golden hour",
+    "fetchedAt": "2026-08-07T08:57:24.369Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/carmel-ca": {
+    "url": "https://images.unsplash.com/photo-1598997466738-c50e17689fc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENhbGlmb3JuaWElMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water during sunset",
+    "photographerName": "Adam Dillon",
+    "photographerUrl": "https://unsplash.com/@theadamdillon?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-during-sunset-InLqYfJ5LAI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea California golden hour",
+    "fetchedAt": "2026-08-07T08:57:25.824Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cartagena-co": {
+    "url": "https://images.unsplash.com/photo-1583531352515-8884af319dc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJ0YWdlbmElMjBDb2xvbWJpYSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cars parked in front of green and white concrete building during daytime",
+    "photographerName": "Leandro Loureiro",
+    "photographerUrl": "https://unsplash.com/@lealoureiro?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-in-front-of-green-and-white-concrete-building-during-daytime-J0suKy48jfk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cartagena Colombia golden hour",
+    "fetchedAt": "2026-08-07T08:57:27.229Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/charleston-sc": {
+    "url": "https://images.unsplash.com/photo-1730728796775-a96019edcddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGFybGVzdG9uJTIwU291dGglMjBDYXJvbGluYSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "The sun is setting over the water at the beach",
+    "photographerName": "Samantha Fortney",
+    "photographerUrl": "https://unsplash.com/@goldencoastlife?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-the-water-at-the-beach-D8HhPRkTgr8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charleston South Carolina golden hour",
+    "fetchedAt": "2026-08-07T08:57:28.694Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/charlotte-nc": {
+    "url": "https://images.unsplash.com/photo-1698536944656-6ff6c9f70a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDaGFybG90dGUlMjBOb3J0aCUyMENhcm9saW5hJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city skyline with a clock tower in the foreground",
+    "photographerName": "Leiada Krözjhen",
+    "photographerUrl": "https://unsplash.com/@leiadakrozjhen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-with-a-clock-tower-in-the-foreground-PwfKb8OhgKw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charlotte North Carolina golden hour",
+    "fetchedAt": "2026-08-07T08:57:30.125Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/chattanooga-tn": {
+    "url": "https://images.unsplash.com/photo-1572998820276-9ed7fd388f12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGF0dGFub29nYSUyMFRlbm5lc3NlZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bridge on river",
+    "photographerName": "David Sager",
+    "photographerUrl": "https://unsplash.com/@dcsager?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/bridge-on-river-xS7Zyd0_qlQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chattanooga Tennessee golden hour",
+    "fetchedAt": "2026-08-07T08:57:31.495Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/chicago-il": {
+    "url": "https://images.unsplash.com/photo-1636753260398-c0ce9f1268fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSWxsaW5vaXMlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city at sunset from the top of a skyscraper",
+    "photographerName": "Raf Winterpacht",
+    "photographerUrl": "https://unsplash.com/@rwinterpacht?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-at-sunset-from-the-top-of-a-skyscraper-IJResNBbAnc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago Illinois golden hour",
+    "fetchedAt": "2026-08-07T08:57:32.889Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cincinnati-oh": {
+    "url": "https://images.unsplash.com/photo-1675635277032-d0d7fc088d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDaW5jaW5uYXRpJTIwT2hpbyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people standing outside of a building",
+    "photographerName": "We The Creators",
+    "photographerUrl": "https://unsplash.com/@wethecreators?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-outside-of-a-building-id7FModVnAI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cincinnati Ohio golden hour",
+    "fetchedAt": "2026-08-07T08:57:34.233Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cleveland-oh": {
+    "url": "https://images.unsplash.com/photo-1610300767236-da52b625326c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDbGV2ZWxhbmQlMjBPaGlvJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and blue concrete building under blue sky during daytime",
+    "photographerName": "DJ Johnson",
+    "photographerUrl": "https://unsplash.com/@dj_johns1?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-blue-concrete-building-under-blue-sky-during-daytime-4BqplixrUkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cleveland Ohio golden hour",
+    "fetchedAt": "2026-08-07T08:57:35.697Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cody-wy": {
+    "url": "https://images.unsplash.com/photo-1595131264251-63b7cf3b8564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near lake and snow covered mountain during daytime",
+    "photographerName": "Toan Chu",
+    "photographerUrl": "https://unsplash.com/@toanchu?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-lake-and-snow-covered-mountain-during-daytime-8dvphKlzJ40?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming golden hour",
+    "fetchedAt": "2026-08-07T08:57:37.293Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/coeur-dalene-id": {
+    "url": "https://images.unsplash.com/photo-1636708088322-292639806f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2V1ciUyMGQlMjdBbGVuZSUyMElkYWhvJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a lake surrounded by a forest with mountains in the background",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lake-surrounded-by-a-forest-with-mountains-in-the-background-9q3xFXz5jf8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Coeur d'Alene Idaho golden hour",
+    "fetchedAt": "2026-08-07T08:57:38.726Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/colorado-springs-co": {
+    "url": "https://images.unsplash.com/photo-1581552936330-f8eb487334e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2xvcmFkbyUyMFNwcmluZ3MlMjBDb2xvcmFkbyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and green mountains under white sky during daytime",
+    "photographerName": "Alexis Gethin",
+    "photographerUrl": "https://unsplash.com/@alexis_g?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-green-mountains-under-white-sky-during-daytime-bTC6U6peVkg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Colorado Springs Colorado golden hour",
+    "fetchedAt": "2026-08-07T08:57:40.137Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/columbia-sc": {
+    "url": "https://images.unsplash.com/photo-1663453601926-9dad02625e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2x1bWJpYSUyMFNvdXRoJTIwQ2Fyb2xpbmF8ZW58MXwwfHx8MTc4NjA5MzA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a bridge over a river",
+    "photographerName": "Kevin Dunlap",
+    "photographerUrl": "https://unsplash.com/@kevinadunlap?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-river--Hs_aBHqrm8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Columbia South Carolina",
+    "fetchedAt": "2026-08-07T08:57:42.925Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/columbus-oh": {
+    "url": "https://images.unsplash.com/photo-1568652455791-0977f57b3540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyME9oaW8lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "tall building lot under white clouds and blue sky during daytime",
+    "photographerName": "Ellie Brown",
+    "photographerUrl": "https://unsplash.com/@ellieb6635?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/tall-building-lot-under-white-clouds-and-blue-sky-during-daytime-6GzF4QsZFqE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Columbus Ohio golden hour",
+    "fetchedAt": "2026-08-07T08:57:44.359Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/cozumel-mx": {
+    "url": "https://images.unsplash.com/photo-1656792806940-0b4d4a100b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb3p1bWVsJTIwTWV4aWNvJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "boats in the water",
+    "photographerName": "Elesban Landero Berriozábal",
+    "photographerUrl": "https://unsplash.com/@tuxlan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/boats-in-the-water-ACQmpRYafPg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cozumel Mexico golden hour",
+    "fetchedAt": "2026-08-07T08:57:45.791Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/crested-butte-co": {
+    "url": "https://images.unsplash.com/photo-1554745614-f7deb36924b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDcmVzdGVkJTIwQnV0dGUlMjBDb2xvcmFkbyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass valley between brown hills",
+    "photographerName": "Reymark Franke",
+    "photographerUrl": "https://unsplash.com/@reymark_franke?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-valley-between-brown-hills-90BVtqyLY0Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Crested Butte Colorado golden hour",
+    "fetchedAt": "2026-08-07T08:57:47.256Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/dallas-tx": {
+    "url": "https://images.unsplash.com/photo-1625950019503-cae6a7825762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEYWxsYXMlMjBUZXhhcyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city skyline during night time",
+    "photographerName": "Max Fray",
+    "photographerUrl": "https://unsplash.com/@thmxfy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-V6CQgi7Pgdc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Dallas Texas golden hour",
+    "fetchedAt": "2026-08-07T08:57:48.719Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/denver-co": {
+    "url": "https://images.unsplash.com/photo-1637440114401-3f312ca0161f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDb2xvcmFkbyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large red brick building sitting on the corner of a street",
+    "photographerName": "Colin Lloyd",
+    "photographerUrl": "https://unsplash.com/@onthesearchforpineapples?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-red-brick-building-sitting-on-the-corner-of-a-street-B-hc4QAYxes?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver Colorado golden hour",
+    "fetchedAt": "2026-08-07T08:57:50.198Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/des-moines-ia": {
+    "url": "https://images.unsplash.com/photo-1679025027099-39bbd6cd168d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZXMlMjBNb2luZXMlMjBJb3dhJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a person holding a bouquet of flowers in their hands",
+    "photographerName": "Megan Ruth",
+    "photographerUrl": "https://unsplash.com/@meganruthphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-person-holding-a-bouquet-of-flowers-in-their-hands-tRLMQD8pLVY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Des Moines Iowa golden hour",
+    "fetchedAt": "2026-08-07T08:57:51.556Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/destin-fl": {
+    "url": "https://images.unsplash.com/photo-1708009241983-8ea0dc90c5d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGbG9yaWRhJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sandy beach with a light house in the distance",
+    "photographerName": "charliewarl",
+    "photographerUrl": "https://unsplash.com/@charliewarl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sandy-beach-with-a-light-house-in-the-distance-COSPlRqXOmM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin Florida golden hour",
+    "fetchedAt": "2026-08-07T08:57:53.061Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/detroit-mi": {
+    "url": "https://images.unsplash.com/photo-1568267938179-f50e67de5ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXRyb2l0JTIwTWljaGlnYW4lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cityscape at night",
+    "photographerName": "William Duggan",
+    "photographerUrl": "https://unsplash.com/@dugganw?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cityscape-at-night-1SmpGvlKq2U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Detroit Michigan golden hour",
+    "fetchedAt": "2026-08-07T08:57:54.419Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/door-county-wi": {
+    "url": "https://images.unsplash.com/photo-1630283922235-a97c7bef05f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwV2lzY29uc2luJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray tree trunk on gray sand near body of water during sunset",
+    "photographerName": "Dave Hoefler",
+    "photographerUrl": "https://unsplash.com/@iamthedave?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-tree-trunk-on-gray-sand-near-body-of-water-during-sunset-fw_8aPCdG_A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Door County Wisconsin golden hour",
+    "fetchedAt": "2026-08-07T08:57:55.930Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/duluth-mn": {
+    "url": "https://images.unsplash.com/photo-1576176286320-83c31e3dd63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEdWx1dGglMjBNaW5uZXNvdGElMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green-leafed trees",
+    "photographerName": "Eastman Childs",
+    "photographerUrl": "https://unsplash.com/@eternalseconds?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-leafed-trees-at2tShcjjxg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Duluth Minnesota golden hour",
+    "fetchedAt": "2026-08-07T08:57:57.364Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/durango-co": {
+    "url": "https://images.unsplash.com/photo-1605077473841-ae69db7d95ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEdXJhbmdvJTIwQ29sb3JhZG8lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden house near green grass field and mountain during daytime",
+    "photographerName": "Luciana Pucci",
+    "photographerUrl": "https://unsplash.com/@lupucci?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-house-near-green-grass-field-and-mountain-during-daytime-GunYFGIkhDY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Durango Colorado golden hour",
+    "fetchedAt": "2026-08-07T08:57:58.740Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/eugene-or": {
+    "url": "https://images.unsplash.com/photo-1601699233172-1bb3354b845b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPcmVnb24lMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown and green mountain beside body of water during daytime",
+    "photographerName": "Karsten Winegeart",
+    "photographerUrl": "https://unsplash.com/@_karsten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-and-green-mountain-beside-body-of-water-during-daytime-tWc5Cpl_Dvs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Eugene Oregon golden hour",
+    "fetchedAt": "2026-08-07T08:58:00.232Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/eureka-springs-ar": {
+    "url": "https://images.unsplash.com/photo-1657488503296-3ee980eb9e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxFdXJla2ElMjBTcHJpbmdzJTIwQXJrYW5zYXMlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city on a hill",
+    "photographerName": "Shelby Cohron",
+    "photographerUrl": "https://unsplash.com/@scohron?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-on-a-hill-Xd17NPd6shk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Eureka Springs Arkansas golden hour",
+    "fetchedAt": "2026-08-07T08:58:01.665Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/fargo-nd": {
+    "url": "https://images.unsplash.com/photo-1681422049306-4b384f35b694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGYXJnbyUyME5vcnRoJTIwRGFrb3RhJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "the sun shines through the clouds over a valley",
+    "photographerName": "Alex Moliski",
+    "photographerUrl": "https://unsplash.com/@alexmoliski?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-shines-through-the-clouds-over-a-valley-0yBU16_3yXI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fargo North Dakota golden hour",
+    "fetchedAt": "2026-08-07T08:58:03.025Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/finger-lakes-ny": {
+    "url": "https://images.unsplash.com/photo-1637638022309-f8873e8d3d39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a body of water with a city in the background",
+    "photographerName": "Jimmy Woo",
+    "photographerUrl": "https://unsplash.com/@woomantsing?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-a-city-in-the-background-clfN1dlxRIY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York golden hour",
+    "fetchedAt": "2026-08-07T08:58:04.533Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/flagstaff-az": {
+    "url": "https://images.unsplash.com/photo-1747938262465-4d10f152fe34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBcml6b25hJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A dirt road leads to a mountain beneath clouds.",
+    "photographerName": "Dianna Sarmiento",
+    "photographerUrl": "https://unsplash.com/@newlimitsphotography_llc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dirt-road-leads-to-a-mountain-beneath-clouds-f4XOuaf6BCc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff Arizona golden hour",
+    "fetchedAt": "2026-08-07T08:58:05.965Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/fort-lauderdale-fl": {
+    "url": "https://images.unsplash.com/photo-1585433341185-9e60b28ed0a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZsb3JpZGElMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwOTMwODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white wooden lifeguard house on beach during daytime",
+    "photographerName": "Estera",
+    "photographerUrl": "https://unsplash.com/@esteranicoi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-wooden-lifeguard-house-on-beach-during-daytime-fg1cPCm36jI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale Florida golden hour",
+    "fetchedAt": "2026-08-07T08:58:07.502Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/fort-worth-tx": {
+    "url": "https://images.unsplash.com/photo-1632452883889-8ba7094cae5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city from a distance",
+    "photographerName": "J. Amill Santiago",
+    "photographerUrl": "https://unsplash.com/@thetaikun?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-from-a-distance-Q_N-etBvHNY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas golden hour",
+    "fetchedAt": "2026-08-07T08:58:09.035Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/franklin-tn": {
+    "url": "https://images.unsplash.com/photo-1672268623833-8d51b75fe233?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGcmFua2xpbiUyMFRlbm5lc3NlZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "the sun is setting over a small town",
+    "photographerName": "Josh Withers",
+    "photographerUrl": "https://unsplash.com/@joshwithers?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-a-small-town-hFGj7dETb1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Franklin Tennessee golden hour",
+    "fetchedAt": "2026-08-07T08:58:10.470Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/fredericksburg-tx": {
+    "url": "https://images.unsplash.com/photo-1604705053169-4d4e622f1353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGcmVkZXJpY2tzYnVyZyUyMFRleGFzJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of trees and road during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-trees-and-road-during-daytime-NWSGBEDgCTc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fredericksburg Texas golden hour",
+    "fetchedAt": "2026-08-07T08:58:12.006Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/galena-il": {
+    "url": "https://images.unsplash.com/photo-1648877794682-c848b0064d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJbGxpbm9pc3xlbnwxfDB8fHwxNzg2MDkzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a street scene with a red tent in the middle of the street",
+    "photographerName": "Keren Roeglin",
+    "photographerUrl": "https://unsplash.com/@kerenroeglin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-street-scene-with-a-red-tent-in-the-middle-of-the-street-MuyDeO-JPTk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena Illinois",
+    "fetchedAt": "2026-08-07T08:58:14.835Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/galveston-tx": {
+    "url": "https://images.unsplash.com/photo-1638300163974-8e9ba222a245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYWx2ZXN0b24lMjBUZXhhcyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA5MzA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a pier with a roller coaster in the distance",
+    "photographerName": "Terren Hurst",
+    "photographerUrl": "https://unsplash.com/@terrenhurst?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-pier-with-a-roller-coaster-in-the-distance-vIFXbLM3hec?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galveston Texas golden hour",
+    "fetchedAt": "2026-08-07T08:58:16.513Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/gatlinburg-tn": {
+    "url": "https://images.unsplash.com/photo-1656039305829-283941979559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTIwVGVubmVzc2VlJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDkzMDk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a landscape with trees and mountains in the background",
+    "photographerName": "Steven Van Elk",
+    "photographerUrl": "https://unsplash.com/@stevenvanelk?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-landscape-with-trees-and-mountains-in-the-background-GEIhvyBe7SQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gatlinburg Tennessee golden hour",
+    "fetchedAt": "2026-08-07T08:58:18.182Z",
+    "addedBy": "friendsmoon"
+  },
   "friendsmoon/regions/international": {
     "url": "https://images.unsplash.com/photo-1761772437840-ebf2d814e9c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNZWRpdGVycmFuZWFuJTIwY29hc3RhbCUyMHRvd24lMjB0ZXJyYWNvdHRhJTIwcm9vZnRvcHN8ZW58MXwwfHx8MTc4NjA4MzE2NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Rooftops of a mediterranean town under clear blue sky.",
