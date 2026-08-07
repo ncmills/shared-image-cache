@@ -234,6 +234,15 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
    * the city is the entire point of going — that is the Santorini-class error,
    * and the only one in the hundred.
    *
+   * ── THE SYSTEMATIC CAUSE: "golden hour" ─────────────────────────────────
+   * Four destinations came back as PET PHOTOGRAPHY — a white cat for Memphis, a
+   * puppy for Omaha, a dog for Rehoboth Beach, a corgi for Sonoma. That is not
+   * four flukes: "golden hour" is a lighting term, and Unsplash is full of
+   * portrait and pet work shot in it. Pairing a small city name with a lighting
+   * term ranks a well-lit corgi above a poorly-lit vineyard. Every override
+   * below names a LANDMARK or a specific geography instead, and drops the
+   * lighting word entirely.
+   *
    * The rest returned somewhere real but unusable: a derelict concrete lot for
    * Ambergris Caye, a blurred figure for Iowa City, a near-blank sky for
    * Killington, a vintage car for Knoxville, an interior window for Cincinnati,
@@ -242,8 +251,12 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
    */
   const DEST_OVERRIDE: Record<string, { query: string; fallbackQuery: string }> = {
     "hamptons-ny": {
-      query: "Montauk Point Lighthouse Long Island",
-      fallbackQuery: "Hamptons Long Island shingled beach house dunes",
+      // NOT Montauk Point Lighthouse — `montauk-ny` already renders exactly
+      // that, and two destinations wearing the same landmark is its own kind of
+      // wrong. Shingle-style houses and dunes are the Hamptons and nowhere else
+      // on this list.
+      query: "Southampton New York shingled beach house dunes",
+      fallbackQuery: "Long Island Hamptons beach grass dunes houses",
     },
     "ambergris-caye-bz": {
       query: "Ambergris Caye Belize pier turquoise water",
@@ -272,6 +285,62 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
     "denver-co": {
       query: "Denver Colorado skyline Rocky Mountains",
       fallbackQuery: "Denver Colorado downtown union station",
+    },
+    "memphis-tn": {
+      query: "Beale Street Memphis Tennessee neon",
+      fallbackQuery: "Memphis Tennessee Mississippi River bridge downtown",
+    },
+    "omaha-ne": {
+      query: "Omaha Nebraska Old Market downtown",
+      fallbackQuery: "Omaha Nebraska skyline Missouri River",
+    },
+    "rehoboth-beach-de": {
+      query: "Rehoboth Beach Delaware boardwalk",
+      fallbackQuery: "Delaware coast boardwalk beach town",
+    },
+    "sonoma-ca": {
+      query: "Sonoma County vineyard rows hills",
+      fallbackQuery: "Sonoma California wine country vines",
+    },
+    "park-city-ut": {
+      query: "Park City Utah Main Street historic",
+      fallbackQuery: "Park City Utah Wasatch mountains town",
+    },
+    "sioux-falls-sd": {
+      query: "Sioux Falls South Dakota waterfall park",
+      fallbackQuery: "Sioux Falls South Dakota downtown river",
+    },
+    "shreveport-la": {
+      query: "Shreveport Louisiana riverfront downtown",
+      fallbackQuery: "Red River Louisiana bridge city",
+    },
+    "stowe-vt": {
+      query: "Stowe Vermont church autumn foliage",
+      fallbackQuery: "Vermont village white church fall colors",
+    },
+    "taos-nm": {
+      query: "Taos New Mexico adobe pueblo",
+      fallbackQuery: "Taos New Mexico Sangre de Cristo mountains adobe",
+    },
+    "st-augustine-fl": {
+      query: "St Augustine Florida Castillo de San Marcos",
+      fallbackQuery: "St Augustine Florida historic old town street",
+    },
+    "tempe-az": {
+      query: "Tempe Arizona Town Lake downtown",
+      fallbackQuery: "Tempe Arizona Hayden Butte desert city",
+    },
+    "prescott-az": {
+      query: "Prescott Arizona Whiskey Row courthouse",
+      fallbackQuery: "Prescott Arizona pine mountains town",
+    },
+    "santa-fe-nm": {
+      query: "Santa Fe New Mexico adobe plaza",
+      fallbackQuery: "Santa Fe New Mexico adobe architecture street",
+    },
+    "saratoga-springs-ny": {
+      query: "Saratoga Springs New York racetrack grandstand",
+      fallbackQuery: "Saratoga Springs New York Broadway victorian downtown",
     },
   };
 
