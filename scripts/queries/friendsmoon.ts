@@ -153,16 +153,51 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
     );
   }
 
+  // Two Atlas entries need a hand-written query. Reviewed on the contact sheet
+  // 2026-08-07: the templated `${city} ${state} ${scene}` put a generic
+  // palm-and-white-sand Caribbean beach on Key West (whose beaches are small,
+  // coral and nothing like it) and a large institutional building on the West
+  // Village (which is low-rise brownstones). Both landed in the right CITY,
+  // so neither is the Santorini-class error — but "somewhere in the right
+  // city" is a lower bar than this brand should clear on the 30 pages a human
+  // actually wrote. Named landmarks return the place itself.
+  const ATLAS_OVERRIDE: Record<string, { query: string; fallbackQuery: string }> = {
+    "key-west-conch-house-bikes-included-catamaran-at-sunset": {
+      query: "Key West Florida Duval Street conch houses",
+      fallbackQuery: "Key West Florida Mallory Square sunset",
+    },
+    "new-york-west-village-townhouse-and-a-broadway-night": {
+      query: "West Village New York brownstone tree-lined street",
+      fallbackQuery: "Greenwich Village New York townhouses autumn",
+    },
+  };
+
+  // An override keyed to a slug that does not exist is a silent no-op — it looks
+  // like a fix, changes nothing, and nothing ever says so. (The first draft of
+  // this table had exactly that: a guessed Key West slug ending "-afternoon"
+  // against a real one ending "-at-sunset".) Two lists that must agree get
+  // compared.
+  const slugs = new Set(trips.map((t) => t.slug));
+  for (const key of Object.keys(ATLAS_OVERRIDE)) {
+    if (!slugs.has(key)) {
+      throw new Error(
+        `friendsmoon: ATLAS_OVERRIDE key "${key}" matches no Atlas trip slug. ` +
+          `Fix the key — an override that never fires is worse than none.`,
+      );
+    }
+  }
+
   for (const t of trips) {
     // `destination` is "Asheville, NC" — the state code is useless to Unsplash
     // and actively harmful ("NC" matches nothing), so it is expanded.
     const [city, code] = t.destination.split(",").map((s) => s.trim());
     const stateName = STATE_NAMES[code] ?? code ?? "";
     const scene = CATEGORY_SCENE[t.category] ?? "golden hour";
+    const override = ATLAS_OVERRIDE[t.slug];
     queries.push({
       key: `friendsmoon/atlas/${t.slug}`,
-      query: `${city} ${stateName} ${scene}`,
-      fallbackQuery: `${city} ${stateName}`,
+      query: override?.query ?? `${city} ${stateName} ${scene}`,
+      fallbackQuery: override?.fallbackQuery ?? `${city} ${stateName}`,
       addedBy: "friendsmoon",
       label: `friendsmoon/atlas ${t.destination} (${t.category})`,
     });
