@@ -112,6 +112,9 @@ const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> 
  * under the hero headline "down to the light" contradicts the copy.
  */
 const DESTINATION_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> = [
+  // napa-valley-ca removed 2026-08-07: not a destinationId in the migrated
+  // catalog. Leaving it here meant any full-project fetch re-created the key,
+  // which then failed engagedmoon's deploy — a dead query is not inert.
   { id: "new-york-ny", query: "New York City skyline dusk golden hour", fallbackQuery: "Manhattan New York evening light" },
   // savannah-ga rejected on review 2026-08-07: returned a single Victorian
   // house under harsh midday sun. A city hero has to carry a city.
@@ -122,7 +125,6 @@ const DESTINATION_QUERIES: Array<{ id: string; query: string; fallbackQuery: str
   { id: "sedona-az", query: "Sedona Arizona red rocks golden hour", fallbackQuery: "Sedona Arizona desert buttes sunset" },
   { id: "asheville-nc", query: "Asheville North Carolina blue ridge mountains sunset", fallbackQuery: "Blue Ridge Mountains North Carolina layered ridges dusk" },
   { id: "jackson-hole-wy", query: "Jackson Hole Wyoming Teton range golden hour", fallbackQuery: "Grand Teton Wyoming mountains evening light" },
-  { id: "napa-valley-ca", query: "Napa Valley California vineyard golden hour", fallbackQuery: "Napa Valley vineyard rows sunset" },
   { id: "charleston-sc", query: "Charleston South Carolina harbor golden hour", fallbackQuery: "Charleston South Carolina historic street evening" },
 ];
 
