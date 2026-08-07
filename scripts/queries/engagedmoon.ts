@@ -16,6 +16,25 @@
  * because several spot names are administratively correct and photographically
  * useless — "Craggy Gardens, Blue Ridge Parkway MP 364" returns nothing, while
  * "Craggy Gardens Blue Ridge Parkway North Carolina" returns the ridgeline.
+ *
+ * ─────────────────────────────────────────────────────────────────────────────
+ * ⚠️ `id` MUST equal the spot's id in engagedmoon's catalog, and a rename there
+ * breaks every photograph on the site SILENTLY.
+ *
+ * This already happened once. On 2026-08-07 the catalog migrated into
+ * shared-data and every id gained a city prefix — `schwabacher-landing` became
+ * `jackson-hole-wy-schwabacher-landing`. All 13 keys orphaned at once, the
+ * lookup missed on every one, and the site rendered its designed gradient
+ * fallback everywhere. Nothing threw, no build failed, no test went red; the
+ * photographs simply stopped appearing. The ids below were remapped ONE BY ONE
+ * against the migrated catalog by matching the SUBJECT, never by string
+ * similarity — four (Cathedral Rock, Airport Mesa, Fort Zachary Taylor, Skyline
+ * Wilderness) had no successor and were deleted rather than reattached to a
+ * neighbour, because Sedona kept only Bell Rock and Key West only Fort
+ * Jefferson, which are different places.
+ *
+ * `npm run check:engagedmoon-keys` in the engagedmoon repo now fails the build
+ * on an orphaned key, so the next rename is loud.
  */
 
 import type { QueryItem } from "../../lib/types";
@@ -26,25 +45,21 @@ import type { QueryItem } from "../../lib/types";
  * mismatch renders a gap rather than throwing, so it fails silently.
  */
 const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> = [
+  // Removed 2026-08-07: Cathedral Rock, Airport Mesa, Fort Zachary Taylor,
+  // Skyline Wilderness and the Conservatory Garden no longer exist in the
+  // migrated catalog. Chasing an id nothing renders just burns rate limit.
   {
-    id: "central-park-conservatory-garden",
-    // Returned zero results on 2026-08-07 — the full formal name is too narrow
-    // for Unsplash's index. Both queries widened to the garden's own features.
-    query: "Central Park Conservatory Garden wisteria pergola",
-    fallbackQuery: "New York formal garden hedges fountain autumn",
-  },
-  {
-    id: "central-park-general",
+    id: "new-york-ny-central-park-bethesda-terrace",
     query: "Bethesda Terrace Central Park New York",
     fallbackQuery: "Bow Bridge Central Park New York",
   },
   {
-    id: "forsyth-park",
+    id: "savannah-ga-forsyth-park",
     query: "Forsyth Park fountain Savannah Georgia",
     fallbackQuery: "Savannah Georgia live oaks Spanish moss",
   },
   {
-    id: "point-lobos",
+    id: "carmel-ca-point-lobos",
     // Rejected on review 2026-08-07: the fallback "Carmel California rocky
     // coastline sunset" returned the LONE CYPRESS — a Pebble Beach landmark on
     // private 17-Mile Drive land, five miles from the state reserve. Beautiful,
@@ -56,7 +71,7 @@ const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> 
     fallbackQuery: "Point Lobos State Reserve Monterey cypress cove",
   },
   {
-    id: "carmel-beach",
+    id: "carmel-ca-carmel-beach",
     // Rejected on review 2026-08-07: returned a lifeguard tower under flat
     // overcast. Not wrong, just dead — and a site selling the last hour of
     // light cannot illustrate it with a photograph that hasn't any.
@@ -64,51 +79,27 @@ const SPOT_QUERIES: Array<{ id: string; query: string; fallbackQuery: string }> 
     fallbackQuery: "Carmel by the Sea beach dusk cypress silhouette",
   },
   {
-    id: "sand-harbor",
+    id: "stateline-nv-sand-harbor-boulders",
     query: "Sand Harbor Lake Tahoe Nevada boulders",
     fallbackQuery: "Lake Tahoe Nevada clear water rocks shoreline",
   },
   {
-    id: "emerald-bay",
+    id: "lake-tahoe-ca-emerald-bay",
     query: "Emerald Bay Lake Tahoe California overlook",
     fallbackQuery: "Lake Tahoe California overlook island sunset",
   },
   {
-    id: "fort-zachary-taylor",
-    query: "Fort Zachary Taylor Key West beach sunset",
-    fallbackQuery: "Key West Florida sunset palm beach",
-  },
-  {
-    id: "cathedral-rock",
-    query: "Cathedral Rock Sedona Arizona red rock sunset",
-    fallbackQuery: "Sedona Arizona red rock formation dusk",
-  },
-  {
-    id: "airport-mesa",
-    query: "Airport Mesa overlook Sedona Arizona sunset",
-    fallbackQuery: "Sedona Arizona canyon overlook golden hour",
-  },
-  {
-    id: "craggy-gardens",
+    id: "asheville-nc-craggy-gardens",
     query: "Craggy Gardens Blue Ridge Parkway North Carolina",
     fallbackQuery: "Blue Ridge Parkway North Carolina mountain ridge sunset",
   },
   {
-    id: "schwabacher-landing",
+    id: "jackson-hole-wy-schwabacher-landing",
     query: "Schwabacher Landing Grand Teton reflection",
     fallbackQuery: "Grand Teton National Park Wyoming river reflection sunrise",
   },
   {
-    id: "skyline-wilderness",
-    // Rejected on review 2026-08-07: returned a barn and a vineyard under
-    // midday cloud — generic California wine country, and this spot is an oak
-    // woodland around a small lake, rated privacy 5/5 precisely because it is
-    // NOT the vineyard everyone photographs. Queries now name the terrain.
-    query: "Napa California oak woodland lake golden hour",
-    fallbackQuery: "Northern California oak hills small lake sunset",
-  },
-  {
-    id: "waterfront-park-charleston",
+    id: "charleston-sc-waterfront-park-pineapple-fountain",
     query: "Waterfront Park Charleston South Carolina pineapple fountain",
     fallbackQuery: "Charleston South Carolina waterfront pier sunset",
   },

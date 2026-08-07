@@ -4729,16 +4729,6 @@
     "fetchedAt": "2026-08-07T04:34:04.765Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/destinations/napa-valley-ca": {
-    "url": "https://images.unsplash.com/photo-1662516607914-03177b7c92ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ2FsaWZvcm5pYSUyMHZpbmV5YXJkJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDc4ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "rows of grape vines in a vineyard",
-    "photographerName": "Rachel Del Rosso",
-    "photographerUrl": "https://unsplash.com/@rachel22406?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/rows-of-grape-vines-in-a-vineyard-GJdp0dOkZXc?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Napa Valley California vineyard golden hour",
-    "fetchedAt": "2026-08-07T05:01:05.015Z",
-    "addedBy": "engagedmoon"
-  },
   "engagedmoon/destinations/new-york-ny": {
     "url": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eSUyMHNreWxpbmUlMjBkdXNrJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDc3MjQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "panoramic photography of Brooklyn Bridge",
@@ -4759,67 +4749,7 @@
     "fetchedAt": "2026-08-07T05:00:57.883Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/destinations/sedona-az": {
-    "url": "https://images.unsplash.com/photo-1613574726650-d1ab2eea296a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBcml6b25hJTIwcmVkJTIwcm9ja3MlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwNzg4NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "brown rocky mountain under white sky during daytime",
-    "photographerName": "Andrew Ruiz",
-    "photographerUrl": "https://unsplash.com/@andrewruiz?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/brown-rocky-mountain-under-white-sky-during-daytime-T51okBef_QQ?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Sedona Arizona red rocks golden hour",
-    "fetchedAt": "2026-08-07T05:01:00.710Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/airport-mesa": {
-    "url": "https://images.unsplash.com/photo-1629398180739-9e0aba01676a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBaXJwb3J0JTIwTWVzYSUyMG92ZXJsb29rJTIwU2Vkb25hJTIwQXJpem9uYSUyMHN1bnNldHxlbnwxfDB8fHwxNzg2MDc3MjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "aerial view of city during daytime",
-    "photographerName": "Michelle Williams",
-    "photographerUrl": "https://unsplash.com/@agirlfromtx?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-during-daytime-PMHsJRsfBbw?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Airport Mesa overlook Sedona Arizona sunset",
-    "fetchedAt": "2026-08-07T04:33:51.777Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/carmel-beach": {
-    "url": "https://images.unsplash.com/photo-1591158617961-7fed1347dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXJtZWwlMjBCZWFjaCUyMENhbGlmb3JuaWElMjB3aGl0ZSUyMHNhbmQlMjBzdW5zZXQlMjBzaWxob3VldHRlfGVufDF8MHx8fDE3ODYwNzg4NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "woman in black dress walking on beach during sunset",
-    "photographerName": "Jordan Seott",
-    "photographerUrl": "https://unsplash.com/@jordanseott?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/woman-in-black-dress-walking-on-beach-during-sunset-0Ej2xS5CPYM?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Carmel Beach California white sand sunset silhouette",
-    "fetchedAt": "2026-08-07T05:00:53.737Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/cathedral-rock": {
-    "url": "https://images.unsplash.com/photo-1603928565262-faad75de5e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXRoZWRyYWwlMjBSb2NrJTIwU2Vkb25hJTIwQXJpem9uYSUyMHJlZCUyMHJvY2slMjBzdW5zZXR8ZW58MXwwfHx8MTc4NjA3NzIzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "brown rock formation under blue sky during daytime",
-    "photographerName": "Alex Bailey",
-    "photographerUrl": "https://unsplash.com/@abaileycaptures?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-under-blue-sky-during-daytime-jbQPZ-PI9rU?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Cathedral Rock Sedona Arizona red rock sunset",
-    "fetchedAt": "2026-08-07T04:33:50.346Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/central-park-conservatory-garden": {
-    "url": "https://images.unsplash.com/photo-1586383979827-ee9134dcb347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwZm9ybWFsJTIwZ2FyZGVuJTIwaGVkZ2VzJTIwZm91bnRhaW4lMjBhdXR1bW58ZW58MXwwfHx8MTc4NjA3ODg1MHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "green grass field with trees and mountain in distance",
-    "photographerName": "Jake Carter",
-    "photographerUrl": "https://unsplash.com/@jakejive?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-with-trees-and-mountain-in-distance-SpB2_9v__EQ?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "New York formal garden hedges fountain autumn",
-    "fetchedAt": "2026-08-07T05:00:50.781Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/central-park-general": {
-    "url": "https://images.unsplash.com/photo-1705782787292-b99af780cccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZXRoZXNkYSUyMFRlcnJhY2UlMjBDZW50cmFsJTIwUGFyayUyME5ldyUyMFlvcmt8ZW58MXwwfHx8MTc4NjA3NzIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a group of people standing around a fountain in a park",
-    "photographerName": "Richard Hedrick",
-    "photographerUrl": "https://unsplash.com/@fortuitousfoto?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-fountain-in-a-park-8YxxjT-u2Rs?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bethesda Terrace Central Park New York",
-    "fetchedAt": "2026-08-07T04:33:37.257Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/craggy-gardens": {
+  "engagedmoon/spots/asheville-nc-craggy-gardens": {
     "url": "https://images.unsplash.com/photo-1709732990687-e714c3f3f84d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbHVlJTIwUmlkZ2UlMjBQYXJrd2F5JTIwTm9ydGglMjBDYXJvbGluYSUyMG1vdW50YWluJTIwcmlkZ2UlMjBzdW5zZXR8ZW58MXwwfHx8MTc4NjA3NzIzNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a mountain range at sunset",
     "photographerName": "Miguel Ángel Sanz",
@@ -4829,37 +4759,17 @@
     "fetchedAt": "2026-08-07T04:33:54.617Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/emerald-bay": {
-    "url": "https://images.unsplash.com/photo-1597796608813-002d2de5123d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFbWVyYWxkJTIwQmF5JTIwTGFrZSUyMFRhaG9lJTIwQ2FsaWZvcm5pYSUyMG92ZXJsb29rfGVufDF8MHx8fDE3ODYwNzcyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "blue lake surrounded by green trees under blue sky during daytime",
-    "photographerName": "Philippe Gauthier",
-    "photographerUrl": "https://unsplash.com/@phil_gauthier?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/blue-lake-surrounded-by-green-trees-under-blue-sky-during-daytime-OZ2zHvJ1xI0?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Emerald Bay Lake Tahoe California overlook",
-    "fetchedAt": "2026-08-07T04:33:47.270Z",
+  "engagedmoon/spots/carmel-ca-carmel-beach": {
+    "url": "https://images.unsplash.com/photo-1591158617961-7fed1347dae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXJtZWwlMjBCZWFjaCUyMENhbGlmb3JuaWElMjB3aGl0ZSUyMHNhbmQlMjBzdW5zZXQlMjBzaWxob3VldHRlfGVufDF8MHx8fDE3ODYwNzg4NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "woman in black dress walking on beach during sunset",
+    "photographerName": "Jordan Seott",
+    "photographerUrl": "https://unsplash.com/@jordanseott?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/woman-in-black-dress-walking-on-beach-during-sunset-0Ej2xS5CPYM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel Beach California white sand sunset silhouette",
+    "fetchedAt": "2026-08-07T05:00:53.737Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/forsyth-park": {
-    "url": "https://images.unsplash.com/photo-1599666782476-691b0014fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3JzeXRoJTIwUGFyayUyMGZvdW50YWluJTIwU2F2YW5uYWglMjBHZW9yZ2lhfGVufDF8MHx8fDE3ODYwNzcyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "red flowers near white outdoor fountain during daytime",
-    "photographerName": "Philip Arambula",
-    "photographerUrl": "https://unsplash.com/@philiparambula?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/red-flowers-near-white-outdoor-fountain-during-daytime-2x6qazBP_r0?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Forsyth Park fountain Savannah Georgia",
-    "fetchedAt": "2026-08-07T04:33:38.730Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/fort-zachary-taylor": {
-    "url": "https://images.unsplash.com/photo-1531429957-9e7c26e39c84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwWmFjaGFyeSUyMFRheWxvciUyMEtleSUyMFdlc3QlMjBiZWFjaCUyMHN1bnNldHxlbnwxfDB8fHwxNzg2MDc3MjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "sailboat at sea near seashore",
-    "photographerName": "Jonathan Wheeler",
-    "photographerUrl": "https://unsplash.com/@jwheeler5759?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/sailboat-at-sea-near-seashore-TkGZFU2t9gc?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Fort Zachary Taylor Key West beach sunset",
-    "fetchedAt": "2026-08-07T04:33:48.934Z",
-    "addedBy": "engagedmoon"
-  },
-  "engagedmoon/spots/point-lobos": {
+  "engagedmoon/spots/carmel-ca-point-lobos": {
     "url": "https://images.unsplash.com/photo-1692813792915-d8c028bcfd32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb2ludCUyMExvYm9zJTIwU3RhdGUlMjBOYXR1cmFsJTIwUmVzZXJ2ZSUyMENoaW5hJTIwQ292ZXxlbnwxfDB8fHwxNzg2MDc4ODUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a body of water surrounded by trees and rocks",
     "photographerName": "Jesús Arzate",
@@ -4869,17 +4779,17 @@
     "fetchedAt": "2026-08-07T05:00:52.207Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/sand-harbor": {
-    "url": "https://images.unsplash.com/photo-1625230794930-b160b15dc564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW5kJTIwSGFyYm9yJTIwTGFrZSUyMFRhaG9lJTIwTmV2YWRhJTIwYm91bGRlcnN8ZW58MXwwfHx8MTc4NjA3NzIyNXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "gray rocks near body of water during daytime",
-    "photographerName": "Sophia Simoes",
-    "photographerUrl": "https://unsplash.com/@sophiasimoes?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/gray-rocks-near-body-of-water-during-daytime-DZej7dt53z4?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Sand Harbor Lake Tahoe Nevada boulders",
-    "fetchedAt": "2026-08-07T04:33:45.793Z",
+  "engagedmoon/spots/charleston-sc-waterfront-park-pineapple-fountain": {
+    "url": "https://images.unsplash.com/photo-1601237089652-48cf3d839139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXYXRlcmZyb250JTIwUGFyayUyMENoYXJsZXN0b24lMjBTb3V0aCUyMENhcm9saW5hJTIwcGluZWFwcGxlJTIwZm91bnRhaW58ZW58MXwwfHx8MTc4NjA3NzIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "water fountain in front of white building",
+    "photographerName": "Emmy Gaddy",
+    "photographerUrl": "https://unsplash.com/@emmygaddy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/water-fountain-in-front-of-white-building-bXck1OXDvYo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Waterfront Park Charleston South Carolina pineapple fountain",
+    "fetchedAt": "2026-08-07T04:33:58.994Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/schwabacher-landing": {
+  "engagedmoon/spots/jackson-hole-wy-schwabacher-landing": {
     "url": "https://images.unsplash.com/photo-1625781867670-4e46bb53b339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTY2h3YWJhY2hlciUyMExhbmRpbmclMjBHcmFuZCUyMFRldG9uJTIwcmVmbGVjdGlvbnxlbnwxfDB8fHwxNzg2MDc3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green pine trees near lake under blue sky during daytime",
     "photographerName": "Veronica Lorine",
@@ -4889,25 +4799,355 @@
     "fetchedAt": "2026-08-07T04:33:56.075Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/skyline-wilderness": {
-    "url": "https://images.unsplash.com/photo-1782943617591-b4111ee1620a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ2FsaWZvcm5pYSUyMG9hayUyMHdvb2RsYW5kJTIwbGFrZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA3ODg1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "Golden sunrise illuminates rolling hills and trees.",
-    "photographerName": "Jen Finney",
-    "photographerUrl": "https://unsplash.com/@jenfinney1?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/golden-sunrise-illuminates-rolling-hills-and-trees-TmTKmK4VFyQ?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Napa California oak woodland lake golden hour",
-    "fetchedAt": "2026-08-07T05:00:55.090Z",
+  "engagedmoon/spots/lake-tahoe-ca-emerald-bay": {
+    "url": "https://images.unsplash.com/photo-1597796608813-002d2de5123d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFbWVyYWxkJTIwQmF5JTIwTGFrZSUyMFRhaG9lJTIwQ2FsaWZvcm5pYSUyMG92ZXJsb29rfGVufDF8MHx8fDE3ODYwNzcyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "blue lake surrounded by green trees under blue sky during daytime",
+    "photographerName": "Philippe Gauthier",
+    "photographerUrl": "https://unsplash.com/@phil_gauthier?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/blue-lake-surrounded-by-green-trees-under-blue-sky-during-daytime-OZ2zHvJ1xI0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Emerald Bay Lake Tahoe California overlook",
+    "fetchedAt": "2026-08-07T04:33:47.270Z",
     "addedBy": "engagedmoon"
   },
-  "engagedmoon/spots/waterfront-park-charleston": {
-    "url": "https://images.unsplash.com/photo-1601237089652-48cf3d839139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXYXRlcmZyb250JTIwUGFyayUyMENoYXJsZXN0b24lMjBTb3V0aCUyMENhcm9saW5hJTIwcGluZWFwcGxlJTIwZm91bnRhaW58ZW58MXwwfHx8MTc4NjA3NzIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "water fountain in front of white building",
-    "photographerName": "Emmy Gaddy",
-    "photographerUrl": "https://unsplash.com/@emmygaddy?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/water-fountain-in-front-of-white-building-bXck1OXDvYo?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Waterfront Park Charleston South Carolina pineapple fountain",
-    "fetchedAt": "2026-08-07T04:33:58.994Z",
+  "engagedmoon/spots/new-york-ny-central-park-bethesda-terrace": {
+    "url": "https://images.unsplash.com/photo-1705782787292-b99af780cccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZXRoZXNkYSUyMFRlcnJhY2UlMjBDZW50cmFsJTIwUGFyayUyME5ldyUyMFlvcmt8ZW58MXwwfHx8MTc4NjA3NzIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people standing around a fountain in a park",
+    "photographerName": "Richard Hedrick",
+    "photographerUrl": "https://unsplash.com/@fortuitousfoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-fountain-in-a-park-8YxxjT-u2Rs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bethesda Terrace Central Park New York",
+    "fetchedAt": "2026-08-07T04:33:37.257Z",
     "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/savannah-ga-forsyth-park": {
+    "url": "https://images.unsplash.com/photo-1599666782476-691b0014fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3JzeXRoJTIwUGFyayUyMGZvdW50YWluJTIwU2F2YW5uYWglMjBHZW9yZ2lhfGVufDF8MHx8fDE3ODYwNzcyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red flowers near white outdoor fountain during daytime",
+    "photographerName": "Philip Arambula",
+    "photographerUrl": "https://unsplash.com/@philiparambula?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-flowers-near-white-outdoor-fountain-during-daytime-2x6qazBP_r0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Forsyth Park fountain Savannah Georgia",
+    "fetchedAt": "2026-08-07T04:33:38.730Z",
+    "addedBy": "engagedmoon"
+  },
+  "engagedmoon/spots/stateline-nv-sand-harbor-boulders": {
+    "url": "https://images.unsplash.com/photo-1625230794930-b160b15dc564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW5kJTIwSGFyYm9yJTIwTGFrZSUyMFRhaG9lJTIwTmV2YWRhJTIwYm91bGRlcnN8ZW58MXwwfHx8MTc4NjA3NzIyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray rocks near body of water during daytime",
+    "photographerName": "Sophia Simoes",
+    "photographerUrl": "https://unsplash.com/@sophiasimoes?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-rocks-near-body-of-water-during-daytime-DZej7dt53z4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sand Harbor Lake Tahoe Nevada boulders",
+    "fetchedAt": "2026-08-07T04:33:45.793Z",
+    "addedBy": "engagedmoon"
+  },
+  "friendsmoon/atlas/asheville-fourteen-beds-and-a-biltmore-afternoon": {
+    "url": "https://images.unsplash.com/photo-1762528095425-eb2eb75ebc95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOb3J0aCUyMENhcm9saW5hJTIwbW91bnRhaW5zJTIwYXV0dW1uJTIwcmlkZ2V8ZW58MXwwfHx8MTc4NjA4MzA4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Layered mountain ranges under a cloudy sky",
+    "photographerName": "Trevor Neely",
+    "photographerUrl": "https://unsplash.com/@trevorneely?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/layered-mountain-ranges-under-a-cloudy-sky-pRfEB3UbDcg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville North Carolina mountains autumn ridge",
+    "fetchedAt": "2026-08-07T06:11:28.175Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/atlanta-midtown-house-beltline-and-one-long-dinner": {
+    "url": "https://images.unsplash.com/photo-1575917649705-5b59aaa12e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR2VvcmdpYSUyMGhpc3RvcmljJTIwZGlzdHJpY3QlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODMxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "grey high-rise building during daytime",
+    "photographerName": "Brad Huchteman",
+    "photographerUrl": "https://unsplash.com/@brxdlxy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/grey-high-rise-building-during-daytime-sR1Kz2auNJE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlanta Georgia historic district golden hour",
+    "fetchedAt": "2026-08-07T06:12:18.088Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/bozeman-ranch-house-and-one-day-in-yellowstone": {
+    "url": "https://images.unsplash.com/photo-1608768557474-d4c5651d3230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTW9udGFuYXxlbnwxfDB8fHwxNzg2MDgzMDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown field near mountains under white clouds during daytime",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-field-near-mountains-under-white-clouds-during-daytime-cWFlYyJp2PE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman Montana",
+    "fetchedAt": "2026-08-07T06:11:31.802Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/cape-cod-wellfleet-house-oyster-farm-and-provincetown": {
+    "url": "https://images.unsplash.com/photo-1708458988303-0828184d091e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMGNvYXN0bGluZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4MzE1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a path to the beach leading to the ocean",
+    "photographerName": "Alyssa Ruggieri",
+    "photographerUrl": "https://unsplash.com/@alyssar621?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-to-the-beach-leading-to-the-ocean-eJKsNzxZRM4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts coastline golden hour",
+    "fetchedAt": "2026-08-07T06:12:35.942Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/chicago-wrigleyville-house-river-cruise-and-the-west-loop": {
+    "url": "https://images.unsplash.com/photo-1636753260398-c0ce9f1268fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSWxsaW5vaXMlMjBoaXN0b3JpYyUyMGRpc3RyaWN0JTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDgzMTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city at sunset from the top of a skyscraper",
+    "photographerName": "Raf Winterpacht",
+    "photographerUrl": "https://unsplash.com/@rwinterpacht?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-at-sunset-from-the-top-of-a-skyscraper-IJResNBbAnc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Chicago Illinois historic district golden hour",
+    "fetchedAt": "2026-08-07T06:11:50.754Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/denver-highland-rooftop-deck-and-a-red-rocks-sunrise": {
+    "url": "https://images.unsplash.com/photo-1709689702529-6fa1f343e108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZW52ZXIlMjBDb2xvcmFkb3xlbnwxfDB8fHwxNzg2MDgzMTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "the sun is setting over a large city",
+    "photographerName": "Nils Huenerfuerst",
+    "photographerUrl": "https://unsplash.com/@nhuenerfuerst?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-a-large-city-OVE2SA0TVJE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Denver Colorado",
+    "fetchedAt": "2026-08-07T06:11:54.989Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/destin-30a-beach-house-sunset-charter-and-seaside": {
+    "url": "https://images.unsplash.com/photo-1616984366240-479bd31d60ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGbG9yaWRhfGVufDF8MHx8fDE3ODYwODMxMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of boats on sea shore during daytime",
+    "photographerName": "Tamara Malaniy",
+    "photographerUrl": "https://unsplash.com/@tamarushphotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-boats-on-sea-shore-during-daytime-Wo1Tvu3LQ1Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin Florida",
+    "fetchedAt": "2026-08-07T06:11:42.495Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/finger-lakes-seneca-dock-wine-day-and-the-gorge": {
+    "url": "https://images.unsplash.com/photo-1629953888049-3fe4a81b2769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjB2aW5leWFyZCUyMHJvd3MlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODMxNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field with trees",
+    "photographerName": "Luke Hodde",
+    "photographerUrl": "https://unsplash.com/@lukehodde?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-with-trees-M-l-Y4R7hRk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York vineyard rows golden hour",
+    "fetchedAt": "2026-08-07T06:12:34.410Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/gatlinburg-one-cabin-sixteen-and-the-smokies": {
+    "url": "https://images.unsplash.com/photo-1651773992686-c2ca957bda93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHYXRsaW5idXJnJTIwVGVubmVzc2VlJTIwbW91bnRhaW5zJTIwYXV0dW1uJTIwcmlkZ2V8ZW58MXwwfHx8MTc4NjA4MzE0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large green field with mountains in the background",
+    "photographerName": "Aaron Clinard",
+    "photographerUrl": "https://unsplash.com/@aaronclinard?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-green-field-with-mountains-in-the-background-mCjYaYvagmo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gatlinburg Tennessee mountains autumn ridge",
+    "fetchedAt": "2026-08-07T06:12:26.982Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/hilton-head-house-with-a-pool-and-a-dolphin-sunset": {
+    "url": "https://images.unsplash.com/photo-1748821454217-37110c80ac11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU291dGglMjBDYXJvbGluYXxlbnwxfDB8fHwxNzg2MDgzMTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A lighthouse tops a harbor-side building.",
+    "photographerName": "Ken Bitar",
+    "photographerUrl": "https://unsplash.com/@kbdroneservices?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lighthouse-tops-a-harbor-side-building-qTYn528bvT8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hilton Head South Carolina",
+    "fetchedAt": "2026-08-07T06:11:45.939Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/jackson-hole-slope-side-house-and-the-snake-river": {
+    "url": "https://images.unsplash.com/photo-1612981453053-184fd648b66b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxKYWNrc29uJTIwSG9sZSUyMFd5b21pbmd8ZW58MXwwfHx8MTc4NjA4MzEyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green pine trees near lake during daytime",
+    "photographerName": "Cora Leach",
+    "photographerUrl": "https://unsplash.com/@coramaureen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-pine-trees-near-lake-during-daytime-p0jz4pmnl9E?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jackson Hole Wyoming",
+    "fetchedAt": "2026-08-07T06:12:01.901Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/key-west-conch-house-bikes-included-catamaran-at-sunset": {
+    "url": "https://images.unsplash.com/photo-1696175204668-63d770ef0b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRmxvcmlkYXxlbnwxfDB8fHwxNzg2MDgzMTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of surfboards sitting on top of a sandy beach",
+    "photographerName": "Thomas Besseling",
+    "photographerUrl": "https://unsplash.com/@thomasbesseling?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-surfboards-sitting-on-top-of-a-sandy-beach-msLbwl2vm4k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West Florida",
+    "fetchedAt": "2026-08-07T06:12:12.124Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/lake-geneva-lakefront-dock-cruise-and-supper-club": {
+    "url": "https://images.unsplash.com/photo-1690084516271-fb167a474e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWtlJTIwR2VuZXZhJTIwV2lzY29uc2luJTIwbGFrZSUyMGRvY2slMjBzdW1tZXIlMjBldmVuaW5nfGVufDF8MHx8fDE3ODYwODMxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a dock on a lake with trees in the background",
+    "photographerName": "Vincent Y @USA",
+    "photographerUrl": "https://unsplash.com/@vincentyuan87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dock-on-a-lake-with-trees-in-the-background-SOTD91_mT-k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Geneva Wisconsin lake dock summer evening",
+    "fetchedAt": "2026-08-07T06:12:37.407Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/lake-of-the-ozarks-sixteen-beds-one-dock": {
+    "url": "https://images.unsplash.com/photo-1590193673229-108541b5ba67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYWtlJTIwb2YlMjB0aGUlMjBPemFya3MlMjBNaXNzb3VyaXxlbnwxfDB8fHwxNzg2MDgzMTQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "person in red shirt and black pants standing on white sand near body of water during",
+    "photographerName": "Sikes Photos",
+    "photographerUrl": "https://unsplash.com/@sikesphotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-in-red-shirt-and-black-pants-standing-on-white-sand-near-body-of-water-during-CpKYhh1BWYw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake of the Ozarks Missouri",
+    "fetchedAt": "2026-08-07T06:12:21.001Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/los-angeles-hills-house-pool-day-and-nobu-malibu": {
+    "url": "https://images.unsplash.com/flagged/photo-1575555201693-7cd442b8023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwQ2FsaWZvcm5pYXxlbnwxfDB8fHwxNzg2MDgzMTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green palm tree and city view",
+    "photographerName": "Cedric Letsch",
+    "photographerUrl": "https://unsplash.com/@cedricletsch?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-palm-tree-and-city-view-UZVlSjrIJ3o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Los Angeles California",
+    "fetchedAt": "2026-08-07T06:11:48.930Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/memphis-beale-street-porch-and-sun-studio": {
+    "url": "https://images.unsplash.com/photo-1543372742-e08542e25f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNZW1waGlzJTIwVGVubmVzc2VlfGVufDF8MHx8fDE3ODYwODMxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking in middle of road in between establishments at night time",
+    "photographerName": "Pretty Pink",
+    "photographerUrl": "https://unsplash.com/@infinitexplorer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-in-middle-of-road-in-between-establishments-at-night-time-0rno_BuGoq8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Memphis Tennessee",
+    "fetchedAt": "2026-08-07T06:12:29.911Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/myrtle-beach-house-with-a-pool-and-a-boat-at-sunset": {
+    "url": "https://images.unsplash.com/photo-1617858796322-f1bd0c9f011d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNvdXRoJTIwQ2Fyb2xpbmElMjBjb2FzdGxpbmUlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking on beach during daytime",
+    "photographerName": "Colin Lloyd",
+    "photographerUrl": "https://unsplash.com/@onthesearchforpineapples?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-on-beach-during-daytime-4FihLAwChPg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach South Carolina coastline golden hour",
+    "fetchedAt": "2026-08-07T06:12:03.456Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/napa-valley-sixteen-beds-and-a-balloon-at-dawn": {
+    "url": "https://images.unsplash.com/photo-1627935563301-3ab81beb385f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ2FsaWZvcm5pYXxlbnwxfDB8fHwxNzg2MDgzMTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white flowers on green grass field during daytime",
+    "photographerName": "Ugi K.",
+    "photographerUrl": "https://unsplash.com/@wizzyfx?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-flowers-on-green-grass-field-during-daytime-eSl_QHc_hFo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley California",
+    "fetchedAt": "2026-08-07T06:11:58.876Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/new-york-west-village-townhouse-and-a-broadway-night": {
+    "url": "https://images.unsplash.com/photo-1769702936920-4b2d6233d273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwTmV3JTIwWW9yayUyMGhpc3RvcmljJTIwZGlzdHJpY3QlMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODMwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Ornate buildings line a city street with street signs.",
+    "photographerName": "Ayman Akil",
+    "photographerUrl": "https://unsplash.com/@vymvnv?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/ornate-buildings-line-a-city-street-with-street-signs-N8IHBN9uWew?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New York New York historic district golden hour",
+    "fetchedAt": "2026-08-07T06:11:33.678Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/oklahoma-city-plaza-district-house-and-stockyards-steak": {
+    "url": "https://images.unsplash.com/photo-1509910513818-4d13fdaf89c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxPa2xhaG9tYSUyMENpdHklMjBPa2xhaG9tYXxlbnwxfDB8fHwxNzg2MDgzMTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "eagle eye view time lapse city and streets",
+    "photographerName": "Gerson Repreza",
+    "photographerUrl": "https://unsplash.com/@gersonrepreza?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/eagle-eye-view-time-lapse-city-and-streets-OSNZjXCF5VE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Oklahoma City Oklahoma",
+    "fetchedAt": "2026-08-07T06:12:23.814Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/outer-banks-twenty-beds-and-a-charter-that-takes-eight": {
+    "url": "https://images.unsplash.com/photo-1626105962135-b29dd5474d1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPdXRlciUyMEJhbmtzJTIwTm9ydGglMjBDYXJvbGluYSUyMGNvYXN0bGluZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4MzEzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "sea waves crashing on shore during daytime",
+    "photographerName": "Jason Pischke",
+    "photographerUrl": "https://unsplash.com/@jrpischke?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/sea-waves-crashing-on-shore-during-daytime-1xAy-Yqhffk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Outer Banks North Carolina coastline golden hour",
+    "fetchedAt": "2026-08-07T06:12:13.540Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/park-city-deer-valley-chalet-ski-day-and-whiskey": {
+    "url": "https://images.unsplash.com/photo-1592428067555-fbaaa69df4b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMFV0YWh8ZW58MXwwfHx8MTc4NjA4MzA5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white wooden bridge over snow covered mountain during daytime",
+    "photographerName": "Benjamin R.",
+    "photographerUrl": "https://unsplash.com/@dapperprofessional?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-wooden-bridge-over-snow-covered-mountain-during-daytime-YAEbroWeHCM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Park City Utah",
+    "fetchedAt": "2026-08-07T06:11:37.886Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/portland-craftsman-house-pottery-wheel-and-a-long-dinner": {
+    "url": "https://images.unsplash.com/photo-1635209896150-ef275dbd52a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9yZWdvbnxlbnwxfDB8fHwxNzg2MDgzMTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large neon sign on top of a building",
+    "photographerName": "Justin Shen",
+    "photographerUrl": "https://unsplash.com/@shenny_visuals?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-neon-sign-on-top-of-a-building-k0VeQ6sXHGg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland Oregon",
+    "fetchedAt": "2026-08-07T06:12:06.082Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/portland-maine-old-port-twelve-oysters-and-casco-bay": {
+    "url": "https://images.unsplash.com/photo-1582488719899-a2a54cb479fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME1haW5lJTIwY29hc3RsaW5lJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDgzMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and brown concrete house beside sea under blue sky during daytime",
+    "photographerName": "Michael Denning",
+    "photographerUrl": "https://unsplash.com/@coffeeguy77?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-brown-concrete-house-beside-sea-under-blue-sky-during-daytime-LXomcUwf4vQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland Maine coastline golden hour",
+    "fetchedAt": "2026-08-07T06:12:25.243Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/salt-lake-city-park-city-house-powder-and-salt-flats": {
+    "url": "https://images.unsplash.com/photo-1621603933126-6c216db10045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYWx0JTIwTGFrZSUyMENpdHklMjBVdGFofGVufDF8MHx8fDE3ODYwODMxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city skyline across green mountain during daytime",
+    "photographerName": "Brent Pace",
+    "photographerUrl": "https://unsplash.com/@aloyisius65?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-across-green-mountain-during-daytime-iGpIf75390Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Salt Lake City Utah",
+    "fetchedAt": "2026-08-07T06:12:32.849Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/san-diego-pacific-beach-house-sea-caves-and-a-sunset-sail": {
+    "url": "https://images.unsplash.com/photo-1760773767342-7d981cc2350b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENhbGlmb3JuaWElMjBjb3VudHJ5c2lkZSUyMGVzdGF0ZSUyMGhvdXNlJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDgzMDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Palm trees line a street at sunset.",
+    "photographerName": "Kevin Schmid",
+    "photographerUrl": "https://unsplash.com/@lighttouchedphotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/palm-trees-line-a-street-at-sunset-1OBMU3mLNUo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Diego California countryside estate house golden hour",
+    "fetchedAt": "2026-08-07T06:11:39.474Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/san-juan-colonial-house-with-a-roof-and-a-glowing-bay": {
+    "url": "https://images.unsplash.com/photo-1707686094283-5ff3b6536dda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBKdWFuJTIwUFIlMjBpc2xhbmQlMjBoYXJib3VyJTIwYm9hdHN8ZW58MXwwfHx8MTc4NjA4MzEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of boats floating on top of a body of water",
+    "photographerName": "Long Ma",
+    "photographerUrl": "https://unsplash.com/@longmaspirit?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-body-of-water-QzOqXuMFa4s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Juan PR island harbour boats",
+    "fetchedAt": "2026-08-07T06:12:15.125Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/santa-barbara-montecito-house-and-a-walkable-wine-day": {
+    "url": "https://images.unsplash.com/photo-1704145294791-773ba63eab07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDYWxpZm9ybmlhJTIwY29hc3RsaW5lJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDgzMTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a beach and mountains",
+    "photographerName": "Steve Gribble",
+    "photographerUrl": "https://unsplash.com/@steve_g_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara California coastline golden hour",
+    "fetchedAt": "2026-08-07T06:12:09.250Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/sedona-red-rock-house-horses-and-a-waitlist-dinner": {
+    "url": "https://images.unsplash.com/photo-1718406922369-50ac826bab33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBcml6b25hJTIwZGVzZXJ0JTIwbGFuZHNjYXBlJTIwZHVza3xlbnwxfDB8fHwxNzg2MDgzMTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "the sun shines through the trees in the mountains",
+    "photographerName": "Vlad D",
+    "photographerUrl": "https://unsplash.com/@hiking_corgi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-sun-shines-through-the-trees-in-the-mountains-mdsH0k7uoQk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona Arizona desert landscape dusk",
+    "fetchedAt": "2026-08-07T06:12:07.786Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/washington-dc-shaw-row-house-and-the-mall-at-golden-hour": {
+    "url": "https://images.unsplash.com/photo-1569328922596-4c04460c91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwREMlMjBoaXN0b3JpYyUyMGRpc3RyaWN0JTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDgzMTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people biking on road and different vehicles viewing United States Capitol during daytime screenshot",
+    "photographerName": "Andy Feliciotti",
+    "photographerUrl": "https://unsplash.com/@someguy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-biking-on-road-and-different-vehicles-viewing-united-states-capitol-during-daytime-screenshot-isg8AL7-6uk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington DC historic district golden hour",
+    "fetchedAt": "2026-08-07T06:12:16.643Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/site/hero": {
+    "url": "https://images.unsplash.com/photo-1604535302091-88c788c5bff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxsYXJnZSUyMGJlYWNoJTIwaG91c2UlMjBwb3JjaCUyMGdvbGRlbiUyMGhvdXIlMjBzdW1tZXJ8ZW58MXwwfHx8MTc4NjA4MzA4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "two brown wooden armchairs on brown wooden deck during daytime",
+    "photographerName": "Peng Chen",
+    "photographerUrl": "https://unsplash.com/@austincppc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-brown-wooden-armchairs-on-brown-wooden-deck-during-daytime-dyPsip8hnn4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "large beach house porch golden hour summer",
+    "fetchedAt": "2026-08-07T06:11:26.394Z",
+    "addedBy": "friendsmoon"
   },
   "moh/cities/asheville-nc": {
     "url": "https://images.unsplash.com/photo-1676934556859-624fa21e2588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMENhcm9saW5hJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
