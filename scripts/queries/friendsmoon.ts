@@ -120,13 +120,24 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
   const queries: QueryItem[] = [];
 
   // ── 1. The site hero ─────────────────────────────────────────────────────
-  // The one image on the site that is not a specific place. It still is not a
-  // staged group: it is a table already eaten from, which says "everyone is
-  // still here" without casting anybody.
+  // The one image on the site that is not a specific place.
+  //
+  // REJECTED ON REVIEW 2026-08-07: "long wooden table outdoor dinner string
+  // lights evening" returned a deserted municipal picnic shelter at night — bare
+  // bulb, empty benches, a trash can in the foreground. A public park after
+  // everyone went home, on the site whose entire proposition is that nobody
+  // wants to go home yet. The query read fine, the fetch returned 200 and the
+  // label ("tables illuminated at night") was plausible; only looking at the
+  // pixels at the production crop caught it.
+  //
+  // The replacement asks for the HOUSE at golden hour, which is both the thing
+  // this product actually finds you and a subject that cannot come back empty
+  // and institutional. "evening" and "night" are out of both queries — they are
+  // what pulled the first one into the dark.
   queries.push({
     key: "friendsmoon/site/hero",
-    query: "long wooden table outdoor dinner string lights evening",
-    fallbackQuery: "farmhouse table candles evening terrace",
+    query: "large beach house porch golden hour summer",
+    fallbackQuery: "coastal cottage deck sunset warm light",
     addedBy: "friendsmoon",
     label: "friendsmoon/site hero",
   });
