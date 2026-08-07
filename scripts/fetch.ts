@@ -32,6 +32,7 @@ import { getTdfQueries } from "./queries/tdf";
 import { getOffsiteQueries } from "./queries/offsite";
 import { getBestmanQueries } from "./queries/bestman";
 import { getMohQueries } from "./queries/moh";
+import { getEngagedmoonQueries } from "./queries/engagedmoon";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
@@ -162,6 +163,9 @@ async function main() {
   }
   if (!args.project || args.project === "offsite") {
     allQueries.push(...(await getOffsiteQueries()));
+  }
+  if (!args.project || args.project === "engagedmoon") {
+    allQueries.push(...(await getEngagedmoonQueries()));
   }
 
   // Filter out already-cached entries
