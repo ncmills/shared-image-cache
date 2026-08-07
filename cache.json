@@ -4949,6 +4949,16 @@
     "fetchedAt": "2026-08-07T06:12:01.901Z",
     "addedBy": "friendsmoon"
   },
+  "friendsmoon/atlas/key-west-conch-house-bikes-included-catamaran-at-sunset": {
+    "url": "https://images.unsplash.com/photo-1689185690287-5218d1026404?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRmxvcmlkYSUyME1hbGxvcnklMjBTcXVhcmUlMjBzdW5zZXR8ZW58MXwwfHx8MTc4NjA4OTEwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sailboat in the ocean with palm trees in the background",
+    "photographerName": "Hari Krishna Mulam",
+    "photographerUrl": "https://unsplash.com/@itachisuzano?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sailboat-in-the-ocean-with-palm-trees-in-the-background-dib6hZ-9s1Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Key West Florida Mallory Square sunset",
+    "fetchedAt": "2026-08-07T07:51:41.359Z",
+    "addedBy": "friendsmoon"
+  },
   "friendsmoon/atlas/lake-geneva-lakefront-dock-cruise-and-supper-club": {
     "url": "https://images.unsplash.com/photo-1690084516271-fb167a474e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWtlJTIwR2VuZXZhJTIwV2lzY29uc2luJTIwbGFrZSUyMGRvY2slMjBzdW1tZXIlMjBldmVuaW5nfGVufDF8MHx8fDE3ODYwODMxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a dock on a lake with trees in the background",
@@ -5007,6 +5017,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-flowers-on-green-grass-field-during-daytime-eSl_QHc_hFo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Napa Valley California",
     "fetchedAt": "2026-08-07T06:11:58.876Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/atlas/new-york-west-village-townhouse-and-a-broadway-night": {
+    "url": "https://images.unsplash.com/photo-1542042238232-3a0b14425b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxXZXN0JTIwVmlsbGFnZSUyME5ldyUyMFlvcmslMjBicm93bnN0b25lJTIwdHJlZS1saW5lZCUyMHN0cmVldHxlbnwxfDB8fHwxNzg2MDg5MDk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown building",
+    "photographerName": "Rachel Martin",
+    "photographerUrl": "https://unsplash.com/@rmartin_?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-building-4yCXNMLP9g8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "West Village New York brownstone tree-lined street",
+    "fetchedAt": "2026-08-07T07:51:38.609Z",
     "addedBy": "friendsmoon"
   },
   "friendsmoon/atlas/oklahoma-city-plaza-district-house-and-stockyards-steak": {
@@ -5207,6 +5227,146 @@
     "unsplashUrl": "https://unsplash.com/photos/white-boat-with-atlantic-city-text-on-beach-gx-ir-7sTjA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Atlantic City New Jersey golden hour",
     "fetchedAt": "2026-08-07T06:13:01.718Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/austin-tx": {
+    "url": "https://images.unsplash.com/photo-1545186079-6a368b49d88d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUZXhhcyUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4OTEwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown high-rise buildings during daytime",
+    "photographerName": "Morgan Von Gunten",
+    "photographerUrl": "https://unsplash.com/@morganvongunten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-high-rise-buildings-during-daytime-VkRaSm6OS-w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Austin Texas golden hour",
+    "fetchedAt": "2026-08-07T07:51:42.784Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/baltimore-md": {
+    "url": "https://images.unsplash.com/photo-1621204853432-148627f20753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjBNYXJ5bGFuZCUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4OTEwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city skyline during night time",
+    "photographerName": "Irina Sitnikova",
+    "photographerUrl": "https://unsplash.com/@city1983?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-vKvH2fUM65k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore Maryland golden hour",
+    "fetchedAt": "2026-08-07T07:51:44.220Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/bar-harbor-me": {
+    "url": "https://images.unsplash.com/photo-1640191504514-e51de2ae1f4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCYXIlMjBIYXJib3IlMjBNYWluZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4OTEwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of boats floating on top of a body of water",
+    "photographerName": "Gary Runn",
+    "photographerUrl": "https://unsplash.com/@garunn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-body-of-water-0npnIe620qw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bar Harbor Maine golden hour",
+    "fetchedAt": "2026-08-07T07:51:45.626Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/beaufort-sc": {
+    "url": "https://images.unsplash.com/photo-1693947636574-137a3b2bb689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZWF1Zm9ydCUyMFNvdXRoJTIwQ2Fyb2xpbmF8ZW58MXwwfHx8MTc4NjA4OTEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a wooden bridge over a body of water surrounded by trees",
+    "photographerName": "Julianne Clark",
+    "photographerUrl": "https://unsplash.com/@jdclark369?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-wooden-bridge-over-a-body-of-water-surrounded-by-trees-xdUtXo3Gg1s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Beaufort South Carolina",
+    "fetchedAt": "2026-08-07T07:51:48.296Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/bend-or": {
+    "url": "https://images.unsplash.com/photo-1539457981288-ca69c8b06b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT3JlZ29uJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDg5MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees during daytime",
+    "photographerName": "Naresh Bojja",
+    "photographerUrl": "https://unsplash.com/@nareshbojja?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-during-daytime-OAXnAFAf3K4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend Oregon golden hour",
+    "fetchedAt": "2026-08-07T07:51:49.727Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/bentonville-ar": {
+    "url": "https://images.unsplash.com/photo-1586025081697-18fa13f48a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW50b252aWxsZSUyMEFya2Fuc2FzJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDg5MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cars parked in front of white concrete building during daytime",
+    "photographerName": "Brad",
+    "photographerUrl": "https://unsplash.com/@minimdesignco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-in-front-of-white-concrete-building-during-daytime-jwaZvSKsrR8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bentonville Arkansas golden hour",
+    "fetchedAt": "2026-08-07T07:51:51.132Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/berkshires-ma": {
+    "url": "https://images.unsplash.com/photo-1630284844859-ca0bd006c867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZXJrc2hpcmVzJTIwTWFzc2FjaHVzZXR0c3xlbnwxfDB8fHwxNzg2MDg5MTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red and white chairs on green grass field during daytime",
+    "photographerName": "Bonnie Kittle",
+    "photographerUrl": "https://unsplash.com/@bonniekdesign?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-and-white-chairs-on-green-grass-field-during-daytime-sPLTLIej22o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Berkshires Massachusetts",
+    "fetchedAt": "2026-08-07T07:51:53.890Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/bermuda-bm": {
+    "url": "https://images.unsplash.com/photo-1760361556662-de0946cc3309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZXJtdWRhJTIwQmVybXVkYSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4OTExNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Coastal town with boats at sunset",
+    "photographerName": "Hugh Whyte",
+    "photographerUrl": "https://unsplash.com/@opixels?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/coastal-town-with-boats-at-sunset-GX18M0DbCn0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bermuda Bermuda golden hour",
+    "fetchedAt": "2026-08-07T07:51:55.398Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/big-bear-lake-ca": {
+    "url": "https://images.unsplash.com/photo-1694468693924-c7e572ae9ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCaWclMjBCZWFyJTIwTGFrZSUyMENhbGlmb3JuaWElMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODkxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large body of water with a mountain in the background",
+    "photographerName": "Faith Lehman",
+    "photographerUrl": "https://unsplash.com/@faitheraser?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-a-mountain-in-the-background-GeaLrwW1XG4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Bear Lake California golden hour",
+    "fetchedAt": "2026-08-07T07:51:56.979Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/big-sky-mt": {
+    "url": "https://images.unsplash.com/photo-1602123904506-b78b9fc89110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNb250YW5hJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDg5MTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near mountain under white clouds during daytime",
+    "photographerName": "Nic Y-C",
+    "photographerUrl": "https://unsplash.com/@themcny?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-mountain-under-white-clouds-during-daytime-LtX3b64JuyU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky Montana golden hour",
+    "fetchedAt": "2026-08-07T07:51:58.347Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/birmingham-al": {
+    "url": "https://images.unsplash.com/photo-1523297428500-14eaf71c6840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaXJtaW5naGFtJTIwQWxhYmFtYSUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4NjA4OTExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bird's eye view photography of high-rise buildings and train station",
+    "photographerName": "Zach Searcy",
+    "photographerUrl": "https://unsplash.com/@zdsearcy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/birds-eye-view-photography-of-high-rise-buildings-and-train-station-TG3-_s_4dKw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Birmingham Alabama golden hour",
+    "fetchedAt": "2026-08-07T07:51:59.738Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/black-hills-sd": {
+    "url": "https://images.unsplash.com/photo-1752434611381-c138f9d6c451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbGFjayUyMEhpbGxzJTIwU291dGglMjBEYWtvdGElMjBnb2xkZW4lMjBob3VyfGVufDF8MHx8fDE3ODYwODkxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A scenic view of a green landscape.",
+    "photographerName": "Jon Sailer",
+    "photographerUrl": "https://unsplash.com/@jonmsailer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-green-landscape-xvEY-lfjCl4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Black Hills South Dakota golden hour",
+    "fetchedAt": "2026-08-07T07:52:01.168Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/block-island-ri": {
+    "url": "https://images.unsplash.com/photo-1631830298489-4e7ed3257fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMFJob2RlJTIwSXNsYW5kJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDg5MTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large brick building with a light house on top of it",
+    "photographerName": "John Angel",
+    "photographerUrl": "https://unsplash.com/@johnangelnyc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-brick-building-with-a-light-house-on-top-of-it-fLb31kFlQXg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island Rhode Island golden hour",
+    "fetchedAt": "2026-08-07T07:52:02.644Z",
+    "addedBy": "friendsmoon"
+  },
+  "friendsmoon/destinations/boise-id": {
+    "url": "https://images.unsplash.com/photo-1540576240319-c8365e8e35d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElkYWhvJTIwZ29sZGVuJTIwaG91cnxlbnwxfDB8fHwxNzg2MDg5MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "mountain views during golden hour",
+    "photographerName": "Ben Hoskyn",
+    "photographerUrl": "https://unsplash.com/@ben_hoskyn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/mountain-views-during-golden-hour-oSREqsOMbzs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise Idaho golden hour",
+    "fetchedAt": "2026-08-07T07:52:04.048Z",
     "addedBy": "friendsmoon"
   },
   "friendsmoon/regions/international": {
