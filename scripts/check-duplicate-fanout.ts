@@ -97,7 +97,32 @@ function main() {
     process.exit(1);
   }
 
-  console.log("✓ duplicate-fanout: no NEW violations (the grandfathered debt above still awaits Phase 2)");
+  // ── RATCHET: the ledger may only shrink ─────────────────────────────────
+  // A debt ledger with no ratchet is how a temporary grandfather clause becomes
+  // permanent: paid debt lingers, the count never falls, and nobody can tell
+  // progress from stasis. An entry whose violation no longer exists is a FALSE
+  // STATEMENT about the cache, so it fails — one command to fix, and it forces
+  // the ledger down as Phase 2/3 retire real debt. (Removing an entry can only
+  // ever make the gate stricter, so this cannot be used to hide a regression.)
+  const liveIds = new Set(violations.map(violationId));
+  const paid = Object.keys(baseline).filter((id) => !liveIds.has(id));
+  if (paid.length > 0) {
+    console.error(
+      `\n✗ duplicate-fanout: ${paid.length} baseline entr(ies) name debt that no longer exists:`,
+    );
+    for (const id of paid.slice(0, 20)) console.error(`  ${id}`);
+    if (paid.length > 20) console.error(`  … and ${paid.length - 20} more`);
+    console.error(
+      `\nThat debt is PAID — delete those entries from dedupe-baseline.json (or re-snapshot with ` +
+        `--write-baseline) so the ledger reflects reality. The goal state is an empty ledger.`,
+    );
+    process.exit(1);
+  }
+
+  console.log(
+    `✓ duplicate-fanout: no NEW violations · ledger holds ${Object.keys(baseline).length} ` +
+      `grandfathered violation(s) still awaiting Phase 2`,
+  );
 }
 
 main();
