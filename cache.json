@@ -11669,6 +11669,16 @@
     "fetchedAt": "2026-06-26T18:03:00.821Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/cap-rocat-mallorca": {
+    "url": "https://images.unsplash.com/photo-1706300930954-86cba0544718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHw0fHxjb2FzdGFsJTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHZlbnVlJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODcyNTIzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a grassy field next to a body of water",
+    "photographerName": "Juan Camilo",
+    "photographerUrl": "https://unsplash.com/@juank0522?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-grassy-field-next-to-a-body-of-water-A49eJE4xSnM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "coastal corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:44.516Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/capella-singapore": {
     "url": "https://images.unsplash.com/photo-1679234417190-9c443548a40c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlbGxhJTIwU2luZ2Fwb3JlJTIwU2VudG9zYSUyMGNvbG9uaWFsJTIwaGVyaXRhZ2UlMjByZXNvcnR8ZW58MXwwfHx8MTc4MjQ5NzA0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large white building with cars parked in front of it",
@@ -11719,6 +11729,26 @@
     "fetchedAt": "2026-06-26T17:58:15.381Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/chateau-des-mesnuls": {
+    "url": "https://images.unsplash.com/photo-1587972906305-33639608132d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxjYXN0bGUlMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI1MjMxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building under white sky during daytime",
+    "photographerName": "Tobias Rademacher",
+    "photographerUrl": "https://unsplash.com/@tobbes_rd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-white-sky-during-daytime-uUHp_T2HhkM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "castle corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:32.382Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/chateau-la-coste": {
+    "url": "https://images.unsplash.com/photo-1655805045430-a6795d9312ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaCVDMyVBMnRlYXUlMjBMYSUyMENvc3RlJTIwQWl4LWVuLVByb3ZlbmNlJTIwdmluZXlhcmQlMjBhcnQlMjBhcmNoaXRlY3R1cmV8ZW58MXwwfHx8MTc4NzI1MjMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a field of lavender",
+    "photographerName": "Sara Geiko",
+    "photographerUrl": "https://unsplash.com/@sarageiko?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-field-of-lavender-P1RYBRic3v4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Château La Coste Aix-en-Provence vineyard art architecture",
+    "fetchedAt": "2026-08-20T18:58:35.492Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/costa-navarino": {
     "url": "https://images.unsplash.com/photo-1446038202205-1c96430dbdab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxjb2FzdGFsJTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHZlbnVlJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODI0OTY3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "ocean view during daytime",
@@ -11727,6 +11757,26 @@
     "unsplashUrl": "https://unsplash.com/photos/ocean-view-during-daytime-XJfHMPJ0e-g?utm_source=shared_image_cache&utm_medium=referral",
     "query": "coastal corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T17:58:33.589Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/des-iles-borromees-maggiore": {
+    "url": "https://images.unsplash.com/photo-1717166149742-943e65588685?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHcmFuZCUyMEhvdGVsJTIwZGVzJTIwSWxlcyUyMEJvcnJvbWVlcyUyMFN0cmVzYSUyMExha2UlMjBNYWdnaW9yZXxlbnwxfDB8fHwxNzg3MjUyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat that is sitting in the water",
+    "photographerName": "Emmanuel Cassar",
+    "photographerUrl": "https://unsplash.com/@emmanuelcassar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-that-is-sitting-in-the-water-SRtik_2JVZ8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Grand Hotel des Iles Borromees Stresa Lake Maggiore",
+    "fetchedAt": "2026-08-20T18:57:51.657Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/domaine-de-manville": {
+    "url": "https://images.unsplash.com/flagged/photo-1562295710-d385356d07e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwyfHxEb21haW5lJTIwZGUlMjBNYW52aWxsZSUyMExlcyUyMEJhdXgtZGUtUHJvdmVuY2UlMjBlc3RhdGV8ZW58MXwwfHx8MTc4NzI1MjMxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "bed of lavender flowers",
+    "photographerName": "C.Valdez",
+    "photographerUrl": "https://unsplash.com/@valdez?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/bed-of-lavender-flowers-A2gKlf8JgGA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Domaine de Manville Les Baux-de-Provence estate",
+    "fetchedAt": "2026-08-20T18:58:34.008Z",
     "addedBy": "offsite"
   },
   "offsite/venues/edgewood-tahoe": {
@@ -11929,6 +11979,16 @@
     "fetchedAt": "2026-06-26T18:00:33.029Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/hvammsvik-hot-springs": {
+    "url": "https://images.unsplash.com/photo-1716362536805-2da9c43c292e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIdmFtbXN2JUMzJUFEayUyMGhvdCUyMHNwcmluZ3MlMjBmam9yZCUyMEh2YWxmaiVDMyVCNnIlQzMlQjB1ciUyMEljZWxhbmR8ZW58MXwwfHx8MTc4NzI1MjMzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a body of water surrounded by mountains under a cloudy sky",
+    "photographerName": "Sigurdur Fjalar Jonsson",
+    "photographerUrl": "https://unsplash.com/@sfjalar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-under-a-cloudy-sky-x_v6EgExFrU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hvammsvík hot springs fjord Hvalfjörður Iceland",
+    "fetchedAt": "2026-08-20T18:58:53.501Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/joshua-creek": {
     "url": "https://images.unsplash.com/photo-1578730169862-749bbdc763a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwzfHxyYW5jaCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjQ0NTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "benches on hill",
@@ -12049,6 +12109,16 @@
     "fetchedAt": "2026-06-26T18:20:47.564Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/marques-de-riscal": {
+    "url": "https://images.unsplash.com/photo-1542384517060-2b41144f12a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHx2aW5leWFyZCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjUyMzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "pathways in between green trees",
+    "photographerName": "Jaime Casap",
+    "photographerUrl": "https://unsplash.com/@jaimecasap?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/pathways-in-between-green-trees-tjkNAG4rYz0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "vineyard corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:38.486Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/millbrook-resort-queenstown": {
     "url": "https://images.unsplash.com/photo-1786307218965-8c700504795c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHw1fHxhbHBpbmUlMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI0NDU1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "New Zealand flax plants beside a tidal estuary under a clear blue sky",
@@ -12087,6 +12157,16 @@
     "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-XI0z-tZQNWA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "One&Only Portonovi Boka Bay Adriatic resort Montenegro",
     "fetchedAt": "2026-06-26T18:01:25.502Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/park-hyatt-cabo-del-sol": {
+    "url": "https://images.unsplash.com/photo-1656601046561-6a13d450bfba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHw0fHx0cm9waWNhbCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjUyMzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a tropical forest with palm trees",
+    "photographerName": "Vlad Kutepov",
+    "photographerUrl": "https://unsplash.com/@kvtepov?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-tropical-forest-with-palm-trees-_GJLKDMy3n4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "tropical corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:59.098Z",
     "addedBy": "offsite"
   },
   "offsite/venues/park-hyatt-niseko-hanazono": {
@@ -12157,6 +12237,16 @@
     "unsplashUrl": "https://unsplash.com/photos/green-and-white-concrete-building-x0eQcijNmf8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "palace corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T18:04:20.585Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/retreat-at-blue-lagoon": {
+    "url": "https://images.unsplash.com/photo-1658680927595-e0b302f7a350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHw1fHxjb2FzdGFsJTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHZlbnVlJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODcyNTIzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a path leading to a beach",
+    "photographerName": "Daniel Salcius",
+    "photographerUrl": "https://unsplash.com/@dsalcius?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-leading-to-a-beach-ZvSDIln9yK0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "coastal corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:52.061Z",
     "addedBy": "offsite"
   },
   "offsite/venues/ritz-carlton-al-wadi-desert": {
@@ -12259,6 +12349,16 @@
     "fetchedAt": "2026-06-26T18:02:36.877Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/six-senses-douro-valley": {
+    "url": "https://images.unsplash.com/photo-1559519341-566e7b5ecc70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwyfHx2aW5leWFyZCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjUyMzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grape vine farm",
+    "photographerName": "Wendell Shinn",
+    "photographerUrl": "https://unsplash.com/@insinuwendell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grape-vine-farm-dWC-Nijufzo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "vineyard corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:46.941Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/six-senses-uluwatu": {
     "url": "https://images.unsplash.com/photo-1686367336557-c01d4f591123?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwyfHx0cm9waWNhbCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjQ0NTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a tree with red and yellow leaves and a blue sky in the background",
@@ -12277,6 +12377,16 @@
     "unsplashUrl": "https://unsplash.com/photos/people-walking-on-beach-near-green-mountain-during-daytime-JNoJ-eisUuY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Six Senses Yao Noi Phang Nga Bay limestone karst pool villa",
     "fetchedAt": "2026-06-26T18:03:54.440Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/son-bunyola-mallorca": {
+    "url": "https://images.unsplash.com/photo-1728521356833-168f3c3d7f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwzfHxjb2FzdGFsJTIwY29ycG9yYXRlJTIwcmV0cmVhdCUyMHZlbnVlJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODcyNTIzMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A field with a fence and a body of water in the background",
+    "photographerName": "Petra Reid",
+    "photographerUrl": "https://unsplash.com/@createinme_nz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-field-with-a-fence-and-a-body-of-water-in-the-background-c0L6BBTUwFQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "coastal corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T18:58:41.598Z",
     "addedBy": "offsite"
   },
   "offsite/venues/song-saa-private-island": {
