@@ -28,6 +28,7 @@ import {
   PexelsRateLimitError,
 } from "../lib/pexels";
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
+import { wouldViolate } from "../lib/fanout";
 import { getTdfQueries } from "./queries/tdf";
 import { getOffsiteQueries } from "./queries/offsite";
 import { getBestmanQueries } from "./queries/bestman";
@@ -218,11 +219,32 @@ async function main() {
   for (const item of batch) {
     processed++;
     try {
-      let result = await searchUnsplash(item.query, nextKey());
+      // Ceiling-aware selection (lib/fanout.ts): walk the candidates
+      // best-first and take the first photo that would NOT become a
+      // duplicate-fanout violation. Taking results[0] unconditionally is the
+      // root cause of the 2026-08-20 state — obscure named-venue queries all
+      // collapse to the same popular generic photo, and one lake ended up as
+      // 24 "different" venues. A miss beats a duplicate: if every candidate
+      // is at ceiling, no entry is written and the key stays pending for a
+      // better source (Pexels below, an override, or a human).
+      let skippedAtCeiling = 0;
+      const pickNonViolating = (
+        entries: Omit<CacheEntry, "addedBy">[],
+      ): Omit<CacheEntry, "addedBy"> | null => {
+        for (const e of entries) {
+          if (!wouldViolate(cache, item.key, e.url)) return e;
+          skippedAtCeiling++;
+        }
+        return null;
+      };
+
+      const result0 = await searchUnsplash(item.query, nextKey());
+      let result = result0;
+      let chosen = pickNonViolating(result0.entries);
       let usedFallback = false;
 
       if (
-        !result.entry &&
+        !chosen &&
         item.fallbackQuery &&
         item.fallbackQuery !== item.query &&
         !Number.isNaN(result.ratelimitRemaining) &&
@@ -230,11 +252,11 @@ async function main() {
       ) {
         await sleep(SLEEP_MS);
         const fb = await searchUnsplash(item.fallbackQuery, nextKey());
-        if (fb.entry) {
-          result = fb;
+        result = fb;
+        const fbChosen = pickNonViolating(fb.entries);
+        if (fbChosen) {
+          chosen = fbChosen;
           usedFallback = true;
-        } else {
-          result = { entry: null, ratelimitRemaining: fb.ratelimitRemaining };
         }
       }
 
@@ -243,15 +265,18 @@ async function main() {
       // photo library so often resolves where Unsplash didn't, breaking
       // duplicate-photo collisions on generic fallback queries.
       let usedPexels = false;
-      if (!result.entry && pexelsKey && pexelsRemaining > 5) {
+      if (!chosen && pexelsKey && pexelsRemaining > 5) {
         await sleep(SLEEP_MS);
         try {
           const pex = await searchPexels(item.fallbackQuery || item.query, pexelsKey);
           if (pex.entry) {
-            // Inject `result` shape compatibility — Pexels entry already
-            // matches Omit<CacheEntry, "addedBy"> per pexels.ts.
-            result = { entry: pex.entry, ratelimitRemaining: result.ratelimitRemaining };
-            usedPexels = true;
+            // Pexels entry already matches Omit<CacheEntry, "addedBy">; it
+            // faces the same ceiling check as every Unsplash candidate.
+            const pexChosen = pickNonViolating([pex.entry]);
+            if (pexChosen) {
+              chosen = pexChosen;
+              usedPexels = true;
+            }
           }
           if (!Number.isNaN(pex.ratelimitRemaining)) {
             pexelsRemaining = pex.ratelimitRemaining;
@@ -266,8 +291,8 @@ async function main() {
         }
       }
 
-      if (result.entry) {
-        const entry: CacheEntry = { ...result.entry, addedBy: item.addedBy };
+      if (chosen) {
+        const entry: CacheEntry = { ...chosen, addedBy: item.addedBy };
         cache[item.key] = entry;
         added++;
         const tag = usedPexels ? "⊕" : usedFallback ? "↻" : "✓";
@@ -275,7 +300,14 @@ async function main() {
         console.log(
           `  [${processed}/${batch.length}] ${item.label || item.key} ${tag} (${sourceLabel})` +
             (usedFallback && !usedPexels ? `  fallback: "${item.fallbackQuery}"` : "") +
-            (usedPexels ? `  via Pexels` : ""),
+            (usedPexels ? `  via Pexels` : "") +
+            (skippedAtCeiling > 0 ? `  (${skippedAtCeiling} candidate(s) skipped at fan-out ceiling)` : ""),
+        );
+      } else if (skippedAtCeiling > 0) {
+        // A miss beats a duplicate — say so explicitly so a run's output
+        // never reads as "the query found nothing".
+        console.log(
+          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedAtCeiling} candidate(s) already at fan-out ceiling for "${item.query}"`,
         );
       } else {
         console.log(
@@ -323,6 +355,21 @@ async function main() {
 }
 
 function commitAndPush(added: number): void {
+  // The cron workflows (fetch-images.yml, daily-maxout.yml) push to main
+  // through THIS function, so the gate here is what makes the ceilings
+  // un-bypassable on the write path: a violating cache never leaves the
+  // runner. Selection above should make this unreachable; if it fires,
+  // selection and gate disagree and THAT is the bug to fix.
+  try {
+    execSync("npx tsx scripts/check-duplicate-fanout.ts", {
+      stdio: "inherit",
+      cwd: REPO_ROOT,
+    });
+  } catch {
+    console.error("✘ duplicate-fanout gate FAILED — refusing to commit/push this cache state");
+    process.exitCode = 1;
+    return;
+  }
   try {
     process.chdir(REPO_ROOT);
     execSync("git add cache.json", { stdio: "inherit" });

@@ -36,7 +36,16 @@ interface UnsplashApiResponse {
 }
 
 export interface SearchResult {
+  /** Top candidate — kept for back-compat; always `entries[0] ?? null`. */
   entry: Omit<CacheEntry, "addedBy"> | null;
+  /**
+   * ALL returned candidates, best-first. The fetcher walks these and takes
+   * the first one that doesn't violate the duplicate-fanout ceilings
+   * (lib/fanout.ts) — result[0] unconditionally is how one generic lake
+   * photo came to back 24 named venues: obscure-venue queries collapse to
+   * the same popular top result, and only the alternates differ.
+   */
+  entries: Omit<CacheEntry, "addedBy">[];
   ratelimitRemaining: number;
 }
 
@@ -79,20 +88,15 @@ export async function searchUnsplash(
   }
 
   const data = (await res.json()) as UnsplashApiResponse;
-  const photo = data.results[0];
+  const entries = data.results.map((photo) => ({
+    url: photo.urls.regular,
+    alt: photo.alt_description || photo.description || query,
+    photographerName: photo.user.name,
+    photographerUrl: `https://unsplash.com/@${photo.user.username}?${UTM}`,
+    unsplashUrl: `${photo.links.html}?${UTM}`,
+    query,
+    fetchedAt: new Date().toISOString(),
+  }));
 
-  if (!photo) return { entry: null, ratelimitRemaining };
-
-  return {
-    entry: {
-      url: photo.urls.regular,
-      alt: photo.alt_description || photo.description || query,
-      photographerName: photo.user.name,
-      photographerUrl: `https://unsplash.com/@${photo.user.username}?${UTM}`,
-      unsplashUrl: `${photo.links.html}?${UTM}`,
-      query,
-      fetchedAt: new Date().toISOString(),
-    },
-    ratelimitRemaining,
-  };
+  return { entry: entries[0] ?? null, entries, ratelimitRemaining };
 }
