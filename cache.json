@@ -7439,6 +7439,16 @@
     "fetchedAt": "2026-06-29T18:22:48.560Z",
     "addedBy": "moh"
   },
+  "moh/cities/block-island-ri/lodging": {
+    "url": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzg3MjE5NTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "building with infinity pool",
+    "photographerName": "Roberto Nickson",
+    "photographerUrl": "https://unsplash.com/@rpnickson?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/building-with-infinity-pool-MA82mPIZeGI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island luxury hotel pool",
+    "fetchedAt": "2026-08-20T09:53:03.944Z",
+    "addedBy": "moh"
+  },
   "moh/cities/bozeman-mt": {
     "url": "https://images.unsplash.com/photo-1752766074168-44afdbaaf390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A rooftop dining table set for an elegant event.",
@@ -9507,6 +9517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-lights-hanging-from-a-wire-over-a-body-of-water-wR0cptRWZ0c?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Stowe VT cocktail bar pink sunset",
     "fetchedAt": "2026-08-06T11:35:36.043Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/stowe-vt/dining": {
+    "url": "https://images.unsplash.com/photo-1731412235213-678ada5cd36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMGZhcm0tdG8tdGFibGUlMjB0YXN0aW5nJTIwbWVudXxlbnwxfDB8fHwxNzg3MjE5NTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A menu sitting on top of a table next to a cup of coffee",
+    "photographerName": "Annie Spratt",
+    "photographerUrl": "https://unsplash.com/@anniespratt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-menu-sitting-on-top-of-a-table-next-to-a-cup-of-coffee-h-8ql6184Qc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stowe farm-to-table tasting menu",
+    "fetchedAt": "2026-08-20T09:52:54.716Z",
     "addedBy": "moh"
   },
   "moh/cities/stowe-vt/lodging": {
