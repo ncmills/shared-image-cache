@@ -114,3 +114,21 @@ npm run stats
 ## Adding new images vs existing pattern
 
 The old per-project caches (`tour-de-fore/src/data/unsplash-cache.json`, `plan-my-party/src/data/showcase-images.json`, etc.) should be considered **deprecated**. Every new fetch goes here. Consumer projects re-pull this cache at build time.
+
+## Duplicate-fanout policy (2026-08-20)
+
+One photo wearing many names reads as fabricated inventory (measured: one lake photo backed 24
+"different" named venues). Policy lives in `lib/fanout.ts`; the gate is `npm run gate`
+(`scripts/check-duplicate-fanout.ts`), enforced in CI (`dedupe-gate.yml`) and inside `fetch.ts`
+before any auto-commit:
+
+- **Named-venue keys** (`*/venues/*`): a photo is an identity claim — ceiling **1 wearer, cache-wide**.
+- **Category/setting/city tiles**: ceiling **2 wearers per rendered surface** (same project + grid);
+  cross-site reuse is fine.
+- **`verified: {photoId, subject, verifiedAt}`** on an entry records that a HUMAN viewed the photo
+  at the production crop. It binds to the photo id, so a re-fetch that swaps the photo makes the
+  stamp stale — consumers must then treat the entry as unverified, and the gate fails until it's
+  re-verified or dropped.
+- `dedupe-baseline.json` is the grandfathered pre-gate debt (retired by the Phase 2 honesty cut);
+  any NEW wearer fails immediately. The fetcher walks all candidates and records a MISS rather
+  than writing a duplicate — a missing image beats a wrong or duplicated one.

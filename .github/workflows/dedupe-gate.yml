@@ -1,0 +1,24 @@
+name: dedupe gate
+
+# Duplicate-fanout ceilings + typecheck on every push and PR. The fetch
+# workflows also run the gate inside fetch.ts before their auto-commit, so a
+# violating cache cannot land from either path. Policy: lib/fanout.ts.
+# Debt ledger: dedupe-baseline.json (grandfathered pre-gate violations,
+# retired by the Phase 2 honesty cut — an empty ledger is the goal state).
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: npm run typecheck
+      - run: npm run gate
