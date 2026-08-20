@@ -11719,6 +11719,16 @@
     "fetchedAt": "2026-06-26T17:58:39.923Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/casa-de-uco-mendoza": {
+    "url": "https://images.unsplash.com/photo-1563610267970-b9faac34589c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwyfHx2aW5leWFyZCUyMGNvcnBvcmF0ZSUyMHJldHJlYXQlMjB2ZW51ZSUyMGxhbmRzY2FwZXxlbnwxfDB8fHwxNzg3MjY1ODc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "crop field",
+    "photographerName": "Dan Meyers",
+    "photographerUrl": "https://unsplash.com/@dmey503?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/crop-field-T2K8-KLMFlc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "vineyard corporate retreat venue landscape",
+    "fetchedAt": "2026-08-20T22:44:38.651Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/castello-di-casole": {
     "url": "https://images.unsplash.com/photo-1596142332133-327e2a0ff006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXN0ZWxsbyUyMGRpJTIwQ2Fzb2xlJTIwVHVzY2FueSUyMGNhc3RsZSUyMGVzdGF0ZSUyMHZpbmV5YXJkJTIwY3lwcmVzc3xlbnwxfDB8fHwxNzgyNDk2Njc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "vineyard rows on tuscan hillside",
@@ -12587,6 +12597,16 @@
     "unsplashUrl": "https://unsplash.com/photos/city-houses-and-buildings-near-river-under-blue-sky-hbb9_0F6nS0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "The Yeatman hotel Vila Nova de Gaia Porto port lodges river",
     "fetchedAt": "2026-06-26T18:01:05.208Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/tierra-patagonia": {
+    "url": "https://images.unsplash.com/photo-1558517286-6b7b81953cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwyfHxUaWVycmElMjBQYXRhZ29uaWElMjBUb3JyZXMlMjBkZWwlMjBQYWluZXxlbnwxfDB8fHwxNzg3MjY1ODgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water and mountain",
+    "photographerName": "Snowscat",
+    "photographerUrl": "https://unsplash.com/@snowscat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-and-mountain-EnFQmcTtsjo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tierra Patagonia Torres del Paine",
+    "fetchedAt": "2026-08-20T22:44:41.723Z",
     "addedBy": "offsite"
   },
   "offsite/venues/umaid-bhawan-palace": {
