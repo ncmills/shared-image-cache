@@ -15,6 +15,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/node": "^20.19.43",
+    "tsx": "^4.19.2",
     "typescript": "^5.6.3"
   }
 }
