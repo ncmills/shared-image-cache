@@ -54,5 +54,179 @@
     "at": "2026-08-21T13:07:56.333Z",
     "reason": "no-results",
     "attempts": 1
+  },
+  "offsite/venues/ashford-castle": {
+    "query": "Ashford Castle Ireland lake falconry forest",
+    "at": "2026-08-21T13:09:26.187Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/atlantis-paradise-island": {
+    "query": "Atlantis Paradise Island Bahamas aerial Royal Towers Aquaventure marina",
+    "at": "2026-08-21T13:09:34.539Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/beau-rivage-palace-lausanne": {
+    "query": "Beau-Rivage Palace Lausanne Lake Geneva Switzerland",
+    "at": "2026-08-21T13:09:55.587Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/brush-creek-ranch": {
+    "query": "Brush Creek Ranch Wyoming lodge mountains",
+    "at": "2026-08-21T13:09:16.910Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/burgenstock-resort": {
+    "query": "Bürgenstock Resort Lake Lucerne clifftop infinity pool",
+    "at": "2026-08-21T13:09:30.315Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/carneros-resort": {
+    "query": "Carneros Resort Napa Valley cottages vineyard hilltop pool",
+    "at": "2026-08-21T13:09:50.499Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/costa-navarino": {
+    "query": "Costa Navarino Romanos resort beach golf aerial Messinia",
+    "at": "2026-08-21T13:09:31.663Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/enchantment-sedona": {
+    "query": "Enchantment Resort Sedona Boynton Canyon red rock",
+    "at": "2026-08-21T13:09:23.504Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/four-seasons-maui": {
+    "query": "Four Seasons Resort Maui Wailea oceanfront infinity pool aerial",
+    "at": "2026-08-21T13:09:48.089Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/fs-hualalai-hawaii": {
+    "query": "Four Seasons Hualalai Big Island Hawaii Kings Pond oceanfront aerial Kona coast",
+    "at": "2026-08-21T13:09:35.957Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/grand-geneva-wisconsin": {
+    "query": "Grand Geneva Resort Lake Geneva Wisconsin aerial golf",
+    "at": "2026-08-21T13:09:28.961Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/grand-hotel-tremezzo-como": {
+    "query": "Grand Hotel Tremezzo floating pool Lake Como Bellagio",
+    "at": "2026-08-21T13:09:51.904Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/joshua-creek": {
+    "query": "Joshua Creek Ranch Texas Hill Country sporting clays lodge",
+    "at": "2026-08-21T13:09:22.105Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/jw-rosseau-muskoka": {
+    "query": "JW Marriott Rosseau Muskoka infinity pool Lake Rosseau Ontario",
+    "at": "2026-08-21T13:09:27.544Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/la-mamounia-marrakech": {
+    "query": "La Mamounia Marrakech palace gardens courtyard Moorish arches",
+    "at": "2026-08-21T13:09:40.151Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/lake-como-edition": {
+    "query": "Lake Como EDITION hotel lakefront Italy",
+    "at": "2026-08-21T13:09:53.254Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/lefay-lago-di-garda": {
+    "query": "Lefay Resort SPA Lago di Garda lake view Italy",
+    "at": "2026-08-21T13:09:54.574Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/low-wood-bay-windermere": {
+    "query": "Low Wood Bay Resort Windermere Lake District marina",
+    "at": "2026-08-21T13:09:56.958Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/millbrook-resort-queenstown": {
+    "query": "Millbrook Resort Arrowtown golf Remarkables mountains",
+    "at": "2026-08-21T13:09:45.658Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/park-hyatt-niseko-hanazono": {
+    "query": "Park Hyatt Niseko Hanazono Mt Yotei snow ski village",
+    "at": "2026-08-21T13:09:44.270Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/paws-up": {
+    "query": "Paws Up Montana luxury glamping tents Blackfoot River",
+    "at": "2026-08-21T13:09:18.288Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/pinehurst": {
+    "query": "Pinehurst resort golf course Carolina pines clubhouse",
+    "at": "2026-08-21T13:09:24.834Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/ritz-carlton-al-wadi-desert": {
+    "query": "Ritz-Carlton Al Wadi Desert villa dunes falconry tent UAE sunset",
+    "at": "2026-08-21T13:09:41.580Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/royal-livingstone-victoria-falls": {
+    "query": "Royal Livingstone hotel Victoria Falls Zambezi lawn giraffe sunset",
+    "at": "2026-08-21T13:09:38.742Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/sabi-sabi-private-reserve": {
+    "query": "Sabi Sabi Bush Lodge South Africa safari deck leopard game drive",
+    "at": "2026-08-21T13:09:37.339Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/sea-island": {
+    "query": "Sea Island Cloister resort Georgia private island golf beach aerial",
+    "at": "2026-08-21T13:09:49.107Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/six-senses-uluwatu": {
+    "query": "Six Senses Uluwatu Bali clifftop ocean lawn sunset",
+    "at": "2026-08-21T13:09:42.916Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/sublime-comporta": {
+    "query": "Sublime Comporta beach estate pine forest Alentejo Portugal",
+    "at": "2026-08-21T13:09:33.000Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/suncadia": {
+    "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
+    "at": "2026-08-21T13:09:46.671Z",
+    "reason": "no-results",
+    "attempts": 1
   }
 }
