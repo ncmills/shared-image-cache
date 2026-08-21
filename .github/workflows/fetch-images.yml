@@ -23,7 +23,7 @@ on:
       limit:
         description: 'Total queries this run (shared across projects, round-robin)'
         required: false
-        default: '200'
+        default: '350'
 
 # Only one fetch run at a time — prevents two workflows committing conflicting
 # cache.json snapshots (cache.json is a single file, concurrent writes race).
@@ -95,7 +95,7 @@ jobs:
           if [ -n "${{ inputs.project }}" ]; then
             PROJECT_ARG="--project=${{ inputs.project }}"
           fi
-          npx tsx scripts/fetch.ts $PROJECT_ARG --limit=${{ inputs.limit || '200' }} --commit
+          npx tsx scripts/fetch.ts $PROJECT_ARG --limit=${{ inputs.limit || '350' }} --commit
 
       - name: Print stats
         run: npm run stats
