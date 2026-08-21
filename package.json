@@ -11,9 +11,10 @@
     "stats": "node -e \"const c=require('./cache.json');const s={};for(const k of Object.keys(c))s[k.split('/')[0]]=(s[k.split('/')[0]]||0)+1;console.log('Total:',Object.keys(c).length);console.table(s)\"",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "tsx scripts/selftest.ts",
-    "gate": "npm run gate:fanout && npm run gate:venues",
+    "gate": "npm run gate:fanout && npm run gate:venues && npm run gate:queries",
     "gate:fanout": "tsx scripts/check-duplicate-fanout.ts",
-    "gate:venues": "tsx scripts/check-venue-identity.ts"
+    "gate:venues": "tsx scripts/check-venue-identity.ts",
+    "gate:queries": "tsx scripts/check-query-hygiene.ts"
   },
   "license": "UNLICENSED",
   "devDependencies": {

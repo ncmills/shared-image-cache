@@ -54,20 +54,25 @@ const CANDIDATE_ROOTS = [
 ];
 
 /** Scene descriptor per Atlas category. The category IS the landscape. */
+// The lighting words are GONE (2026-08-20). "golden hour" is what returned a
+// corgi for Sonoma, a puppy for Omaha, a cat for Memphis and a dog for
+// Rehoboth Beach: pair a small place name with a lighting term and the
+// libraries rank a well-lit portrait above a poorly-lit landscape. The scene
+// noun does the work; the site's duotone treatment does the warmth.
 const CATEGORY_SCENE: Record<string, string> = {
-  "one-big-house": "countryside estate house golden hour",
-  "coastal-slow": "coastline golden hour",
+  "one-big-house": "countryside estate house",
+  "coastal-slow": "coastline",
   "mountain-cabin": "mountains autumn ridge",
-  "wine-and-table": "vineyard rows golden hour",
-  "lake-and-boat": "lake dock summer evening",
+  "wine-and-table": "vineyard rows",
+  "lake-and-boat": "lake dock summer",
   "island-ferry": "island harbour boats",
-  "desert-quiet": "desert landscape dusk",
-  "city-weekend": "historic district golden hour",
+  "desert-quiet": "desert landscape",
+  "city-weekend": "historic district",
 };
 
 const REGION_SCENE: Record<string, { query: string; fallback: string }> = {
   northeast: {
-    query: "New England coastline autumn golden hour",
+    query: "New England coastline autumn",
     fallback: "Maine harbour lobster boats",
   },
   south: {
@@ -75,16 +80,16 @@ const REGION_SCENE: Record<string, { query: string; fallback: string }> = {
     fallback: "Savannah live oaks Spanish moss",
   },
   midwest: {
-    query: "Great Lakes shoreline summer evening",
-    fallback: "Michigan lake dunes sunset",
+    query: "Great Lakes shoreline summer",
+    fallback: "Michigan lake dunes",
   },
   west: {
-    query: "Pacific coast highway golden hour",
+    query: "Pacific coast highway",
     fallback: "Sierra Nevada lake granite",
   },
   international: {
     query: "Mediterranean coastal town terracotta rooftops",
-    fallback: "Portugal coastline cliffs sunset",
+    fallback: "Portugal coastline cliffs",
   },
 };
 
@@ -140,6 +145,9 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
     fallbackQuery: "coastal cottage deck sunset warm light",
     addedBy: "friendsmoon",
     label: "friendsmoon/site hero",
+    // One image, written and LOOKED AT after the first attempt shipped a
+    // deserted municipal picnic shelter. Reviewed strings are not templates.
+    curated: true,
   });
 
   // ── 2. The Atlas — 30 hand-written weekends ──────────────────────────────
@@ -200,6 +208,8 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
       fallbackQuery: override?.fallbackQuery ?? `${city} ${stateName}`,
       addedBy: "friendsmoon",
       label: `friendsmoon/atlas ${t.destination} (${t.category})`,
+      // Contact-sheet reviewed on 2026-08-07; the templated ones are not.
+      ...(override ? { curated: true } : {}),
     });
   }
 
@@ -211,6 +221,8 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
       fallbackQuery: scene.fallback,
       addedBy: "friendsmoon",
       label: `friendsmoon/region ${key}`,
+      // Five hand-written strings for five pages, not a template.
+      curated: true,
     });
   }
 
@@ -357,15 +369,20 @@ export async function getFriendsmoonQueries(): Promise<QueryItem[]> {
 
   for (const d of dests) {
     const stateName = STATE_NAMES[d.state] ?? d.state;
+    const override = DEST_OVERRIDE[d.id];
     queries.push({
       key: `friendsmoon/destinations/${d.id}`,
-      // "<City> <State> golden hour" reliably returns the place. Adding a scene
-      // noun here ("waterfront", "downtown") narrows it enough that small
-      // cities return nothing and silently fall through to the fallback, which
-      // is how a destination ends up wearing a generic stock landscape.
-      query: DEST_OVERRIDE[d.id]?.query ?? `${d.city} ${stateName} golden hour`,
-      fallbackQuery:
-        DEST_OVERRIDE[d.id]?.fallbackQuery ?? `${d.city} ${stateName}`,
+      // The templated tail is now just the PLACE. It used to be `<City>
+      // <State> golden hour`, and the comment here argued that adding a scene
+      // noun would over-narrow — which is right, and is why nothing was added.
+      // What was removed is the lighting term, the one thing on this line the
+      // review had already convicted: four of the 199 came back as pet
+      // photography because "golden hour" is a portrait-lighting term. The
+      // fallback that used to sit here was `<City> <State>` — identical to this
+      // primary once the lighting word is gone, so it is dropped rather than
+      // kept as a second identical request. A miss renders nothing, by design.
+      query: override?.query ?? `${d.city} ${stateName}`,
+      ...(override ? { fallbackQuery: override.fallbackQuery, curated: true } : {}),
       addedBy: "friendsmoon",
       label: `friendsmoon/${d.city}, ${d.state}`,
     });

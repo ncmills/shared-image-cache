@@ -51,15 +51,24 @@
  * reviewed at the production crop is a different object: engagedmoon queries
  * "dusk" ON PURPOSE (its whole subject is the last hour of light) and its
  * curated set is frozen by the owner. Those items set `curated: true`, which
- * exempts them from 3–6 and from nothing else. Rules 1 and 2 apply to
- * everything, curated or not.
+ * exempts them from 2–6. Rule 1 — a named venue takes no generic fallback —
+ * applies to EVERYTHING: no amount of human review makes a generic photograph
+ * into a photograph of a named property.
  */
 
 import type { QueryItem } from "./types";
 import { isNamedVenueKey } from "./fanout";
 import { STATE_NAMES } from "./state-names";
 
-/** Lighting words. Matched on whole words, so "nightlife" is not "night". */
+/**
+ * Lighting words. Matched on whole words (so "nightlife" is not "night") and
+ * CASE-SENSITIVELY, which is not fussiness: the lighting terms a loader adds
+ * are lowercase by construction ("golden hour", "pink sunset"), while a
+ * capitalised one arrived inside a proper name we did not write — OO's
+ * "The Sunrise Summit" and "Casino Gaming Night" are the names of real
+ * products, and "Ring of Kerry" is a real place. Condemning those would be a
+ * guard failing correct output.
+ */
 export const LIGHTING_WORDS = [
   "golden hour",
   "blue hour",
@@ -74,7 +83,7 @@ export const LIGHTING_WORDS = [
   "evening",
 ];
 
-/** Staged-emotion words — they return models, not places. */
+/** Staged-emotion words — they return models, not places. Same casing rule. */
 export const STAGED_EMOTION_WORDS = [
   "proposal",
   "engagement",
@@ -113,6 +122,27 @@ export const TEMPLATED_PLACE_CATEGORIES = new Set([
 /** Max whitespace tokens in a templated city/destination query (rule 5). */
 export const MAX_TEMPLATED_TERMS = 6;
 
+/**
+ * The place half of a templated query: `<City> <State Name>`, minus the cases
+ * where adding the state makes the query WORSE.
+ *
+ *   · The city already contains it — "New York City New York boutique hotel"
+ *     is seven terms of which two are redundant.
+ *   · The city name is three-plus words — "Lake of the Ozarks" is unambiguous
+ *     on its own, and every extra term narrows an AND query toward zero.
+ *
+ * Everything else gets the FULL STATE NAME, never the postal code: "NC"
+ * matches nothing in the photo libraries, and Portland OR / Portland ME are a
+ * real collision.
+ */
+export function placePhrase(city: string, stateName: string): string {
+  const c = city.trim();
+  if (!stateName) return c;
+  if (c.toLowerCase().includes(stateName.toLowerCase())) return c;
+  if (c.split(/\s+/).length >= 3) return c;
+  return `${c} ${stateName}`;
+}
+
 export interface PolicyViolation {
   key: string;
   rule: string;
@@ -122,9 +152,7 @@ export interface PolicyViolation {
 const categoryOf = (key: string): string => key.split("/")[1] ?? "";
 
 const hasWord = (haystack: string, needle: string): boolean =>
-  new RegExp(`(^|\\s)${needle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\s|$)`, "i").test(
-    haystack,
-  );
+  new RegExp(`(^|\\s)${needle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\s|$)`).test(haystack);
 
 const firstToken = (s: string): string => s.trim().split(/\s+/)[0]?.toLowerCase() ?? "";
 
@@ -150,8 +178,12 @@ export function checkQueryItem(item: QueryItem): PolicyViolation[] {
     });
   }
 
-  // ── 2. postal state codes (applies to curated too) ───────────────────────
-  for (const [field, text] of texts) {
+  // ── 2. postal state codes ────────────────────────────────────────────────
+  // Non-curated only, and for the same reason as the casing rule above: a
+  // TEMPLATE shipping `${dest.state}` is the defect this catches, while a
+  // hand-written name legitimately contains those two letters — "The LINE LA
+  // Koreatown" is a real hotel, and LA/IN/OK/OR/ME/HI are all state codes.
+  for (const [field, text] of item.curated ? [] : texts) {
     const code = text
       .split(/\s+/)
       .find((t) => /^[A-Z]{2}$/.test(t) && STATE_NAMES[t] !== undefined);
@@ -164,6 +196,8 @@ export function checkQueryItem(item: QueryItem): PolicyViolation[] {
     }
   }
 
+  // A human-written, pixel-reviewed string is not a template. Rules 3-6 exist
+  // to police strings a loop generated for hundreds of records nobody reads.
   if (item.curated) return out;
 
   // ── 3. lighting words ────────────────────────────────────────────────────

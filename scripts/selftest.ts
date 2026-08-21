@@ -197,8 +197,26 @@ suite("query hygiene rules");
     curated: true,
   };
   eq(checkQueryItem(curated), [], "a curated, human-reviewed query is exempt — engagedmoon queries dusk on purpose");
-  const curatedWithCode: QueryItem = { ...q("engagedmoon/spots/x", "Sedona AZ red rocks"), curated: true };
-  ok(checkQueryItem(curatedWithCode).map((v) => v.rule).includes("postal-state-code"), "…but `curated` never exempts a postal code, which matches nothing anywhere");
+  const properName: QueryItem = {
+    ...q("offsite/venues/the-line-la-koreatown", "The LINE LA Koreatown Openaire greenhouse restaurant"),
+    curated: true,
+  };
+  eq(checkQueryItem(properName), [], "a real hotel called 'The LINE LA' is not a postal-code defect");
+  const productName: QueryItem = q("offsite/outings/casino-gaming-night", "Casino Gaming Night nightlife corporate outing");
+  eq(checkQueryItem(productName), [], "'Night' capitalised inside a product's own name is not a lighting term");
+  ok(
+    checkQueryItem(q("moh/cities/austin-tx", "Austin Texas rooftop night")).map((v) => v.rule).includes("lighting-word"),
+    "…while lowercase 'night' from a template still fails",
+  );
+
+  const curatedVenueFallback: QueryItem = {
+    ...q("offsite/venues/ashford-castle", "Ashford Castle Ireland", "castle resort"),
+    curated: true,
+  };
+  ok(
+    checkQueryItem(curatedVenueFallback).map((v) => v.rule).includes("venue-no-fallback"),
+    "`curated` never exempts rule 1 — review does not make a generic photo a photo of the property",
+  );
 }
 
 // ══ 4. Change D — health is entries added, not workflow green ═════════════
