@@ -382,6 +382,15 @@ async function main() {
   let processed = 0;
   let added = 0;
   let aborted = false;
+  /**
+   * Unsplash has no hourly budget left. NOT a reason to stop: Pexels carries a
+   * separate 200/hr and 25k/month, and until 2026-08-21 the run aborted here
+   * anyway — killing a fetch that still had ~24,900 Pexels requests in hand.
+   * With Unsplash on the Demo tier (50/hr x 3 keys) that ceiling arrived after
+   * ~75 keys and left 1,507 uncached. Exhausted means "stop asking Unsplash",
+   * not "stop working".
+   */
+  let unsplashExhausted = false;
   let missesChanged = false;
   /** Keys where every source returned NOTHING — the silent-401 signature. */
   let zeroResultKeys = 0;
@@ -410,55 +419,98 @@ async function main() {
         return null;
       };
 
-      const result0 = await searchUnsplash(item.query, nextKey());
-      let result = result0;
-      let chosen = pickNonViolating(result0.entries);
+      // Tiers 1-2: Unsplash primary, then the fallback phrasing. Skipped
+      // wholesale once Unsplash is out of budget — a request we know will 403
+      // is a second of sleep and a log line, not a photograph.
+      let result: { entries: Omit<CacheEntry, "addedBy">[]; ratelimitRemaining: number } = {
+        entries: [],
+        ratelimitRemaining: NaN,
+      };
+      let chosen: Omit<CacheEntry, "addedBy"> | null = null;
       let usedFallback = false;
 
-      if (
-        !chosen &&
-        item.fallbackQuery &&
-        item.fallbackQuery !== item.query &&
-        !Number.isNaN(result.ratelimitRemaining) &&
-        result.ratelimitRemaining > RATELIMIT_FLOOR + 2
-      ) {
-        await sleep(SLEEP_MS);
-        const fb = await searchUnsplash(item.fallbackQuery, nextKey());
-        result = fb;
-        const fbChosen = pickNonViolating(fb.entries);
-        if (fbChosen) {
-          chosen = fbChosen;
-          usedFallback = true;
+      if (!unsplashExhausted) {
+        try {
+          const result0 = await searchUnsplash(item.query, nextKey());
+          result = result0;
+          chosen = pickNonViolating(result0.entries);
+
+          if (
+            !chosen &&
+            item.fallbackQuery &&
+            item.fallbackQuery !== item.query &&
+            !Number.isNaN(result.ratelimitRemaining) &&
+            result.ratelimitRemaining > RATELIMIT_FLOOR + 2
+          ) {
+            await sleep(SLEEP_MS);
+            const fb = await searchUnsplash(item.fallbackQuery, nextKey());
+            result = fb;
+            const fbChosen = pickNonViolating(fb.entries);
+            if (fbChosen) {
+              chosen = fbChosen;
+              usedFallback = true;
+            }
+          }
+        } catch (err) {
+          // A rate-limited Unsplash retires that SOURCE for the rest of the
+          // run and falls through to Pexels for THIS key — the item is not
+          // skipped and is not tombstoned, because "Unsplash ran out of
+          // budget" is not evidence that no photograph exists. Any other
+          // Unsplash error is genuine and rethrown to the per-item handler.
+          if (err instanceof UnsplashRateLimitError) {
+            unsplashExhausted = true;
+            console.log(
+              `\n⚠  Unsplash hourly budget spent — continuing on Pexels for the rest of this run\n`,
+            );
+          } else {
+            throw err;
+          }
         }
       }
 
-      // Tier 3: Pexels fallback — only if both Unsplash queries returned
-      // nothing AND a Pexels key is configured. Pexels has a different
-      // photo library so often resolves where Unsplash didn't, breaking
-      // duplicate-photo collisions on generic fallback queries.
+      // Pexels — tier 3 normally, tier 1 once Unsplash is spent. A different
+      // library, so it often resolves where Unsplash didn't: on the first pass
+      // after the key landed it rescued 9 of 25 bestman keys, 8 of them already
+      // tombstoned as "no results".
+      //
+      // WHICH PHRASING IT ASKS depends on why we got here, because those are
+      // two different questions:
+      //   · Unsplash was ASKED and found nothing -> the specific phrasing is
+      //     already disproven for this subject, so go broad with the fallback.
+      //   · Unsplash was SKIPPED (out of budget) -> nothing has been disproven.
+      //     Ask the specific query first; a broad query here would trade
+      //     subject accuracy for nothing and feed the fan-out ceiling generic
+      //     photos it will then have to reject.
       let usedPexels = false;
       if (!chosen && pexelsKey && pexelsRemaining > 5) {
-        await sleep(SLEEP_MS);
-        try {
-          const pex = await searchPexels(item.fallbackQuery || item.query, pexelsKey);
-          if (pex.entry) {
-            // Pexels entry already matches Omit<CacheEntry, "addedBy">; it
-            // faces the same ceiling check as every Unsplash candidate.
-            const pexChosen = pickNonViolating([pex.entry]);
-            if (pexChosen) {
-              chosen = pexChosen;
-              usedPexels = true;
+        const pexelsQueries = unsplashExhausted
+          ? [item.query, item.fallbackQuery].filter((q): q is string => Boolean(q))
+          : [item.fallbackQuery || item.query];
+
+        for (const pq of pexelsQueries) {
+          if (chosen || pexelsRemaining <= 5) break;
+          await sleep(SLEEP_MS);
+          try {
+            const pex = await searchPexels(pq, pexelsKey);
+            if (pex.entry) {
+              // Pexels entry already matches Omit<CacheEntry, "addedBy">; it
+              // faces the same ceiling check as every Unsplash candidate.
+              const pexChosen = pickNonViolating([pex.entry]);
+              if (pexChosen) {
+                chosen = pexChosen;
+                usedPexels = true;
+              }
             }
-          }
-          if (!Number.isNaN(pex.ratelimitRemaining)) {
-            pexelsRemaining = pex.ratelimitRemaining;
-          }
-        } catch (err) {
-          if (err instanceof PexelsRateLimitError) {
-            console.log(`  ⚠ Pexels rate-limited; disabling for the rest of this run`);
-            pexelsRemaining = 0;
-          } else {
-            console.error(`  Pexels error on "${item.query}":`, err instanceof Error ? err.message : err);
+            if (!Number.isNaN(pex.ratelimitRemaining)) {
+              pexelsRemaining = pex.ratelimitRemaining;
+            }
+          } catch (err) {
+            if (err instanceof PexelsRateLimitError) {
+              console.log(`  ⚠ Pexels rate-limited; disabling for the rest of this run`);
+              pexelsRemaining = 0;
+              break;
+            }
+            console.error(`  Pexels error on "${pq}":`, err instanceof Error ? err.message : err);
           }
         }
       }
@@ -499,20 +551,33 @@ async function main() {
       if (missesChanged) saveMisses(misses);
 
       if (
+        !unsplashExhausted &&
         !Number.isNaN(result.ratelimitRemaining) &&
         result.ratelimitRemaining < RATELIMIT_FLOOR
       ) {
+        unsplashExhausted = true;
         console.log(
-          `\n⚠  Stopping early — only ${result.ratelimitRemaining} requests left in the hourly budget`,
+          `\n⚠  Unsplash down to ${result.ratelimitRemaining} requests — continuing on Pexels for the rest of this run\n`,
+        );
+      }
+
+      // The run stops only when EVERY source is spent. Stopping while another
+      // source still has budget is what left 1,507 keys uncached.
+      if (unsplashExhausted && (!pexelsKey || pexelsRemaining <= 5)) {
+        console.log(
+          `\n⚠  Stopping early — every configured source is out of budget ` +
+            `(unsplash spent, pexels ${pexelsKey ? `${pexelsRemaining} left` : "not configured"})`,
         );
         aborted = true;
         break;
       }
     } catch (err) {
       if (err instanceof UnsplashRateLimitError) {
-        console.log(`\n⚠  Rate limit hit — try again in an hour`);
-        aborted = true;
-        break;
+        // Reached only from outside the Unsplash block above (it handles its
+        // own). Retire the source; let the next item try Pexels.
+        unsplashExhausted = true;
+        console.log(`\n⚠  Unsplash hourly budget spent — continuing on Pexels\n`);
+        continue;
       }
       console.error(
         `  ✘ ${item.label || item.key}: ${err instanceof Error ? err.message : String(err)}`,

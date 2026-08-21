@@ -1,4 +1,11 @@
 {
+  "moh/cities/lexington-ky/lodging": {
+    "query": "Lexington Kentucky boutique hotel",
+    "fallbackQuery": "Lexington hotel",
+    "at": "2026-08-21T14:54:25.537Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "offsite/venues/ashford-castle": {
     "query": "Ashford Castle Ireland lake falconry forest",
     "at": "2026-08-21T13:09:26.187Z",

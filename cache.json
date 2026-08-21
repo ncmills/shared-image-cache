@@ -8249,6 +8249,156 @@
     "fetchedAt": "2026-06-29T18:22:48.560Z",
     "addedBy": "moh"
   },
+  "moh/cities/beaufort-sc": {
+    "url": "https://images.pexels.com/photos/15789717/pexels-photo-15789717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial cityscape of Charleston, SC showcasing historic architecture under a cloudy sky.",
+    "photographerName": "Connor Scott McManus",
+    "photographerUrl": "https://www.pexels.com/@connorscottmcmanus",
+    "unsplashUrl": "https://www.pexels.com/photo/clouds-over-town-15789717/",
+    "query": "Beaufort South Carolina skyline",
+    "fetchedAt": "2026-08-21T14:52:09.404Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/beaufort-sc/activities": {
+    "url": "https://images.pexels.com/photos/30167190/pexels-photo-30167190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful sunset over Charleston marshes with silhouette of trees and water reflections.",
+    "photographerName": "Levi McRea",
+    "photographerUrl": "https://www.pexels.com/@levi-mcrea-562258120",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-over-charleston-marshes-with-silhouette-trees-30167190/",
+    "query": "Beaufort South Carolina spa",
+    "fetchedAt": "2026-08-21T14:52:18.889Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/beaufort-sc/bars": {
+    "url": "https://images.pexels.com/photos/2260281/pexels-photo-2260281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime and umbrellas on a dimly lit bar counter, perfect for nightlife.",
+    "photographerName": "Richard - DJ Sanks  Norman",
+    "photographerUrl": "https://www.pexels.com/@deejaysankssa",
+    "unsplashUrl": "https://www.pexels.com/photo/two-margarita-glasses-on-brown-wooden-surface-2260281/",
+    "query": "Beaufort South Carolina cocktail bar",
+    "fetchedAt": "2026-08-21T14:52:16.582Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/beaufort-sc/dining": {
+    "url": "https://images.pexels.com/photos/29834275/pexels-photo-29834275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A butcher serving a customer at a local store with fresh meats on display.",
+    "photographerName": "Daniel & Hannah Snipes",
+    "photographerUrl": "https://www.pexels.com/@prolificpeople",
+    "unsplashUrl": "https://www.pexels.com/photo/local-butcher-shop-with-fresh-meat-display-29834275/",
+    "query": "Beaufort South Carolina restaurant interior",
+    "fetchedAt": "2026-08-21T14:52:14.183Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/beaufort-sc/lodging": {
+    "url": "https://images.pexels.com/photos/34607320/pexels-photo-34607320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the elegant reception area of a Miami Beach boutique hotel, showcasing modern coastal design and vibrant decor.",
+    "photographerName": "Abhishek  Navlakha",
+    "photographerUrl": "https://www.pexels.com/@navlakha",
+    "unsplashUrl": "https://www.pexels.com/photo/chic-miami-beach-hotel-reception-interior-34607320/",
+    "query": "Beaufort South Carolina boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:11.824Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-bear-lake-ca": {
+    "url": "https://images.pexels.com/photos/35338210/pexels-photo-35338210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning sunset view of Big Bear Lake, California with boats, mountains, and observatory in the backdrop.",
+    "photographerName": "Soly Moses",
+    "photographerUrl": "https://www.pexels.com/@solyartphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-over-big-bear-lake-with-boats-and-mountains-35338210/",
+    "query": "Big Bear Lake skyline",
+    "fetchedAt": "2026-08-21T14:53:46.458Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-bear-lake-ca/activities": {
+    "url": "https://images.pexels.com/photos/14762020/pexels-photo-14762020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating sunset over Big Bear Lake with birds flying against a colorful sky.",
+    "photographerName": "Soly Moses",
+    "photographerUrl": "https://www.pexels.com/@solyartphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/silhouetted-hills-and-trees-by-a-body-of-water-at-sunset-14762020/",
+    "query": "Big Bear Lake spa",
+    "fetchedAt": "2026-08-21T14:53:55.891Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-bear-lake-ca/bars": {
+    "url": "https://images.pexels.com/photos/35338210/pexels-photo-35338210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning sunset view of Big Bear Lake, California with boats, mountains, and observatory in the backdrop.",
+    "photographerName": "Soly Moses",
+    "photographerUrl": "https://www.pexels.com/@solyartphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-over-big-bear-lake-with-boats-and-mountains-35338210/",
+    "query": "Big Bear Lake cocktail bar",
+    "fetchedAt": "2026-08-21T14:53:53.473Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-bear-lake-ca/dining": {
+    "url": "https://images.pexels.com/photos/15227900/pexels-photo-15227900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Cozy restaurant in Tihany, Hungary, offering stunning views of Lake Balaton through wooden beams.",
+    "photographerName": "Bence Szemerey",
+    "photographerUrl": "https://www.pexels.com/@bence-szemerey-337043",
+    "unsplashUrl": "https://www.pexels.com/photo/people-in-the-restaurant-near-body-os-water-15227900/",
+    "query": "Big Bear Lake restaurant interior",
+    "fetchedAt": "2026-08-21T14:53:51.152Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-bear-lake-ca/lodging": {
+    "url": "https://images.pexels.com/photos/14762020/pexels-photo-14762020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating sunset over Big Bear Lake with birds flying against a colorful sky.",
+    "photographerName": "Soly Moses",
+    "photographerUrl": "https://www.pexels.com/@solyartphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/silhouetted-hills-and-trees-by-a-body-of-water-at-sunset-14762020/",
+    "query": "Big Bear Lake boutique hotel",
+    "fetchedAt": "2026-08-21T14:53:48.821Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/black-hills-sd": {
+    "url": "https://images.pexels.com/photos/34181025/pexels-photo-34181025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the stunning rock formations and pine forests of the Black Hills in South Dakota.",
+    "photographerName": "Mike Lensing",
+    "photographerUrl": "https://www.pexels.com/@mike-lensing-1518709415",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-black-hills-pine-forest-and-rock-formations-34181025/",
+    "query": "Black Hills South Dakota skyline",
+    "fetchedAt": "2026-08-21T14:53:32.776Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/black-hills-sd/activities": {
+    "url": "https://images.pexels.com/photos/34181022/pexels-photo-34181022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking view of needle-like rock formations surrounded by lush greenery in Hill City, South Dakota.",
+    "photographerName": "Mike Lensing",
+    "photographerUrl": "https://www.pexels.com/@mike-lensing-1518709415",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-needle-rock-formations-in-hill-city-sd-34181022/",
+    "query": "Black Hills South Dakota spa",
+    "fetchedAt": "2026-08-21T14:53:43.972Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/black-hills-sd/bars": {
+    "url": "https://images.pexels.com/photos/34181025/pexels-photo-34181025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the stunning rock formations and pine forests of the Black Hills in South Dakota.",
+    "photographerName": "Mike Lensing",
+    "photographerUrl": "https://www.pexels.com/@mike-lensing-1518709415",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-black-hills-pine-forest-and-rock-formations-34181025/",
+    "query": "Black Hills bar",
+    "fetchedAt": "2026-08-21T14:53:41.627Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/black-hills-sd/dining": {
+    "url": "https://images.pexels.com/photos/39114264/pexels-photo-39114264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning barren rock formations in Badlands National Park, showcasing unique geological patterns and textures.",
+    "photographerName": "Çiğdem Bilgin",
+    "photographerUrl": "https://www.pexels.com/@cigdem-bilgin-2154409770",
+    "unsplashUrl": "https://www.pexels.com/photo/majestic-rocky-terrain-of-badlands-national-park-39114264/",
+    "query": "Black Hills South Dakota restaurant interior",
+    "fetchedAt": "2026-08-21T14:53:37.737Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/black-hills-sd/lodging": {
+    "url": "https://images.pexels.com/photos/34181025/pexels-photo-34181025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the stunning rock formations and pine forests of the Black Hills in South Dakota.",
+    "photographerName": "Mike Lensing",
+    "photographerUrl": "https://www.pexels.com/@mike-lensing-1518709415",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-black-hills-pine-forest-and-rock-formations-34181025/",
+    "query": "Black Hills South Dakota boutique hotel",
+    "fetchedAt": "2026-08-21T14:53:35.279Z",
+    "addedBy": "moh"
+  },
   "moh/cities/block-island-ri": {
     "url": "https://images.unsplash.com/photo-1562531780-72e81ba57c9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGRvd250b3dufGVufDF8MHx8fDE3ODczMjM4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "two person standing on memphis wall",
@@ -8347,6 +8497,56 @@
     "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-pIH5DX-jlAY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bozeman MT boutique hotel bachelorette suite",
     "fetchedAt": "2026-06-30T04:22:42.069Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/branson-mo": {
+    "url": "https://images.pexels.com/photos/5147543/pexels-photo-5147543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of the Tiger Hotel in downtown Columbia, Missouri, showcasing urban architecture.",
+    "photographerName": "Michael Gattorna",
+    "photographerUrl": "https://www.pexels.com/@michael-gattorna-3447992",
+    "unsplashUrl": "https://www.pexels.com/photo/brown-and-beige-concrete-building-under-the-sky-5147543/",
+    "query": "Branson Missouri skyline",
+    "fetchedAt": "2026-08-21T14:54:10.141Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/branson-mo/activities": {
+    "url": "https://images.pexels.com/photos/3851237/pexels-photo-3851237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Friends having fun and relaxing together in a jacuzzi with drinks indoors.",
+    "photographerName": "Andrea Piacquadio",
+    "photographerUrl": "https://www.pexels.com/@olly",
+    "unsplashUrl": "https://www.pexels.com/photo/people-in-a-hot-tub-3851237/",
+    "query": "Branson Missouri spa",
+    "fetchedAt": "2026-08-21T14:54:19.618Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/branson-mo/bars": {
+    "url": "https://images.pexels.com/photos/16859952/pexels-photo-16859952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime garnish on a bar, set against a blurred background. Perfect for nightlife scenes.",
+    "photographerName": "Skills Media",
+    "photographerUrl": "https://www.pexels.com/@skills-media-437558258",
+    "unsplashUrl": "https://www.pexels.com/photo/close-up-of-cocktails-16859952/",
+    "query": "Branson Missouri cocktail bar",
+    "fetchedAt": "2026-08-21T14:54:17.265Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/branson-mo/dining": {
+    "url": "https://images.pexels.com/photos/38313886/pexels-photo-38313886.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Delicious Japanese teppanyaki meal with grilled steak and vegetables in Kansas City.",
+    "photographerName": "Talena Reese",
+    "photographerUrl": "https://www.pexels.com/@talenareese",
+    "unsplashUrl": "https://www.pexels.com/photo/japanese-teppanyaki-at-kansas-city-restaurant-38313886/",
+    "query": "Branson Missouri restaurant interior",
+    "fetchedAt": "2026-08-21T14:54:14.940Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/branson-mo/lodging": {
+    "url": "https://images.pexels.com/photos/14483022/pexels-photo-14483022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant facade of Rockwell Lounge Suites in Stratford, featuring unique architectural design and signage.",
+    "photographerName": "RAJ CHOHAN",
+    "photographerUrl": "https://www.pexels.com/@raj-chohan-321953985",
+    "unsplashUrl": "https://www.pexels.com/photo/text-signage-on-concrete-wall-14483022/",
+    "query": "Branson Missouri boutique hotel",
+    "fetchedAt": "2026-08-21T14:54:12.552Z",
     "addedBy": "moh"
   },
   "moh/cities/burlington-vt": {
@@ -8599,6 +8799,106 @@
     "fetchedAt": "2026-06-30T09:59:02.117Z",
     "addedBy": "moh"
   },
+  "moh/cities/cody-wy": {
+    "url": "https://images.unsplash.com/photo-1610687660051-9fe41058f9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NzMyMzg3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden house on green grass field near mountain under blue sky during daytime",
+    "photographerName": "Karsten Koehn",
+    "photographerUrl": "https://unsplash.com/@karstenkoehn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-house-on-green-grass-field-near-mountain-under-blue-sky-during-daytime-Mb975vDopLw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming skyline",
+    "fetchedAt": "2026-08-21T14:51:12.755Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cody-wy/activities": {
+    "url": "https://images.pexels.com/photos/6539868/pexels-photo-6539868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Three women exercising and stretching in a gym, promoting health and wellness.",
+    "photographerName": "RDNE Stock project",
+    "photographerUrl": "https://www.pexels.com/@rdne",
+    "unsplashUrl": "https://www.pexels.com/photo/group-of-women-stretching-6539868/",
+    "query": "Cody wellness",
+    "fetchedAt": "2026-08-21T14:51:22.754Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cody-wy/bars": {
+    "url": "https://images.pexels.com/photos/29455146/pexels-photo-29455146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A stylish bar shelf filled with assorted wine and liquor bottles, elegantly arranged for a sophisticated ambiance.",
+    "photographerName": "Karen F",
+    "photographerUrl": "https://www.pexels.com/@karen-f-1376469",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-bar-shelf-display-with-various-wines-and-spirits-29455146/",
+    "query": "Cody bar",
+    "fetchedAt": "2026-08-21T14:51:19.871Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cody-wy/dining": {
+    "url": "https://images.unsplash.com/photo-1611653683051-17e3b2d6e8ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMHJlc3RhdXJhbnQlMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg3MzIzODc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table with chairs",
+    "photographerName": "KWON JUNHO",
+    "photographerUrl": "https://unsplash.com/@juno1412?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-with-chairs-cdV6wL_Eoy4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming restaurant interior",
+    "fetchedAt": "2026-08-21T14:51:15.710Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cody-wy/lodging": {
+    "url": "https://images.unsplash.com/photo-1580516091765-3978351061b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMGJvdXRpcXVlJTIwaG90ZWx8ZW58MXwwfHx8MTc4NzMyMzg3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building under blue sky during daytime",
+    "photographerName": "Mitchell Kmetz",
+    "photographerUrl": "https://unsplash.com/@mitchkmetz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-Hp5eU3mcxsg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming boutique hotel",
+    "fetchedAt": "2026-08-21T14:51:14.231Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/coeur-dalene-id": {
+    "url": "https://images.pexels.com/photos/33078556/pexels-photo-33078556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A stunning aerial view of Priest River, Idaho at sunrise showcasing serene waters and lush landscapes.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-priest-river-at-sunrise-33078556/",
+    "query": "Coeur d'Alene Idaho skyline",
+    "fetchedAt": "2026-08-21T14:53:20.739Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/coeur-dalene-id/activities": {
+    "url": "https://images.pexels.com/photos/20421584/pexels-photo-20421584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A soothing foot massage session in a tranquil spa, promoting relaxation and wellness.",
+    "photographerName": "Alina Zahorulko",
+    "photographerUrl": "https://www.pexels.com/@alina-zahorulko-48514961",
+    "unsplashUrl": "https://www.pexels.com/photo/massage-therapy-on-woman-feet-20421584/",
+    "query": "Coeur d'Alene Idaho spa",
+    "fetchedAt": "2026-08-21T14:53:30.464Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/coeur-dalene-id/bars": {
+    "url": "https://images.pexels.com/photos/5863542/pexels-photo-5863542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant cocktails on a bar counter in a cozy nightlife setting with ambient lighting.",
+    "photographerName": "Rachel Claire",
+    "photographerUrl": "https://www.pexels.com/@rachel-claire",
+    "unsplashUrl": "https://www.pexels.com/photo/two-drinks-on-a-counter-5863542/",
+    "query": "Coeur d'Alene Idaho cocktail bar",
+    "fetchedAt": "2026-08-21T14:53:27.805Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/coeur-dalene-id/dining": {
+    "url": "https://images.pexels.com/photos/10127261/pexels-photo-10127261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Cozy restaurant interior with table settings, perfect for a relaxed dining experience.",
+    "photographerName": "Deane Bayas",
+    "photographerUrl": "https://www.pexels.com/@dbaler",
+    "unsplashUrl": "https://www.pexels.com/photo/table-setting-in-restaurant-10127261/",
+    "query": "Coeur d'Alene Idaho restaurant interior",
+    "fetchedAt": "2026-08-21T14:53:25.449Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/coeur-dalene-id/lodging": {
+    "url": "https://images.pexels.com/photos/31298593/pexels-photo-31298593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful farmhouse surrounded by fall trees, capturing a warm autumn atmosphere in a serene rural setting.",
+    "photographerName": "Michael Kessel",
+    "photographerUrl": "https://www.pexels.com/@michael-kessel-112079563",
+    "unsplashUrl": "https://www.pexels.com/photo/charming-autumn-farmhouse-amidst-golden-foliage-31298593/",
+    "query": "Coeur d'Alene Idaho boutique hotel",
+    "fetchedAt": "2026-08-21T14:53:23.095Z",
+    "addedBy": "moh"
+  },
   "moh/cities/dallas-tx": {
     "url": "https://images.unsplash.com/photo-1766275827053-1d46fec02858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "City skyline silhouette against a colorful sunset.",
@@ -8749,6 +9049,106 @@
     "fetchedAt": "2026-08-21T14:39:47.270Z",
     "addedBy": "moh"
   },
+  "moh/cities/door-county-wi": {
+    "url": "https://images.pexels.com/photos/13338739/pexels-photo-13338739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking aerial view of Madison, Wisconsin's cityscape during a serene sunset.",
+    "photographerName": "Josh Sorenson",
+    "photographerUrl": "https://www.pexels.com/@joshsorenson",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-shot-of-a-coastal-cityscape-13338739/",
+    "query": "Door County Wisconsin skyline",
+    "fetchedAt": "2026-08-21T14:52:57.023Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/door-county-wi/activities": {
+    "url": "https://images.pexels.com/photos/19512691/pexels-photo-19512691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming closed diner with a vintage Texaco sign in the small town of Stockholm, Wisconsin.",
+    "photographerName": "Tom Fisk",
+    "photographerUrl": "https://www.pexels.com/@tomfisk",
+    "unsplashUrl": "https://www.pexels.com/photo/view-of-an-old-closed-diner-by-the-street-in-city-19512691/",
+    "query": "Door County Wisconsin spa",
+    "fetchedAt": "2026-08-21T14:53:06.426Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/door-county-wi/bars": {
+    "url": "https://images.pexels.com/photos/29006837/pexels-photo-29006837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant lineup of diverse cocktails on a bar counter in Nairobi, Kenya.",
+    "photographerName": "Ken Mwaura",
+    "photographerUrl": "https://www.pexels.com/@mwauraken",
+    "unsplashUrl": "https://www.pexels.com/photo/colorful-cocktails-display-in-nairobi-bar-29006837/",
+    "query": "Door County Wisconsin cocktail bar",
+    "fetchedAt": "2026-08-21T14:53:04.049Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/door-county-wi/dining": {
+    "url": "https://images.pexels.com/photos/19512691/pexels-photo-19512691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming closed diner with a vintage Texaco sign in the small town of Stockholm, Wisconsin.",
+    "photographerName": "Tom Fisk",
+    "photographerUrl": "https://www.pexels.com/@tomfisk",
+    "unsplashUrl": "https://www.pexels.com/photo/view-of-an-old-closed-diner-by-the-street-in-city-19512691/",
+    "query": "Door County Wisconsin restaurant interior",
+    "fetchedAt": "2026-08-21T14:53:01.757Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/door-county-wi/lodging": {
+    "url": "https://images.pexels.com/photos/19512691/pexels-photo-19512691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming closed diner with a vintage Texaco sign in the small town of Stockholm, Wisconsin.",
+    "photographerName": "Tom Fisk",
+    "photographerUrl": "https://www.pexels.com/@tomfisk",
+    "unsplashUrl": "https://www.pexels.com/photo/view-of-an-old-closed-diner-by-the-street-in-city-19512691/",
+    "query": "Door County Wisconsin boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:59.440Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eureka-springs-ar": {
+    "url": "https://images.pexels.com/photos/38069464/pexels-photo-38069464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Beaver Bridge over tranquil waters in fall.",
+    "photographerName": "Deb Hayes",
+    "photographerUrl": "https://www.pexels.com/@deb-hayes-2162133389",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-beaver-bridge-in-eureka-springs-38069464/",
+    "query": "Eureka Springs Arkansas skyline",
+    "fetchedAt": "2026-08-21T14:52:21.247Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eureka-springs-ar/activities": {
+    "url": "https://images.pexels.com/photos/38069464/pexels-photo-38069464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Beaver Bridge over tranquil waters in fall.",
+    "photographerName": "Deb Hayes",
+    "photographerUrl": "https://www.pexels.com/@deb-hayes-2162133389",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-beaver-bridge-in-eureka-springs-38069464/",
+    "query": "Eureka Springs Arkansas spa",
+    "fetchedAt": "2026-08-21T14:52:30.686Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eureka-springs-ar/bars": {
+    "url": "https://images.pexels.com/photos/5863542/pexels-photo-5863542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant cocktails on a bar counter in a cozy nightlife setting with ambient lighting.",
+    "photographerName": "Rachel Claire",
+    "photographerUrl": "https://www.pexels.com/@rachel-claire",
+    "unsplashUrl": "https://www.pexels.com/photo/two-drinks-on-a-counter-5863542/",
+    "query": "Eureka Springs Arkansas cocktail bar",
+    "fetchedAt": "2026-08-21T14:52:28.308Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eureka-springs-ar/dining": {
+    "url": "https://images.pexels.com/photos/8856561/pexels-photo-8856561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant wine glasses and cozy restaurant ambiance create a sophisticated dining experience.",
+    "photographerName": "Alexandra Kollstrem",
+    "photographerUrl": "https://www.pexels.com/@alexandra-kollstrem-77751824",
+    "unsplashUrl": "https://www.pexels.com/photo/wine-glasses-on-bar-counter-8856561/",
+    "query": "Eureka Springs Arkansas restaurant interior",
+    "fetchedAt": "2026-08-21T14:52:25.888Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eureka-springs-ar/lodging": {
+    "url": "https://images.pexels.com/photos/14483022/pexels-photo-14483022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant facade of Rockwell Lounge Suites in Stratford, featuring unique architectural design and signage.",
+    "photographerName": "RAJ CHOHAN",
+    "photographerUrl": "https://www.pexels.com/@raj-chohan-321953985",
+    "unsplashUrl": "https://www.pexels.com/photo/text-signage-on-concrete-wall-14483022/",
+    "query": "Eureka Springs Arkansas boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:23.601Z",
+    "addedBy": "moh"
+  },
   "moh/cities/finger-lakes-ny": {
     "url": "https://images.unsplash.com/photo-1519757043093-285fcb07a4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman wearing sunhat riding boat on body of water",
@@ -8807,6 +9207,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-sign-that-is-on-top-of-a-building-vhrbkG5dk_c?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Flagstaff downtown",
     "fetchedAt": "2026-08-21T14:50:48.532Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/flagstaff-az/activities": {
+    "url": "https://images.unsplash.com/photo-1764885449364-b1a758f03063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjB3ZWxsbmVzc3xlbnwxfDB8fHwxNzg3MzIzODU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Modern building with a banner reading \"great people great care\"",
+    "photographerName": "LEDC",
+    "photographerUrl": "https://unsplash.com/@ledc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/modern-building-with-a-banner-reading-great-people-great-care-DNdWAzM7wPA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff wellness",
+    "fetchedAt": "2026-08-21T14:50:57.174Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/flagstaff-az/bars": {
+    "url": "https://images.unsplash.com/photo-1625737120653-4cfe60e7f68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBcml6b25hJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyMzg1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees under cloudy sky during daytime",
+    "photographerName": "Marius Christensen",
+    "photographerUrl": "https://unsplash.com/@mariuschristensen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-under-cloudy-sky-during-daytime-9QBKZCPjm2U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff Arizona cocktail bar",
+    "fetchedAt": "2026-08-21T14:50:54.331Z",
     "addedBy": "moh"
   },
   "moh/cities/flagstaff-az/dining": {
@@ -8929,6 +9349,156 @@
     "fetchedAt": "2026-07-01T12:19:48.388Z",
     "addedBy": "moh"
   },
+  "moh/cities/galena-il": {
+    "url": "https://images.unsplash.com/photo-1696994204852-f2deb428f867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJbGxpbm9pcyUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NzMyMzg1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a row of cars parked on the side of a road",
+    "photographerName": "Vincent Y @USA",
+    "photographerUrl": "https://unsplash.com/@vincentyuan87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-row-of-cars-parked-on-the-side-of-a-road-cVB6M6sPP1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena Illinois skyline",
+    "fetchedAt": "2026-08-21T14:50:58.543Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/galena-il/activities": {
+    "url": "https://images.pexels.com/photos/6539868/pexels-photo-6539868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Three women exercising and stretching in a gym, promoting health and wellness.",
+    "photographerName": "RDNE Stock project",
+    "photographerUrl": "https://www.pexels.com/@rdne",
+    "unsplashUrl": "https://www.pexels.com/photo/group-of-women-stretching-6539868/",
+    "query": "Galena wellness",
+    "fetchedAt": "2026-08-21T14:51:11.384Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/galena-il/bars": {
+    "url": "https://images.unsplash.com/photo-1722872095107-55bc2cac8936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJbGxpbm9pcyUyMGNvY2t0YWlsJTIwYmFyfGVufDF8MHx8fDE3ODczMjM4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A table topped with lots of bottles of liquor",
+    "photographerName": "Mariah Hewines",
+    "photographerUrl": "https://unsplash.com/@mariahhewines?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-table-topped-with-lots-of-bottles-of-liquor-wtwgrz3PuIw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena Illinois cocktail bar",
+    "fetchedAt": "2026-08-21T14:51:07.005Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/galena-il/dining": {
+    "url": "https://images.pexels.com/photos/12735490/pexels-photo-12735490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A bustling urban nightlife scene at a restaurant and oyster bar, with people dining outside.",
+    "photographerName": "Deane Bayas",
+    "photographerUrl": "https://www.pexels.com/@dbaler",
+    "unsplashUrl": "https://www.pexels.com/photo/restaurant-at-night-12735490/",
+    "query": "Galena restaurant",
+    "fetchedAt": "2026-08-21T14:51:05.577Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/galena-il/lodging": {
+    "url": "https://images.unsplash.com/photo-1648877794940-4a24e7fb87f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzODYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a man walking past a store front on a city street",
+    "photographerName": "Keren Roeglin",
+    "photographerUrl": "https://unsplash.com/@kerenroeglin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-man-walking-past-a-store-front-on-a-city-street-6eEwUpLghHU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena hotel",
+    "fetchedAt": "2026-08-21T14:51:01.374Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/greenville-sc": {
+    "url": "https://images.pexels.com/photos/33951535/pexels-photo-33951535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "View of downtown Greenville with Reedy River Falls, a unique blend of nature and urban landscape.",
+    "photographerName": "Alex Borelli",
+    "photographerUrl": "https://www.pexels.com/@alex-borelli-2155891056",
+    "unsplashUrl": "https://www.pexels.com/photo/urban-waterfall-in-downtown-greenville-sc-33951535/",
+    "query": "Greenville South Carolina skyline",
+    "fetchedAt": "2026-08-21T14:51:34.143Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/greenville-sc/activities": {
+    "url": "https://images.pexels.com/photos/34177796/pexels-photo-34177796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant close-up of rose buds in a lush garden setting in Greenville, SC.",
+    "photographerName": "Steven May",
+    "photographerUrl": "https://www.pexels.com/@stevedoessteve",
+    "unsplashUrl": "https://www.pexels.com/photo/close-up-of-rose-buds-in-blooming-garden-34177796/",
+    "query": "Greenville South Carolina spa",
+    "fetchedAt": "2026-08-21T14:51:43.357Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/greenville-sc/bars": {
+    "url": "https://images.pexels.com/photos/2260281/pexels-photo-2260281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime and umbrellas on a dimly lit bar counter, perfect for nightlife.",
+    "photographerName": "Richard - DJ Sanks  Norman",
+    "photographerUrl": "https://www.pexels.com/@deejaysankssa",
+    "unsplashUrl": "https://www.pexels.com/photo/two-margarita-glasses-on-brown-wooden-surface-2260281/",
+    "query": "Greenville South Carolina cocktail bar",
+    "fetchedAt": "2026-08-21T14:51:41.059Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/greenville-sc/dining": {
+    "url": "https://images.pexels.com/photos/29834275/pexels-photo-29834275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A butcher serving a customer at a local store with fresh meats on display.",
+    "photographerName": "Daniel & Hannah Snipes",
+    "photographerUrl": "https://www.pexels.com/@prolificpeople",
+    "unsplashUrl": "https://www.pexels.com/photo/local-butcher-shop-with-fresh-meat-display-29834275/",
+    "query": "Greenville South Carolina restaurant interior",
+    "fetchedAt": "2026-08-21T14:51:38.750Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/greenville-sc/lodging": {
+    "url": "https://images.pexels.com/photos/37178180/pexels-photo-37178180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two women chat in a chic, cozy boutique showcasing artistic decor in Greenville, SC.",
+    "photographerName": "Daniel & Hannah Snipes",
+    "photographerUrl": "https://www.pexels.com/@prolificpeople",
+    "unsplashUrl": "https://www.pexels.com/photo/cozy-boutique-interior-with-conversing-women-37178180/",
+    "query": "Greenville South Carolina boutique hotel",
+    "fetchedAt": "2026-08-21T14:51:36.444Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gulfport-ms": {
+    "url": "https://images.pexels.com/photos/39004104/pexels-photo-39004104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful skyline of New Orleans across the Mississippi River during sunset.",
+    "photographerName": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-new-orleans-skyline-at-sunset-39004104/",
+    "query": "Gulfport Mississippi skyline",
+    "fetchedAt": "2026-08-21T14:53:58.319Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gulfport-ms/activities": {
+    "url": "https://images.pexels.com/photos/38720292/pexels-photo-38720292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating night shot of New Orleans skyline reflecting on the Mississippi River.",
+    "photographerName": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+    "photographerUrl": "https://www.pexels.com/@oleksiy-yeshtokyn-2147541276",
+    "unsplashUrl": "https://www.pexels.com/photo/stunning-night-view-of-new-orleans-skyline-38720292/",
+    "query": "Gulfport Mississippi spa",
+    "fetchedAt": "2026-08-21T14:54:07.947Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gulfport-ms/bars": {
+    "url": "https://images.pexels.com/photos/36189464/pexels-photo-36189464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A close-up of a classic martini with olives, beautifully presented in a Tokyo cocktail bar.",
+    "photographerName": "Szymon Shields",
+    "photographerUrl": "https://www.pexels.com/@szymon-shields-1503561",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-martini-with-olives-in-tokyo-bar-36189464/",
+    "query": "Gulfport Mississippi cocktail bar",
+    "fetchedAt": "2026-08-21T14:54:05.489Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gulfport-ms/dining": {
+    "url": "https://images.pexels.com/photos/2387675/pexels-photo-2387675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Spacious restaurant with stylish interior design, featuring wooden tables and a group of diners enjoying a meal.",
+    "photographerName": "Adrien Olichon",
+    "photographerUrl": "https://www.pexels.com/@adrien-olichon-1257089",
+    "unsplashUrl": "https://www.pexels.com/photo/people-in-a-bar-2387675/",
+    "query": "Gulfport Mississippi restaurant interior",
+    "fetchedAt": "2026-08-21T14:54:03.029Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gulfport-ms/lodging": {
+    "url": "https://images.pexels.com/photos/34607320/pexels-photo-34607320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the elegant reception area of a Miami Beach boutique hotel, showcasing modern coastal design and vibrant decor.",
+    "photographerName": "Abhishek  Navlakha",
+    "photographerUrl": "https://www.pexels.com/@navlakha",
+    "unsplashUrl": "https://www.pexels.com/photo/chic-miami-beach-hotel-reception-interior-34607320/",
+    "query": "Gulfport Mississippi boutique hotel",
+    "fetchedAt": "2026-08-21T14:54:00.674Z",
+    "addedBy": "moh"
+  },
   "moh/cities/hamptons-ny": {
     "url": "https://images.unsplash.com/photo-1752857015548-cc80cd44a958?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4MjkwODQxNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Outdoor lounge with beautiful furniture and lights.",
@@ -9027,6 +9597,56 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-indoor-swimming-pool-in-a-building-kz6S_zvk9G0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Hilton Head luxury hotel pool",
     "fetchedAt": "2026-07-02T11:46:48.805Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hot-springs-ar": {
+    "url": "https://images.pexels.com/photos/38069464/pexels-photo-38069464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Beaver Bridge over tranquil waters in fall.",
+    "photographerName": "Deb Hayes",
+    "photographerUrl": "https://www.pexels.com/@deb-hayes-2162133389",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-beaver-bridge-in-eureka-springs-38069464/",
+    "query": "Hot Springs Arkansas skyline",
+    "fetchedAt": "2026-08-21T14:51:57.697Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hot-springs-ar/activities": {
+    "url": "https://images.pexels.com/photos/13245235/pexels-photo-13245235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Natural hot spring pools with stunning rock formations at Tolantongo, Mexico.",
+    "photographerName": "Silvestre León",
+    "photographerUrl": "https://www.pexels.com/@silvestree",
+    "unsplashUrl": "https://www.pexels.com/photo/hot-spring-pools-at-the-tolantongo-resort-13245235/",
+    "query": "Hot Springs Arkansas spa",
+    "fetchedAt": "2026-08-21T14:52:07.074Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hot-springs-ar/bars": {
+    "url": "https://images.pexels.com/photos/36189464/pexels-photo-36189464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A close-up of a classic martini with olives, beautifully presented in a Tokyo cocktail bar.",
+    "photographerName": "Szymon Shields",
+    "photographerUrl": "https://www.pexels.com/@szymon-shields-1503561",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-martini-with-olives-in-tokyo-bar-36189464/",
+    "query": "Hot Springs Arkansas cocktail bar",
+    "fetchedAt": "2026-08-21T14:52:04.709Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hot-springs-ar/dining": {
+    "url": "https://images.pexels.com/photos/29560600/pexels-photo-29560600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A bustling fast food kitchen with workers preparing meals beneath warm, inviting lighting.",
+    "photographerName": "Willian Justen de Vasconcellos",
+    "photographerUrl": "https://www.pexels.com/@willianjusten",
+    "unsplashUrl": "https://www.pexels.com/photo/busy-fast-food-kitchen-with-workers-under-warm-light-29560600/",
+    "query": "Hot Springs Arkansas restaurant interior",
+    "fetchedAt": "2026-08-21T14:52:02.404Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hot-springs-ar/lodging": {
+    "url": "https://images.pexels.com/photos/38092218/pexels-photo-38092218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant facade of a historic building on Bathhouse Row, showcasing intricate architectural details in Hot Springs, Arkansas.",
+    "photographerName": "Jeremy Waterhouse",
+    "photographerUrl": "https://www.pexels.com/@waterhouse",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-architecture-of-bathhouse-row-in-hot-springs-38092218/",
+    "query": "Hot Springs Arkansas boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:00.051Z",
     "addedBy": "moh"
   },
   "moh/cities/hudson-valley-ny": {
@@ -9279,6 +9899,56 @@
     "fetchedAt": "2026-08-03T12:38:21.760Z",
     "addedBy": "moh"
   },
+  "moh/cities/lake-george-ny": {
+    "url": "https://images.pexels.com/photos/12167622/pexels-photo-12167622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful view of a paddleboat on Lake George with a serene sunset backdrop. Ideal for nature and travel enthusiasts.",
+    "photographerName": "Connor Scott McManus",
+    "photographerUrl": "https://www.pexels.com/@connorscottmcmanus",
+    "unsplashUrl": "https://www.pexels.com/photo/boat-on-a-lake-under-blue-sky-12167622/",
+    "query": "Lake George New York skyline",
+    "fetchedAt": "2026-08-21T14:51:45.712Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-george-ny/activities": {
+    "url": "https://images.pexels.com/photos/18710252/pexels-photo-18710252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Passenger ship sailing on a calm lake against a backdrop of forested hills under a cloudy sky.",
+    "photographerName": "Connor Scott McManus",
+    "photographerUrl": "https://www.pexels.com/@connorscottmcmanus",
+    "unsplashUrl": "https://www.pexels.com/photo/passenger-ship-sailing-on-lake-18710252/",
+    "query": "Lake George New York spa",
+    "fetchedAt": "2026-08-21T14:51:55.336Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-george-ny/bars": {
+    "url": "https://images.pexels.com/photos/37195908/pexels-photo-37195908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A neon-lit entrance of Juniors Cafe in NYC showcasing a vibrant nightlife scene with festive decorations.",
+    "photographerName": "Shabazz Stuart",
+    "photographerUrl": "https://www.pexels.com/@shabazz-stuart-465927833",
+    "unsplashUrl": "https://www.pexels.com/photo/vibrant-nightlife-at-juniors-cafe-nyc-37195908/",
+    "query": "Lake George New York cocktail bar",
+    "fetchedAt": "2026-08-21T14:51:52.880Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-george-ny/dining": {
+    "url": "https://images.pexels.com/photos/12385475/pexels-photo-12385475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Lively restaurant scene in Riverhead, NY showcasing a busy dining area with customers enjoying meals.",
+    "photographerName": "Following NYC",
+    "photographerUrl": "https://www.pexels.com/@followingnyc",
+    "unsplashUrl": "https://www.pexels.com/photo/people-inside-a-busy-rstaurant-12385475/",
+    "query": "Lake George New York restaurant interior",
+    "fetchedAt": "2026-08-21T14:51:50.468Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-george-ny/lodging": {
+    "url": "https://images.pexels.com/photos/18710252/pexels-photo-18710252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Passenger ship sailing on a calm lake against a backdrop of forested hills under a cloudy sky.",
+    "photographerName": "Connor Scott McManus",
+    "photographerUrl": "https://www.pexels.com/@connorscottmcmanus",
+    "unsplashUrl": "https://www.pexels.com/photo/passenger-ship-sailing-on-lake-18710252/",
+    "query": "Lake George New York boutique hotel",
+    "fetchedAt": "2026-08-21T14:51:48.170Z",
+    "addedBy": "moh"
+  },
   "moh/cities/lake-tahoe-ca": {
     "url": "https://images.unsplash.com/photo-1516570379421-c7bd617e8db0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwVGFob2UlMjBDQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3NzYwMjA2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "landscape of seashore",
@@ -9379,6 +10049,46 @@
     "fetchedAt": "2026-06-30T09:58:54.957Z",
     "addedBy": "moh"
   },
+  "moh/cities/lexington-ky": {
+    "url": "https://images.pexels.com/photos/19148164/pexels-photo-19148164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of Louisville's skyline with modern skyscrapers reflecting on river.",
+    "photographerName": "Matt Ashworth",
+    "photographerUrl": "https://www.pexels.com/@zeni3200",
+    "unsplashUrl": "https://www.pexels.com/photo/skyscrapers-of-louisville-in-usa-19148164/",
+    "query": "Lexington Kentucky skyline",
+    "fetchedAt": "2026-08-21T14:54:21.973Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lexington-ky/activities": {
+    "url": "https://images.pexels.com/photos/7168111/pexels-photo-7168111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Spacious bathroom featuring a luxury bathtub, elegant decor, and soothing ambiance for ultimate relaxation.",
+    "photographerName": "Curtis Adams",
+    "photographerUrl": "https://www.pexels.com/@curtis-adams-1694007",
+    "unsplashUrl": "https://www.pexels.com/photo/towel-on-bathtub-7168111/",
+    "query": "Lexington Kentucky spa",
+    "fetchedAt": "2026-08-21T14:54:32.717Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lexington-ky/bars": {
+    "url": "https://images.pexels.com/photos/15945661/pexels-photo-15945661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A well-stocked bar shelf showcasing diverse liquors and spirits with elegant glassware.",
+    "photographerName": "Kathrine Birch",
+    "photographerUrl": "https://www.pexels.com/@kathrinepnw",
+    "unsplashUrl": "https://www.pexels.com/photo/liquor-bottles-on-shelves-in-a-bar-15945661/",
+    "query": "Lexington Kentucky cocktail bar",
+    "fetchedAt": "2026-08-21T14:54:30.380Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lexington-ky/dining": {
+    "url": "https://images.pexels.com/photos/2387675/pexels-photo-2387675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Spacious restaurant with stylish interior design, featuring wooden tables and a group of diners enjoying a meal.",
+    "photographerName": "Adrien Olichon",
+    "photographerUrl": "https://www.pexels.com/@adrien-olichon-1257089",
+    "unsplashUrl": "https://www.pexels.com/photo/people-in-a-bar-2387675/",
+    "query": "Lexington Kentucky restaurant interior",
+    "fetchedAt": "2026-08-21T14:54:27.947Z",
+    "addedBy": "moh"
+  },
   "moh/cities/los-angeles-ca": {
     "url": "https://images.unsplash.com/photo-1668129829354-8427b343bb5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJTIwc2t5bGluZSUyMHBpbmslMjBzdW5zZXR8ZW58MXwwfHx8MTc3NjAxOTEzNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city skyline with palm trees",
@@ -9427,6 +10137,56 @@
     "unsplashUrl": "https://unsplash.com/photos/glass-window-Wlr0noE5Moo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Los Angeles CA boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-01T12:18:45.330Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mackinac-island-mi": {
+    "url": "https://images.pexels.com/photos/28192043/pexels-photo-28192043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of coastal homes by the sea with a lighthouse in the background.",
+    "photographerName": "Paul Harrington",
+    "photographerUrl": "https://www.pexels.com/@paul-harrington-204760746",
+    "unsplashUrl": "https://www.pexels.com/photo/a-view-of-houses-and-the-ocean-from-a-hill-28192043/",
+    "query": "Mackinac Island Michigan skyline",
+    "fetchedAt": "2026-08-21T14:53:08.965Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mackinac-island-mi/activities": {
+    "url": "https://images.pexels.com/photos/28192043/pexels-photo-28192043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of coastal homes by the sea with a lighthouse in the background.",
+    "photographerName": "Paul Harrington",
+    "photographerUrl": "https://www.pexels.com/@paul-harrington-204760746",
+    "unsplashUrl": "https://www.pexels.com/photo/a-view-of-houses-and-the-ocean-from-a-hill-28192043/",
+    "query": "Mackinac Island Michigan spa",
+    "fetchedAt": "2026-08-21T14:53:18.342Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mackinac-island-mi/bars": {
+    "url": "https://images.pexels.com/photos/21849267/pexels-photo-21849267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful lakeside mansion with classic architecture on Mackinac Island, perfect for upscale getaways.",
+    "photographerName": "James Wilson",
+    "photographerUrl": "https://www.pexels.com/@james-wilson-560941481",
+    "unsplashUrl": "https://www.pexels.com/photo/hotel-iroquois-on-lakeshore-on-mackinac-island-in-michigan-usa-21849267/",
+    "query": "Mackinac Island Michigan cocktail bar",
+    "fetchedAt": "2026-08-21T14:53:16.033Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mackinac-island-mi/dining": {
+    "url": "https://images.pexels.com/photos/32681017/pexels-photo-32681017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Retro diner interior with checkered floor and stool seating in Livonia, Michigan.",
+    "photographerName": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/classic-american-diner-interior-in-livonia-32681017/",
+    "query": "Mackinac Island Michigan restaurant interior",
+    "fetchedAt": "2026-08-21T14:53:13.642Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mackinac-island-mi/lodging": {
+    "url": "https://images.pexels.com/photos/21849267/pexels-photo-21849267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful lakeside mansion with classic architecture on Mackinac Island, perfect for upscale getaways.",
+    "photographerName": "James Wilson",
+    "photographerUrl": "https://www.pexels.com/@james-wilson-560941481",
+    "unsplashUrl": "https://www.pexels.com/photo/hotel-iroquois-on-lakeshore-on-mackinac-island-in-michigan-usa-21849267/",
+    "query": "Mackinac Island Michigan boutique hotel",
+    "fetchedAt": "2026-08-21T14:53:11.318Z",
     "addedBy": "moh"
   },
   "moh/cities/marthas-vineyard-ma": {
@@ -9527,6 +10287,36 @@
     "unsplashUrl": "https://unsplash.com/photos/black-metal-table-and-chairs-near-glass-window-233G8RmmRzU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Maui HI boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-29T11:37:17.668Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mendocino-ca": {
+    "url": "https://images.pexels.com/photos/33354058/pexels-photo-33354058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful sunset at the coast with silhouetted trees against a vibrant sky.",
+    "photographerName": "Spencer Moore",
+    "photographerUrl": "https://www.pexels.com/@spencer-moore-2154519738",
+    "unsplashUrl": "https://www.pexels.com/photo/stunning-coastal-sunset-with-silhouetted-trees-33354058/",
+    "query": "Mendocino California skyline",
+    "fetchedAt": "2026-08-21T14:54:35.082Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mendocino-ca/dining": {
+    "url": "https://images.pexels.com/photos/10127261/pexels-photo-10127261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Cozy restaurant interior with table settings, perfect for a relaxed dining experience.",
+    "photographerName": "Deane Bayas",
+    "photographerUrl": "https://www.pexels.com/@dbaler",
+    "unsplashUrl": "https://www.pexels.com/photo/table-setting-in-restaurant-10127261/",
+    "query": "Mendocino California restaurant interior",
+    "fetchedAt": "2026-08-21T14:54:39.997Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mendocino-ca/lodging": {
+    "url": "https://images.pexels.com/photos/14171716/pexels-photo-14171716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the majestic rocky coast and waves of Mendocino, California's natural beauty.",
+    "photographerName": "Ted McDonnell",
+    "photographerUrl": "https://www.pexels.com/@keeper",
+    "unsplashUrl": "https://www.pexels.com/photo/rocks-on-sea-coast-14171716/",
+    "query": "Mendocino California boutique hotel",
+    "fetchedAt": "2026-08-21T14:54:37.437Z",
     "addedBy": "moh"
   },
   "moh/cities/miami-fl": {
@@ -9979,6 +10769,56 @@
     "fetchedAt": "2026-07-29T11:37:34.958Z",
     "addedBy": "moh"
   },
+  "moh/cities/ocean-city-md": {
+    "url": "https://images.pexels.com/photos/12843135/pexels-photo-12843135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a beachfront with buildings and a colorful water tower, ideal for travel and tourism content.",
+    "photographerName": "Prathyusha Mettupalle",
+    "photographerUrl": "https://www.pexels.com/@prathsnap",
+    "unsplashUrl": "https://www.pexels.com/photo/view-of-the-boardwalk-from-the-beach-in-ocean-city-maryland-12843135/",
+    "query": "Ocean City Maryland skyline",
+    "fetchedAt": "2026-08-21T14:52:33.224Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/ocean-city-md/activities": {
+    "url": "https://images.pexels.com/photos/12653001/pexels-photo-12653001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two women enjoying a relaxing jacuzzi with a stunning ocean view.",
+    "photographerName": "iam luisao",
+    "photographerUrl": "https://www.pexels.com/@iamluisao",
+    "unsplashUrl": "https://www.pexels.com/photo/women-in-a-jacuzzi-12653001/",
+    "query": "Ocean City Maryland spa",
+    "fetchedAt": "2026-08-21T14:52:42.849Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/ocean-city-md/bars": {
+    "url": "https://images.pexels.com/photos/32206893/pexels-photo-32206893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A refreshing mojito cocktail with lime and mint by the poolside, perfect for a relaxing summer day.",
+    "photographerName": "Hameen Reynolds",
+    "photographerUrl": "https://www.pexels.com/@hameen",
+    "unsplashUrl": "https://www.pexels.com/photo/refreshing-mojito-by-the-poolside-32206893/",
+    "query": "Ocean City Maryland cocktail bar",
+    "fetchedAt": "2026-08-21T14:52:40.392Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/ocean-city-md/dining": {
+    "url": "https://images.pexels.com/photos/5769594/pexels-photo-5769594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant dining area on a luxury ship overlooking the ocean at sunset, perfect for relaxation.",
+    "photographerName": "Julia Volk",
+    "photographerUrl": "https://www.pexels.com/@julia-volk",
+    "unsplashUrl": "https://www.pexels.com/photo/brown-wooden-tables-and-chairs-5769594/",
+    "query": "Ocean City Maryland restaurant interior",
+    "fetchedAt": "2026-08-21T14:52:38.038Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/ocean-city-md/lodging": {
+    "url": "https://images.pexels.com/photos/12843137/pexels-photo-12843137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant cityscape along the coast with blue sky and lively beach crowds.",
+    "photographerName": "Prathyusha Mettupalle",
+    "photographerUrl": "https://www.pexels.com/@prathsnap",
+    "unsplashUrl": "https://www.pexels.com/photo/clouds-over-beach-in-city-12843137/",
+    "query": "Ocean City Maryland boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:35.603Z",
+    "addedBy": "moh"
+  },
   "moh/cities/palm-springs-ca": {
     "url": "https://images.unsplash.com/photo-1574876999742-a8be3a43f151?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENhbGlmb3JuaWElMjBza3lsaW5lfGVufDF8MHx8fDE3ODczMTc2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "structure beside palm trees",
@@ -10227,6 +11067,106 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-neon-sign-on-top-of-a-building-k0VeQ6sXHGg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Portland Oregon boutique hotel",
     "fetchedAt": "2026-08-21T13:07:30.432Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/provincetown-ma": {
+    "url": "https://images.unsplash.com/photo-1646569278919-b5c6e4f9a55c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNYXNzYWNodXNldHRzJTIwc2t5bGluZXxlbnwxfDB8fHwxNzg3MzIzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a tall clock tower towering over a city next to a body of water",
+    "photographerName": "Ruth H Curtis",
+    "photographerUrl": "https://unsplash.com/@ruthc333?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-tall-clock-tower-towering-over-a-city-next-to-a-body-of-water-ZgZuFytbmXY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown Massachusetts skyline",
+    "fetchedAt": "2026-08-21T14:51:24.209Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/provincetown-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1568229612915-82293f046212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNYXNzYWNodXNldHRzJTIwc3BhfGVufDF8MHx8fDE3ODczMjM4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial photography of trees and body of water",
+    "photographerName": "Michael Baccin",
+    "photographerUrl": "https://unsplash.com/@michaelbaccin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-trees-and-body-of-water-LVoN28kTsx0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown Massachusetts spa",
+    "fetchedAt": "2026-08-21T14:51:31.684Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/provincetown-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1694487088530-ce67bc79c7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNYXNzYWNodXNldHRzJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyMzg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a potted plant next to a sidewalk sign",
+    "photographerName": "Laura Michalski",
+    "photographerUrl": "https://unsplash.com/@lauramichaelski23?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-potted-plant-next-to-a-sidewalk-sign-YjG2jbuoqtI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown Massachusetts cocktail bar",
+    "fetchedAt": "2026-08-21T14:51:29.792Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/provincetown-ma/dining": {
+    "url": "https://images.pexels.com/photos/31148272/pexels-photo-31148272.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Golden dunes and tranquil shoreline at Cape Cod National Seashore in Provincetown.",
+    "photographerName": "Beth Fitzpatrick",
+    "photographerUrl": "https://www.pexels.com/@beth-fitzpatrick-742222899",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-beachfront-dunes-at-provincetown-31148272/",
+    "query": "Provincetown restaurant",
+    "fetchedAt": "2026-08-21T14:51:28.408Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/provincetown-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1719522593719-208dbed9c74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQcm92aW5jZXRvd24lMjBNYXNzYWNodXNldHRzJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzODg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people standing on a dock next to a body of water",
+    "photographerName": "Tyler Butler",
+    "photographerUrl": "https://unsplash.com/@tylerohiobutler?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-a-dock-next-to-a-body-of-water-bl0Ki87z2tg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Provincetown Massachusetts boutique hotel",
+    "fetchedAt": "2026-08-21T14:51:25.636Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/rehoboth-beach-de": {
+    "url": "https://images.pexels.com/photos/35711322/pexels-photo-35711322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a tranquil beach boardwalk lined with grass and bikes on a sunny day.",
+    "photographerName": "Tristan Webster",
+    "photographerUrl": "https://www.pexels.com/@tristan-webster-2158928867",
+    "unsplashUrl": "https://www.pexels.com/photo/sunny-beach-boardwalk-with-bikes-and-grass-35711322/",
+    "query": "Rehoboth Beach Delaware skyline",
+    "fetchedAt": "2026-08-21T14:52:45.206Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/rehoboth-beach-de/activities": {
+    "url": "https://images.pexels.com/photos/37719630/pexels-photo-37719630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Man receiving a relaxing back massage outdoors on a rocky beach setting.",
+    "photographerName": "Nothing Ahead",
+    "photographerUrl": "https://www.pexels.com/@ian-panelo",
+    "unsplashUrl": "https://www.pexels.com/photo/outdoor-relaxation-massage-on-a-beachside-37719630/",
+    "query": "Rehoboth Beach Delaware spa",
+    "fetchedAt": "2026-08-21T14:52:54.767Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/rehoboth-beach-de/bars": {
+    "url": "https://images.pexels.com/photos/32206893/pexels-photo-32206893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A refreshing mojito cocktail with lime and mint by the poolside, perfect for a relaxing summer day.",
+    "photographerName": "Hameen Reynolds",
+    "photographerUrl": "https://www.pexels.com/@hameen",
+    "unsplashUrl": "https://www.pexels.com/photo/refreshing-mojito-by-the-poolside-32206893/",
+    "query": "Rehoboth Beach Delaware cocktail bar",
+    "fetchedAt": "2026-08-21T14:52:52.463Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/rehoboth-beach-de/dining": {
+    "url": "https://images.pexels.com/photos/38197197/pexels-photo-38197197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Warm and inviting rustic bar interior with wooden decor and elegant lighting in St. Augustine, Florida.",
+    "photographerName": "Roy Serafin",
+    "photographerUrl": "https://www.pexels.com/@roythephotographer",
+    "unsplashUrl": "https://www.pexels.com/photo/cozy-rustic-bar-interior-in-st-augustine-38197197/",
+    "query": "Rehoboth Beach Delaware restaurant interior",
+    "fetchedAt": "2026-08-21T14:52:50.009Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/rehoboth-beach-de/lodging": {
+    "url": "https://images.pexels.com/photos/35711322/pexels-photo-35711322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a tranquil beach boardwalk lined with grass and bikes on a sunny day.",
+    "photographerName": "Tristan Webster",
+    "photographerUrl": "https://www.pexels.com/@tristan-webster-2158928867",
+    "unsplashUrl": "https://www.pexels.com/photo/sunny-beach-boardwalk-with-bikes-and-grass-35711322/",
+    "query": "Rehoboth Beach Delaware boutique hotel",
+    "fetchedAt": "2026-08-21T14:52:47.578Z",
     "addedBy": "moh"
   },
   "moh/cities/san-diego-ca": {
