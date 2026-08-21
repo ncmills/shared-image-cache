@@ -76,6 +76,13 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "moh/cities/albuquerque-nm/activities": {
+    "query": "Albuquerque New Mexico spa",
+    "fallbackQuery": "Albuquerque wellness",
+    "at": "2026-08-21T22:43:41.954Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/bentonville-ar/dining": {
     "query": "Bentonville Arkansas restaurant interior",
     "fallbackQuery": "Bentonville restaurant",
@@ -97,10 +104,31 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "moh/cities/des-moines-ia/activities": {
+    "query": "Des Moines Iowa spa",
+    "fallbackQuery": "Des Moines wellness",
+    "at": "2026-08-21T22:38:51.022Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/fargo-nd/dining": {
+    "query": "Fargo North Dakota restaurant interior",
+    "fallbackQuery": "Fargo restaurant",
+    "at": "2026-08-21T22:39:53.152Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/fredericksburg-tx/bars": {
     "query": "Fredericksburg Texas cocktail bar",
     "fallbackQuery": "Fredericksburg bar",
     "at": "2026-08-21T16:48:58.517Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/gettysburg-pa/bars": {
+    "query": "Gettysburg Pennsylvania cocktail bar",
+    "fallbackQuery": "Gettysburg bar",
+    "at": "2026-08-21T22:38:19.883Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
@@ -125,6 +153,20 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "moh/cities/lincoln-ne/activities": {
+    "query": "Lincoln Nebraska spa",
+    "fallbackQuery": "Lincoln wellness",
+    "at": "2026-08-21T22:39:23.103Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/mccall-id/bars": {
+    "query": "McCall Idaho cocktail bar",
+    "fallbackQuery": "McCall bar",
+    "at": "2026-08-21T22:45:40.420Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/mendocino-ca/bars": {
     "query": "Mendocino California cocktail bar",
     "fallbackQuery": "Mendocino bar",
@@ -132,10 +174,101 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "moh/cities/missoula-mt/bars": {
+    "query": "Missoula Montana cocktail bar",
+    "fallbackQuery": "Missoula bar",
+    "at": "2026-08-21T22:45:27.647Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/missoula-mt/dining": {
+    "query": "Missoula Montana restaurant interior",
+    "fallbackQuery": "Missoula restaurant",
+    "at": "2026-08-21T22:45:24.151Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/omaha-ne/activities": {
+    "query": "Omaha Nebraska spa",
+    "fallbackQuery": "Omaha wellness",
+    "at": "2026-08-21T22:39:13.143Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/omaha-ne/dining": {
+    "query": "Omaha Nebraska restaurant interior",
+    "fallbackQuery": "Omaha restaurant",
+    "at": "2026-08-21T22:39:07.720Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/prescott-az/activities": {
+    "query": "Prescott Arizona spa",
+    "fallbackQuery": "Prescott wellness",
+    "at": "2026-08-21T22:43:02.873Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/prescott-az/bars": {
+    "query": "Prescott Arizona cocktail bar",
+    "fallbackQuery": "Prescott bar",
+    "at": "2026-08-21T22:42:59.196Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/reno-nv/bars": {
+    "query": "Reno Nevada cocktail bar",
+    "fallbackQuery": "Reno bar",
+    "at": "2026-08-21T22:43:13.245Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/sandusky-oh/bars": {
+    "query": "Sandusky Ohio cocktail bar",
+    "fallbackQuery": "Sandusky bar",
+    "at": "2026-08-21T22:41:12.593Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/sandusky-oh/dining": {
+    "query": "Sandusky Ohio restaurant interior",
+    "fallbackQuery": "Sandusky restaurant",
+    "at": "2026-08-21T22:41:09.842Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/shreveport-la/dining": {
     "query": "Shreveport Louisiana restaurant interior",
     "fallbackQuery": "Shreveport restaurant",
     "at": "2026-08-21T20:42:34.810Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/stateline-nv/bars": {
+    "query": "Stateline Nevada cocktail bar",
+    "fallbackQuery": "Stateline bar",
+    "at": "2026-08-21T22:43:27.036Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/stateline-nv/dining": {
+    "query": "Stateline Nevada restaurant interior",
+    "fallbackQuery": "Stateline restaurant",
+    "at": "2026-08-21T22:43:23.386Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/tempe-az/bars": {
+    "query": "Tempe Arizona cocktail bar",
+    "fallbackQuery": "Tempe bar",
+    "at": "2026-08-21T22:42:32.236Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/traverse-city-mi/dining": {
+    "query": "Traverse City Michigan restaurant interior",
+    "fallbackQuery": "Traverse City restaurant",
+    "at": "2026-08-21T22:40:43.877Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
