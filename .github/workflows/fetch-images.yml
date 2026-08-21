@@ -55,7 +55,13 @@ jobs:
           node-version: '20'
 
       - name: Install deps
-        run: npm install
+        # `npm ci`, not `npm install`: ci resolves the lockfile from scratch, install may
+        # reuse or loosely satisfy an existing tree. These crons WRITE to the cache and push,
+        # and they run the duplicate-fanout gate on the way — so they must run against the
+        # pinned dependency set, not a resolved-nearby one. Confirmed twice on 2026-08-20 that
+        # a stale installed tree makes a check pass locally while every cold build fails
+        # (reference_npm_git_dep_lockfile_stale); the fix has to be mechanical, not remembered.
+        run: npm ci
 
       - name: Configure git
         run: |
