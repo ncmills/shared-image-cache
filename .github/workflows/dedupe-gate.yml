@@ -1,10 +1,19 @@
-name: dedupe gate
+name: gates
 
-# Duplicate-fanout ceilings + typecheck on every push and PR. The fetch
-# workflows also run the gate inside fetch.ts before their auto-commit, so a
-# violating cache cannot land from either path. Policy: lib/fanout.ts.
-# Debt ledger: dedupe-baseline.json (grandfathered pre-gate violations,
-# retired by the Phase 2 honesty cut — an empty ledger is the goal state).
+# Every rule that keeps this cache honest, on every push and PR:
+#
+#   typecheck            the code compiles
+#   test                 offline assertions — queue advance, health matrix,
+#                        query policy, venue identity (no network, no budget)
+#   gate:fanout          duplicate-fanout ceilings (lib/fanout.ts)
+#   gate:venues          no generic photo under a real property's name
+#   gate:queries         query hygiene across all six loaders
+#   gate:snapshot        queries.snapshot.json is not older than its loaders
+#   gate:workflows       the YAML knows the same six projects the code does
+#
+# The fetch workflows also run `npm run gate` inside fetch.ts before their
+# auto-commit, so a violating cache cannot land from either path.
+# Debt ledger: dedupe-baseline.json (grandfathered pre-gate violations).
 
 on:
   push:
@@ -16,9 +25,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: check-snapshot-drift compares each snapshot slice
+          # against the last COMMIT time of its loader. On a shallow clone
+          # `git log -- <file>` returns nothing and the check can only SKIP.
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
       - run: npm ci
       - run: npm run typecheck
+      - run: npm test
       - run: npm run gate

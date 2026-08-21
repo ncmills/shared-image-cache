@@ -48,12 +48,7 @@ import {
   MISS_TTL_DAYS,
   type Misses,
 } from "../lib/misses";
-import { getTdfQueries } from "./queries/tdf";
-import { getOffsiteQueries } from "./queries/offsite";
-import { getBestmanQueries } from "./queries/bestman";
-import { getMohQueries } from "./queries/moh";
-import { getEngagedmoonQueries } from "./queries/engagedmoon";
-import { getFriendsmoonQueries } from "./queries/friendsmoon";
+import { LOADERS, PROJECTS } from "./loaders";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
@@ -269,26 +264,26 @@ async function main() {
   const cache = loadCache();
   const misses = loadMisses();
 
-  // Gather queries from every project loader
+  // Gather queries from every project loader (scripts/loaders.ts is the ONE
+  // registry — a project missing from it is missing from the fetcher, the gap
+  // report and the snapshot at once, which is better than being missing from
+  // three of them silently).
+  if (args.project && !PROJECTS.includes(args.project)) {
+    console.error(
+      `✘ unknown --project=${args.project}. Known projects: ${PROJECTS.join(", ")}. ` +
+        `A typo here used to fetch NOTHING and exit 0.`,
+    );
+    process.exit(1);
+  }
   const allQueries: QueryItem[] = [];
   console.log("Loading project queries...");
-  if (!args.project || args.project === "tdf") {
-    allQueries.push(...(await getTdfQueries()));
-  }
-  if (!args.project || args.project === "bestman") {
-    allQueries.push(...(await getBestmanQueries()));
-  }
-  if (!args.project || args.project === "moh") {
-    allQueries.push(...(await getMohQueries()));
-  }
-  if (!args.project || args.project === "offsite") {
-    allQueries.push(...(await getOffsiteQueries()));
-  }
-  if (!args.project || args.project === "engagedmoon") {
-    allQueries.push(...(await getEngagedmoonQueries()));
-  }
-  if (!args.project || args.project === "friendsmoon") {
-    allQueries.push(...(await getFriendsmoonQueries()));
+  for (const [project, loader] of Object.entries(LOADERS)) {
+    if (args.project && args.project !== project) continue;
+    const loaded = await loader();
+    if (loaded.length === 0) {
+      console.log(`::warning::loader "${project}" returned 0 queries — its data source and the snapshot are both unavailable, so this project is invisible to this run`);
+    }
+    allQueries.push(...loaded);
   }
 
   // ── Named-venue keys get NO generic fallback, whatever the loader said ───

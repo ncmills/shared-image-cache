@@ -19,23 +19,13 @@
  */
 import { readFileSync, existsSync, appendFileSync } from "node:fs";
 import { resolve } from "node:path";
-import type { Cache, QueryItem } from "../lib/types";
+import type { Cache } from "../lib/types";
 import { isSuppressed, missStats, type Misses } from "../lib/misses";
-import { getTdfQueries } from "./queries/tdf";
-import { getOffsiteQueries } from "./queries/offsite";
-import { getBestmanQueries } from "./queries/bestman";
-import { getMohQueries } from "./queries/moh";
+import { LOADERS } from "./loaders";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
 const MISSES_PATH = resolve(REPO_ROOT, "misses.json");
-
-const LOADERS: Record<string, () => Promise<QueryItem[]>> = {
-  tdf: getTdfQueries,
-  bestman: getBestmanQueries,
-  moh: getMohQueries,
-  offsite: getOffsiteQueries,
-};
 
 async function main() {
   const args = process.argv.slice(2);

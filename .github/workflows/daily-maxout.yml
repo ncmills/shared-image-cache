@@ -79,7 +79,12 @@ jobs:
           if [ "$before" != "$after" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
             # which consumer projects gained entries this run (added JSON keys in the diff)
-            projects=$(git show "$after" -- cache.json | grep -E '^\+' | grep -oE '"(offsite|bestman|moh|tdf)/' | tr -d '"/' | sort -u | tr '\n' ' ')
+            # The alternation below MUST match scripts/loaders.ts. It read
+            # `(offsite|bestman|moh|tdf)` for months, so friendsmoon and
+            # engagedmoon could gain images and never trigger a rebuild — a
+            # grep that matches nothing prints nothing and exits 0.
+            # scripts/check-workflow-projects.ts now fails CI on any drift.
+            projects=$(git show "$after" -- cache.json | grep -E '^\+' | grep -oE '"(offsite|bestman|moh|tdf|friendsmoon|engagedmoon)/' | tr -d '"/' | sort -u | tr '\n' ' ')
             echo "projects=$projects" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -92,6 +97,9 @@ jobs:
       # run's pull, so the cache's convergence is visible day over day in the
       # run summary. Read-only; the fetcher above already pulled what it could
       # under the API ceiling, and gaps are expected to shrink each day.
+      # Now covers all six projects (scripts/loaders.ts), and separates
+      # "missing" from "missing and unreachable" (tombstoned) so a queue that
+      # has stopped advancing is visible instead of inferred.
       - name: Report remaining image gaps
         run: npx tsx scripts/gap-report.ts --write-summary
 
@@ -106,31 +114,47 @@ jobs:
           HOOK_MOH: ${{ secrets.HOOK_MOH }}
           HOOK_TDF: ${{ secrets.HOOK_TDF }}
           HOOK_OFFSITE: ${{ secrets.HOOK_OFFSITE }}
+          # NOT YET CREATED. Both resolve to "" until the owner adds them, and
+          # the refresh below says so out loud, per site, in the step summary.
+          # An unset secret must never read as "nothing to do".
+          HOOK_FRIENDSMOON: ${{ secrets.HOOK_FRIENDSMOON }}
+          HOOK_ENGAGEDMOON: ${{ secrets.HOOK_ENGAGEDMOON }}
         run: |
           set -u
           projects="${{ steps.fetch.outputs.projects }}"
           echo "Projects with new images this run: ${projects:-none}"
+          echo "### Consumer refresh" >> "$GITHUB_STEP_SUMMARY"
           fail=0
           refresh () {
-            local token="$1" hook="$2"
+            local token="$1" hook="$2" secret="$3"
             if echo " $projects " | grep -q " $token "; then
               if [ -z "$hook" ]; then
-                echo "::warning::$token gained images but no deploy hook configured"; return 0
+                # Say exactly what did not happen and why. The old message
+                # ("no deploy hook configured") did not name the secret and did
+                # not say that the images will now sit unpublished.
+                echo "::warning::$token gained images but the repo secret $secret is NOT SET — NO rebuild was triggered. Those images stay invisible on the live site until its next deploy for some other reason."
+                echo "- ⚠️ **$token** — new images, but \`$secret\` is not configured. **No rebuild fired.**" >> "$GITHUB_STEP_SUMMARY"
+                return 0
               fi
               code=$(curl -s -o /dev/null -w '%{http_code}' -X POST "$hook")
               if [ "$code" = "200" ] || [ "$code" = "201" ]; then
                 echo "✓ $token rebuild triggered ($code)"
+                echo "- ✅ **$token** — rebuild triggered ($code)" >> "$GITHUB_STEP_SUMMARY"
               else
-                echo "::error::$token rebuild failed (HTTP $code)"; fail=1
+                echo "::error::$token rebuild failed (HTTP $code)"
+                echo "- ❌ **$token** — rebuild FAILED (HTTP $code)" >> "$GITHUB_STEP_SUMMARY"
+                fail=1
               fi
             else
               echo "· $token unchanged — no rebuild"
             fi
           }
-          refresh bestman "$HOOK_BESTMAN"
-          refresh moh     "$HOOK_MOH"
-          refresh tdf     "$HOOK_TDF"
-          refresh offsite "$HOOK_OFFSITE"
+          refresh bestman     "$HOOK_BESTMAN"     HOOK_BESTMAN
+          refresh moh         "$HOOK_MOH"         HOOK_MOH
+          refresh tdf         "$HOOK_TDF"         HOOK_TDF
+          refresh offsite     "$HOOK_OFFSITE"     HOOK_OFFSITE
+          refresh friendsmoon "$HOOK_FRIENDSMOON" HOOK_FRIENDSMOON
+          refresh engagedmoon "$HOOK_ENGAGEDMOON" HOOK_ENGAGEDMOON
           if [ "$fail" = "1" ]; then
             echo "One or more rebuilds failed — see errors above."; exit 1
           fi
