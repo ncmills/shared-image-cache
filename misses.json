@@ -1,8 +1,22 @@
 {
+  "bestman/cities/finger-lakes-ny/bars": {
+    "query": "Finger Lakes New York rooftop bar",
+    "fallbackQuery": "Finger Lakes cocktail lounge",
+    "at": "2026-08-21T15:06:20.730Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/lexington-ky/lodging": {
     "query": "Lexington Kentucky boutique hotel",
     "fallbackQuery": "Lexington hotel",
     "at": "2026-08-21T14:54:25.537Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/mendocino-ca/bars": {
+    "query": "Mendocino California cocktail bar",
+    "fallbackQuery": "Mendocino bar",
+    "at": "2026-08-21T15:02:40.669Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
@@ -16,6 +30,12 @@
     "query": "Atlantis Paradise Island Bahamas aerial Royal Towers Aquaventure marina",
     "at": "2026-08-21T13:09:34.539Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/awasi-mendoza": {
+    "query": "Awasi Mendoza Luján de Cuyo, Mendoza",
+    "at": "2026-08-21T15:06:30.763Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "offsite/venues/beau-rivage-palace-lausanne": {
@@ -72,6 +92,12 @@
     "reason": "no-results",
     "attempts": 1
   },
+  "offsite/venues/grand-hotel-mackinac": {
+    "query": "Grand Hotel Mackinac Island Lake Huron porch",
+    "at": "2026-08-21T15:03:03.440Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "offsite/venues/grand-hotel-tremezzo-como": {
     "query": "Grand Hotel Tremezzo floating pool Lake Como Bellagio",
     "at": "2026-08-21T13:09:51.904Z",
@@ -120,6 +146,12 @@
     "reason": "no-results",
     "attempts": 1
   },
+  "offsite/venues/our-habitas-alula": {
+    "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
+    "at": "2026-08-21T15:08:18.579Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "offsite/venues/park-hyatt-niseko-hanazono": {
     "query": "Park Hyatt Niseko Hanazono Mt Yotei snow ski village",
     "at": "2026-08-21T13:09:44.270Z",
@@ -135,6 +167,12 @@
   "offsite/venues/pinehurst": {
     "query": "Pinehurst resort golf course Carolina pines clubhouse",
     "at": "2026-08-21T13:09:24.834Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/qasr-al-sarab-liwa": {
+    "query": "Qasr Al Sarab Desert Resort by Anantara Liwa / Empty Quarter (Rub' al Khali), Abu Dhabi, UAE",
+    "at": "2026-08-21T15:08:47.120Z",
     "reason": "no-results",
     "attempts": 1
   },
@@ -178,6 +216,18 @@
     "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
     "at": "2026-08-21T13:09:46.671Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/vista-flores-estancia-mendoza": {
+    "query": "Vista Flores / Estancia-style buyout, Uco Valley Uco Valley, Mendoza",
+    "at": "2026-08-21T15:06:25.181Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "offsite/venues/wilderness-botswana-cluster": {
+    "query": "Wilderness Mombo / DumaTau / Vumbura Cluster Okavango & Linyanti, Botswana",
+    "at": "2026-08-21T15:07:16.431Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   }
 }

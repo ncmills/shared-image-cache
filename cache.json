@@ -839,6 +839,86 @@
     "fetchedAt": "2026-04-13T17:36:12.501Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/cape-cod-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1708458988303-0828184d091e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMyNDczMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a path to the beach leading to the ocean",
+    "photographerName": "Alyssa Ruggieri",
+    "photographerUrl": "https://unsplash.com/@alyssar621?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-to-the-beach-leading-to-the-ocean-eJKsNzxZRM4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts outdoor adventure",
+    "fetchedAt": "2026-08-21T15:05:31.982Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cape-cod-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1667085138271-f0835cd26f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDcyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a lighthouse and a house",
+    "photographerName": "Nick Wilson",
+    "photographerUrl": "https://unsplash.com/@rickoras?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lighthouse-and-a-house-hdRmOvlgJWc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts rooftop bar",
+    "fetchedAt": "2026-08-21T15:05:23.687Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cape-cod-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1635015065620-97c3ddd5b8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMyNDcxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a house on the water with a clock tower on top of it",
+    "photographerName": "Jen Shish",
+    "photographerUrl": "https://unsplash.com/@jenshish?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-house-on-the-water-with-a-clock-tower-on-top-of-it-7a3Uiil5c30?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts steakhouse",
+    "fetchedAt": "2026-08-21T15:05:18.260Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cape-cod-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1708458988303-0828184d091e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlJTIwQ29kJTIwTWFzc2FjaHVzZXR0cyUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMjQ3MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a path to the beach leading to the ocean",
+    "photographerName": "Alyssa Ruggieri",
+    "photographerUrl": "https://unsplash.com/@alyssar621?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-path-to-the-beach-leading-to-the-ocean-eJKsNzxZRM4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cape Cod Massachusetts vacation rental",
+    "fetchedAt": "2026-08-21T15:05:12.324Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/carmel-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1591164115502-09f4edf9f005?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENhbGlmb3JuaWElMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjQ3NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rocky mountain beside body of water during daytime",
+    "photographerName": "Craig Melville",
+    "photographerUrl": "https://unsplash.com/@craigmelville?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rocky-mountain-beside-body-of-water-during-daytime-NDIegxhmeWw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea California outdoor adventure",
+    "fetchedAt": "2026-08-21T15:05:56.489Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/carmel-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1540840430747-71880eb5b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENhbGlmb3JuaWElMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjQ3NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with palm trees and mountains in the background",
+    "photographerName": "Yifan Ma",
+    "photographerUrl": "https://unsplash.com/@nina33?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-palm-trees-and-mountains-in-the-background-lVbc4XCaxnk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea California rooftop bar",
+    "fetchedAt": "2026-08-21T15:05:51.132Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/carmel-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1582003251237-0704e71be136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENhbGlmb3JuaWElMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMjQ3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "UNKs UNK UNK building",
+    "photographerName": "Tim Mossholder",
+    "photographerUrl": "https://unsplash.com/@timmossholder?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/unks-unk-unk-building-4Xc0bNfCOME?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea California steakhouse",
+    "fetchedAt": "2026-08-21T15:05:45.004Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/carmel-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1647152548885-4881b06bfdd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJtZWwtYnktdGhlLVNlYSUyMENhbGlmb3JuaWElMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzI0NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach with palm trees and the ocean in the background",
+    "photographerName": "Nicholas Ceglia",
+    "photographerUrl": "https://unsplash.com/@nceglia?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-with-palm-trees-and-the-ocean-in-the-background-s5-5t9cWe2E?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Carmel-by-the-Sea California vacation rental",
+    "fetchedAt": "2026-08-21T15:05:39.356Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/cartagena-co/activities": {
     "url": "https://images.unsplash.com/photo-1583531352515-8884af319dc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYXJ0YWdlbmElMjBDb2xvbWJpYSUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTQ5Mjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "cars parked in front of green and white concrete building during daytime",
@@ -1519,6 +1599,36 @@
     "fetchedAt": "2026-08-04T06:40:08.022Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/finger-lakes-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1644023758008-1060c7ea511f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjQ3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a small waterfall in the middle of a forest",
+    "photographerName": "Gary Yost",
+    "photographerUrl": "https://unsplash.com/@gyostimages?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-waterfall-in-the-middle-of-a-forest-Py-6280RwKA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York outdoor adventure",
+    "fetchedAt": "2026-08-21T15:06:26.575Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/finger-lakes-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1765741836925-5363bbaa6507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMjQ3NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Dimly lit restaurant interior with diners at tables",
+    "photographerName": "Matthew Zheng",
+    "photographerUrl": "https://unsplash.com/@che_3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/dimly-lit-restaurant-interior-with-diners-at-tables-xo72yqpKe1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York steakhouse",
+    "fetchedAt": "2026-08-21T15:06:10.970Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/finger-lakes-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1628313184520-59e8e112f89c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzI0NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near body of water during sunset",
+    "photographerName": "Erika Zhuravskiy",
+    "photographerUrl": "https://unsplash.com/@signaturemuse?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-body-of-water-during-sunset-bgQQ4_hFp5M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York vacation rental",
+    "fetchedAt": "2026-08-21T15:06:02.602Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/flagstaff-az/activities": {
     "url": "https://images.unsplash.com/photo-1656655562083-324371b12545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBWiUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzg1NDY5NzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man and a woman cooking outside",
@@ -1597,6 +1707,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-couple-of-boats-that-are-sitting-in-the-water-AIdsbn8u0VI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fort Lauderdale FL vacation rental house pool",
     "fetchedAt": "2026-04-12T18:58:55.975Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-worth-tx/activities": {
+    "url": "https://images.unsplash.com/photo-1772209157515-03d1571ff8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMyNDgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Bronze cowboy statue on horseback in front of building",
+    "photographerName": "adam roye",
+    "photographerUrl": "https://unsplash.com/@psco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/bronze-cowboy-statue-on-horseback-in-front-of-building-14DvXaFdr2M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas outdoor adventure",
+    "fetchedAt": "2026-08-21T15:06:52.676Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-worth-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1678837048957-ae23c938a997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBjb2NrdGFpbCUyMGxvdW5nZXxlbnwxfDB8fHwxNzg3MzI0ODA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city street with cars parked on the side of the road",
+    "photographerName": "Fallon Michael",
+    "photographerUrl": "https://unsplash.com/@fallonmichaeltx?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-street-with-cars-parked-on-the-side-of-the-road-IIeORfPgvnE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth cocktail lounge",
+    "fetchedAt": "2026-08-21T15:06:46.804Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-worth-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1692417880021-429a69d8d96a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMyNDc5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a row of parked cars on a city street",
+    "photographerName": "Yash Mannepalli",
+    "photographerUrl": "https://unsplash.com/@rollingshots?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-row-of-parked-cars-on-a-city-street-zPhYj34f1Mw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas steakhouse",
+    "fetchedAt": "2026-08-21T15:06:37.717Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/fort-worth-tx/lodging": {
+    "url": "https://images.unsplash.com/photo-1692417880021-429a69d8d96a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMjQ3OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a row of parked cars on a city street",
+    "photographerName": "Yash Mannepalli",
+    "photographerUrl": "https://unsplash.com/@rollingshots?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-row-of-parked-cars-on-a-city-street-zPhYj34f1Mw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas vacation rental",
+    "fetchedAt": "2026-08-21T15:06:32.198Z",
     "addedBy": "bestman"
   },
   "bestman/cities/fredericksburg-tx/activities": {
@@ -1879,6 +2029,46 @@
     "fetchedAt": "2026-08-21T14:51:11.982Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/hamptons-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1768602535270-ff4a16d7f8f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ldyUyMFlvcmslMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjQ4Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Person in new york city jacket looking at the ocean",
+    "photographerName": "Lumin Osity",
+    "photographerUrl": "https://unsplash.com/@lumin_osity?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-in-new-york-city-jacket-looking-at-the-ocean-rWRkzn7eHZQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons New York outdoor adventure",
+    "fetchedAt": "2026-08-21T15:07:17.967Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hamptons-ny/bars": {
+    "url": "https://images.pexels.com/photos/26626726/pexels-photo-26626726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stylish bar interior featuring an illuminated counter and modern decor, perfect for nightlife.",
+    "photographerName": "Cristhian  David Duarte",
+    "photographerUrl": "https://www.pexels.com/@duartefotografia",
+    "unsplashUrl": "https://www.pexels.com/photo/glamour-illuminated-bar-26626726/",
+    "query": "The Hamptons cocktail lounge",
+    "fetchedAt": "2026-08-21T15:07:12.231Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hamptons-ny/dining": {
+    "url": "https://images.pexels.com/photos/28126060/pexels-photo-28126060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Tranquil summer scene capturing a dock and water view in Hampton Bays, New York.",
+    "photographerName": "Sarah O'Shea",
+    "photographerUrl": "https://www.pexels.com/@sarah-o-shea-98049248",
+    "unsplashUrl": "https://www.pexels.com/photo/a-bench-is-sitting-on-the-shore-next-to-a-dock-28126060/",
+    "query": "The Hamptons restaurant",
+    "fetchedAt": "2026-08-21T15:07:05.780Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hamptons-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1643934941049-19c854f73b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW1wdG9ucyUyME5ldyUyMFlvcmslMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzI0ODE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a house with a white picket fence around it",
+    "photographerName": "Adiel Gavish",
+    "photographerUrl": "https://unsplash.com/@adigavi?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-house-with-a-white-picket-fence-around-it-WYqSPDNsS2w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "The Hamptons New York vacation rental",
+    "fetchedAt": "2026-08-21T15:06:58.524Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/hilton-head-sc/activities": {
     "url": "https://images.unsplash.com/photo-1760462568926-1a83660b7370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Cyclists riding mountain bikes on a forest trail.",
@@ -2079,6 +2269,46 @@
     "fetchedAt": "2026-04-11T20:07:21.683Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/hudson-valley-ny/activities": {
+    "url": "https://images.pexels.com/photos/24994473/pexels-photo-24994473.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking view of the Croton Dam and bridge surrounded by lush greenery in Croton-on-Hudson, NY.",
+    "photographerName": "Joe Valdes",
+    "photographerUrl": "https://www.pexels.com/@joe-valdes-2213857",
+    "unsplashUrl": "https://www.pexels.com/photo/dam-under-a-bridge-by-a-forest-24994473/",
+    "query": "Hudson Valley New York outdoor adventure",
+    "fetchedAt": "2026-08-21T15:07:45.271Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hudson-valley-ny/bars": {
+    "url": "https://images.pexels.com/photos/12491938/pexels-photo-12491938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of New York City's iconic rooftop water towers and skyline during dusk.",
+    "photographerName": "Julian Bracero",
+    "photographerUrl": "https://www.pexels.com/@julian-bracero-233480546",
+    "unsplashUrl": "https://www.pexels.com/photo/water-tanks-on-roofs-12491938/",
+    "query": "Hudson Valley New York rooftop bar",
+    "fetchedAt": "2026-08-21T15:07:38.310Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hudson-valley-ny/dining": {
+    "url": "https://images.pexels.com/photos/1639561/pexels-photo-1639561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Succulent grilled steak topped with microgreens served on a dark plate for a gourmet meal.",
+    "photographerName": "Valeria Boltneva",
+    "photographerUrl": "https://www.pexels.com/@valeriya",
+    "unsplashUrl": "https://www.pexels.com/photo/selective-focus-photography-of-cooked-food-1639561/",
+    "query": "Hudson Valley New York steakhouse",
+    "fetchedAt": "2026-08-21T15:07:31.222Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hudson-valley-ny/lodging": {
+    "url": "https://images.pexels.com/photos/24994473/pexels-photo-24994473.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking view of the Croton Dam and bridge surrounded by lush greenery in Croton-on-Hudson, NY.",
+    "photographerName": "Joe Valdes",
+    "photographerUrl": "https://www.pexels.com/@joe-valdes-2213857",
+    "unsplashUrl": "https://www.pexels.com/photo/dam-under-a-bridge-by-a-forest-24994473/",
+    "query": "Hudson Valley New York vacation rental",
+    "fetchedAt": "2026-08-21T15:07:24.022Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/indianapolis-in/activities": {
     "url": "https://images.unsplash.com/photo-1638332929548-9f785b5c07e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxJbmRpYW5hcG9saXMlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMTc3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an aerial view of a lake surrounded by trees",
@@ -2239,6 +2469,46 @@
     "fetchedAt": "2026-04-13T17:36:44.889Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/kennebunkport-me/activities": {
+    "url": "https://images.unsplash.com/photo-1718582888910-e43429bf1794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZW5uZWJ1bmtwb3J0JTIwTWFpbmUlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjQ3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A small island in the middle of a body of water",
+    "photographerName": "Rusty Watson",
+    "photographerUrl": "https://unsplash.com/@rustyct1?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-island-in-the-middle-of-a-body-of-water-3-3UQKzmwQs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kennebunkport Maine outdoor adventure",
+    "fetchedAt": "2026-08-21T15:05:05.588Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kennebunkport-me/bars": {
+    "url": "https://images.unsplash.com/photo-1659320933767-fd2f38406b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZW5uZWJ1bmtwb3J0JTIwTWFpbmUlMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjQ2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat docked at a pier",
+    "photographerName": "Trent Erwin",
+    "photographerUrl": "https://unsplash.com/@tjerwin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-docked-at-a-pier-wzHLQbwQ7Zs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kennebunkport Maine rooftop bar",
+    "fetchedAt": "2026-08-21T15:04:59.835Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kennebunkport-me/dining": {
+    "url": "https://images.pexels.com/photos/16234731/pexels-photo-16234731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a coastal estate in Kennebunkport, Maine, with ocean and flowers.",
+    "photographerName": "Kalei Winfield",
+    "photographerUrl": "https://www.pexels.com/@kalei-winfield-501837032",
+    "unsplashUrl": "https://www.pexels.com/photo/house-and-sea-16234731/",
+    "query": "Kennebunkport restaurant",
+    "fetchedAt": "2026-08-21T15:04:54.491Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kennebunkport-me/lodging": {
+    "url": "https://images.unsplash.com/photo-1718582888910-e43429bf1794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxLZW5uZWJ1bmtwb3J0JTIwTWFpbmUlMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzI0Njg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A small island in the middle of a body of water",
+    "photographerName": "Rusty Watson",
+    "photographerUrl": "https://unsplash.com/@rustyct1?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-island-in-the-middle-of-a-body-of-water-3-3UQKzmwQs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kennebunkport Maine vacation rental",
+    "fetchedAt": "2026-08-21T15:04:44.267Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/key-west-fl/activities": {
     "url": "https://images.unsplash.com/photo-1696175204668-63d770ef0b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwRkwlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjc1NDYwNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a couple of surfboards sitting on top of a sandy beach",
@@ -2277,6 +2547,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-swimming-pool-surrounded-by-palm-trees-xTWx5D40ccA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Key West FL vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:42.505Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kiawah-island-sc/activities": {
+    "url": "https://images.pexels.com/photos/8454586/pexels-photo-8454586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of the Kiawah Island golf course with pavilions at sunrise.",
+    "photographerName": "andrew shelley",
+    "photographerUrl": "https://www.pexels.com/@andrewshelley",
+    "unsplashUrl": "https://www.pexels.com/photo/golf-course-at-dawn-8454586/",
+    "query": "Kiawah Island South Carolina outdoor adventure",
+    "fetchedAt": "2026-08-21T15:08:13.966Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kiawah-island-sc/bars": {
+    "url": "https://images.pexels.com/photos/15789717/pexels-photo-15789717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial cityscape of Charleston, SC showcasing historic architecture under a cloudy sky.",
+    "photographerName": "Connor Scott McManus",
+    "photographerUrl": "https://www.pexels.com/@connorscottmcmanus",
+    "unsplashUrl": "https://www.pexels.com/photo/clouds-over-town-15789717/",
+    "query": "Kiawah Island South Carolina rooftop bar",
+    "fetchedAt": "2026-08-21T15:08:06.816Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kiawah-island-sc/dining": {
+    "url": "https://images.pexels.com/photos/2413940/pexels-photo-2413940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Lush oak trees draped in Spanish moss on Hilton Head Island, SC.",
+    "photographerName": "Colon Freld",
+    "photographerUrl": "https://www.pexels.com/@gapeppy1",
+    "unsplashUrl": "https://www.pexels.com/photo/old-tree-branches-covered-with-moss-2413940/",
+    "query": "Kiawah Island South Carolina steakhouse",
+    "fetchedAt": "2026-08-21T15:07:59.712Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/kiawah-island-sc/lodging": {
+    "url": "https://images.pexels.com/photos/8454463/pexels-photo-8454463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A picturesque view of a golf course in Kiawah Island, SC, showcasing lush greens, water features, and a serene sunset.",
+    "photographerName": "andrew shelley",
+    "photographerUrl": "https://www.pexels.com/@andrewshelley",
+    "unsplashUrl": "https://www.pexels.com/photo/grass-golf-field-beside-river-8454463/",
+    "query": "Kiawah Island South Carolina vacation rental",
+    "fetchedAt": "2026-08-21T15:07:52.579Z",
     "addedBy": "bestman"
   },
   "bestman/cities/knoxville-tn/activities": {
@@ -2519,6 +2829,36 @@
     "fetchedAt": "2026-04-13T17:36:07.391Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/lexington-ky/activities": {
+    "url": "https://images.unsplash.com/photo-1780323252226-91092ed59e40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjBvdXRkb29yJTIwcmVjcmVhdGlvbnxlbnwxfDB8fHwxNzg3MzI0NTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Green golf course with cart, pond, trees, and blue sky",
+    "photographerName": "Cristina Anne Costello",
+    "photographerUrl": "https://unsplash.com/@lightupphotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-golf-course-with-cart-pond-trees-and-blue-sky-wKAUeL2VUnk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lexington outdoor recreation",
+    "fetchedAt": "2026-08-21T15:02:51.623Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lexington-ky/bars": {
+    "url": "https://images.unsplash.com/photo-1774994947173-df8517d4e786?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjBLZW50dWNreSUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDU2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Street view of buildings and cars under a cloudy sky",
+    "photographerName": "Cristina Anne Costello",
+    "photographerUrl": "https://unsplash.com/@lightupphotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/street-view-of-buildings-and-cars-under-a-cloudy-sky-FLU-VRcFP60?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lexington Kentucky rooftop bar",
+    "fetchedAt": "2026-08-21T15:02:44.903Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lexington-ky/dining": {
+    "url": "https://images.unsplash.com/photo-1607829578885-88a1039657dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODczMjQ1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cars parked on side of the road near building during daytime",
+    "photographerName": "Iain Feeney",
+    "photographerUrl": "https://unsplash.com/@lockefeener?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-on-side-of-the-road-near-building-during-daytime-0azRGQ-fzSU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lexington restaurant",
+    "fetchedAt": "2026-08-21T15:02:36.367Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/lexington-ky/lodging": {
     "url": "https://images.unsplash.com/photo-1678729618556-e153d3f1d53a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjBLZW50dWNreSUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMjM4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a field with a fence and a barn in the distance",
@@ -2649,6 +2989,86 @@
     "fetchedAt": "2026-08-21T14:40:57.196Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/marthas-vineyard-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1630284713798-1233e9d5f05d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBNYXNzYWNodXNldHRzJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzI0NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near lake under white clouds during daytime",
+    "photographerName": "Bonnie Kittle",
+    "photographerUrl": "https://unsplash.com/@bonniekdesign?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-lake-under-white-clouds-during-daytime-N1B3pCIaMs0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Martha's Vineyard Massachusetts outdoor adventure",
+    "fetchedAt": "2026-08-21T15:04:11.881Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/marthas-vineyard-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1753136564144-26e8a3609811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBNYXNzYWNodXNldHRzJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzI0NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A restaurant sign stands amidst lush greenery",
+    "photographerName": "MV Vacation",
+    "photographerUrl": "https://unsplash.com/@mvvacation?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-restaurant-sign-stands-amidst-lush-greenery-1Yl0sWmC_lI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Martha's Vineyard Massachusetts rooftop bar",
+    "fetchedAt": "2026-08-21T15:04:06.043Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/marthas-vineyard-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1699500780713-04dc923f5d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBNYXNzYWNodXNldHRzJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzI0NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a black and white photo of a house",
+    "photographerName": "Carlos Gonzalez",
+    "photographerUrl": "https://unsplash.com/@karurosux?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-house-4f8rQzE3Nuo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Martha's Vineyard Massachusetts steakhouse",
+    "fetchedAt": "2026-08-21T15:03:59.048Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/marthas-vineyard-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1736452165195-7875b0354198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNYXJ0aGElMjdzJTIwVmluZXlhcmQlMjBNYXNzYWNodXNldHRzJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyNDYzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A sailboat floating in the middle of a body of water",
+    "photographerName": "Mikheil Kuzmidi",
+    "photographerUrl": "https://unsplash.com/@mikkuz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sailboat-floating-in-the-middle-of-a-body-of-water-rrU85yqPVuU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Martha's Vineyard Massachusetts vacation rental",
+    "fetchedAt": "2026-08-21T15:03:53.168Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/maui-hi/activities": {
+    "url": "https://images.pexels.com/photos/15516442/pexels-photo-15516442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the stunning coastline of Kihei, Hawaii from above, showcasing ocean views and lush greenery.",
+    "photographerName": "Griffin Wooldridge",
+    "photographerUrl": "https://www.pexels.com/@griffinw",
+    "unsplashUrl": "https://www.pexels.com/photo/green-shore-with-road-near-sea-15516442/",
+    "query": "Maui Hawaii outdoor adventure",
+    "fetchedAt": "2026-08-21T15:08:42.754Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/maui-hi/bars": {
+    "url": "https://images.pexels.com/photos/15516442/pexels-photo-15516442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the stunning coastline of Kihei, Hawaii from above, showcasing ocean views and lush greenery.",
+    "photographerName": "Griffin Wooldridge",
+    "photographerUrl": "https://www.pexels.com/@griffinw",
+    "unsplashUrl": "https://www.pexels.com/photo/green-shore-with-road-near-sea-15516442/",
+    "query": "Maui Hawaii rooftop bar",
+    "fetchedAt": "2026-08-21T15:08:35.381Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/maui-hi/dining": {
+    "url": "https://images.pexels.com/photos/15516364/pexels-photo-15516364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Spectacular aerial view of Wailea-Makena coastline showcasing lush greenery and ocean waves.",
+    "photographerName": "Griffin Wooldridge",
+    "photographerUrl": "https://www.pexels.com/@griffinw",
+    "unsplashUrl": "https://www.pexels.com/photo/houses-on-green-shore-near-sea-15516364/",
+    "query": "Maui Hawaii steakhouse",
+    "fetchedAt": "2026-08-21T15:08:28.266Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/maui-hi/lodging": {
+    "url": "https://images.pexels.com/photos/9650565/pexels-photo-9650565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A stunning aerial shot capturing a luxurious tropical resort in Wailea-Makena, Hawaii.",
+    "photographerName": "Katie Cerami",
+    "photographerUrl": "https://www.pexels.com/@katie-cerami-110690626",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-a-resort-9650565/",
+    "query": "Maui Hawaii vacation rental",
+    "fetchedAt": "2026-08-21T15:08:20.943Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/memphis-tn/activities": {
     "url": "https://images.unsplash.com/photo-1562531783-f4a11f4a2c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNZW1waGlzJTIwVE4lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk0OTMyNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white Memphis decor",
@@ -2687,6 +3107,46 @@
     "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-a-city-in-the-distance-LBkjBVTot_Y?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Memphis skyline night",
     "fetchedAt": "2026-04-13T00:08:15.803Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mendocino-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1671919765599-fbdcef609392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzI0NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a beach with houses in the background",
+    "photographerName": "David Klein",
+    "photographerUrl": "https://unsplash.com/@diklein?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-with-houses-in-the-background-A65GqVtnpRU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California outdoor adventure",
+    "fetchedAt": "2026-08-21T15:03:19.093Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mendocino-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1629515591699-8820a4f2a970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzI0NTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees on brown rocky shore during daytime",
+    "photographerName": "Carlos Wolters",
+    "photographerUrl": "https://unsplash.com/@carlos_wolters?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-on-brown-rocky-shore-during-daytime-TqwDN1xzZS8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California rooftop bar",
+    "fetchedAt": "2026-08-21T15:03:10.673Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mendocino-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1618887820371-aac4003b031a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzI0NTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and red lighthouse on brown rock formation near body of water during daytime",
+    "photographerName": "Simon Hurry",
+    "photographerUrl": "https://unsplash.com/@bullterriere?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-red-lighthouse-on-brown-rock-formation-near-body-of-water-during-daytime-p_ZnYesNMdE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California steakhouse",
+    "fetchedAt": "2026-08-21T15:03:04.932Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mendocino-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1671919765599-fbdcef609392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyNDU3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a beach with houses in the background",
+    "photographerName": "David Klein",
+    "photographerUrl": "https://unsplash.com/@diklein?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-with-houses-in-the-background-A65GqVtnpRU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California vacation rental",
+    "fetchedAt": "2026-08-21T15:02:59.700Z",
     "addedBy": "bestman"
   },
   "bestman/cities/miami-fl/activities": {
@@ -2969,6 +3429,46 @@
     "fetchedAt": "2026-04-12T19:04:02.780Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/nantucket-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1588708908465-2a1a34ce25d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNYXNzYWNodXNldHRzJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzI0NjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and black concrete building near body of water during daytime",
+    "photographerName": "Andrew Wolff",
+    "photographerUrl": "https://unsplash.com/@andrewwolff?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-black-concrete-building-near-body-of-water-during-daytime-6HFdIyUjeL4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket Massachusetts outdoor adventure",
+    "fetchedAt": "2026-08-21T15:03:46.922Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/nantucket-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1586364312495-3650095d02f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNYXNzYWNodXNldHRzJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzI0NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man in white shirt standing beside woman in white shirt",
+    "photographerName": "Aubrey Odom",
+    "photographerUrl": "https://unsplash.com/@octoberroses?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-in-white-shirt-standing-beside-woman-in-white-shirt-0QcYftfsg24?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket Massachusetts rooftop bar",
+    "fetchedAt": "2026-08-21T15:03:41.184Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/nantucket-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1586364312495-3650095d02f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNYXNzYWNodXNldHRzJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzI0NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man in white shirt standing beside woman in white shirt",
+    "photographerName": "Aubrey Odom",
+    "photographerUrl": "https://unsplash.com/@octoberroses?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-in-white-shirt-standing-beside-woman-in-white-shirt-0QcYftfsg24?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket Massachusetts steakhouse",
+    "fetchedAt": "2026-08-21T15:03:35.759Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/nantucket-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1588708908465-2a1a34ce25d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNYXNzYWNodXNldHRzJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyNDYwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and black concrete building near body of water during daytime",
+    "photographerName": "Andrew Wolff",
+    "photographerUrl": "https://unsplash.com/@andrewwolff?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-black-concrete-building-near-body-of-water-during-daytime-6HFdIyUjeL4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket Massachusetts vacation rental",
+    "fetchedAt": "2026-08-21T15:03:27.166Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/napa-ca/activities": {
     "url": "https://images.unsplash.com/photo-1522163182402-834f871fd851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ0ElMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODM1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "man climbing cliff beside beach",
@@ -3007,6 +3507,46 @@
     "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-swimming-pool-during-daytime-td-at8ajS8Q?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Napa CA vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:07.944Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-valley-ca/activities": {
+    "url": "https://images.pexels.com/photos/35227785/pexels-photo-35227785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vineyard stretching across Napa Valley, California, under a clear blue sky.",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://www.pexels.com/@gabriel-tovar-2156003919",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-vineyard-in-california-s-napa-valley-35227785/",
+    "query": "Napa Valley California outdoor adventure",
+    "fetchedAt": "2026-08-21T15:09:10.166Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-valley-ca/bars": {
+    "url": "https://images.pexels.com/photos/35227785/pexels-photo-35227785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vineyard stretching across Napa Valley, California, under a clear blue sky.",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://www.pexels.com/@gabriel-tovar-2156003919",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-vineyard-in-california-s-napa-valley-35227785/",
+    "query": "Napa Valley California rooftop bar",
+    "fetchedAt": "2026-08-21T15:09:03.338Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-valley-ca/dining": {
+    "url": "https://images.pexels.com/photos/35227785/pexels-photo-35227785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vineyard stretching across Napa Valley, California, under a clear blue sky.",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://www.pexels.com/@gabriel-tovar-2156003919",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-vineyard-in-california-s-napa-valley-35227785/",
+    "query": "Napa Valley California steakhouse",
+    "fetchedAt": "2026-08-21T15:08:56.286Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/napa-valley-ca/lodging": {
+    "url": "https://images.pexels.com/photos/35227785/pexels-photo-35227785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vineyard stretching across Napa Valley, California, under a clear blue sky.",
+    "photographerName": "Gabriel Tovar",
+    "photographerUrl": "https://www.pexels.com/@gabriel-tovar-2156003919",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-vineyard-in-california-s-napa-valley-35227785/",
+    "query": "Napa Valley California vacation rental",
+    "fetchedAt": "2026-08-21T15:08:49.425Z",
     "addedBy": "bestman"
   },
   "bestman/cities/nashville-tn": {
@@ -3137,6 +3677,86 @@
     "unsplashUrl": "https://unsplash.com/photos/body-of-water-during-daytime-ANvFGxPbipI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New York NY vacation rental house pool",
     "fetchedAt": "2026-04-12T20:08:17.025Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/newport-ri/activities": {
+    "url": "https://images.unsplash.com/photo-1636727062161-de5e3fcb94a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUmhvZGUlMjBJc2xhbmQlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjQ2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat is in the water near a house",
+    "photographerName": "Larry Pozza",
+    "photographerUrl": "https://unsplash.com/@larryapozza?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-is-in-the-water-near-a-house-DELMoAU0_js?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newport Rhode Island outdoor adventure",
+    "fetchedAt": "2026-08-21T15:04:38.520Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/newport-ri/bars": {
+    "url": "https://images.unsplash.com/photo-1654864344462-b2ed37b5ed82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUmhvZGUlMjBJc2xhbmQlMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjQ2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large house with a lawn in front of it",
+    "photographerName": "David Trinks",
+    "photographerUrl": "https://unsplash.com/@dtrinksrph?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-lawn-in-front-of-it-vL6fkCBvP3Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newport Rhode Island rooftop bar",
+    "fetchedAt": "2026-08-21T15:04:33.306Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/newport-ri/dining": {
+    "url": "https://images.unsplash.com/photo-1654864344462-b2ed37b5ed82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg3MzI0NjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large house with a lawn in front of it",
+    "photographerName": "David Trinks",
+    "photographerUrl": "https://unsplash.com/@dtrinksrph?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-lawn-in-front-of-it-vL6fkCBvP3Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newport restaurant",
+    "fetchedAt": "2026-08-21T15:04:27.529Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/newport-ri/lodging": {
+    "url": "https://images.unsplash.com/photo-1636727062161-de5e3fcb94a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUmhvZGUlMjBJc2xhbmQlMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzI0NjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat is in the water near a house",
+    "photographerName": "Larry Pozza",
+    "photographerUrl": "https://unsplash.com/@larryapozza?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-is-in-the-water-near-a-house-DELMoAU0_js?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newport Rhode Island vacation rental",
+    "fetchedAt": "2026-08-21T15:04:19.073Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/oahu-hi/activities": {
+    "url": "https://images.pexels.com/photos/15663586/pexels-photo-15663586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of Diamond Head volcanic crater overlooking the ocean in Hawaii.",
+    "photographerName": "Cyrill",
+    "photographerUrl": "https://www.pexels.com/@realcereal",
+    "unsplashUrl": "https://www.pexels.com/photo/volcano-and-sea-15663586/",
+    "query": "Oahu Hawaii outdoor adventure",
+    "fetchedAt": "2026-08-21T15:09:40.408Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/oahu-hi/bars": {
+    "url": "https://images.pexels.com/photos/5007253/pexels-photo-5007253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of Honolulu's skyline and resort pools with lush greenery and mountains.",
+    "photographerName": "Jess Loiterton",
+    "photographerUrl": "https://www.pexels.com/@jess-vide",
+    "unsplashUrl": "https://www.pexels.com/photo/view-of-a-tourist-resort-5007253/",
+    "query": "Oahu Hawaii rooftop bar",
+    "fetchedAt": "2026-08-21T15:09:33.047Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/oahu-hi/dining": {
+    "url": "https://images.pexels.com/photos/7047117/pexels-photo-7047117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating aerial view of Honolulu's skyline and ocean at dusk, featuring Diamond Head and vibrant city lights.",
+    "photographerName": "Aleksey Kuprikov",
+    "photographerUrl": "https://www.pexels.com/@aleksey-kuprikov-1883853",
+    "unsplashUrl": "https://www.pexels.com/photo/cityscape-of-honolulu-from-tantalus-lookout-7047117/",
+    "query": "Oahu Hawaii steakhouse",
+    "fetchedAt": "2026-08-21T15:09:25.765Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/oahu-hi/lodging": {
+    "url": "https://images.pexels.com/photos/5123248/pexels-photo-5123248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic aerial view capturing Kailua's coastal houses, lush greenery, and clear turquoise waters.",
+    "photographerName": "Brian Garrity",
+    "photographerUrl": "https://www.pexels.com/@brian-garrity-1071699",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-beach-5123248/",
+    "query": "Oahu Hawaii vacation rental",
+    "fetchedAt": "2026-08-21T15:09:17.262Z",
     "addedBy": "bestman"
   },
   "bestman/cities/ocean-city-md/activities": {
@@ -3897,6 +4517,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Santa Barbara CA vacation rental house pool",
     "fetchedAt": "2026-04-12T19:03:16.485Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-fe-nm/activities": {
+    "url": "https://images.pexels.com/photos/35388874/pexels-photo-35388874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A scenic view of the snow-covered Sangre de Cristo Mountains under a partially cloudy sky in Santa Fe, New Mexico.",
+    "photographerName": "Ken Jacobsen",
+    "photographerUrl": "https://www.pexels.com/@ken-jacobsen-2153687226",
+    "unsplashUrl": "https://www.pexels.com/photo/snow-covered-sangre-de-cristo-mountains-in-santa-fe-35388874/",
+    "query": "Santa Fe New Mexico outdoor adventure",
+    "fetchedAt": "2026-08-21T15:10:08.974Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-fe-nm/bars": {
+    "url": "https://images.pexels.com/photos/10209521/pexels-photo-10209521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Rustic metal Santa Fe sign against a textured brick wall, showcasing vintage architectural style.",
+    "photographerName": "Laura Musikanski",
+    "photographerUrl": "https://www.pexels.com/@laura-musikanski-821773",
+    "unsplashUrl": "https://www.pexels.com/photo/text-signage-on-the-wall-10209521/",
+    "query": "Santa Fe New Mexico rooftop bar",
+    "fetchedAt": "2026-08-21T15:10:01.833Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-fe-nm/dining": {
+    "url": "https://images.pexels.com/photos/10209521/pexels-photo-10209521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Rustic metal Santa Fe sign against a textured brick wall, showcasing vintage architectural style.",
+    "photographerName": "Laura Musikanski",
+    "photographerUrl": "https://www.pexels.com/@laura-musikanski-821773",
+    "unsplashUrl": "https://www.pexels.com/photo/text-signage-on-the-wall-10209521/",
+    "query": "Santa Fe New Mexico steakhouse",
+    "fetchedAt": "2026-08-21T15:09:54.476Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-fe-nm/lodging": {
+    "url": "https://images.pexels.com/photos/37542852/pexels-photo-37542852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A scenic aerial view of Santa Fe, NM, featuring a cell tower and classic adobe architecture.",
+    "photographerName": "Casa de Spider",
+    "photographerUrl": "https://www.pexels.com/@casa-de-spider-753077571",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-santa-fe-with-prominent-cell-tower-37542852/",
+    "query": "Santa Fe New Mexico vacation rental",
+    "fetchedAt": "2026-08-21T15:09:47.434Z",
     "addedBy": "bestman"
   },
   "bestman/cities/savannah-ga/activities": {
@@ -8149,6 +8809,56 @@
     "fetchedAt": "2026-06-29T18:22:55.429Z",
     "addedBy": "moh"
   },
+  "moh/cities/aspen-co": {
+    "url": "https://images.pexels.com/photos/29509978/pexels-photo-29509978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Looking up through tall aspen trees against a clear blue sky, capturing nature's tranquility.",
+    "photographerName": "Wandering VirgoNurse",
+    "photographerUrl": "https://www.pexels.com/@wanderingvirgonurse",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-aspen-trees-reaching-into-the-sky-29509978/",
+    "query": "Aspen downtown",
+    "fetchedAt": "2026-08-21T15:03:31.558Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/aspen-co/activities": {
+    "url": "https://images.unsplash.com/photo-1729003702131-51807464dcec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENvbG9yYWRvJTIwc3BhfGVufDF8MHx8fDE3ODczMjQ2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large swimming pool with a lounge chair next to it",
+    "photographerName": "Nereid Ndreu",
+    "photographerUrl": "https://unsplash.com/@nereiq?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-with-a-lounge-chair-next-to-it-cS4Ly93l_RA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen Colorado spa",
+    "fetchedAt": "2026-08-21T15:03:54.702Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/aspen-co/bars": {
+    "url": "https://images.unsplash.com/photo-1605270012917-bf157c5a9541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENvbG9yYWRvJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDYyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "clear cocktail glass with pink liquid inside",
+    "photographerName": "M.S. Meeuwesen",
+    "photographerUrl": "https://unsplash.com/@meeuwesen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/clear-cocktail-glass-with-pink-liquid-inside-QYWYnzvPTAQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen Colorado cocktail bar",
+    "fetchedAt": "2026-08-21T15:03:48.558Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/aspen-co/dining": {
+    "url": "https://images.unsplash.com/photo-1626867245452-bdc8f7e865cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENvbG9yYWRvJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjQ2MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown brick house near green grass field and trees during daytime",
+    "photographerName": "Shalabh Vyas",
+    "photographerUrl": "https://unsplash.com/@shalabhvyas?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-brick-house-near-green-grass-field-and-trees-during-daytime-NllM8-Z6XOA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen Colorado restaurant interior",
+    "fetchedAt": "2026-08-21T15:03:42.616Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/aspen-co/lodging": {
+    "url": "https://images.unsplash.com/photo-1635798049989-c70ae0bbb15e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBc3BlbiUyMENvbG9yYWRvJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people standing on the side of a road",
+    "photographerName": "Rajiv Perera",
+    "photographerUrl": "https://unsplash.com/@rajivperera?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-the-side-of-a-road-f_KMpNA_kAk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aspen Colorado boutique hotel",
+    "fetchedAt": "2026-08-21T15:03:37.296Z",
+    "addedBy": "moh"
+  },
   "moh/cities/atlanta-ga": {
     "url": "https://images.unsplash.com/photo-1590950438368-110fea5acf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRhJTIwR0ElMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "red and white city of chicago signage",
@@ -8197,6 +8907,56 @@
     "unsplashUrl": "https://unsplash.com/photos/red-and-white-city-of-chicago-signage-ySRuIL_b1So?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Atlanta GA boutique hotel bachelorette suite",
     "fetchedAt": "2026-06-30T20:16:08.477Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlantic-city-nj": {
+    "url": "https://images.unsplash.com/photo-1565999270581-5bcc3ef3baa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjBkb3dudG93bnxlbnwxfDB8fHwxNzg3MzI0NjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown dock",
+    "photographerName": "FilterGrade",
+    "photographerUrl": "https://unsplash.com/@filtergrade?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-dock-3XQcwnxaiaQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City downtown",
+    "fetchedAt": "2026-08-21T15:04:01.854Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlantic-city-nj/activities": {
+    "url": "https://images.unsplash.com/photo-1762440933556-410f6d33bd2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjBOZXclMjBKZXJzZXklMjBzcGF8ZW58MXwwfHx8MTc4NzMyNDY2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "White boat with \"atlantic city\" text on beach",
+    "photographerName": "Marc Snailum",
+    "photographerUrl": "https://unsplash.com/@snailumm?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-boat-with-atlantic-city-text-on-beach-gx-ir-7sTjA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City New Jersey spa",
+    "fetchedAt": "2026-08-21T15:04:28.949Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlantic-city-nj/bars": {
+    "url": "https://images.unsplash.com/photo-1720054779948-69b17bb4dc3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDY2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A bunch of boats that are sitting in the water",
+    "photographerName": "Jeff McLain",
+    "photographerUrl": "https://unsplash.com/@jeffmclain?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-boats-that-are-sitting-in-the-water-snOsYL_1Gbw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City bar",
+    "fetchedAt": "2026-08-21T15:04:21.817Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlantic-city-nj/dining": {
+    "url": "https://images.unsplash.com/photo-1560931580-59ff370ce335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODczMjQ2NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking near buildings",
+    "photographerName": "Svetlana Gumerova",
+    "photographerUrl": "https://unsplash.com/@bananablackcat?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-near-buildings-mD6QKeEqobI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City restaurant",
+    "fetchedAt": "2026-08-21T15:04:14.978Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/atlantic-city-nj/lodging": {
+    "url": "https://images.unsplash.com/photo-1691924215894-6e131c2e365f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBdGxhbnRpYyUyMENpdHklMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0NjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large building sitting on top of a lake at night",
+    "photographerName": "Christopher John",
+    "photographerUrl": "https://unsplash.com/@obichris?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-lake-at-night-ORsvVmESVfc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Atlantic City hotel",
+    "fetchedAt": "2026-08-21T15:04:08.937Z",
     "addedBy": "moh"
   },
   "moh/cities/austin-tx": {
@@ -8249,6 +9009,56 @@
     "fetchedAt": "2026-06-29T18:22:48.560Z",
     "addedBy": "moh"
   },
+  "moh/cities/baltimore-md": {
+    "url": "https://images.unsplash.com/photo-1617409123085-f73b92288a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjBNYXJ5bGFuZCUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NzMyNDY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "city with high rise buildings under blue sky during daytime",
+    "photographerName": "Colin Lloyd",
+    "photographerUrl": "https://unsplash.com/@onthesearchforpineapples?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/city-with-high-rise-buildings-under-blue-sky-during-daytime--uQK6Hrzu4k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore Maryland skyline",
+    "fetchedAt": "2026-08-21T15:04:34.717Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/baltimore-md/activities": {
+    "url": "https://images.unsplash.com/photo-1723715977093-5a5071663b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjBNYXJ5bGFuZCUyMHNwYXxlbnwxfDB8fHwxNzg3MzI0NzAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A sign that says visit baltimore on it",
+    "photographerName": "Gang Hao",
+    "photographerUrl": "https://unsplash.com/@haogang?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-that-says-visit-baltimore-on-it-ubd8r5dCFSI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore Maryland spa",
+    "fetchedAt": "2026-08-21T15:05:01.366Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/baltimore-md/bars": {
+    "url": "https://images.unsplash.com/photo-1702961891852-6991bebff76b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjBNYXJ5bGFuZCUyMGNvY2t0YWlsJTIwYmFyfGVufDF8MHx8fDE3ODczMjQ2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a woman holding a drink in her right hand",
+    "photographerName": "Amir Hossein Daraie",
+    "photographerUrl": "https://unsplash.com/@adaraie?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-woman-holding-a-drink-in-her-right-hand-QehDMlwoWz0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore Maryland cocktail bar",
+    "fetchedAt": "2026-08-21T15:04:55.940Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/baltimore-md/dining": {
+    "url": "https://images.unsplash.com/photo-1652635915531-fb726f77e4f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODczMjQ2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a table and chairs outside of a restaurant",
+    "photographerName": "E. Vitka",
+    "photographerUrl": "https://unsplash.com/@evitka?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-table-and-chairs-outside-of-a-restaurant-x5uMBJYW0us?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore restaurant",
+    "fetchedAt": "2026-08-21T15:04:47.076Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/baltimore-md/lodging": {
+    "url": "https://images.unsplash.com/photo-1621204853359-554d68072a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCYWx0aW1vcmUlMjBNYXJ5bGFuZCUyMGJvdXRpcXVlJTIwaG90ZWx8ZW58MXwwfHx8MTc4NzMyNDY3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building near body of water during daytime",
+    "photographerName": "Irina Sitnikova",
+    "photographerUrl": "https://unsplash.com/@city1983?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-body-of-water-during-daytime-UZM12HFlnJs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Baltimore Maryland boutique hotel",
+    "fetchedAt": "2026-08-21T15:04:39.965Z",
+    "addedBy": "moh"
+  },
   "moh/cities/beaufort-sc": {
     "url": "https://images.pexels.com/photos/15789717/pexels-photo-15789717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Aerial cityscape of Charleston, SC showcasing historic architecture under a cloudy sky.",
@@ -8299,6 +9109,56 @@
     "fetchedAt": "2026-08-21T14:52:11.824Z",
     "addedBy": "moh"
   },
+  "moh/cities/bend-or": {
+    "url": "https://images.unsplash.com/photo-1713570874849-2ac0c48ccb59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwZG93bnRvd258ZW58MXwwfHx8MTc4NzMyNDcwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a street lined with parked cars next to tall buildings",
+    "photographerName": "Peter Robbins",
+    "photographerUrl": "https://unsplash.com/@prphotography262?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-street-lined-with-parked-cars-next-to-tall-buildings-fidRahhIqqI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend downtown",
+    "fetchedAt": "2026-08-21T15:05:08.431Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bend-or/activities": {
+    "url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW5kJTIwd2VsbG5lc3N8ZW58MXwwfHx8MTc4NzMyNDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "silhouette photography of woman doing yoga",
+    "photographerName": "kike vega",
+    "photographerUrl": "https://unsplash.com/@kikekiks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/silhouette-photography-of-woman-doing-yoga-F2qh3yjz6Jk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend wellness",
+    "fetchedAt": "2026-08-21T15:05:34.834Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bend-or/bars": {
+    "url": "https://images.pexels.com/photos/19288164/pexels-photo-19288164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Curved mountain road with signposts, bordered by clouds and blue sky.",
+    "photographerName": "Took A Snap",
+    "photographerUrl": "https://www.pexels.com/@took-a-snap-789265640",
+    "unsplashUrl": "https://www.pexels.com/photo/barriers-on-the-road-bend-above-the-clouds-19288164/",
+    "query": "Bend bar",
+    "fetchedAt": "2026-08-21T15:05:27.684Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bend-or/dining": {
+    "url": "https://images.unsplash.com/photo-1630249233827-b66c8c1eb785?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT3JlZ29uJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjQ3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man in white t-shirt standing beside woman in white t-shirt",
+    "photographerName": "Nick Harsell",
+    "photographerUrl": "https://unsplash.com/@nickharsell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-in-white-t-shirt-standing-beside-woman-in-white-t-shirt-RxsNhUzcwcM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend Oregon restaurant interior",
+    "fetchedAt": "2026-08-21T15:05:19.649Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bend-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1575397283492-fde3e31e31f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT3JlZ29uJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0NzEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "time-lapse photography of a flowing body of water",
+    "photographerName": "Jeff Finley",
+    "photographerUrl": "https://unsplash.com/@jeff_finley?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/time-lapse-photography-of-a-flowing-body-of-water-aEzm7Gb37a4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bend Oregon boutique hotel",
+    "fetchedAt": "2026-08-21T15:05:13.755Z",
+    "addedBy": "moh"
+  },
   "moh/cities/big-bear-lake-ca": {
     "url": "https://images.pexels.com/photos/35338210/pexels-photo-35338210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning sunset view of Big Bear Lake, California with boats, mountains, and observatory in the backdrop.",
@@ -8347,6 +9207,56 @@
     "unsplashUrl": "https://www.pexels.com/photo/silhouetted-hills-and-trees-by-a-body-of-water-at-sunset-14762020/",
     "query": "Big Bear Lake boutique hotel",
     "fetchedAt": "2026-08-21T14:53:48.821Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-sky-mt": {
+    "url": "https://images.unsplash.com/photo-1602123904506-b78b9fc89110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNb250YW5hJTIwc2t5bGluZXxlbnwxfDB8fHwxNzg3MzI0NzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green grass field near mountain under white clouds during daytime",
+    "photographerName": "Nic Y-C",
+    "photographerUrl": "https://unsplash.com/@themcny?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-grass-field-near-mountain-under-white-clouds-during-daytime-LtX3b64JuyU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky Montana skyline",
+    "fetchedAt": "2026-08-21T15:05:40.768Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-sky-mt/activities": {
+    "url": "https://images.pexels.com/photos/10366487/pexels-photo-10366487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Discover the breathtaking autumn landscape with snow-capped mountains in Montana, USA.",
+    "photographerName": "John De Leon",
+    "photographerUrl": "https://www.pexels.com/@john-de-leon-142955220",
+    "unsplashUrl": "https://www.pexels.com/photo/landscape-of-road-against-mountains-10366487/",
+    "query": "Big Sky wellness",
+    "fetchedAt": "2026-08-21T15:06:06.900Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-sky-mt/bars": {
+    "url": "https://images.unsplash.com/photo-1599579138621-934d609f41a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNb250YW5hJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDc1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table and chairs",
+    "photographerName": "Doug Greenman",
+    "photographerUrl": "https://unsplash.com/@digndoug?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-ajxZm9Keg-A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky Montana cocktail bar",
+    "fetchedAt": "2026-08-21T15:05:57.852Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-sky-mt/dining": {
+    "url": "https://images.unsplash.com/photo-1599579134411-bd068f77d4d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNb250YW5hJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjQ3NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown wooden table and chairs",
+    "photographerName": "Doug Greenman",
+    "photographerUrl": "https://unsplash.com/@digndoug?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-G8uNOmgSR3U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky Montana restaurant interior",
+    "fetchedAt": "2026-08-21T15:05:52.505Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/big-sky-mt/lodging": {
+    "url": "https://images.unsplash.com/photo-1763304231762-4724c820a35d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNb250YW5hJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Majestic mountains shrouded in dramatic clouds",
+    "photographerName": "Kyle Yen",
+    "photographerUrl": "https://unsplash.com/@yenkyle?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/majestic-mountains-shrouded-in-dramatic-clouds-qZz7fsTzZjw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Sky Montana boutique hotel",
+    "fetchedAt": "2026-08-21T15:05:46.471Z",
     "addedBy": "moh"
   },
   "moh/cities/black-hills-sd": {
@@ -8449,6 +9359,106 @@
     "fetchedAt": "2026-08-20T09:53:03.944Z",
     "addedBy": "moh"
   },
+  "moh/cities/boise-id": {
+    "url": "https://images.unsplash.com/photo-1465244554671-e501f19a3bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMGRvd250b3dufGVufDF8MHx8fDE3ODczMjQ3NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray, blue, and black concrete city buildings",
+    "photographerName": "Alden Skeie",
+    "photographerUrl": "https://unsplash.com/@ishotthisphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-blue-and-black-concrete-city-buildings-cBx1EygM3BM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise downtown",
+    "fetchedAt": "2026-08-21T15:06:13.770Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boise-id/activities": {
+    "url": "https://images.unsplash.com/photo-1746021513193-a314945d15c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMHdlbGxuZXNzfGVufDF8MHx8fDE3ODczMjQ4MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A cozy room with a view, a plant, and a couch",
+    "photographerName": "Deliberate Directions",
+    "photographerUrl": "https://unsplash.com/@deliberatedirections?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-cozy-room-with-a-view-a-plant-and-a-couch-hBjYNP-mEXk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise wellness",
+    "fetchedAt": "2026-08-21T15:06:40.705Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boise-id/bars": {
+    "url": "https://images.unsplash.com/photo-1677823732042-b8887a342bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElkYWhvJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDc5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a store front at night with snow on the ground",
+    "photographerName": "Kevin Escate",
+    "photographerUrl": "https://unsplash.com/@hf_photography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-store-front-at-night-with-snow-on-the-ground-ipOBbRKwOi8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise Idaho cocktail bar",
+    "fetchedAt": "2026-08-21T15:06:33.634Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boise-id/dining": {
+    "url": "https://images.unsplash.com/photo-1679452233226-8810221cec3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElkYWhvJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjQ3ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a table set up for a wedding reception",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-table-set-up-for-a-wedding-reception-O6_z-DLpfDs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise Idaho restaurant interior",
+    "fetchedAt": "2026-08-21T15:06:27.967Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boise-id/lodging": {
+    "url": "https://images.unsplash.com/photo-1663049964256-4e04410a2d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb2lzZSUyMElkYWhvJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city with many buildings",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-with-many-buildings-eBVHkU8wcv8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boise Idaho boutique hotel",
+    "fetchedAt": "2026-08-21T15:06:22.362Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boston-ma": {
+    "url": "https://images.unsplash.com/photo-1565127803082-69dd82351360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwc2t5bGluZXxlbnwxfDB8fHwxNzg3MzI0ODA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water near cityscape at daytime",
+    "photographerName": "jacob Licht",
+    "photographerUrl": "https://unsplash.com/@jolicht?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-near-cityscape-at-daytime-8nA_iHrxHIo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts skyline",
+    "fetchedAt": "2026-08-21T15:06:48.216Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boston-ma/activities": {
+    "url": "https://images.unsplash.com/photo-1565127803082-69dd82351360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwc3BhfGVufDF8MHx8fDE3ODczMjQ4MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "body of water near cityscape at daytime",
+    "photographerName": "jacob Licht",
+    "photographerUrl": "https://unsplash.com/@jolicht?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/body-of-water-near-cityscape-at-daytime-8nA_iHrxHIo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts spa",
+    "fetchedAt": "2026-08-21T15:07:13.665Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boston-ma/bars": {
+    "url": "https://images.unsplash.com/photo-1666150650133-5655c7e47b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyNDgyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people outside of a building",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-outside-of-a-building-q9on4MOassc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts cocktail bar",
+    "fetchedAt": "2026-08-21T15:07:07.170Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boston-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1571705042748-55feda1cfadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjQ4MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "fork and knife on plate beside drinking glass",
+    "photographerName": "Cloris Ying",
+    "photographerUrl": "https://unsplash.com/@clorisyy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/fork-and-knife-on-plate-beside-drinking-glass-1Qt-W4BGrgc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts restaurant interior",
+    "fetchedAt": "2026-08-21T15:06:59.946Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/boston-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1716561810502-54f175032905?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3N0b24lMjBNYXNzYWNodXNldHRzJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzI0ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a city street lined with parked cars and tall buildings",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-city-street-lined-with-parked-cars-and-tall-buildings-Iv0ZWxTW15s?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Boston Massachusetts boutique hotel",
+    "fetchedAt": "2026-08-21T15:06:54.108Z",
+    "addedBy": "moh"
+  },
   "moh/cities/bozeman-mt": {
     "url": "https://images.unsplash.com/photo-1752766074168-44afdbaaf390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTVQlMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A rooftop dining table set for an elegant event.",
@@ -8549,6 +9559,56 @@
     "fetchedAt": "2026-08-21T14:54:12.552Z",
     "addedBy": "moh"
   },
+  "moh/cities/breckenridge-co": {
+    "url": "https://images.unsplash.com/photo-1705104709818-b604df632379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcmVja2VucmlkZ2UlMjBDb2xvcmFkbyUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NzMyNDgzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a ski resort with a mountain in the background",
+    "photographerName": "Nick Rickert",
+    "photographerUrl": "https://unsplash.com/@nick_rickert?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-ski-resort-with-a-mountain-in-the-background-8sv04aPgj5c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Breckenridge Colorado skyline",
+    "fetchedAt": "2026-08-21T15:07:19.369Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/breckenridge-co/activities": {
+    "url": "https://images.pexels.com/photos/30161250/pexels-photo-30161250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic winter view of Breckenridge, Colorado with snow-covered houses and mountains.",
+    "photographerName": "Quang Vuong",
+    "photographerUrl": "https://www.pexels.com/@quang-vuong-724225078",
+    "unsplashUrl": "https://www.pexels.com/photo/winter-landscape-in-breckenridge-colorado-30161250/",
+    "query": "Breckenridge Colorado spa",
+    "fetchedAt": "2026-08-21T15:07:47.668Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/breckenridge-co/bars": {
+    "url": "https://images.pexels.com/photos/28321214/pexels-photo-28321214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant martini glass with a lemon twist on a bar counter in an elegant setting. Ideal for nightlife themes.",
+    "photographerName": "ajit shahu",
+    "photographerUrl": "https://www.pexels.com/@ajit-shahu-1794732582",
+    "unsplashUrl": "https://www.pexels.com/photo/cocktail-topped-with-lime-slice-single-glass-of-dry-martini-28321214/",
+    "query": "Breckenridge Colorado cocktail bar",
+    "fetchedAt": "2026-08-21T15:07:40.578Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/breckenridge-co/dining": {
+    "url": "https://images.pexels.com/photos/30161232/pexels-photo-30161232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Panoramic winter view of a snow-covered town in Colorado with mountains in the background.",
+    "photographerName": "Quang Vuong",
+    "photographerUrl": "https://www.pexels.com/@quang-vuong-724225078",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-winter-view-of-snowy-colorado-town-30161232/",
+    "query": "Breckenridge Colorado restaurant interior",
+    "fetchedAt": "2026-08-21T15:07:33.637Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/breckenridge-co/lodging": {
+    "url": "https://images.pexels.com/photos/30161232/pexels-photo-30161232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Panoramic winter view of a snow-covered town in Colorado with mountains in the background.",
+    "photographerName": "Quang Vuong",
+    "photographerUrl": "https://www.pexels.com/@quang-vuong-724225078",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-winter-view-of-snowy-colorado-town-30161232/",
+    "query": "Breckenridge Colorado boutique hotel",
+    "fetchedAt": "2026-08-21T15:07:26.368Z",
+    "addedBy": "moh"
+  },
   "moh/cities/burlington-vt": {
     "url": "https://images.unsplash.com/photo-1504227588516-e65f041de015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwZG93bnRvd258ZW58MXwwfHx8MTc4NzMyMzgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "man and woman walking in the middle of the road",
@@ -8597,6 +9657,56 @@
     "unsplashUrl": "https://unsplash.com/photos/white-bed-cover-near-white-wooden-door-FhwBrvy8JtU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Burlington VT boutique hotel bachelorette suite",
     "fetchedAt": "2026-08-03T12:38:38.223Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cannon-beach-or": {
+    "url": "https://images.pexels.com/photos/36184616/pexels-photo-36184616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Dramatic sunset highlighting Haystack Rock and reflections on Cannon Beach, Oregon.",
+    "photographerName": "Tim Mossholder",
+    "photographerUrl": "https://www.pexels.com/@timmossholder",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-over-haystack-rock-at-cannon-beach-36184616/",
+    "query": "Cannon Beach Oregon skyline",
+    "fetchedAt": "2026-08-21T15:07:54.933Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cannon-beach-or/activities": {
+    "url": "https://images.pexels.com/photos/34260821/pexels-photo-34260821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Romantic couple holding hands walking along Cannon Beach with coastal backdrop.",
+    "photographerName": "Veronika Andrews",
+    "photographerUrl": "https://www.pexels.com/@veronika-andrews-2153322013",
+    "unsplashUrl": "https://www.pexels.com/photo/couple-walking-on-cannon-beach-oregon-coast-34260821/",
+    "query": "Cannon Beach Oregon spa",
+    "fetchedAt": "2026-08-21T15:08:23.400Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cannon-beach-or/bars": {
+    "url": "https://images.pexels.com/photos/20534609/pexels-photo-20534609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant cocktails on a wooden tray with straws, perfect for a refreshing summer drink.",
+    "photographerName": "ADELAIDO BAUTISTA",
+    "photographerUrl": "https://www.pexels.com/@adelaido-bautista-1061568955",
+    "unsplashUrl": "https://www.pexels.com/photo/fruit-cocktails-with-straws-20534609/",
+    "query": "Cannon Beach Oregon cocktail bar",
+    "fetchedAt": "2026-08-21T15:08:16.282Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cannon-beach-or/dining": {
+    "url": "https://images.pexels.com/photos/37753963/pexels-photo-37753963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Majestic Haystack Rock towering over sandy Cannon Beach with visitors exploring the shore.",
+    "photographerName": "Laszlo Magyar",
+    "photographerUrl": "https://www.pexels.com/@laczadesign",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-haystack-rock-at-cannon-beach-37753963/",
+    "query": "Cannon Beach Oregon restaurant interior",
+    "fetchedAt": "2026-08-21T15:08:09.077Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cannon-beach-or/lodging": {
+    "url": "https://images.pexels.com/photos/34260821/pexels-photo-34260821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Romantic couple holding hands walking along Cannon Beach with coastal backdrop.",
+    "photographerName": "Veronika Andrews",
+    "photographerUrl": "https://www.pexels.com/@veronika-andrews-2153322013",
+    "unsplashUrl": "https://www.pexels.com/photo/couple-walking-on-cannon-beach-oregon-coast-34260821/",
+    "query": "Cannon Beach Oregon boutique hotel",
+    "fetchedAt": "2026-08-21T15:08:02.132Z",
     "addedBy": "moh"
   },
   "moh/cities/cape-cod-ma": {
@@ -8749,6 +9859,56 @@
     "fetchedAt": "2026-06-29T17:36:26.655Z",
     "addedBy": "moh"
   },
+  "moh/cities/charlotte-nc": {
+    "url": "https://images.pexels.com/photos/18931263/pexels-photo-18931263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of Charlotte skyline and Bank of America Stadium at dusk, North Carolina, USA.",
+    "photographerName": "andres Nino",
+    "photographerUrl": "https://www.pexels.com/@andres-nino-760836985",
+    "unsplashUrl": "https://www.pexels.com/photo/cityscape-with-skyscrapers-and-bank-of-america-stadium-in-charlotte-north-carolina-usa-18931263/",
+    "query": "Charlotte North Carolina skyline",
+    "fetchedAt": "2026-08-21T15:08:30.672Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/charlotte-nc/activities": {
+    "url": "https://images.pexels.com/photos/13976468/pexels-photo-13976468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial shot of Charlotte skyline surrounded by fall foliage under a clear sky.",
+    "photographerName": "John Hill",
+    "photographerUrl": "https://www.pexels.com/@john-hill-822587",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-photography-of-city-buildings-under-the-sky-13976468/",
+    "query": "Charlotte North Carolina spa",
+    "fetchedAt": "2026-08-21T15:08:58.615Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/charlotte-nc/bars": {
+    "url": "https://images.pexels.com/photos/36247875/pexels-photo-36247875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Hand holding a cocktail with orange garnish at a dimly lit Seattle bar. Perfect for lifestyle themes.",
+    "photographerName": "Photo Eddie O.",
+    "photographerUrl": "https://www.pexels.com/@photoeddieo",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-cocktail-in-hand-at-a-seattle-bar-36247875/",
+    "query": "Charlotte North Carolina cocktail bar",
+    "fetchedAt": "2026-08-21T15:08:51.712Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/charlotte-nc/dining": {
+    "url": "https://images.pexels.com/photos/38197186/pexels-photo-38197186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Cozy restaurant interior with wicker lamps and wooden furniture, St. Augustine, Florida.",
+    "photographerName": "Roy Serafin",
+    "photographerUrl": "https://www.pexels.com/@roythephotographer",
+    "unsplashUrl": "https://www.pexels.com/photo/stylish-empty-restaurant-interior-in-st-augustine-38197186/",
+    "query": "Charlotte North Carolina restaurant interior",
+    "fetchedAt": "2026-08-21T15:08:45.080Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/charlotte-nc/lodging": {
+    "url": "https://images.pexels.com/photos/18931263/pexels-photo-18931263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of Charlotte skyline and Bank of America Stadium at dusk, North Carolina, USA.",
+    "photographerName": "andres Nino",
+    "photographerUrl": "https://www.pexels.com/@andres-nino-760836985",
+    "unsplashUrl": "https://www.pexels.com/photo/cityscape-with-skyscrapers-and-bank-of-america-stadium-in-charlotte-north-carolina-usa-18931263/",
+    "query": "Charlotte North Carolina boutique hotel",
+    "fetchedAt": "2026-08-21T15:08:37.837Z",
+    "addedBy": "moh"
+  },
   "moh/cities/chicago-il": {
     "url": "https://images.unsplash.com/photo-1690134320498-b60f30f91704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDaGljYWdvJTIwSUwlMjByb29mdG9wJTIwYmFjaGVsb3JldHRlJTIwZ2xhbXxlbnwxfDB8fHwxNzc2MDE5MTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a woman standing on a bridge looking at a river",
@@ -8797,6 +9957,106 @@
     "unsplashUrl": "https://unsplash.com/photos/a-white-bed-sitting-in-a-bedroom-next-to-a-window-fuo8XrnsVo4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Chicago IL boutique hotel bachelorette suite",
     "fetchedAt": "2026-06-30T09:59:02.117Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cincinnati-oh": {
+    "url": "https://images.pexels.com/photos/4394321/pexels-photo-4394321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Exterior of large oval Soldier Field surrounded by junction and greenery under sky covered with clouds in Chicago",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/huge-stadium-in-metropolitan-in-daylight-4394321/",
+    "query": "Cincinnati Ohio skyline",
+    "fetchedAt": "2026-08-21T15:09:05.579Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cincinnati-oh/activities": {
+    "url": "https://images.pexels.com/photos/19754222/pexels-photo-19754222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant bathroom featuring a freestanding tub and balcony view, perfect for a relaxing retreat.",
+    "photographerName": "Taylor Thompson",
+    "photographerUrl": "https://www.pexels.com/@taylor-thompson-865581658",
+    "unsplashUrl": "https://www.pexels.com/photo/bedroom-with-bathtub-and-balcony-19754222/",
+    "query": "Cincinnati Ohio spa",
+    "fetchedAt": "2026-08-21T15:09:35.490Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cincinnati-oh/bars": {
+    "url": "https://images.pexels.com/photos/5863540/pexels-photo-5863540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two refreshing cocktails on a wooden table in a dimly lit bar with a warm ambiance.",
+    "photographerName": "Rachel Claire",
+    "photographerUrl": "https://www.pexels.com/@rachel-claire",
+    "unsplashUrl": "https://www.pexels.com/photo/cocktail-drinks-on-wooden-table-5863540/",
+    "query": "Cincinnati Ohio cocktail bar",
+    "fetchedAt": "2026-08-21T15:09:28.106Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cincinnati-oh/dining": {
+    "url": "https://images.pexels.com/photos/10160093/pexels-photo-10160093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of the iconic John A. Roebling Suspension Bridge in Cincinnati, Ohio during the day.",
+    "photographerName": "Leah Newhouse",
+    "photographerUrl": "https://www.pexels.com/@leah-newhouse-50725",
+    "unsplashUrl": "https://www.pexels.com/photo/the-roebling-bridge-in-cincinnati-ohio-10160093/",
+    "query": "Cincinnati restaurant",
+    "fetchedAt": "2026-08-21T15:09:20.737Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cincinnati-oh/lodging": {
+    "url": "https://images.pexels.com/photos/19754222/pexels-photo-19754222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant bathroom featuring a freestanding tub and balcony view, perfect for a relaxing retreat.",
+    "photographerName": "Taylor Thompson",
+    "photographerUrl": "https://www.pexels.com/@taylor-thompson-865581658",
+    "unsplashUrl": "https://www.pexels.com/photo/bedroom-with-bathtub-and-balcony-19754222/",
+    "query": "Cincinnati Ohio boutique hotel",
+    "fetchedAt": "2026-08-21T15:09:12.551Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cleveland-oh": {
+    "url": "https://images.pexels.com/photos/18353982/pexels-photo-18353982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating view of Cleveland's downtown skyline showcasing modern architecture and illuminated buildings.",
+    "photographerName": "Stephen Leonardi",
+    "photographerUrl": "https://www.pexels.com/@stephen-leonardi-587681991",
+    "unsplashUrl": "https://www.pexels.com/photo/downtown-of-cleveland-18353982/",
+    "query": "Cleveland Ohio skyline",
+    "fetchedAt": "2026-08-21T15:09:42.661Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cleveland-oh/activities": {
+    "url": "https://images.pexels.com/photos/19754222/pexels-photo-19754222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant bathroom featuring a freestanding tub and balcony view, perfect for a relaxing retreat.",
+    "photographerName": "Taylor Thompson",
+    "photographerUrl": "https://www.pexels.com/@taylor-thompson-865581658",
+    "unsplashUrl": "https://www.pexels.com/photo/bedroom-with-bathtub-and-balcony-19754222/",
+    "query": "Cleveland Ohio spa",
+    "fetchedAt": "2026-08-21T15:10:11.370Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cleveland-oh/bars": {
+    "url": "https://images.pexels.com/photos/15945661/pexels-photo-15945661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A well-stocked bar shelf showcasing diverse liquors and spirits with elegant glassware.",
+    "photographerName": "Kathrine Birch",
+    "photographerUrl": "https://www.pexels.com/@kathrinepnw",
+    "unsplashUrl": "https://www.pexels.com/photo/liquor-bottles-on-shelves-in-a-bar-15945661/",
+    "query": "Cleveland Ohio cocktail bar",
+    "fetchedAt": "2026-08-21T15:10:04.216Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cleveland-oh/dining": {
+    "url": "https://images.pexels.com/photos/37100502/pexels-photo-37100502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant view of Cleveland's historic West Side Market showcasing various food stalls and architectural details.",
+    "photographerName": "James Mirakian",
+    "photographerUrl": "https://www.pexels.com/@james-mirakian-774977502",
+    "unsplashUrl": "https://www.pexels.com/photo/bustling-interior-of-west-side-market-cleveland-37100502/",
+    "query": "Cleveland Ohio restaurant interior",
+    "fetchedAt": "2026-08-21T15:09:57.005Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/cleveland-oh/lodging": {
+    "url": "https://images.pexels.com/photos/13128193/pexels-photo-13128193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A sunny urban scene in Cleveland featuring the historic Grays Armory and a distant baseball stadium.",
+    "photographerName": "Steve DiMatteo",
+    "photographerUrl": "https://www.pexels.com/@stevedimatteo",
+    "unsplashUrl": "https://www.pexels.com/photo/grays-armory-in-cleveland-13128193/",
+    "query": "Cleveland Ohio boutique hotel",
+    "fetchedAt": "2026-08-21T15:09:49.734Z",
     "addedBy": "moh"
   },
   "moh/cities/cody-wy": {
@@ -9749,6 +11009,56 @@
     "fetchedAt": "2026-07-17T11:00:54.566Z",
     "addedBy": "moh"
   },
+  "moh/cities/kennebunkport-me": {
+    "url": "https://images.pexels.com/photos/16234731/pexels-photo-16234731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a coastal estate in Kennebunkport, Maine, with ocean and flowers.",
+    "photographerName": "Kalei Winfield",
+    "photographerUrl": "https://www.pexels.com/@kalei-winfield-501837032",
+    "unsplashUrl": "https://www.pexels.com/photo/house-and-sea-16234731/",
+    "query": "Kennebunkport downtown",
+    "fetchedAt": "2026-08-21T15:02:55.823Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/kennebunkport-me/activities": {
+    "url": "https://images.pexels.com/photos/16234731/pexels-photo-16234731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a coastal estate in Kennebunkport, Maine, with ocean and flowers.",
+    "photographerName": "Kalei Winfield",
+    "photographerUrl": "https://www.pexels.com/@kalei-winfield-501837032",
+    "unsplashUrl": "https://www.pexels.com/photo/house-and-sea-16234731/",
+    "query": "Kennebunkport wellness",
+    "fetchedAt": "2026-08-21T15:03:23.366Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/kennebunkport-me/bars": {
+    "url": "https://images.pexels.com/photos/16234731/pexels-photo-16234731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a coastal estate in Kennebunkport, Maine, with ocean and flowers.",
+    "photographerName": "Kalei Winfield",
+    "photographerUrl": "https://www.pexels.com/@kalei-winfield-501837032",
+    "unsplashUrl": "https://www.pexels.com/photo/house-and-sea-16234731/",
+    "query": "Kennebunkport bar",
+    "fetchedAt": "2026-08-21T15:03:15.174Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/kennebunkport-me/dining": {
+    "url": "https://images.unsplash.com/photo-1659320933767-fd2f38406b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZW5uZWJ1bmtwb3J0JTIwTWFpbmUlMjByZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NzMyNDU4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat docked at a pier",
+    "photographerName": "Trent Erwin",
+    "photographerUrl": "https://unsplash.com/@tjerwin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-docked-at-a-pier-wzHLQbwQ7Zs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kennebunkport Maine restaurant interior",
+    "fetchedAt": "2026-08-21T15:03:06.312Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/kennebunkport-me/lodging": {
+    "url": "https://images.unsplash.com/photo-1728676693421-0296d1889900?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLZW5uZWJ1bmtwb3J0JTIwTWFpbmUlMjBib3V0aXF1ZSUyMGhvdGVsfGVufDF8MHx8fDE3ODczMjQ1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of boats that are sitting in the water",
+    "photographerName": "Bradley Gossett",
+    "photographerUrl": "https://unsplash.com/@gossettcreative?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-boats-that-are-sitting-in-the-water-OSZAGRFm8wk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Kennebunkport Maine boutique hotel",
+    "fetchedAt": "2026-08-21T15:03:01.107Z",
+    "addedBy": "moh"
+  },
   "moh/cities/key-west-fl": {
     "url": "https://images.unsplash.com/photo-1757029379203-4f8689329087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLZXklMjBXZXN0JTIwaGlzdG9yaWMlMjBkaXN0cmljdCUyMGdvbGRlbiUyMGhvdXJ8ZW58MXwwfHx8MTc4Mjc3NDg3NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Cars parked along a street lined with palm trees.",
@@ -10297,6 +11607,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/stunning-coastal-sunset-with-silhouetted-trees-33354058/",
     "query": "Mendocino California skyline",
     "fetchedAt": "2026-08-21T14:54:35.082Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mendocino-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1671211519387-70be38761e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwc3BhfGVufDF8MHx8fDE3ODczMjQ1NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of the ocean from a cliff",
+    "photographerName": "Rachel Faller",
+    "photographerUrl": "https://unsplash.com/@rachelcfaller?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-cliff-zqWxoo-OgcY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California spa",
+    "fetchedAt": "2026-08-21T15:02:46.506Z",
     "addedBy": "moh"
   },
   "moh/cities/mendocino-ca/dining": {
@@ -13639,6 +14959,36 @@
     "fetchedAt": "2026-08-02T00:00:00.000Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/al-maha-dubai": {
+    "url": "https://images.pexels.com/photos/8484851/pexels-photo-8484851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Luxurious resort pool surrounded by modern architecture and palm trees in Dubai.",
+    "photographerName": "Denys Gromov",
+    "photographerUrl": "https://www.pexels.com/@jdgromov",
+    "unsplashUrl": "https://www.pexels.com/photo/facade-of-a-building-8484851/",
+    "query": "Al Maha, a Luxury Collection Desert Resort & Spa Dubai Desert Conservation Reserve, UAE",
+    "fetchedAt": "2026-08-21T15:08:40.205Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/aman-kyoto-cultural-circuit": {
+    "url": "https://images.pexels.com/photos/31033133/pexels-photo-31033133.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of the Kinkaku-ji Temple surrounded by lush greenery in Kyoto, Japan.",
+    "photographerName": "Lomax Wood",
+    "photographerUrl": "https://www.pexels.com/@lomax-wood-2150234742",
+    "unsplashUrl": "https://www.pexels.com/photo/kinkaku-ji-temple-golden-pavilion-in-kyoto-japan-31033133/",
+    "query": "Aman Kyoto forest sanctuary garden pavilion",
+    "fetchedAt": "2026-08-21T15:09:52.118Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/amanoi": {
+    "url": "https://images.pexels.com/photos/27676396/pexels-photo-27676396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful beach in Vinh Hy Bay, Vietnam with turquoise water and lush hills.",
+    "photographerName": "Dang Hong",
+    "photographerUrl": "https://www.pexels.com/@dwanghong",
+    "unsplashUrl": "https://www.pexels.com/photo/a-boat-is-sitting-on-the-water-near-a-beach-27676396/",
+    "query": "Amanoi Vietnam Nui Chua clifftop pavilion bay",
+    "fetchedAt": "2026-08-21T15:09:30.493Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/anantara-al-jabal-al-akhdar": {
     "url": "https://images.unsplash.com/photo-1595243763803-0225e2750b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBbmFudGFyYSUyMEFsJTIwSmFiYWwlMjBBbCUyMEFraGRhciUyME9tYW4lMjBjbGlmZiUyMGluZmluaXR5JTIwcG9vbCUyMGNhbnlvbiUyMHZpbGxhfGVufDF8MHx8fDE3ODcyNDQ1NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown rock formation on sea during daytime",
@@ -13657,6 +15007,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-and-black-outdoor-table-and-chairs-near-sea-during-daytime-YmyUA6QZjt4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Anantara Mai Khao Phuket pool villa beach",
     "fetchedAt": "2026-06-26T18:03:50.090Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/andbeyond-phinda": {
+    "url": "https://images.pexels.com/photos/6736186/pexels-photo-6736186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of an African elephant roaming freely in South Africa's wilderness, KZN region.",
+    "photographerName": "David Litzlbauer",
+    "photographerUrl": "https://www.pexels.com/@david-litzlbauer-22212137",
+    "unsplashUrl": "https://www.pexels.com/photo/an-elephant-in-close-up-photography-6736186/",
+    "query": "andBeyond Phinda Private Game Reserve KwaZulu-Natal, South Africa",
+    "fetchedAt": "2026-08-21T15:06:51.138Z",
     "addedBy": "offsite"
   },
   "offsite/venues/armathwaite-hall-bassenthwaite": {
@@ -13709,6 +15069,16 @@
     "fetchedAt": "2026-08-20T16:49:31.876Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/bakers-bay-abaco": {
+    "url": "https://images.pexels.com/photos/19793138/pexels-photo-19793138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A man tees off at a seaside golf course, enjoying a sunny day and ocean view.",
+    "photographerName": "Sebastian Luna",
+    "photographerUrl": "https://www.pexels.com/@sebastian-luna-736234668",
+    "unsplashUrl": "https://www.pexels.com/photo/man-playing-golf-by-sea-19793138/",
+    "query": "Baker's Bay Golf & Ocean Club (villa cluster) Great Guana Cay, Abaco",
+    "fetchedAt": "2026-08-21T15:05:43.498Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/bandon-dunes": {
     "url": "https://images.unsplash.com/photo-1560591295-8ab7cc4634c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCYW5kb24lMjBEdW5lcyUyMEdvbGYlMjBSZXNvcnQlMjBPcmVnb24lMjBjb2FzdCUyMGxpbmtzJTIwYWVyaWFsfGVufDF8MHx8fDE3ODI3NTc1MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "buildings near ocean",
@@ -13719,6 +15089,16 @@
     "fetchedAt": "2026-06-29T18:25:06.502Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/banyan-tree-alula": {
+    "url": "https://images.pexels.com/photos/15612135/pexels-photo-15612135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Adobe-style buildings set against dramatic rocky cliffs under a bright blue sky.",
+    "photographerName": "LUCKY",
+    "photographerUrl": "https://www.pexels.com/@lucky-459202238",
+    "unsplashUrl": "https://www.pexels.com/photo/buildings-on-a-desert-15612135/",
+    "query": "Banyan Tree AlUla Ashar Valley, AlUla, Saudi Arabia",
+    "fetchedAt": "2026-08-21T15:08:11.418Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/banyan-tree-laguna-phuket": {
     "url": "https://images.unsplash.com/photo-1706869983378-05eb77965376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxMYWd1bmElMjBQaHVrZXQlMjBCYW55YW4lMjBUcmVlJTIwaW50ZWdyYXRlZCUyMHJlc29ydCUyMGxhZ29vbnxlbnwxfDB8fHwxNzgyNDk3MDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large tree sitting next to a body of water",
@@ -13727,6 +15107,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-tree-sitting-next-to-a-body-of-water-Vwqzg4wMsKY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Laguna Phuket Banyan Tree integrated resort lagoon",
     "fetchedAt": "2026-06-26T18:04:07.113Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/bawah-reserve": {
+    "url": "https://images.pexels.com/photos/1450352/pexels-photo-1450352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial shot of overwater bungalows on turquoise waters in a tropical paradise.",
+    "photographerName": "Asad Photo Maldives",
+    "photographerUrl": "https://www.pexels.com/@asadphoto",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-photography-of-houses-1450352/",
+    "query": "Bawah Reserve Anambas Islands lagoon villas aerial",
+    "fetchedAt": "2026-08-21T15:09:00.885Z",
     "addedBy": "offsite"
   },
   "offsite/venues/black-urchin-grand-cayman": {
@@ -13789,6 +15179,16 @@
     "fetchedAt": "2026-06-26T18:03:00.821Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/cap-rocat-mallorca": {
+    "url": "https://images.pexels.com/photos/29662406/pexels-photo-29662406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A picturesque lighthouse located on a rocky island off the coast of Mallorca, Spain during summer.",
+    "photographerName": "Evan Hughes",
+    "photographerUrl": "https://www.pexels.com/@evanh",
+    "unsplashUrl": "https://www.pexels.com/photo/lighthouse-on-a-rocky-shore-in-mallorca-spain-29662406/",
+    "query": "Cap Rocat fortress hotel Palma Bay Mallorca",
+    "fetchedAt": "2026-08-21T15:04:04.571Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/capella-singapore": {
     "url": "https://images.unsplash.com/photo-1679234417190-9c443548a40c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXBlbGxhJTIwU2luZ2Fwb3JlJTIwU2VudG9zYSUyMGNvbG9uaWFsJTIwaGVyaXRhZ2UlMjByZXNvcnR8ZW58MXwwfHx8MTc4MjQ5NzA0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large white building with cars parked in front of it",
@@ -13809,6 +15209,16 @@
     "fetchedAt": "2026-06-26T17:58:39.923Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/casa-de-uco-mendoza": {
+    "url": "https://images.pexels.com/photos/31272059/pexels-photo-31272059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A couple enjoys a scenic walk in the beautiful Mendoza landscape, surrounded by mountains and a vast lake.",
+    "photographerName": "Lilen Diaz",
+    "photographerUrl": "https://www.pexels.com/@lilen-diaz-1025474869",
+    "unsplashUrl": "https://www.pexels.com/photo/couple-walking-in-scenic-mendoza-landscape-31272059/",
+    "query": "Casa de Uco Vineyards & Wine Resort Uco Valley, Mendoza",
+    "fetchedAt": "2026-08-21T15:06:16.629Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/castello-di-casole": {
     "url": "https://images.unsplash.com/photo-1596142332133-327e2a0ff006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYXN0ZWxsbyUyMGRpJTIwQ2Fzb2xlJTIwVHVzY2FueSUyMGNhc3RsZSUyMGVzdGF0ZSUyMHZpbmV5YXJkJTIwY3lwcmVzc3xlbnwxfDB8fHwxNzgyNDk2Njc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "vineyard rows on tuscan hillside",
@@ -13817,6 +15227,16 @@
     "unsplashUrl": "https://unsplash.com/photos/vineyard-rows-on-tuscan-hillside-pnigODapPek?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Castello di Casole Tuscany castle estate vineyard cypress",
     "fetchedAt": "2026-06-26T17:57:59.476Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/cayo-espanto-belize": {
+    "url": "https://images.pexels.com/photos/38399146/pexels-photo-38399146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Peaceful beach setting with colorful parasols over calm waters in San Pedro, Belize at sunrise.",
+    "photographerName": "Roy Serafin",
+    "photographerUrl": "https://www.pexels.com/@roythephotographer",
+    "unsplashUrl": "https://www.pexels.com/photo/idyllic-beach-scene-with-vibrant-parasols-in-belize-38399146/",
+    "query": "Cayo Espanto off Ambergris Caye",
+    "fetchedAt": "2026-08-21T15:05:55.023Z",
     "addedBy": "offsite"
   },
   "offsite/venues/cda-resort-idaho": {
@@ -13829,6 +15249,16 @@
     "fetchedAt": "2026-06-26T17:58:15.381Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/chateau-des-mesnuls": {
+    "url": "https://images.pexels.com/photos/14816349/pexels-photo-14816349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Historic Château de Lapalisse with gothic architecture set in a lush landscape under a bright sky.",
+    "photographerName": "Gu Bra",
+    "photographerUrl": "https://www.pexels.com/@gu-bra-11680150",
+    "unsplashUrl": "https://www.pexels.com/photo/photo-of-the-chateau-de-la-palice-of-france-14816349/",
+    "query": "Château des Mesnuls France exterior estate",
+    "fetchedAt": "2026-08-21T15:03:45.403Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/chateau-la-coste": {
     "url": "https://images.unsplash.com/photo-1655805045430-a6795d9312ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDaCVDMyVBMnRlYXUlMjBMYSUyMENvc3RlJTIwQWl4LWVuLVByb3ZlbmNlJTIwdmluZXlhcmQlMjBhcnQlMjBhcmNoaXRlY3R1cmV8ZW58MXwwfHx8MTc4NzI1MjMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a field of lavender",
@@ -13837,6 +15267,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-field-of-lavender-P1RYBRic3v4?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Château La Coste Aix-en-Provence vineyard art architecture",
     "fetchedAt": "2026-08-20T18:58:35.492Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/cottars-1920s-safari-camp": {
+    "url": "https://images.pexels.com/photos/10822350/pexels-photo-10822350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Group of giraffes in the African savannah showcasing wildlife beauty and natural habitat.",
+    "photographerName": "Richard Wilson",
+    "photographerUrl": "https://www.pexels.com/@richard-wilson-1717169",
+    "unsplashUrl": "https://www.pexels.com/photo/three-giraffes-on-brown-grass-field-10822350/",
+    "query": "Cottar's 1920s Safari Camp & Private House Maasai Mara conservancy, Kenya",
+    "fetchedAt": "2026-08-21T15:06:43.958Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/delaire-graff-estate": {
+    "url": "https://images.pexels.com/photos/37295909/pexels-photo-37295909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Peaceful residential view with Stellenbosch Mountain, South Africa.",
+    "photographerName": "Nikita",
+    "photographerUrl": "https://www.pexels.com/@nikita-2150785659",
+    "unsplashUrl": "https://www.pexels.com/photo/stellenbosch-mountain-view-and-residential-area-37295909/",
+    "query": "Delaire Graff Estate Stellenbosch, Cape Winelands, South Africa",
+    "fetchedAt": "2026-08-21T15:07:35.953Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/delta-grand-okanagan": {
+    "url": "https://images.pexels.com/photos/2827845/pexels-photo-2827845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Peaceful scene with a boat on Okanagan Lake, surrounded by mountains and clouds in Kelowna, BC.",
+    "photographerName": "Vincent M.A. Janssen",
+    "photographerUrl": "https://www.pexels.com/@vincent-ma-janssen",
+    "unsplashUrl": "https://www.pexels.com/photo/a-boat-sailing-in-a-mountain-lake-2827845/",
+    "query": "Delta Grand Okanagan Resort Kelowna lakefront marina",
+    "fetchedAt": "2026-08-21T15:03:25.723Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/deplar-farm-eleven": {
+    "url": "https://images.pexels.com/photos/31906851/pexels-photo-31906851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Cozy wooden cabin set against the dramatic Icelandic mountains and glaciers.",
+    "photographerName": "X1ntao ZHOU",
+    "photographerUrl": "https://www.pexels.com/@x1ntao-zhou-1257907212",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-wooden-cabin-in-icelandic-landscape-31906851/",
+    "query": "Deplar Farm Eleven lodge Troll Peninsula Iceland heli-ski",
+    "fetchedAt": "2026-08-21T15:04:37.124Z",
     "addedBy": "offsite"
   },
   "offsite/venues/des-iles-borromees-maggiore": {
@@ -13857,6 +15327,16 @@
     "unsplashUrl": "https://unsplash.com/photos/bed-of-lavender-flowers-A2gKlf8JgGA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Domaine de Manville Les Baux-de-Provence estate",
     "fetchedAt": "2026-08-20T18:58:34.008Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/dreams-bahia-mita-hyatt": {
+    "url": "https://images.pexels.com/photos/14664860/pexels-photo-14664860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of San Francisco beach in Nayarit, Mexico, captured at sunset.",
+    "photographerName": "Vladimir Miranda",
+    "photographerUrl": "https://www.pexels.com/@vladimir-miranda-238542436",
+    "unsplashUrl": "https://www.pexels.com/photo/drone-shot-of-a-beach-during-sunset-14664860/",
+    "query": "Secrets/Dreams Bahía Mita (Hyatt) Riviera Nayarit",
+    "fetchedAt": "2026-08-21T15:05:04.231Z",
     "addedBy": "offsite"
   },
   "offsite/venues/edgewood-tahoe": {
@@ -13929,6 +15409,16 @@
     "fetchedAt": "2026-06-26T17:58:38.198Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/four-seasons-koh-samui": {
+    "url": "https://images.pexels.com/photos/33605102/pexels-photo-33605102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Relaxing tropical poolside setting in Koh Samui, Thailand with sun loungers and vibrant umbrellas.",
+    "photographerName": "Anetta Kolesnikova",
+    "photographerUrl": "https://www.pexels.com/@anetta-kolesnikova-2154382947",
+    "unsplashUrl": "https://www.pexels.com/photo/luxurious-poolside-scene-in-koh-samui-resort-33605102/",
+    "query": "Four Seasons Koh Samui hillside pool villa Gulf",
+    "fetchedAt": "2026-08-21T15:09:14.907Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/fs-costa-palmas-cabo": {
     "url": "https://images.unsplash.com/photo-1516291251364-8e3c644a43aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3VyJTIwU2Vhc29ucyUyMENvc3RhJTIwUGFsbWFzJTIwTG9zJTIwQ2Fib3MlMjBtYXJpbmElMjBiZWFjaCUyMFNlYSUyMG9mJTIwQ29ydGV6JTIwYWVyaWFsJTIwRWFzdCUyMENhcGV8ZW58MXwwfHx8MTc4MjQ5NjcyMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "aerial photography of mountain with village near sea",
@@ -13969,6 +15459,16 @@
     "fetchedAt": "2026-08-21T13:09:19.756Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/grace-bay-club-tci": {
+    "url": "https://images.pexels.com/photos/14282663/pexels-photo-14282663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Discover the opulence of Monaco's marina, showcasing luxury yachts against a stunning Mediterranean backdrop.",
+    "photographerName": "Cedo Todorovic",
+    "photographerUrl": "https://www.pexels.com/@cedo-todorovic-356118559",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-boats-on-sea-14282663/",
+    "query": "Grace Bay Club Providenciales",
+    "fetchedAt": "2026-08-21T15:05:16.652Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/grand-hyatt-kauai": {
     "url": "https://images.unsplash.com/photo-1655365035044-d7a1a01d7e33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHcmFuZCUyMEh5YXR0JTIwS2F1YWklMjBQb2lwdSUyMG9jZWFuZnJvbnQlMjByZXNvcnQlMjBhZXJpYWx8ZW58MXwwfHx8MTc4Mjc1NzQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city next to the ocean",
@@ -13979,6 +15479,36 @@
     "fetchedAt": "2026-06-29T18:24:51.149Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/grand-traverse-resort": {
+    "url": "https://images.pexels.com/photos/33941161/pexels-photo-33941161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Tranquil golf course landscape in Harbor Springs, Michigan during a sunny day.",
+    "photographerName": "Ryan Latimer",
+    "photographerUrl": "https://www.pexels.com/@ryan-latimer-706221573",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-golf-course-view-in-harbor-springs-33941161/",
+    "query": "Grand Traverse Resort Traverse City Lake Michigan golf",
+    "fetchedAt": "2026-08-21T15:03:09.236Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/grand-velas-riviera-maya": {
+    "url": "https://images.pexels.com/photos/16116222/pexels-photo-16116222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of resorts nestled in lush forest and water bodies in Playa del Carmen, Mexico.",
+    "photographerName": "Willian Justen de Vasconcellos",
+    "photographerUrl": "https://www.pexels.com/@willianjusten",
+    "unsplashUrl": "https://www.pexels.com/photo/birds-eye-view-of-tourist-resort-16116222/",
+    "query": "Grand Velas Riviera Maya Riviera Maya",
+    "fetchedAt": "2026-08-21T15:05:10.889Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/grootbos-private-reserve": {
+    "url": "https://images.pexels.com/photos/32382654/pexels-photo-32382654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking view of Witsand Beach, Western Cape, South Africa, showcasing a stunning coastal landscape under a clear blue sky.",
+    "photographerName": "Analize Viljoen",
+    "photographerUrl": "https://www.pexels.com/@analize-viljoen-155336659",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-coastal-view-of-witsand-beach-in-south-africa-32382654/",
+    "query": "Grootbos Private Nature Reserve Gansbaai / Western Cape, South Africa",
+    "fetchedAt": "2026-08-21T15:07:28.683Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/hacienda-de-san-rafael": {
     "url": "https://images.unsplash.com/photo-1687102737654-29f0d373685a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIYWNpZW5kYSUyMGRlJTIwU2FuJTIwUmFmYWVsJTIwQW5kYWx1c2lhbiUyMG9saXZlJTIwZXN0YXRlJTIwU2V2aWxsZXxlbnwxfDB8fHwxNzgyNDk2ODU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a scenic view of a town with mountains in the background",
@@ -13987,6 +15517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-town-with-mountains-in-the-background-U1VGCLdA4DY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Hacienda de San Rafael Andalusian olive estate Seville",
     "fetchedAt": "2026-06-26T18:00:58.856Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/hacienda-del-mar-los-cabos": {
+    "url": "https://images.pexels.com/photos/17415446/pexels-photo-17415446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of Cabo San Lucas coast showcasing rugged terrain and vast ocean.",
+    "photographerName": "Israel Torres",
+    "photographerUrl": "https://www.pexels.com/@israwmx",
+    "unsplashUrl": "https://www.pexels.com/photo/rocky-foreland-with-hill-on-sea-coast-17415446/",
+    "query": "Hacienda del Mar Los Cabos Los Cabos, Baja California Sur",
+    "fetchedAt": "2026-08-21T15:04:50.100Z",
     "addedBy": "offsite"
   },
   "offsite/venues/halekulani-okinawa": {
@@ -14029,6 +15569,16 @@
     "fetchedAt": "2026-06-26T18:00:33.029Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/hoshinoya-karuizawa": {
+    "url": "https://images.pexels.com/photos/17003059/pexels-photo-17003059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of traditional Japanese house nestled in lush green forest of Otari, Nagano.",
+    "photographerName": "Chen Te",
+    "photographerUrl": "https://www.pexels.com/@chente8888",
+    "unsplashUrl": "https://www.pexels.com/photo/japanese-houses-on-a-hill-between-trees-in-a-dense-forest-17003059/",
+    "query": "Hoshinoya Karuizawa ryokan onsen village Nagano",
+    "fetchedAt": "2026-08-21T15:09:37.841Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/hvammsvik-hot-springs": {
     "url": "https://images.unsplash.com/photo-1716362536805-2da9c43c292e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIdmFtbXN2JUMzJUFEayUyMGhvdCUyMHNwcmluZ3MlMjBmam9yZCUyMEh2YWxmaiVDMyVCNnIlQzMlQjB1ciUyMEljZWxhbmR8ZW58MXwwfHx8MTc4NzI1MjMzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a body of water surrounded by mountains under a cloudy sky",
@@ -14037,6 +15587,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-under-a-cloudy-sky-x_v6EgExFrU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Hvammsvík hot springs fjord Hvalfjörður Iceland",
     "fetchedAt": "2026-08-20T18:58:53.501Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/hyatt-regency-lake-tahoe": {
+    "url": "https://images.pexels.com/photos/38101495/pexels-photo-38101495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Serene aerial shot of a paddleboarder on the clear waters of Lake Tahoe with forested shoreline.",
+    "photographerName": "Stephen Leonardi",
+    "photographerUrl": "https://www.pexels.com/@stephen-leonardi-587681991",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-paddleboarder-on-lake-tahoe-38101495/",
+    "query": "Hyatt Regency Lake Tahoe Incline Village private beach",
+    "fetchedAt": "2026-08-21T15:02:43.480Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/hyatt-ziva-los-cabos": {
+    "url": "https://images.pexels.com/photos/18903765/pexels-photo-18903765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking natural rock formations by the sea at Cabo San Lucas, perfect for travel enthusiasts.",
+    "photographerName": "Bruno Storchi Bergmann",
+    "photographerUrl": "https://www.pexels.com/@bruno-storchi-bergmann-644776592",
+    "unsplashUrl": "https://www.pexels.com/photo/rock-formations-on-sea-shore-18903765/",
+    "query": "Hyatt Ziva Los Cabos Los Cabos, Baja California Sur",
+    "fetchedAt": "2026-08-21T15:04:58.395Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/islas-secas-panama": {
+    "url": "https://images.pexels.com/photos/8160516/pexels-photo-8160516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking aerial view of Isla Victoria with lush forests, turquoise waters, and distant mountains in the Andes.",
+    "photographerName": "Jeronimo Borra",
+    "photographerUrl": "https://www.pexels.com/@jeronimo-borra-61454200",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-photography-of-a-beautiful-island-8160516/",
+    "query": "Islas Secas Reserve & Lodge (island buyout) Gulf of Chiriquí",
+    "fetchedAt": "2026-08-21T15:05:49.596Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/kasbah-tamadot-atlas": {
+    "url": "https://images.pexels.com/photos/35449705/pexels-photo-35449705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Moody winter landscape of Imlil in the Atlas Mountains, Morocco.",
+    "photographerName": "Hamza Semsamaili",
+    "photographerUrl": "https://www.pexels.com/@hamza-semsamaili-2158482292",
+    "unsplashUrl": "https://www.pexels.com/photo/snowy-mountain-village-in-imlil-morocco-35449705/",
+    "query": "Kasbah Tamadot (Virgin Limited Edition) Atlas Mountains (Asni/Imlil), Morocco",
+    "fetchedAt": "2026-08-21T15:07:50.122Z",
     "addedBy": "offsite"
   },
   "offsite/venues/kauri-cliffs-lodge": {
@@ -14049,6 +15639,16 @@
     "fetchedAt": "2026-06-26T18:20:37.403Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/kempinski-das-tirol-kitzbuhel": {
+    "url": "https://images.pexels.com/photos/38283073/pexels-photo-38283073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking view of the snow-capped Alps in Aurach bei Kitzbühel, Austria.",
+    "photographerName": "Deniz Erus",
+    "photographerUrl": "https://www.pexels.com/@deniz-erus-391112306",
+    "unsplashUrl": "https://www.pexels.com/photo/stunning-alpine-panorama-in-tirol-austria-38283073/",
+    "query": "Kempinski Das Tirol Kitzbühel Alps resort Austria",
+    "fetchedAt": "2026-08-21T15:04:24.787Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/kiawah-island-golf-resort": {
     "url": "https://images.unsplash.com/photo-1624409740728-e0abc955bda5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxLaWF3YWglMjBJc2xhbmQlMjBHb2xmJTIwUmVzb3J0JTIwT2NlYW4lMjBDb3Vyc2UlMjBTb3V0aCUyMENhcm9saW5hJTIwYWVyaWFsfGVufDF8MHx8fDE3ODI3NTc1MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white and black house near green grass field and body of water under gray sky",
@@ -14057,6 +15657,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-and-black-house-near-green-grass-field-and-body-of-water-under-gray-sky-QUJbdkWSNwc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Kiawah Island Golf Resort Ocean Course South Carolina aerial",
     "fetchedAt": "2026-06-29T18:25:05.079Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/la-sultana-marrakech-oualidia": {
+    "url": "https://images.pexels.com/photos/7556764/pexels-photo-7556764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Luxurious restaurant in Marrakech with intricate decor and a waiter serving guests beneath a grand chandelier.",
+    "photographerName": "Voltaccess",
+    "photographerUrl": "https://www.pexels.com/@voltaccess-48169519",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-waiter-serving-in-a-luxurious-restaurant-7556764/",
+    "query": "La Sultana Marrakech / Oualidia Marrakech & Atlantic coast, Morocco",
+    "fetchedAt": "2026-08-21T15:08:04.454Z",
     "addedBy": "offsite"
   },
   "offsite/venues/lake-argyle-australian-lake-resorts": {
@@ -14077,6 +15687,16 @@
     "unsplashUrl": "https://unsplash.com/photos/aerial-view-photography-of-red-vehicle-park-in-front-of-building--Fp-PyW1Mp0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Le Logis château Cognac France exterior",
     "fetchedAt": "2026-06-26T18:00:39.820Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/leela-palace-udaipur": {
+    "url": "https://images.pexels.com/photos/1719173/pexels-photo-1719173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of a lakeside palace in Udaipur, reflecting its intricate architecture on the serene water.",
+    "photographerName": "SUNNY BHAVEEN CHANDRA",
+    "photographerUrl": "https://www.pexels.com/@c17hawke",
+    "unsplashUrl": "https://www.pexels.com/photo/infrastructure-beside-body-of-water-1719173/",
+    "query": "The Leela Palace Udaipur Lake Pichola facade",
+    "fetchedAt": "2026-08-21T15:10:06.522Z",
     "addedBy": "offsite"
   },
   "offsite/venues/les-sources-de-caudalie": {
@@ -14109,6 +15729,16 @@
     "fetchedAt": "2026-06-26T18:20:47.564Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/marques-de-riscal": {
+    "url": "https://images.pexels.com/photos/19772195/pexels-photo-19772195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Unique design of Marques de Riscal Hotel in Elciego, Spain, showcasing modern architecture.",
+    "photographerName": "Ramon Perucho",
+    "photographerUrl": "https://www.pexels.com/@rperucho",
+    "unsplashUrl": "https://www.pexels.com/photo/marques-de-riscal-hotel-in-spain-19772195/",
+    "query": "Marqués de Riscal Gehry titanium winery hotel Rioja",
+    "fetchedAt": "2026-08-21T15:03:51.530Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/mohonk-mountain-house": {
     "url": "https://images.unsplash.com/photo-1759214226237-c40e48f61a56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNb2hvbmslMjBNb3VudGFpbiUyMEhvdXNlJTIwTmV3JTIwUGFsdHolMjBWaWN0b3JpYW4lMjBjYXN0bGUlMjBsYWtlfGVufDF8MHx8fDE3ODI3NTQ1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A grand castle sits beside a reflective lake.",
@@ -14117,6 +15747,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-grand-castle-sits-beside-a-reflective-lake-56DVa2SlwH8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Mohonk Mountain House New Paltz Victorian castle lake",
     "fetchedAt": "2026-06-29T17:35:02.903Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/moskito-island-bvi": {
+    "url": "https://images.pexels.com/photos/14992419/pexels-photo-14992419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Serene aerial shot of Mali Iž island reflecting on the Adriatic Sea with a cloudy sky.",
+    "photographerName": "DeLuca G",
+    "photographerUrl": "https://www.pexels.com/@deluca-g-412104326",
+    "unsplashUrl": "https://www.pexels.com/photo/body-of-water-under-cloudy-sky-14992419/",
+    "query": "Moskito Island (full island buyout) Moskito Island",
+    "fetchedAt": "2026-08-21T15:05:37.544Z",
     "addedBy": "offsite"
   },
   "offsite/venues/one-and-only-portonovi": {
@@ -14129,6 +15769,26 @@
     "fetchedAt": "2026-06-26T18:01:25.502Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/oneandonly-nyungwe-house": {
+    "url": "https://images.pexels.com/photos/14894619/pexels-photo-14894619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A farmer in Muhanga, Rwanda working amidst lush greenery. Captured outdoors showing agricultural life.",
+    "photographerName": "Dawid Sobarnia",
+    "photographerUrl": "https://www.pexels.com/@dawid-sobarnia-165690",
+    "unsplashUrl": "https://www.pexels.com/photo/man-working-at-a-coffee-plantation-14894619/",
+    "query": "One&Only Nyungwe House Nyungwe Forest, Rwanda",
+    "fetchedAt": "2026-08-21T15:07:21.695Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/park-hyatt-cabo-del-sol": {
+    "url": "https://images.pexels.com/photos/37939891/pexels-photo-37939891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of El Arco rock formation, Cabo San Lucas, surrounded by the sea under a blue sky.",
+    "photographerName": "Josué Rodríguez",
+    "photographerUrl": "https://www.pexels.com/@roodzn",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-el-arco-at-cabo-san-lucas-37939891/",
+    "query": "Park Hyatt Cabo del Sol Los Cabos, Baja California Sur",
+    "fetchedAt": "2026-08-21T15:04:42.724Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/pebble-beach": {
     "url": "https://images.unsplash.com/photo-1760210105069-438569e6409c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQZWJibGUlMjBCZWFjaCUyMGdvbGYlMjBjb3Vyc2UlMjBQYWNpZmljJTIwY29hc3QlMjAxOHRoJTIwaG9sZXxlbnwxfDB8fHwxNzgyNDk2Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Rocky coastline with ocean and distant homes",
@@ -14137,6 +15797,16 @@
     "unsplashUrl": "https://unsplash.com/photos/rocky-coastline-with-ocean-and-distant-homes-SedR92SAmV8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Pebble Beach golf course Pacific coast 18th hole",
     "fetchedAt": "2026-06-26T17:58:07.884Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/phulay-bay-ritz-carlton-reserve": {
+    "url": "https://images.pexels.com/photos/32024340/pexels-photo-32024340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Long-tail boat sailing towards lush islands in the Andaman Sea on a sunny day.",
+    "photographerName": "Tom Lorber",
+    "photographerUrl": "https://www.pexels.com/@tmlrbr",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-the-andaman-sea-with-islands-32024340/",
+    "query": "Phulay Bay Ritz-Carlton Reserve Krabi Andaman villas",
+    "fetchedAt": "2026-08-21T15:09:07.838Z",
     "addedBy": "offsite"
   },
   "offsite/venues/queenstown-rees-eichardts-cluster": {
@@ -14159,6 +15829,56 @@
     "fetchedAt": "2026-06-26T18:01:00.396Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/rambagh-palace-jaipur": {
+    "url": "https://images.pexels.com/photos/19160070/pexels-photo-19160070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking view of traditional Indian architecture surrounded by lush gardens in natural sunlight.",
+    "photographerName": "AXP Photography",
+    "photographerUrl": "https://www.pexels.com/@axp-photography-500641970",
+    "unsplashUrl": "https://www.pexels.com/photo/square-in-front-of-traditional-temple-in-india-19160070/",
+    "query": "Rambagh Palace Jaipur gardens facade dusk",
+    "fetchedAt": "2026-08-21T15:09:59.449Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/rees-hotel-wakatipu": {
+    "url": "https://images.pexels.com/photos/33981209/pexels-photo-33981209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Dramatic sunset over Lake Wakatipu in Queenstown, highlighting mountain silhouettes and vibrant skies.",
+    "photographerName": "Mickoh Ramos",
+    "photographerUrl": "https://www.pexels.com/@mickoh-ramos-2155920636",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-over-lake-wakatipu-in-queenstown-new-zealand-33981209/",
+    "query": "Rees Hotel Lake Wakatipu Queenstown jetty",
+    "fetchedAt": "2026-08-21T15:03:34.302Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/retreat-at-blue-lagoon": {
+    "url": "https://images.pexels.com/photos/6245449/pexels-photo-6245449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Relaxing hot spring pool in the scenic Icelandic mountains with clear blue skies.",
+    "photographerName": "Koen Swiers",
+    "photographerUrl": "https://www.pexels.com/@koen-swiers-9754449",
+    "unsplashUrl": "https://www.pexels.com/photo/photo-of-a-swimming-pool-near-mountains-6245449/",
+    "query": "The Retreat at Blue Lagoon spa lava field Iceland",
+    "fetchedAt": "2026-08-21T15:04:31.850Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/ritz-carlton-lake-tahoe": {
+    "url": "https://images.pexels.com/photos/30170016/pexels-photo-30170016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking aerial view of Donner Lake surrounded by snow-covered mountains under a cloudy sky.",
+    "photographerName": "Stephen Leonardi",
+    "photographerUrl": "https://www.pexels.com/@stephen-leonardi-587681991",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-snowy-donner-lake-and-mountain-range-30170016/",
+    "query": "Ritz-Carlton Lake Tahoe Northstar Truckee mountain",
+    "fetchedAt": "2026-08-21T15:02:48.872Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/ritz-carlton-nikko": {
+    "url": "https://images.pexels.com/photos/33307461/pexels-photo-33307461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful night view of Lake Chuzenji with Mount Nantai in Nikko, Japan reflecting lights over water.",
+    "photographerName": "Marek Piwnicki",
+    "photographerUrl": "https://www.pexels.com/@marek-piwnicki-3907296",
+    "unsplashUrl": "https://www.pexels.com/photo/stunning-night-landscape-of-nikko-japan-33307461/",
+    "query": "Ritz-Carlton Nikko Lake Chuzenji Mt Nantai",
+    "fetchedAt": "2026-08-21T15:09:45.125Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/ritz-carlton-turks-caicos": {
     "url": "https://images.unsplash.com/photo-1756327499602-5a4c828f2063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUaGUlMjBSaXR6LUNhcmx0b24lMkMlMjBUdXJrcyUyMCUyNiUyMENhaWNvcyUyMFByb3ZpZGVuY2lhbGVzfGVufDF8MHx8fDE3ODI0OTY5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Ambulance parked outside the ritz-carlton hotel at night",
@@ -14167,6 +15887,16 @@
     "unsplashUrl": "https://unsplash.com/photos/ambulance-parked-outside-the-ritz-carlton-hotel-at-night-luCTfytGrFA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "The Ritz-Carlton, Turks & Caicos Providenciales",
     "fetchedAt": "2026-06-26T18:01:52.223Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/rosewood-little-dix-bay": {
+    "url": "https://images.pexels.com/photos/15214462/pexels-photo-15214462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful Caribbean bay with sailboats and turquoise waters at Devil's Bay, Virgin Islands.",
+    "photographerName": "IslandHopper X",
+    "photographerUrl": "https://www.pexels.com/@iwashere",
+    "unsplashUrl": "https://www.pexels.com/photo/devils-bay-national-park-virgin-islands-15214462/",
+    "query": "The Rosewood Little Dix Bay (buyout) Virgin Gorda",
+    "fetchedAt": "2026-08-21T15:05:30.471Z",
     "addedBy": "offsite"
   },
   "offsite/venues/rosewood-schloss-fuschl": {
@@ -14179,6 +15909,46 @@
     "fetchedAt": "2026-06-26T17:59:52.021Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/royal-malewane-thornybush": {
+    "url": "https://images.pexels.com/photos/13934687/pexels-photo-13934687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up side view of a lion in natural habitat, showcasing its majestic mane and sharp features.",
+    "photographerName": "Gibson G. Wairagu",
+    "photographerUrl": "https://www.pexels.com/@gibson-g-wairagu-69813440",
+    "unsplashUrl": "https://www.pexels.com/photo/side-view-of-a-dangerous-lion-13934687/",
+    "query": "Royal Malewane (The Royal Portfolio) Thornybush, South Africa",
+    "fetchedAt": "2026-08-21T15:07:03.121Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/royal-mansour-marrakech": {
+    "url": "https://images.pexels.com/photos/412049/pexels-photo-412049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant Moroccan architecture with intricate columns and arches in Marrakech.",
+    "photographerName": "Tomas Anunziata",
+    "photographerUrl": "https://www.pexels.com/@tomas-anunziata-129267",
+    "unsplashUrl": "https://www.pexels.com/photo/white-and-black-concrete-column-and-building-412049/",
+    "query": "Royal Mansour Marrakech Marrakech, Morocco",
+    "fetchedAt": "2026-08-21T15:07:42.951Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sabi-sand-neighbours-overflow": {
+    "url": "https://images.pexels.com/photos/5541780/pexels-photo-5541780.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "African elephant portrait in Sabie Park, South Africa, showcasing its natural grace and beauty.",
+    "photographerName": "Shoeb Suryani",
+    "photographerUrl": "https://www.pexels.com/@shoeb-suryani-3695240",
+    "unsplashUrl": "https://www.pexels.com/photo/portrait-of-african-elephant-5541780/",
+    "query": "Sabi Sand Neighbours Overflow Combine Sabi Sand, South Africa",
+    "fetchedAt": "2026-08-21T15:06:56.973Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sanctuary-botswana-circuit": {
+    "url": "https://images.pexels.com/photos/6995536/pexels-photo-6995536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A yawning hippopotamus in a serene water scene at sunset in Botswana.",
+    "photographerName": "Mark de Jong",
+    "photographerUrl": "https://www.pexels.com/@mark-de-jong-1534241",
+    "unsplashUrl": "https://www.pexels.com/photo/animal-in-the-water-6995536/",
+    "query": "Sanctuary Retreats — Botswana Multi-Camp Circuit Okavango Delta, Botswana",
+    "fetchedAt": "2026-08-21T15:07:09.511Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/sandals-grande-st-lucian": {
     "url": "https://images.unsplash.com/photo-1625509673209-843c5d659d42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW5kYWxzJTIwR3JhbmRlJTIwU3QuJTIwTHVjaWFuJTIwJTI4ZnVsbCUyMGJ1eW91dCUyOSUyMFBpZ2VvbiUyMElzbGFuZHxlbnwxfDB8fHwxNzgyNDk2OTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "blue and brown wooden armchair beside blue and brown round ceramic bowl on brown wooden table",
@@ -14189,6 +15959,16 @@
     "fetchedAt": "2026-06-26T18:01:56.764Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/scarabeo-agafay-camp": {
+    "url": "https://images.pexels.com/photos/15257995/pexels-photo-15257995.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Explore the serene beauty of a village at sunset in Agafay Desert, Morocco.",
+    "photographerName": "tem lyder",
+    "photographerUrl": "https://www.pexels.com/@temlyder",
+    "unsplashUrl": "https://www.pexels.com/photo/village-on-wasteland-15257995/",
+    "query": "Scarabeo Stone Camp / Agafay Luxury Tented Camps Agafay Desert, Morocco",
+    "fetchedAt": "2026-08-21T15:07:57.390Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/schloss-elmau": {
     "url": "https://images.unsplash.com/photo-1681503648108-1856e62003d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTY2hsb3NzJTIwRWxtYXUlMjBjYXN0bGUlMjBCYXZhcmlhbiUyMEFscHMlMjBleHRlcmlvciUyMGFlcmlhbHxlbnwxfDB8fHwxNzgyNDk2NzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a castle on top of a hill surrounded by trees",
@@ -14197,6 +15977,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-castle-on-top-of-a-hill-surrounded-by-trees-DPkLuyJcFDk?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Schloss Elmau castle Bavarian Alps exterior aerial",
     "fetchedAt": "2026-06-26T17:58:27.352Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/schloss-fuschl": {
+    "url": "https://images.pexels.com/photos/18284921/pexels-photo-18284921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking aerial view of Lake Fuschl, surrounded by lush forests and mountains in Salzburg, Austria.",
+    "photographerName": "Michael Metschl",
+    "photographerUrl": "https://www.pexels.com/@michael-metschl-718198730",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-lake-fuschl-in-austria-18284921/",
+    "query": "Schloss Fuschl lakeside castle Fuschlsee Salzburg Austria",
+    "fetchedAt": "2026-08-21T15:04:17.537Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/segera-retreat-laikipia": {
+    "url": "https://images.pexels.com/photos/28977882/pexels-photo-28977882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Impala antelope in the vast savannah of Nanyuki, Kenya, with distant hills.",
+    "photographerName": "Ken Mwaura",
+    "photographerUrl": "https://www.pexels.com/@mwauraken",
+    "unsplashUrl": "https://www.pexels.com/photo/lonely-impala-antelope-in-kenyan-savannah-28977882/",
+    "query": "Segera Retreat Laikipia, Kenya",
+    "fetchedAt": "2026-08-21T15:06:36.325Z",
     "addedBy": "offsite"
   },
   "offsite/venues/selman-marrakech": {
@@ -14229,6 +16029,36 @@
     "fetchedAt": "2026-06-26T18:02:36.877Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/six-senses-con-dao": {
+    "url": "https://images.pexels.com/photos/12313919/pexels-photo-12313919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the tranquil beauty of the seascape and mountain at Ba Ria - Vung Tau, Vietnam.",
+    "photographerName": "Luke Dang",
+    "photographerUrl": "https://www.pexels.com/@luke-dang-198263463",
+    "unsplashUrl": "https://www.pexels.com/photo/brown-mountain-near-the-ocean-12313919/",
+    "query": "Six Senses Con Dao Vietnam beach villa marine park",
+    "fetchedAt": "2026-08-21T15:09:23.102Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/six-senses-douro-valley": {
+    "url": "https://images.unsplash.com/photo-1638664370752-8188076afbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTaXglMjBTZW5zZXMlMjBEb3VybyUyMFZhbGxleSUyMHF1aW50YSUyMHRlcnJhY2VkJTIwdmluZXlhcmQlMjBQb3J0dWdhbHxlbnwxfDB8fHwxNzg3MzI0NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large body of water surrounded by a lush green hillside",
+    "photographerName": "Rach Sam",
+    "photographerUrl": "https://unsplash.com/@rachsamphotos?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-a-lush-green-hillside-53kK4Wmr4Cs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Six Senses Douro Valley quinta terraced vineyard Portugal",
+    "fetchedAt": "2026-08-21T15:04:10.473Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/six-senses-southern-dunes": {
+    "url": "https://images.pexels.com/photos/28170223/pexels-photo-28170223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Arid desert scene with palm trees and mountains in Tabuk, Saudi Arabia.",
+    "photographerName": "French Sweetie",
+    "photographerUrl": "https://www.pexels.com/@french-sweetie-427070535",
+    "unsplashUrl": "https://www.pexels.com/photo/desert-trees-28170223/",
+    "query": "Six Senses Southern Dunes, The Red Sea Umluj / Red Sea, Saudi Arabia",
+    "fetchedAt": "2026-08-21T15:08:25.952Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/six-senses-yao-noi": {
     "url": "https://images.unsplash.com/photo-1605538032404-d7f061325b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTaXglMjBTZW5zZXMlMjBZYW8lMjBOb2klMjBQaGFuZyUyME5nYSUyMEJheSUyMGxpbWVzdG9uZSUyMGthcnN0JTIwcG9vbCUyMHZpbGxhfGVufDF8MHx8fDE3ODI0OTcwMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "people walking on beach near green mountain during daytime",
@@ -14239,6 +16069,36 @@
     "fetchedAt": "2026-06-26T18:03:54.440Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/six-senses-zighy-bay": {
+    "url": "https://images.pexels.com/photos/36471613/pexels-photo-36471613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Peaceful seascape of Musandam's rugged coastline under a clear sky.",
+    "photographerName": "Siarhei Nester",
+    "photographerUrl": "https://www.pexels.com/@siarhei-nester-318033361",
+    "unsplashUrl": "https://www.pexels.com/photo/serene-coastal-view-of-musandam-oman-36471613/",
+    "query": "Six Senses Zighy Bay Musandam Peninsula, Oman",
+    "fetchedAt": "2026-08-21T15:08:33.003Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/son-bunyola-mallorca": {
+    "url": "https://images.pexels.com/photos/37068607/pexels-photo-37068607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of the rocky coastline and lush greenery of Mallorca, Spain, under a cloudy sky.",
+    "photographerName": "Pedro Luis Domínguez Ruiz",
+    "photographerUrl": "https://www.pexels.com/@dronpedro",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-mallorca-s-coastal-landscape-37068607/",
+    "query": "Son Bunyola estate Tramuntana Mallorca sea",
+    "fetchedAt": "2026-08-21T15:03:57.466Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/soneva-fushi": {
+    "url": "https://images.pexels.com/photos/12516856/pexels-photo-12516856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful beach dinner setup with lanterns glowing on a serene coastline during twilight.",
+    "photographerName": "Asad Photo Maldives",
+    "photographerUrl": "https://www.pexels.com/@asadphoto",
+    "unsplashUrl": "https://www.pexels.com/photo/maldives-romantic-couple-activities-by-asad-photo-12516856/",
+    "query": "Soneva Fushi Maldives private island overwater villa",
+    "fetchedAt": "2026-08-21T15:08:54.018Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/song-saa-private-island": {
     "url": "https://images.unsplash.com/photo-1582414004129-a955c6087f5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTb25nJTIwU2FhJTIwUHJpdmF0ZSUyMElzbGFuZCUyMENhbWJvZGlhJTIwb3ZlcndhdGVyJTIwdmlsbGFzfGVufDF8MHx8fDE3ODI0OTcwMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown wooden dock on body of water during daytime",
@@ -14247,6 +16107,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-wooden-dock-on-body-of-water-during-daytime-N4ziIxqYgJY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Song Saa Private Island Cambodia overwater villas",
     "fetchedAt": "2026-06-26T18:03:45.785Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sparkling-hill-okanagan": {
+    "url": "https://images.pexels.com/photos/37041792/pexels-photo-37041792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A beautiful landscape photograph of Okanagan Lake with lush greenery and dramatic clouds.",
+    "photographerName": "holmada",
+    "photographerUrl": "https://www.pexels.com/@holmada-2156694232",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-okanagan-lake-with-clouds-37041792/",
+    "query": "Sparkling Hill Resort Okanagan Lake Vernon BC",
+    "fetchedAt": "2026-08-21T15:03:17.633Z",
     "addedBy": "offsite"
   },
   "offsite/venues/spicers-hunter-valley-cluster": {
@@ -14277,6 +16147,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-golf-course-and-a-lake-9o2JbojMdJ8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Streamsong Resort Florida reclaimed mine links golf aerial",
     "fetchedAt": "2026-06-29T18:24:57.455Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sugar-beach-viceroy-st-lucia": {
+    "url": "https://images.pexels.com/photos/8673076/pexels-photo-8673076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Discover the lush green landscapes and iconic Pitons of Soufriere, Saint Lucia from above.",
+    "photographerName": "Simon Hurry",
+    "photographerUrl": "https://www.pexels.com/@simon-hurry-50614850",
+    "unsplashUrl": "https://www.pexels.com/photo/wide-shot-of-city-surrounded-by-green-mountains-8673076/",
+    "query": "Sugar Beach, A Viceroy Resort Val des Pitons",
+    "fetchedAt": "2026-08-21T15:05:22.154Z",
     "addedBy": "offsite"
   },
   "offsite/venues/taj-exotica-w-goa-cluster": {
@@ -14369,6 +16249,16 @@
     "fetchedAt": "2026-06-29T17:35:38.848Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/the-vines-resort-mendoza": {
+    "url": "https://images.pexels.com/photos/27990733/pexels-photo-27990733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Bride and groom embrace outdoors in a vineyard, captured during sunset.",
+    "photographerName": "Maximiliano Andrés Naselli Roldán",
+    "photographerUrl": "https://www.pexels.com/@maximiliano-andres-naselli-roldan-1697417615",
+    "unsplashUrl": "https://www.pexels.com/photo/a-bride-and-groom-standing-in-front-of-a-vineyard-27990733/",
+    "query": "The Vines Resort & Spa Uco Valley, Mendoza",
+    "fetchedAt": "2026-08-21T15:06:09.564Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/the-yeatman-porto": {
     "url": "https://images.unsplash.com/photo-1549368245-2dd7d4595a89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUaGUlMjBZZWF0bWFuJTIwaG90ZWwlMjBWaWxhJTIwTm92YSUyMGRlJTIwR2FpYSUyMFBvcnRvJTIwcG9ydCUyMGxvZGdlcyUyMHJpdmVyfGVufDF8MHx8fDE3ODI0OTY4NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "city houses and buildings near river under blue sky",
@@ -14387,6 +16277,16 @@
     "unsplashUrl": "https://unsplash.com/photos/body-of-water-and-mountain-EnFQmcTtsjo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Tierra Patagonia Torres del Paine",
     "fetchedAt": "2026-08-20T22:44:41.723Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/turneffe-island-resort-belize": {
+    "url": "https://images.pexels.com/photos/417063/pexels-photo-417063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of bright turquoise sea with fluffy clouds on a tranquil day.",
+    "photographerName": "Pixabay",
+    "photographerUrl": "https://www.pexels.com/@pixabay",
+    "unsplashUrl": "https://www.pexels.com/photo/sea-water-and-white-clouds-417063/",
+    "query": "Turneffe Island Resort (buyout) Turneffe Atoll",
+    "fetchedAt": "2026-08-21T15:06:00.757Z",
     "addedBy": "offsite"
   },
   "offsite/venues/umaid-bhawan-palace": {
@@ -14409,6 +16309,16 @@
     "fetchedAt": "2026-06-26T18:01:40.271Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/union-oye-norwegian-fjord-lake": {
+    "url": "https://images.pexels.com/photos/27429655/pexels-photo-27429655.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the breathtaking beauty of Geiranger Fjord in Norway, surrounded by lush green mountains and serene waters.",
+    "photographerName": "Chuck Henjes",
+    "photographerUrl": "https://www.pexels.com/@chuck-henjes-1956132",
+    "unsplashUrl": "https://www.pexels.com/photo/geirangerfjord-ausblick-27429655/",
+    "query": "Union Oye hotel Norwegian fjord lake Geiranger",
+    "fetchedAt": "2026-08-21T15:03:39.671Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/viceroy-snowmass": {
     "url": "https://images.unsplash.com/photo-1741537361987-3f77b24817b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxWaWNlcm95JTIwU25vd21hc3MlMjBza2ktaW4lMjBza2ktb3V0JTIwYmFzZSUyMHZpbGxhZ2UlMjBDb2xvcmFkbyUyMHdpbnRlcnxlbnwxfDB8fHwxNzgyNDk2NzY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Ski resort with people and equipment in the snow.",
@@ -14427,6 +16337,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-town-with-mountains-in-the-background-Z4XLBLnSqiE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Im Weissen Roessl St Wolfgang Wolfgangsee Austria",
     "fetchedAt": "2026-06-26T17:59:53.533Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/whiteface-lodge-lake-placid": {
+    "url": "https://images.pexels.com/photos/28982376/pexels-photo-28982376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking view of Adirondack Mountains and Lake Placid from Whiteface Mountain summit in fall.",
+    "photographerName": "James Mirakian",
+    "photographerUrl": "https://www.pexels.com/@james-mirakian-774977502",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-from-whiteface-mountain-summit-28982376/",
+    "query": "Whiteface Lodge Lake Placid Adirondack great camp",
+    "fetchedAt": "2026-08-21T15:02:58.278Z",
     "addedBy": "offsite"
   },
   "tdf/bachelorParty/aiken-sc": {
