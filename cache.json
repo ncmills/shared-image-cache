@@ -8109,6 +8109,46 @@
     "fetchedAt": "2026-06-29T18:22:48.560Z",
     "addedBy": "moh"
   },
+  "moh/cities/block-island-ri": {
+    "url": "https://images.unsplash.com/photo-1562531780-72e81ba57c9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGRvd250b3dufGVufDF8MHx8fDE3ODczMjM4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "two person standing on memphis wall",
+    "photographerName": "Joshua J. Cotten",
+    "photographerUrl": "https://unsplash.com/@jcotten?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-person-standing-on-memphis-wall-eahK8Js7viM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island downtown",
+    "fetchedAt": "2026-08-21T14:50:20.521Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/block-island-ri/activities": {
+    "url": "https://images.pexels.com/photos/13326663/pexels-photo-13326663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Athena ferry cruising in Newport, RI, offering scenic views. Ideal for travel and tourism imagery.",
+    "photographerName": "Mohan Nannapaneni",
+    "photographerUrl": "https://www.pexels.com/@mnannapaneni",
+    "unsplashUrl": "https://www.pexels.com/photo/ferry-boat-cruising-on-a-river-13326663/",
+    "query": "Block Island wellness",
+    "fetchedAt": "2026-08-21T14:50:31.889Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/block-island-ri/bars": {
+    "url": "https://images.unsplash.com/photo-1768486143865-342d8cc12c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzODI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Modern kitchen with island and pendant lights",
+    "photographerName": "Clay Banks",
+    "photographerUrl": "https://unsplash.com/@claybanks?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/modern-kitchen-with-island-and-pendant-lights-i6SOaGYmNOA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island bar",
+    "fetchedAt": "2026-08-21T14:50:27.480Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/block-island-ri/dining": {
+    "url": "https://images.pexels.com/photos/38960514/pexels-photo-38960514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Open-air dining with a stunning view of turquoise waters and distant islands.",
+    "photographerName": "Arlind D",
+    "photographerUrl": "https://www.pexels.com/@arlindphotography",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-seaside-restaurant-with-coastal-view-38960514/",
+    "query": "Block Island restaurant",
+    "fetchedAt": "2026-08-21T14:50:24.739Z",
+    "addedBy": "moh"
+  },
   "moh/cities/block-island-ri/lodging": {
     "url": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGx1eHVyeSUyMGhvdGVsJTIwcG9vbHxlbnwxfDB8fHwxNzg3MjE5NTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "building with infinity pool",
@@ -8169,6 +8209,16 @@
     "fetchedAt": "2026-06-30T04:22:42.069Z",
     "addedBy": "moh"
   },
+  "moh/cities/burlington-vt": {
+    "url": "https://images.unsplash.com/photo-1504227588516-e65f041de015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwZG93bnRvd258ZW58MXwwfHx8MTc4NzMyMzgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man and woman walking in the middle of the road",
+    "photographerName": "Emma Frances Logan",
+    "photographerUrl": "https://unsplash.com/@emmafranceslogan?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-and-woman-walking-in-the-middle-of-the-road-zYaMGpAzso4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington downtown",
+    "fetchedAt": "2026-08-21T14:50:13.442Z",
+    "addedBy": "moh"
+  },
   "moh/cities/burlington-vt/activities": {
     "url": "https://images.unsplash.com/photo-1641659242779-dc0cd20d55ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVlQlMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4NTg0MzQwOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a harbor with boats and a gazebo",
@@ -8177,6 +8227,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-harbor-with-boats-and-a-gazebo-0y7N7Ed0ASY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Burlington VT spa wellness retreat",
     "fetchedAt": "2026-08-04T11:36:49.367Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/burlington-vt/bars": {
+    "url": "https://images.pexels.com/photos/29455146/pexels-photo-29455146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A stylish bar shelf filled with assorted wine and liquor bottles, elegantly arranged for a sophisticated ambiance.",
+    "photographerName": "Karen F",
+    "photographerUrl": "https://www.pexels.com/@karen-f-1376469",
+    "unsplashUrl": "https://www.pexels.com/photo/elegant-bar-shelf-display-with-various-wines-and-spirits-29455146/",
+    "query": "Burlington bar",
+    "fetchedAt": "2026-08-21T14:50:17.731Z",
     "addedBy": "moh"
   },
   "moh/cities/burlington-vt/dining": {
@@ -8597,6 +8657,36 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-next-to-a-fenced-in-area-ZnvWn04o0ok?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Finger Lakes luxury hotel pool",
     "fetchedAt": "2026-07-31T11:38:08.552Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/flagstaff-az": {
+    "url": "https://images.unsplash.com/photo-1722884733585-1c72cbcb5b46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBkb3dudG93bnxlbnwxfDB8fHwxNzg3MzIzODQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large sign that is on top of a building",
+    "photographerName": "Strange Happenings",
+    "photographerUrl": "https://unsplash.com/@strangehappenings?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-sign-that-is-on-top-of-a-building-vhrbkG5dk_c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff downtown",
+    "fetchedAt": "2026-08-21T14:50:48.532Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/flagstaff-az/dining": {
+    "url": "https://images.unsplash.com/photo-1666048087199-119b32ce45bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODczMjM4NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a brick building on a street corner",
+    "photographerName": "Jim Witkowski",
+    "photographerUrl": "https://unsplash.com/@jcw?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-brick-building-on-a-street-corner-v1TJQde0kdw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff restaurant",
+    "fetchedAt": "2026-08-21T14:50:52.719Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/flagstaff-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1666048087199-119b32ce45bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBcml6b25hJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzODQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a brick building on a street corner",
+    "photographerName": "Jim Witkowski",
+    "photographerUrl": "https://unsplash.com/@jcw?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-brick-building-on-a-street-corner-v1TJQde0kdw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff Arizona boutique hotel",
+    "fetchedAt": "2026-08-21T14:50:49.972Z",
     "addedBy": "moh"
   },
   "moh/cities/fort-lauderdale-fl": {
@@ -9027,6 +9117,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-cozy-vintage-style-cafe-with-empty-tables-ucZv4gn94VE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Knoxville cocktail lounge speakeasy interior",
     "fetchedAt": "2026-08-04T11:36:34.687Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/knoxville-tn/dining": {
+    "url": "https://images.pexels.com/photos/32767698/pexels-photo-32767698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant street scene in Knoxville, Tennessee with people enjoying outdoor dining under tree shade.",
+    "photographerName": "Caleb  Clark",
+    "photographerUrl": "https://www.pexels.com/@caleb-clark-6462955",
+    "unsplashUrl": "https://www.pexels.com/photo/sunny-day-on-a-bustling-knoxville-street-32767698/",
+    "query": "Knoxville restaurant",
+    "fetchedAt": "2026-08-21T14:50:10.662Z",
     "addedBy": "moh"
   },
   "moh/cities/knoxville-tn/lodging": {
@@ -10487,6 +10587,56 @@
     "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-rugs-M4R9RaGDUlY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Tampa FL boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-03T11:45:32.856Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tucson-az": {
+    "url": "https://images.unsplash.com/photo-1702584590310-ccc6e7a11c37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBcml6b25hJTIwc2t5bGluZXxlbnwxfDB8fHwxNzg3MzIzODMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with mountains in the background",
+    "photographerName": "JC Cervantes",
+    "photographerUrl": "https://unsplash.com/@jcnonstop87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-E5hjkrJUYnI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson Arizona skyline",
+    "fetchedAt": "2026-08-21T14:50:33.362Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tucson-az/activities": {
+    "url": "https://images.pexels.com/photos/31317371/pexels-photo-31317371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of saguaro cacti in Arizona's Saguaro National Park under a clear blue sky.",
+    "photographerName": "Daniel Erlandson",
+    "photographerUrl": "https://www.pexels.com/@daniel-erlandson-2150649940",
+    "unsplashUrl": "https://www.pexels.com/photo/cacti-in-saguaro-national-park-arizona-31317371/",
+    "query": "Tucson wellness",
+    "fetchedAt": "2026-08-21T14:50:45.785Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tucson-az/bars": {
+    "url": "https://images.pexels.com/photos/38300919/pexels-photo-38300919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking view of saguaro cacti under a sunny sky in Tucson, Arizona with mountains in the background.",
+    "photographerName": "Lindsey Willard",
+    "photographerUrl": "https://www.pexels.com/@creativelindseyphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-saguaro-cacti-in-tucson-arizona-38300919/",
+    "query": "Tucson bar",
+    "fetchedAt": "2026-08-21T14:50:41.715Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tucson-az/dining": {
+    "url": "https://images.unsplash.com/photo-1687840960851-bc242a04d0a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBcml6b25hJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjM4Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a building with a sign that says 101 on it",
+    "photographerName": "JC Cervantes",
+    "photographerUrl": "https://unsplash.com/@jcnonstop87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-that-says-101-on-it-Oi_YXgFh-1c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson Arizona restaurant interior",
+    "fetchedAt": "2026-08-21T14:50:37.579Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tucson-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1620829791733-c762a456fee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzODM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and red store front during night time",
+    "photographerName": "Andrew Ling",
+    "photographerUrl": "https://unsplash.com/@linginit?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-red-store-front-during-night-time-iOe1-sFNItc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tucson hotel",
+    "fetchedAt": "2026-08-21T14:50:36.174Z",
     "addedBy": "moh"
   },
   "moh/cities/washington-dc": {
