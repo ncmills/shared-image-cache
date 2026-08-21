@@ -57,11 +57,39 @@ for (const p of PROJECTS) {
   }
 }
 
-// ── fetch-images: one fetch step per project ────────────────────────────────
+// ── fetch-images: every project must be reachable by the fetch step ─────────
+//
+// Two shapes satisfy this, and the check tests the PROPERTY ("can this project
+// be fetched?") rather than one shape of it. Asserting the shape is how a guard
+// ends up failing a correct tree: this check demanded one `--project=<p>` step
+// per project, so consolidating to a single global run — which fetches every
+// project BY CONSTRUCTION, iterating the same loader registry this check reads
+// from — would have been reported as six missing projects.
+//
+//   1. A global step with no `--project` filter. The fetcher walks LOADERS, so
+//      a project cannot be omitted; adding one to loaders.ts is sufficient.
+//   2. One `--project=<p>` step per project, the original shape. Still valid,
+//      still checked per project, since that shape CAN silently omit one.
 const fetchYml = readFileSync(FETCH, "utf8");
-for (const p of PROJECTS) {
-  if (!fetchYml.includes(`--project=${p}`)) {
-    problems.push(`fetch-images.yml has no \`--project=${p}\` step — that project is never fetched`);
+const fetchInvocations = [...fetchYml.matchAll(/npx tsx scripts\/fetch\.ts([^\n]*)/g)].map(
+  (m) => m[1]!,
+);
+
+if (fetchInvocations.length === 0) {
+  problems.push(`fetch-images.yml invokes scripts/fetch.ts nowhere — nothing is ever fetched`);
+} else {
+  // A global invocation is one whose project is unfiltered or supplied at
+  // dispatch time (`$PROJECT_ARG`), not pinned to a literal project.
+  const hasGlobal = fetchInvocations.some((args) => !/--project=(?!\$)/.test(args));
+  if (!hasGlobal) {
+    for (const p of PROJECTS) {
+      if (!fetchYml.includes(`--project=${p}`)) {
+        problems.push(
+          `fetch-images.yml has no \`--project=${p}\` step and no global (unfiltered) fetch step — ` +
+            `that project is never fetched`,
+        );
+      }
+    }
   }
 }
 

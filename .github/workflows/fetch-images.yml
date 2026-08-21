@@ -21,9 +21,9 @@ on:
         required: false
         default: ''
       limit:
-        description: 'Queries per project per run'
+        description: 'Total queries this run (shared across projects, round-robin)'
         required: false
-        default: '40'
+        default: '200'
 
 # Only one fetch run at a time — prevents two workflows committing conflicting
 # cache.json snapshots (cache.json is a single file, concurrent writes race).
@@ -68,81 +68,34 @@ jobs:
           git config user.name "shared-image-cache bot"
           git config user.email "actions@github.com"
 
-      - name: Fetch — MOH
+      # ONE global fetch, not one step per project.
+      #
+      # lib/queue.ts round-robin interleaves pending keys by project prefix, so
+      # a single run already gives every project with backlog a fair share —
+      # and it apportions by ACTUAL BACKLOG rather than by six numbers somebody
+      # picked once. The old shape had reserved 15 slots for friendsmoon and 10
+      # for engagedmoon while both sat at 100% cached, and capped MOH at 15 with
+      # 587 keys outstanding.
+      #
+      # It is also the shape that keeps up as shared-data grows: a wizard that
+      # gains 40 destinations starts drawing more of each run automatically,
+      # with nobody editing this file.
+      - name: Fetch — all projects (round-robin by backlog)
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
           UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          # Tier 3. This workflow ran without it for months, so every 2-hourly
-          # run had Pexels silently disabled while daily-maxout had it on —
-          # the two crons were not fetching from the same set of sources.
+          # Tier 3, and tier 1 once Unsplash's hourly budget is spent. This
+          # workflow ran without it for months, so every 2-hourly run had Pexels
+          # silently disabled while daily-maxout had it on — the two crons were
+          # not fetching from the same set of sources.
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          npx tsx scripts/fetch.ts --project=moh --limit=${{ inputs.limit || '15' }} --commit
-
-      - name: Fetch — BESTMAN
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
-          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          # Tier 3. This workflow ran without it for months, so every 2-hourly
-          # run had Pexels silently disabled while daily-maxout had it on —
-          # the two crons were not fetching from the same set of sources.
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          npx tsx scripts/fetch.ts --project=bestman --limit=${{ inputs.limit || '40' }} --commit
-
-      - name: Fetch — TDF
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
-          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          # Tier 3. This workflow ran without it for months, so every 2-hourly
-          # run had Pexels silently disabled while daily-maxout had it on —
-          # the two crons were not fetching from the same set of sources.
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          npx tsx scripts/fetch.ts --project=tdf --limit=${{ inputs.limit || '35' }} --commit
-
-      - name: Fetch — OFFSITE
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
-          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          # Tier 3. This workflow ran without it for months, so every 2-hourly
-          # run had Pexels silently disabled while daily-maxout had it on —
-          # the two crons were not fetching from the same set of sources.
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          npx tsx scripts/fetch.ts --project=offsite --limit=${{ inputs.limit || '30' }} --commit
-
-      # friendsmoon and engagedmoon were absent from this workflow entirely, so
-      # every image either site has was pulled by hand from a laptop on
-      # 2026-08-07. A loader that is never invoked reports nothing.
-      # scripts/check-workflow-projects.ts fails the build if this list and
-      # scripts/loaders.ts ever disagree again.
-      - name: Fetch — FRIENDSMOON
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
-          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          npx tsx scripts/fetch.ts --project=friendsmoon --limit=${{ inputs.limit || '15' }} --commit
-
-      # Engagedmoon's query set is a CURATED 24, frozen by the owner: a spot
-      # gets a query only when the place is famous enough to be photographed by
-      # name, and the ~120 without one render the sky gradient BY DESIGN. This
-      # step exists so a new curated entry gets fetched automatically, not to
-      # grow the number. Do not "improve" its coverage.
-      - name: Fetch — ENGAGEDMOON
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
-          UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          npx tsx scripts/fetch.ts --project=engagedmoon --limit=${{ inputs.limit || '10' }} --commit
+          PROJECT_ARG=""
+          if [ -n "${{ inputs.project }}" ]; then
+            PROJECT_ARG="--project=${{ inputs.project }}"
+          fi
+          npx tsx scripts/fetch.ts $PROJECT_ARG --limit=${{ inputs.limit || '200' }} --commit
 
       - name: Print stats
         run: npm run stats
