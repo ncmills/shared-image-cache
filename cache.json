@@ -319,6 +319,46 @@
     "fetchedAt": "2026-07-01T12:19:34.899Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/big-bear-lake-ca/activities": {
+    "url": "https://images.unsplash.com/photo-1764395294668-1fb46053fb94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCaWclMjBCZWFyJTIwTGFrZSUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMyMzg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "People on a dock by a calm lake at sunset",
+    "photographerName": "shawn kim",
+    "photographerUrl": "https://unsplash.com/@_shhyawnn?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-on-a-dock-by-a-calm-lake-at-sunset-5eyaxu0YZW4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Bear Lake outdoor adventure",
+    "fetchedAt": "2026-08-21T14:51:07.771Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/big-bear-lake-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1560019321-8f4d337ef4dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxCaWclMjBCZWFyJTIwTGFrZSUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyMzg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "square black table",
+    "photographerName": "Ashe Walker",
+    "photographerUrl": "https://unsplash.com/@marsupialpudding?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/square-black-table-pLbow9Ny9rs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Bear Lake rooftop bar",
+    "fetchedAt": "2026-08-21T14:51:06.342Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/big-bear-lake-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1601371857684-cfdbb2161e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCaWclMjBCZWFyJTIwTGFrZSUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMyMzg2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees near body of water during daytime",
+    "photographerName": "Joshua Chun",
+    "photographerUrl": "https://unsplash.com/@joshuachun?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-Yit5O99yaQo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Bear Lake steakhouse",
+    "fetchedAt": "2026-08-21T14:51:04.816Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/big-bear-lake-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1770134442969-5e5914dfc054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCaWclMjBCZWFyJTIwTGFrZSUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMjM4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Homes nestled among rocks by a calm lake",
+    "photographerName": "Ernesto Samaniego",
+    "photographerUrl": "https://unsplash.com/@ernesto_sams?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/homes-nestled-among-rocks-by-a-calm-lake-K3M2wzbCJ3I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Big Bear Lake vacation rental",
+    "fetchedAt": "2026-08-21T14:51:03.376Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/big-sky-mt/activities": {
     "url": "https://images.unsplash.com/photo-1760954360137-7b48f84e534a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCaWclMjBTa3klMjBNVCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTg0Njk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Fluffy white clouds over distant green mountains",
@@ -357,6 +397,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-empty-swimming-pool-with-an-umbrella-over-it-5KAA4oQ4lxI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Big Sky MT vacation rental house pool",
     "fetchedAt": "2026-07-02T09:31:37.697Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/black-hills-sd/activities": {
+    "url": "https://images.unsplash.com/photo-1541262219680-541c15f59e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbGFjayUyMEhpbGxzJTIwU291dGglMjBEYWtvdGElMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjM4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown mountains near road during daytime",
+    "photographerName": "Matan Levanon",
+    "photographerUrl": "https://unsplash.com/@matanl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-mountains-near-road-during-daytime-_Ipv1Ms0-uQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Black Hills South Dakota outdoor adventure",
+    "fetchedAt": "2026-08-21T14:51:01.476Z",
     "addedBy": "bestman"
   },
   "bestman/cities/black-hills-sd/bars": {
@@ -547,6 +597,46 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-field-near-mountains-under-white-clouds-during-daytime-cWFlYyJp2PE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bozeman MT vacation rental house pool",
     "fetchedAt": "2026-07-02T09:31:40.859Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/branson-mo/activities": {
+    "url": "https://images.unsplash.com/photo-1567672585861-53c96c9c662e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcmFuc29uJTIwTWlzc291cmklMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjM4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a lake and mountains in the distance",
+    "photographerName": "K. Mitch Hodge",
+    "photographerUrl": "https://unsplash.com/@kmitchhodge?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lake-and-mountains-in-the-distance-tpHJ_8aMC1I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Branson Missouri outdoor adventure",
+    "fetchedAt": "2026-08-21T14:51:26.603Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/branson-mo/bars": {
+    "url": "https://images.unsplash.com/photo-1766284808437-b479cbf0f83e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCcmFuc29uJTIwTWlzc291cmklMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjM4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Water tower with branson logo over a town",
+    "photographerName": "Far Chinberdiev",
+    "photographerUrl": "https://unsplash.com/@fardevio?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/water-tower-with-branson-logo-over-a-town-zCDtJ0154WA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Branson Missouri rooftop bar",
+    "fetchedAt": "2026-08-21T14:51:25.189Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/branson-mo/dining": {
+    "url": "https://images.pexels.com/photos/12735490/pexels-photo-12735490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A bustling urban nightlife scene at a restaurant and oyster bar, with people dining outside.",
+    "photographerName": "Deane Bayas",
+    "photographerUrl": "https://www.pexels.com/@dbaler",
+    "unsplashUrl": "https://www.pexels.com/photo/restaurant-at-night-12735490/",
+    "query": "Branson restaurant",
+    "fetchedAt": "2026-08-21T14:51:23.707Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/branson-mo/lodging": {
+    "url": "https://images.unsplash.com/photo-1567672585861-53c96c9c662e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCcmFuc29uJTIwTWlzc291cmklMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzIzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a scenic view of a lake and mountains in the distance",
+    "photographerName": "K. Mitch Hodge",
+    "photographerUrl": "https://unsplash.com/@kmitchhodge?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lake-and-mountains-in-the-distance-tpHJ_8aMC1I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Branson Missouri vacation rental",
+    "fetchedAt": "2026-08-21T14:51:20.852Z",
     "addedBy": "bestman"
   },
   "bestman/cities/breckenridge-co/activities": {
@@ -1749,6 +1839,46 @@
     "fetchedAt": "2026-04-11T20:07:27.693Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/gulfport-ms/activities": {
+    "url": "https://images.unsplash.com/photo-1625027648377-f7d60ff4e08c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHdWxmcG9ydCUyME1pc3Npc3NpcHBpJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzIzODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and black boat on river during daytime",
+    "photographerName": "Justin Wilkens",
+    "photographerUrl": "https://unsplash.com/@jlwilkens?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-black-boat-on-river-during-daytime-sKla3FXpVgU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gulfport Mississippi outdoor adventure",
+    "fetchedAt": "2026-08-21T14:51:19.398Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/gulfport-ms/bars": {
+    "url": "https://images.unsplash.com/photo-1571944301333-29a34af8594c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxHdWxmcG9ydCUyME1pc3Npc3NpcHBpJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black and green LED light",
+    "photographerName": "Simon Stratenschulte",
+    "photographerUrl": "https://unsplash.com/@simonsurprised?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-and-green-led-light-M9cl2zn-zME?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Gulfport Mississippi rooftop bar",
+    "fetchedAt": "2026-08-21T14:51:17.789Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/gulfport-ms/dining": {
+    "url": "https://images.pexels.com/photos/18090414/pexels-photo-18090414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming outdoor dining area with neatly set tables in Sitges, Spain, bathed in natural light.",
+    "photographerName": "Antonio Lorenzana Bermejo",
+    "photographerUrl": "https://www.pexels.com/@antonio-lorenzana-bermejo-353570724",
+    "unsplashUrl": "https://www.pexels.com/photo/decoration-in-restaurant-18090414/",
+    "query": "Gulfport restaurant",
+    "fetchedAt": "2026-08-21T14:51:16.255Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/gulfport-ms/lodging": {
+    "url": "https://images.pexels.com/photos/5477156/pexels-photo-5477156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Silhouette of a palm tree against a vibrant sunset sky in Gulfport, Florida.",
+    "photographerName": "Shelter",
+    "photographerUrl": "https://www.pexels.com/@shelter-606247",
+    "unsplashUrl": "https://www.pexels.com/photo/palm-tree-silhouette-on-sunset-sky-5477156/",
+    "query": "Gulfport downtown architecture",
+    "fetchedAt": "2026-08-21T14:51:11.982Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/hilton-head-sc/activities": {
     "url": "https://images.unsplash.com/photo-1760462568926-1a83660b7370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIaWx0b24lMjBIZWFkJTIwU0MlMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Cyclists riding mountain bikes on a forest trail.",
@@ -2387,6 +2517,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-wooden-house-sitting-on-top-of-a-lush-green-field-eA4nVPERiYU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Leavenworth WA vacation rental house pool",
     "fetchedAt": "2026-04-13T17:36:07.391Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lexington-ky/lodging": {
+    "url": "https://images.unsplash.com/photo-1678729618556-e153d3f1d53a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjBLZW50dWNreSUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMjM4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a field with a fence and a barn in the distance",
+    "photographerName": "Eva Varlioglu",
+    "photographerUrl": "https://unsplash.com/@evavarlioglu?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-field-with-a-fence-and-a-barn-in-the-distance-cJ3buXe-aJw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lexington Kentucky vacation rental",
+    "fetchedAt": "2026-08-21T14:51:28.260Z",
     "addedBy": "bestman"
   },
   "bestman/cities/los-angeles-ca/activities": {
