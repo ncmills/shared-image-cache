@@ -13,6 +13,20 @@
     "reason": "no-results",
     "attempts": 1
   },
+  "bestman/cities/panama-city-pa/dining": {
+    "query": "Panama City steakhouse",
+    "fallbackQuery": "Panama City restaurant",
+    "at": "2026-08-21T17:00:10.820Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "moh/cities/fredericksburg-tx/bars": {
+    "query": "Fredericksburg Texas cocktail bar",
+    "fallbackQuery": "Fredericksburg bar",
+    "at": "2026-08-21T16:48:58.517Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/lexington-ky/lodging": {
     "query": "Lexington Kentucky boutique hotel",
     "fallbackQuery": "Lexington hotel",
@@ -24,6 +38,18 @@
     "query": "Mendocino California cocktail bar",
     "fallbackQuery": "Mendocino bar",
     "at": "2026-08-21T15:02:40.669Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "offsite/venues/alvear-palace-hotel-buenos-aires": {
+    "query": "Alvear Palace Hotel Buenos Aires exterior",
+    "at": "2026-08-21T16:53:05.806Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "offsite/venues/aman-le-melezin-courchevel": {
+    "query": "Aman Le Melezin Courchevel exterior alpine",
+    "at": "2026-08-21T16:56:43.674Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
@@ -159,6 +185,12 @@
     "reason": "no-results",
     "attempts": 1
   },
+  "offsite/venues/mombo-camp-okavango": {
+    "query": "Mombo Camp Okavango Delta Botswana safari",
+    "at": "2026-08-21T16:57:41.565Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "offsite/venues/our-habitas-alula": {
     "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
     "at": "2026-08-21T15:08:18.579Z",
@@ -211,6 +243,12 @@
     "query": "Sea Island Cloister resort Georgia private island golf beach aerial",
     "at": "2026-08-21T13:09:49.107Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/singita-sabi-sand": {
+    "query": "Singita Boulders Lodge Sabi Sand safari",
+    "at": "2026-08-21T16:57:34.653Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "offsite/venues/six-senses-uluwatu": {
