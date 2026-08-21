@@ -13,11 +13,39 @@
     "reason": "no-results",
     "attempts": 1
   },
+  "bestman/cities/north-conway-nh/bars": {
+    "query": "North Conway New Hampshire rooftop bar",
+    "fallbackQuery": "North Conway cocktail lounge",
+    "at": "2026-08-21T18:54:02.502Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "bestman/cities/omaha-ne/dining": {
+    "query": "Omaha Nebraska steakhouse",
+    "fallbackQuery": "Omaha restaurant",
+    "at": "2026-08-21T19:01:56.558Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "bestman/cities/panama-city-pa/dining": {
     "query": "Panama City steakhouse",
     "fallbackQuery": "Panama City restaurant",
     "at": "2026-08-21T17:00:10.820Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "bestman/cities/poconos-pa/dining": {
+    "query": "Poconos Pennsylvania steakhouse",
+    "fallbackQuery": "Poconos restaurant",
+    "at": "2026-08-21T18:59:50.140Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "bestman/cities/saratoga-springs-ny/bars": {
+    "query": "Saratoga Springs New York rooftop bar",
+    "fallbackQuery": "Saratoga Springs cocktail lounge",
+    "at": "2026-08-21T18:55:16.196Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "moh/cities/fredericksburg-tx/bars": {
@@ -38,6 +66,33 @@
     "query": "Mendocino California cocktail bar",
     "fallbackQuery": "Mendocino bar",
     "at": "2026-08-21T15:02:40.669Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/wilmington-nc/bars": {
+    "query": "Wilmington North Carolina cocktail bar",
+    "fallbackQuery": "Wilmington bar",
+    "at": "2026-08-21T19:03:17.679Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/wilmington-nc/dining": {
+    "query": "Wilmington North Carolina restaurant interior",
+    "fallbackQuery": "Wilmington restaurant",
+    "at": "2026-08-21T19:03:08.722Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "offsite/experiences/ebike-city-to-vineyard-tour": {
+    "query": "group e-bike tour city to vineyard wine country",
+    "fallbackQuery": "cycling corporate team experience outdoor",
+    "at": "2026-08-21T19:04:11.359Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/allison-inn-willamette": {
+    "query": "Allison Inn Willamette Valley vineyard Oregon",
+    "at": "2026-08-21T18:53:27.499Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
@@ -143,6 +198,12 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "offsite/venues/hotel-castillo-santa-cecilia-guanajuato": {
+    "query": "Hotel Castillo Santa Cecilia Latin America & Caribbean",
+    "at": "2026-08-21T18:56:53.897Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "offsite/venues/joshua-creek": {
     "query": "Joshua Creek Ranch Texas Hill Country sporting clays lodge",
     "at": "2026-08-21T13:09:22.105Z",
@@ -153,6 +214,12 @@
     "query": "JW Marriott Rosseau Muskoka infinity pool Lake Rosseau Ontario",
     "at": "2026-08-21T13:09:27.544Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/kokomo-private-island-fiji": {
+    "query": "Kokomo Private Island Fiji Great Astrolabe Reef villas aerial",
+    "at": "2026-08-21T18:52:30.990Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "offsite/venues/la-mamounia-marrakech": {
@@ -177,6 +244,12 @@
     "query": "Low Wood Bay Resort Windermere Lake District marina",
     "at": "2026-08-21T13:09:56.958Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/maliba-mountain-lodge-tsehlanyane": {
+    "query": "Maliba Mountain Lodge Africa",
+    "at": "2026-08-21T18:55:57.867Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "offsite/venues/millbrook-resort-queenstown": {
@@ -255,6 +328,12 @@
     "query": "Six Senses Uluwatu Bali clifftop ocean lawn sunset",
     "at": "2026-08-21T13:09:42.916Z",
     "reason": "no-results",
+    "attempts": 1
+  },
+  "offsite/venues/stanly-ranch-napa": {
+    "query": "Stanly Ranch Auberge Napa vineyard cottages",
+    "at": "2026-08-21T18:53:43.953Z",
+    "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
   "offsite/venues/sublime-comporta": {
