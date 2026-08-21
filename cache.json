@@ -7339,6 +7339,16 @@
     "fetchedAt": "2026-06-29T18:22:59.476Z",
     "addedBy": "moh"
   },
+  "moh/cities/asheville-nc/dining": {
+    "url": "https://images.unsplash.com/photo-1634135214044-7774b415e421?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOb3J0aCUyMENhcm9saW5hJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMTc2Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a person standing in a kitchen preparing food",
+    "photographerName": "Mark Pecar",
+    "photographerUrl": "https://unsplash.com/@mgpecar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-person-standing-in-a-kitchen-preparing-food-HfXOjsnBqy4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Asheville North Carolina restaurant interior",
+    "fetchedAt": "2026-08-21T13:07:19.464Z",
+    "addedBy": "moh"
+  },
   "moh/cities/asheville-nc/lodging": {
     "url": "https://images.unsplash.com/photo-1704823822782-4b0d3b8b958c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBc2hldmlsbGUlMjBOQyUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgyNzU3Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a view of a building with mountains in the background",
@@ -7419,6 +7429,16 @@
     "fetchedAt": "2026-06-29T18:22:54.004Z",
     "addedBy": "moh"
   },
+  "moh/cities/austin-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1707327372005-86c95091a7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUZXhhcyUyMGNvY2t0YWlsJTIwYmFyfGVufDF8MHx8fDE3ODczMTc2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a close up of a drink on a table",
+    "photographerName": "Thomas Park",
+    "photographerUrl": "https://unsplash.com/@thomascpark?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-drink-on-a-table-b7Bx5tuEc1I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Austin Texas cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:17.830Z",
+    "addedBy": "moh"
+  },
   "moh/cities/austin-tx/dining": {
     "url": "https://images.unsplash.com/photo-1650338031185-1e97add7a389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBUWCUyMGVkaXRvcmlhbCUyMHJlc3RhdXJhbnQlMjBicnVuY2h8ZW58MXwwfHx8MTc4Mjc1NzM2OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people sitting outside of a restaurant",
@@ -7477,6 +7497,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-pIH5DX-jlAY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Bozeman cocktail lounge speakeasy interior",
     "fetchedAt": "2026-06-30T04:22:47.606Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/bozeman-mt/dining": {
+    "url": "https://images.unsplash.com/photo-1705707027889-86d263f38394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCb3plbWFuJTIwTW9udGFuYSUyMHJlc3RhdXJhbnQlMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg3MzE3NjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a stairwell leading to a dining room with tables and chairs",
+    "photographerName": "Charles Moll",
+    "photographerUrl": "https://unsplash.com/@charlesmollphoto?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-stairwell-leading-to-a-dining-room-with-tables-and-chairs-lFMShU4xrX0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bozeman Montana restaurant interior",
+    "fetchedAt": "2026-08-21T13:07:26.279Z",
     "addedBy": "moh"
   },
   "moh/cities/bozeman-mt/lodging": {
@@ -7957,6 +7987,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-small-waterfall-in-the-middle-of-a-forest-fjOXaVyk1wA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fort Worth TX spa wellness retreat",
     "fetchedAt": "2026-07-01T12:20:00.440Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-worth-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1586598716760-c8e13aac0eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMGNvY2t0YWlsJTIwYmFyfGVufDF8MHx8fDE3ODczMTc2NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man in white and black plaid dress shirt standing in front of counter",
+    "photographerName": "Joe Lavigne",
+    "photographerUrl": "https://unsplash.com/@joelavigne?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-black-plaid-dress-shirt-standing-in-front-of-counter-3OPT30PtfEg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:33.151Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-worth-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1590597723228-b1555fdc0a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwV29ydGglMjBUZXhhcyUyMHJlc3RhdXJhbnQlMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg3MzE3NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "us a flag on brown brick wall",
+    "photographerName": "Jared Lisack",
+    "photographerUrl": "https://unsplash.com/@jredl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/us-a-flag-on-brown-brick-wall-w0u3ZkspNK8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Worth Texas restaurant interior",
+    "fetchedAt": "2026-08-21T13:07:31.806Z",
     "addedBy": "moh"
   },
   "moh/cities/fort-worth-tx/lodging": {
@@ -8659,6 +8709,26 @@
     "fetchedAt": "2026-07-01T12:20:38.583Z",
     "addedBy": "moh"
   },
+  "moh/cities/nantucket-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1588708908465-2a1a34ce25d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNYXNzYWNodXNldHRzJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzE3NjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and black concrete building near body of water during daytime",
+    "photographerName": "Andrew Wolff",
+    "photographerUrl": "https://unsplash.com/@andrewwolff?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-black-concrete-building-near-body-of-water-during-daytime-6HFdIyUjeL4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Nantucket Massachusetts boutique hotel",
+    "fetchedAt": "2026-08-21T13:07:35.899Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/napa-valley-ca": {
+    "url": "https://images.unsplash.com/photo-1703054682740-8138e25246ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ2FsaWZvcm5pYSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NzMxNzY0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with mountains in the background",
+    "photographerName": "Nikhil Mistry",
+    "photographerUrl": "https://unsplash.com/@nikhil_m7?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-s5_zl0PGbgA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley California skyline",
+    "fetchedAt": "2026-08-21T13:07:23.567Z",
+    "addedBy": "moh"
+  },
   "moh/cities/napa-valley-ca/activities": {
     "url": "https://images.unsplash.com/photo-1663016829039-f9cf17ae0467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ0ElMjBzcGElMjB3ZWxsbmVzcyUyMHJldHJlYXR8ZW58MXwwfHx8MTc4Mjc5MzM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a house in the middle of a forest",
@@ -8667,6 +8737,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-house-in-the-middle-of-a-forest-5DdCMzovXbs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Napa Valley CA spa wellness retreat",
     "fetchedAt": "2026-06-30T04:22:40.711Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/napa-valley-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1734970003644-3ddaed21702e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOYXBhJTIwVmFsbGV5JTIwQ2FsaWZvcm5pYSUyMGNvY2t0YWlsJTIwYmFyfGVufDF8MHx8fDE3ODczMTc2NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "An old truck is parked in a field",
+    "photographerName": "Line Kjær",
+    "photographerUrl": "https://unsplash.com/@linekjaer?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-old-truck-is-parked-in-a-field-0OKHG-fdrxs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Napa Valley California cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:24.894Z",
     "addedBy": "moh"
   },
   "moh/cities/napa-valley-ca/dining": {
@@ -8757,6 +8837,16 @@
     "unsplashUrl": "https://unsplash.com/photos/stone-monument-with-inscription-near-a-calm-body-of-water-ciOWhHE8p5k?utm_source=shared_image_cache&utm_medium=referral",
     "query": "New Orleans wellness outdoor scene",
     "fetchedAt": "2026-06-29T17:36:17.751Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/new-orleans-la/bars": {
+    "url": "https://images.unsplash.com/photo-1655776720413-fe4d8aa4dd0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxOZXclMjBPcmxlYW5zJTIwTG91aXNpYW5hJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMxNzYzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting at a bar",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-bar-_EubIjmqCFk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New Orleans Louisiana cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:14.876Z",
     "addedBy": "moh"
   },
   "moh/cities/new-orleans-la/dining": {
@@ -8917,6 +9007,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-and-purple-floral-wall-decor-u-6IDH7jkFA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Oahu HI boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-29T11:37:34.958Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/palm-springs-ca": {
+    "url": "https://images.unsplash.com/photo-1574876999742-a8be3a43f151?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQYWxtJTIwU3ByaW5ncyUyMENhbGlmb3JuaWElMjBza3lsaW5lfGVufDF8MHx8fDE3ODczMTc2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "structure beside palm trees",
+    "photographerName": "Cody Board",
+    "photographerUrl": "https://unsplash.com/@codypboard?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/structure-beside-palm-trees-quuG8oNM61A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Palm Springs California skyline",
+    "fetchedAt": "2026-08-21T13:07:22.185Z",
     "addedBy": "moh"
   },
   "moh/cities/palm-springs-ca/activities": {
@@ -9139,6 +9239,16 @@
     "fetchedAt": "2026-07-01T12:19:36.222Z",
     "addedBy": "moh"
   },
+  "moh/cities/portland-or/lodging": {
+    "url": "https://images.unsplash.com/photo-1635209896150-ef275dbd52a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyME9yZWdvbiUyMGJvdXRpcXVlJTIwaG90ZWx8ZW58MXwwfHx8MTc4NzMxNzY1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large neon sign on top of a building",
+    "photographerName": "Justin Shen",
+    "photographerUrl": "https://unsplash.com/@shenny_visuals?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-neon-sign-on-top-of-a-building-k0VeQ6sXHGg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland Oregon boutique hotel",
+    "fetchedAt": "2026-08-21T13:07:30.432Z",
+    "addedBy": "moh"
+  },
   "moh/cities/san-diego-ca": {
     "url": "https://images.unsplash.com/photo-1606554626344-893f2f7af053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW4lMjBEaWVnbyUyMENBJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4MjkwODM0MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman in blue bikini sitting on white lounge chair near body of water during daytime",
@@ -9299,6 +9409,16 @@
     "fetchedAt": "2026-07-01T12:20:12.817Z",
     "addedBy": "moh"
   },
+  "moh/cities/santa-fe-nm/bars": {
+    "url": "https://images.unsplash.com/photo-1777931407549-86d4771c9063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwTmV3JTIwTWV4aWNvJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMxNzY1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Southwestern adobe building with clear blue sky",
+    "photographerName": "Dan Dennis",
+    "photographerUrl": "https://unsplash.com/@cameramandan83?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/southwestern-adobe-building-with-clear-blue-sky-CDH00ePmQ2M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Fe New Mexico cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:34.492Z",
+    "addedBy": "moh"
+  },
   "moh/cities/santa-fe-nm/dining": {
     "url": "https://images.unsplash.com/photo-1762858577765-ea6b63aace36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEZlJTIwTk0lMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI5MDg0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Santa fe train station with palm trees and train",
@@ -9337,6 +9457,16 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-in-white-dress-walking-on-pathway-between-trees-during-daytime-s5jWWYTB41g?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Savannah GA spa wellness retreat",
     "fetchedAt": "2026-06-29T18:22:47.104Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/savannah-ga/bars": {
+    "url": "https://images.unsplash.com/photo-1667489012874-97f73762f417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYXZhbm5haCUyMEdlb3JnaWElMjBjb2NrdGFpbCUyMGJhcnxlbnwxfDB8fHwxNzg3MzE3NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a street corner with a large building",
+    "photographerName": "Diane Picchiottino",
+    "photographerUrl": "https://unsplash.com/@diane_soko?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-street-corner-with-a-large-building-kTx9p0xvvWo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Savannah Georgia cocktail bar",
+    "fetchedAt": "2026-08-21T13:07:16.283Z",
     "addedBy": "moh"
   },
   "moh/cities/savannah-ga/dining": {
@@ -9447,6 +9577,16 @@
     "unsplashUrl": "https://unsplash.com/photos/egg-with-tomato-and-green-leaf-vegetable-on-white-ceramic-plate-thR9H6aDmN8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Sedona AZ editorial restaurant brunch",
     "fetchedAt": "2026-06-29T18:23:05.040Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sedona-az/lodging": {
+    "url": "https://images.unsplash.com/photo-1617771431802-58b6aaf93399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTZWRvbmElMjBBcml6b25hJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzE3NjQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown rock formation under blue sky during daytime",
+    "photographerName": "Anthony Melone",
+    "photographerUrl": "https://unsplash.com/@anthony_melone?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-under-blue-sky-during-daytime-YdzWGR7tvQk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sedona Arizona boutique hotel",
+    "fetchedAt": "2026-08-21T13:07:20.851Z",
     "addedBy": "moh"
   },
   "moh/cities/sonoma-ca": {
@@ -9607,6 +9747,16 @@
     "unsplashUrl": "https://unsplash.com/photos/body-of-water-near-trees-during-daytime-PuJc2Sodi94?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Washington DC spa wellness retreat",
     "fetchedAt": "2026-06-30T16:30:31.207Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/washington-dc/bars": {
+    "url": "https://images.unsplash.com/photo-1554745007-103d4d5e078c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwYmFyfGVufDF8MHx8fDE3ODczMTc2NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white domed government building",
+    "photographerName": "Vlad Tchompalov",
+    "photographerUrl": "https://unsplash.com/@tchompalov?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-domed-government-building-dHjV9czPNHs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Washington bar",
+    "fetchedAt": "2026-08-21T13:07:29.059Z",
     "addedBy": "moh"
   },
   "moh/cities/washington-dc/dining": {
