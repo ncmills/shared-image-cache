@@ -12,6 +12,8 @@
  *   npx tsx scripts/fetch.ts --project=tdf  # only fetch tdf queries
  *   npx tsx scripts/fetch.ts --refetch      # re-fetch already-cached entries
  *   npx tsx scripts/fetch.ts --commit       # auto git commit + push after run
+ *   npx tsx scripts/fetch.ts --dry-run      # print the queue; no network, no writes
+ *   npx tsx scripts/fetch.ts --retry-misses # ignore miss tombstones this run
  *
  * Reads UNSPLASH_ACCESS_KEY from env or .env.local in the repo root.
  */
@@ -30,6 +32,16 @@ import {
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
 import { wouldViolate } from "../lib/fanout";
 import { stripVenueFallbacks } from "../lib/query-policy";
+import { buildQueue } from "../lib/queue";
+import {
+  clearMiss,
+  isSuppressed,
+  missStats,
+  recordMiss,
+  serializeMisses,
+  MISS_TTL_DAYS,
+  type Misses,
+} from "../lib/misses";
 import { getTdfQueries } from "./queries/tdf";
 import { getOffsiteQueries } from "./queries/offsite";
 import { getBestmanQueries } from "./queries/bestman";
@@ -39,6 +51,7 @@ import { getFriendsmoonQueries } from "./queries/friendsmoon";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
+const MISSES_PATH = resolve(REPO_ROOT, "misses.json");
 const ENV_PATH = resolve(REPO_ROOT, ".env.local");
 const SLEEP_MS = 1000;
 const RATELIMIT_FLOOR = 5;
@@ -82,6 +95,21 @@ function saveCache(cache: Cache): void {
   writeFileSync(CACHE_PATH, JSON.stringify(sorted, null, 2) + "\n", "utf8");
 }
 
+// ── Miss tombstones (lib/misses.ts) ─────────────────────────────────
+
+function loadMisses(): Misses {
+  if (!existsSync(MISSES_PATH)) return {};
+  try {
+    return JSON.parse(readFileSync(MISSES_PATH, "utf8")) as Misses;
+  } catch {
+    return {};
+  }
+}
+
+function saveMisses(misses: Misses): void {
+  writeFileSync(MISSES_PATH, serializeMisses(misses), "utf8");
+}
+
 // ── Args ────────────────────────────────────────────────────────────
 
 interface Args {
@@ -89,6 +117,10 @@ interface Args {
   refetch: boolean;
   commit: boolean;
   project: string | null;
+  /** Ignore miss tombstones for this run (a deliberate re-attempt). */
+  retryMisses: boolean;
+  /** Compute the queue and print it. No network, no writes, no budget spent. */
+  dryRun: boolean;
 }
 
 function parseArgs(): Args {
@@ -96,14 +128,18 @@ function parseArgs(): Args {
   let refetch = false;
   let commit = false;
   let project: string | null = null;
+  let retryMisses = false;
+  let dryRun = false;
   for (const arg of process.argv.slice(2)) {
     if (arg === "--refetch") refetch = true;
     else if (arg === "--commit") commit = true;
+    else if (arg === "--retry-misses") retryMisses = true;
+    else if (arg === "--dry-run") dryRun = true;
     else if (arg.startsWith("--limit=")) limit = parseInt(arg.slice(8), 10);
     else if (arg.startsWith("--project=")) project = arg.slice(10);
   }
   if (Number.isNaN(limit) || limit <= 0) limit = DEFAULT_LIMIT;
-  return { limit, refetch, commit, project };
+  return { limit, refetch, commit, project, retryMisses, dryRun };
 }
 
 // ── Sleep ───────────────────────────────────────────────────────────
@@ -151,6 +187,7 @@ async function main() {
 
   const args = parseArgs();
   const cache = loadCache();
+  const misses = loadMisses();
 
   // Gather queries from every project loader
   const allQueries: QueryItem[] = [];
@@ -188,38 +225,46 @@ async function main() {
     );
   }
 
-  // Filter out already-cached entries
-  const pending = policedQueries.filter((q) => args.refetch || !cache[q.key]);
+  // ── pending = not cached AND not under a fresh tombstone ────────────────
+  // The second half is the fix for the dead queue head. Before it, a miss
+  // wrote nothing, so the first N pending keys were re-asked (and re-missed)
+  // every two hours forever while ~1,190 keys behind them were never attempted
+  // once. A tombstone expires after MISS_TTL_DAYS or the moment the query text
+  // changes — see lib/misses.ts. The rule itself lives in lib/queue.ts so it
+  // can be run, and tested, on its own.
+  const { queue, suppressed } = buildQueue(policedQueries, cache, misses, {
+    refetch: args.refetch,
+    retryMisses: args.retryMisses,
+  });
 
-  // Round-robin interleave across projects so every project with pending work
-  // makes progress each run. A fixed concat (tdf→bestman→moh→offsite) starves
-  // whatever loads LAST until the others finish — which left offsite (loaded
-  // last) at 0 backfill behind ~1600 other pending. This matches the
-  // daily-maxout "newest/most-incomplete filled first" intent. With --project,
-  // there's a single lane so behaviour is unchanged.
-  const lanes = new Map<string, QueryItem[]>();
-  for (const q of pending) {
-    const p = q.key.split("/")[0];
-    let lane = lanes.get(p);
-    if (!lane) {
-      lane = [];
-      lanes.set(p, lane);
-    }
-    lane.push(q);
-  }
-  const laneArr = [...lanes.values()];
-  const queue: QueryItem[] = [];
-  for (let i = 0; laneArr.some((l) => i < l.length); i++) {
-    for (const lane of laneArr) if (i < lane.length) queue.push(lane[i]);
-  }
-
+  const stats = missStats(misses);
   console.log(
     `Shared cache fetch — ${policedQueries.length} total queries, ${queue.length} pending`,
   );
   console.log(`  cache currently holds ${Object.keys(cache).length} entries`);
+  console.log(
+    `  ${suppressed.length} key(s) held back by a fresh miss tombstone ` +
+      `(${stats.fresh} fresh / ${stats.total} recorded, TTL ${MISS_TTL_DAYS}d)` +
+      (args.retryMisses ? " — IGNORED this run (--retry-misses)" : ""),
+  );
+
+  if (args.dryRun) {
+    console.log("\n-- DRY RUN: no network calls, no writes --");
+    const byProject = new Map<string, number>();
+    for (const q of queue) {
+      const p = q.key.split("/")[0];
+      byProject.set(p, (byProject.get(p) ?? 0) + 1);
+    }
+    for (const [p, n] of [...byProject].sort()) console.log(`  ${p}: ${n} pending`);
+    console.log(`\n  next ${Math.min(args.limit, queue.length)} key(s) this run would ask for:`);
+    for (const q of queue.slice(0, args.limit)) {
+      console.log(`    ${q.key}  <- "${q.query}"${q.fallbackQuery ? `  (fallback: "${q.fallbackQuery}")` : ""}`);
+    }
+    return;
+  }
 
   if (queue.length === 0) {
-    console.log("✓ Nothing to fetch — cache is up to date");
+    console.log("✓ Nothing to fetch — every desired key is cached or tombstoned");
     if (args.commit) commitAndPush(0);
     return;
   }
@@ -230,6 +275,11 @@ async function main() {
   let processed = 0;
   let added = 0;
   let aborted = false;
+  let missesChanged = false;
+  /** Keys where every source returned NOTHING — the silent-401 signature. */
+  let zeroResultKeys = 0;
+  /** Keys that found photos but all of them were already at the fan-out ceiling. */
+  let ceilingRejectedKeys = 0;
 
   for (const item of batch) {
     processed++;
@@ -310,6 +360,8 @@ async function main() {
         const entry: CacheEntry = { ...chosen, addedBy: item.addedBy };
         cache[item.key] = entry;
         added++;
+        // A key that now HAS a photo has no business carrying a tombstone.
+        if (clearMiss(misses, item.key)) missesChanged = true;
         const tag = usedPexels ? "⊕" : usedFallback ? "↻" : "✓";
         const sourceLabel = usedPexels ? `pexels: ${pexelsRemaining} left` : `${result.ratelimitRemaining} left`;
         console.log(
@@ -321,16 +373,23 @@ async function main() {
       } else if (skippedAtCeiling > 0) {
         // A miss beats a duplicate — say so explicitly so a run's output
         // never reads as "the query found nothing".
+        ceilingRejectedKeys++;
+        const rec = recordMiss(misses, item, "all-candidates-at-ceiling");
+        missesChanged = true;
         console.log(
-          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedAtCeiling} candidate(s) already at fan-out ceiling for "${item.query}"`,
+          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedAtCeiling} candidate(s) already at fan-out ceiling for "${item.query}" (tombstoned, attempt ${rec.attempts}, retry in ${MISS_TTL_DAYS}d)`,
         );
       } else {
+        zeroResultKeys++;
+        const rec = recordMiss(misses, item, "no-results");
+        missesChanged = true;
         console.log(
-          `  [${processed}/${batch.length}] ${item.label || item.key} — no results for "${item.query}"`,
+          `  [${processed}/${batch.length}] ${item.label || item.key} — no results for "${item.query}" (tombstoned, attempt ${rec.attempts}, retry in ${MISS_TTL_DAYS}d)`,
         );
       }
 
       saveCache(cache);
+      if (missesChanged) saveMisses(misses);
 
       if (
         !Number.isNaN(result.ratelimitRemaining) &&
@@ -357,19 +416,26 @@ async function main() {
   }
 
   saveCache(cache);
+  saveMisses(misses);
 
   const remaining = queue.length - processed;
+  const tombstoned = zeroResultKeys + ceilingRejectedKeys;
   console.log(
-    `\n✓ Done — ${processed} processed, ${added} new entries added${aborted ? " (aborted early)" : ""}, ${remaining} still pending`,
+    `\n✓ Done — ${processed} processed, ${added} new entries added${aborted ? " (aborted early)" : ""}, ` +
+      `${tombstoned} miss(es) tombstoned, ${remaining} left in this run's queue`,
   );
 
-  if (args.commit && added > 0) commitAndPush(added);
+  // Commit when anything DURABLE changed. Gating on `added > 0` alone is what
+  // made the tombstones pointless on CI: a run that adds nothing but records
+  // 40 misses has moved the queue head forward, and throwing that away is
+  // exactly the loop this change exists to break.
+  if (args.commit && (added > 0 || missesChanged)) commitAndPush(added, tombstoned);
   if (remaining > 0) {
     console.log(`  Re-run \`npm run fetch\` after the rate-limit window resets (~1 hour)`);
   }
 }
 
-function commitAndPush(added: number): void {
+function commitAndPush(added: number, tombstoned = 0): void {
   // The cron workflows (fetch-images.yml, daily-maxout.yml) push to main
   // through THIS function, so the gate here is what makes the ceilings
   // un-bypassable on the write path: a violating cache never leaves the
@@ -387,17 +453,20 @@ function commitAndPush(added: number): void {
   }
   try {
     process.chdir(REPO_ROOT);
-    execSync("git add cache.json", { stdio: "inherit" });
-    const status = execSync("git status --porcelain cache.json", { encoding: "utf8" });
+    execSync("git add cache.json misses.json", { stdio: "inherit" });
+    const status = execSync("git status --porcelain cache.json misses.json", {
+      encoding: "utf8",
+    });
     if (!status.trim()) {
       console.log("  (no cache changes to commit)");
       return;
     }
     const ts = new Date().toISOString();
-    execSync(
-      `git commit -m "fetch: ${added} new entries @ ${ts}"`,
-      { stdio: "inherit" },
-    );
+    const what =
+      tombstoned > 0
+        ? `${added} new entries, ${tombstoned} miss(es) tombstoned`
+        : `${added} new entries`;
+    execSync(`git commit -m "fetch: ${what} @ ${ts}"`, { stdio: "inherit" });
     execSync("git push origin main", { stdio: "inherit" });
     console.log("✓ Committed + pushed to origin/main");
   } catch (err) {
