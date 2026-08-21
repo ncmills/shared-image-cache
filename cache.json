@@ -3719,6 +3719,26 @@
     "fetchedAt": "2026-08-21T15:04:19.073Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/norfolk-va/dining": {
+    "url": "https://images.pexels.com/photos/36145046/pexels-photo-36145046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Indulge in a luxurious surf and turf meal featuring lobster tail, steak, and asparagus.",
+    "photographerName": "Yelena  HeyTam",
+    "photographerUrl": "https://www.pexels.com/@heytam",
+    "unsplashUrl": "https://www.pexels.com/photo/gourmet-surf-and-turf-dish-with-lobster-and-steak-36145046/",
+    "query": "Norfolk Virginia steakhouse",
+    "fetchedAt": "2026-08-21T15:12:37.048Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/norfolk-va/lodging": {
+    "url": "https://images.pexels.com/photos/556758/pexels-photo-556758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Golden sunset over a peaceful VA beach with gentle waves and serene sky reflection.",
+    "photographerName": "Katie  Schankula",
+    "photographerUrl": "https://www.pexels.com/@ktschankula",
+    "unsplashUrl": "https://www.pexels.com/photo/sunset-photo-556758/",
+    "query": "Norfolk Virginia vacation rental",
+    "fetchedAt": "2026-08-21T15:12:28.471Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/oahu-hi/activities": {
     "url": "https://images.pexels.com/photos/15663586/pexels-photo-15663586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning aerial view of Diamond Head volcanic crater overlooking the ocean in Hawaii.",
@@ -4279,6 +4299,46 @@
     "fetchedAt": "2026-08-06T10:50:15.679Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/richmond-va/activities": {
+    "url": "https://images.pexels.com/photos/34586191/pexels-photo-34586191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful fall scene at the James River with rocks and autumn foliage in Richmond, Virginia.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/serene-fall-landscape-of-the-james-river-34586191/",
+    "query": "Richmond Virginia outdoor adventure",
+    "fetchedAt": "2026-08-21T15:12:21.585Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/richmond-va/bars": {
+    "url": "https://images.pexels.com/photos/34586181/pexels-photo-34586181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating aerial view of Richmond's downtown skyline during golden hour.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-richmond-skyline-at-sunset-34586181/",
+    "query": "Richmond Virginia rooftop bar",
+    "fetchedAt": "2026-08-21T15:12:14.315Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/richmond-va/dining": {
+    "url": "https://images.pexels.com/photos/34586163/pexels-photo-34586163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of the historic downtown Richmond, Virginia with autumn foliage and iconic buildings.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-downtown-richmond-virginia-34586163/",
+    "query": "Richmond Virginia steakhouse",
+    "fetchedAt": "2026-08-21T15:12:07.147Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/richmond-va/lodging": {
+    "url": "https://images.pexels.com/photos/34586187/pexels-photo-34586187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of Richmond, Virginia skyline with James River at sunset.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/richmond-virginia-skyline-at-sunset-34586187/",
+    "query": "Richmond Virginia vacation rental",
+    "fetchedAt": "2026-08-21T15:12:00.081Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/salt-lake-city-ut/activities": {
     "url": "https://images.unsplash.com/photo-1669422498933-6e65208f9a02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYWx0JTIwTGFrZSUyMENpdHklMjBVVCUyMGFkdmVudHVyZSUyMG91dGRvb3IlMjBzcG9ydHxlbnwxfDB8fHwxNzgyOTA4NDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city below a mountain",
@@ -4719,6 +4779,46 @@
     "fetchedAt": "2026-04-12T19:03:12.737Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/sonoma-ca/activities": {
+    "url": "https://images.pexels.com/photos/35052762/pexels-photo-35052762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A tranquil lake reflecting hills and sky in Sonoma County, California.",
+    "photographerName": "Robert So",
+    "photographerUrl": "https://www.pexels.com/@robertkso",
+    "unsplashUrl": "https://www.pexels.com/photo/serene-lake-reflection-at-sonoma-county-35052762/",
+    "query": "Sonoma California outdoor adventure",
+    "fetchedAt": "2026-08-21T15:10:52.966Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sonoma-ca/bars": {
+    "url": "https://images.pexels.com/photos/27903662/pexels-photo-27903662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Luxury rooftop terrace in San Francisco with a fire pit and stunning cityscape view at dusk.",
+    "photographerName": "Daniil Vishnevskiy",
+    "photographerUrl": "https://www.pexels.com/@daniil-vishnevskiy-1673446193",
+    "unsplashUrl": "https://www.pexels.com/photo/rooftop-fire-pit-with-san-francisco-skyline-at-twilight-27903662/",
+    "query": "Sonoma California rooftop bar",
+    "fetchedAt": "2026-08-21T15:10:45.817Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sonoma-ca/dining": {
+    "url": "https://images.pexels.com/photos/12811544/pexels-photo-12811544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant vineyard rows in Northern California with rolling hills and spring foliage, perfect for wine enthusiasts.",
+    "photographerName": "Tom Fisk",
+    "photographerUrl": "https://www.pexels.com/@tomfisk",
+    "unsplashUrl": "https://www.pexels.com/photo/farm-field-near-mountain-12811544/",
+    "query": "Sonoma California steakhouse",
+    "fetchedAt": "2026-08-21T15:10:38.666Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/sonoma-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1735753706014-687ed4576f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDYWxpZm9ybmlhJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyNTAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large house with a lot of trees in front of it",
+    "photographerName": "Gene Giromini",
+    "photographerUrl": "https://unsplash.com/@ewgino?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-lot-of-trees-in-front-of-it-F2oE65Bq3eM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma California vacation rental",
+    "fetchedAt": "2026-08-21T15:10:31.817Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/spokane-wa/activities": {
     "url": "https://images.unsplash.com/photo-1734220700325-97bf88c7ad31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTcG9rYW5lJTIwV2FzaGluZ3RvbiUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMxNzY5NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A river running through a forest filled with trees",
@@ -5119,6 +5219,46 @@
     "fetchedAt": "2026-04-12T19:04:20.282Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/virginia-beach-va/activities": {
+    "url": "https://images.pexels.com/photos/13522168/pexels-photo-13522168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A peaceful view of Virginia Beach showcasing a wooden pier, seagulls, and the ocean.",
+    "photographerName": "Elizabeth Liebenberg",
+    "photographerUrl": "https://www.pexels.com/@elizabeth-liebenberg-3319039",
+    "unsplashUrl": "https://www.pexels.com/photo/birds-flying-over-the-shore-with-wild-plants-13522168/",
+    "query": "Virginia Beach outdoor adventure",
+    "fetchedAt": "2026-08-21T15:11:51.583Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/virginia-beach-va/bars": {
+    "url": "https://images.pexels.com/photos/34586199/pexels-photo-34586199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of downtown Richmond, Virginia, capturing the city's skyline and architecture.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/richmond-virginia-aerial-cityscape-view-34586199/",
+    "query": "Virginia Beach rooftop bar",
+    "fetchedAt": "2026-08-21T15:11:44.417Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/virginia-beach-va/dining": {
+    "url": "https://images.pexels.com/photos/36145046/pexels-photo-36145046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Indulge in a luxurious surf and turf meal featuring lobster tail, steak, and asparagus.",
+    "photographerName": "Yelena  HeyTam",
+    "photographerUrl": "https://www.pexels.com/@heytam",
+    "unsplashUrl": "https://www.pexels.com/photo/gourmet-surf-and-turf-dish-with-lobster-and-steak-36145046/",
+    "query": "Virginia Beach steakhouse",
+    "fetchedAt": "2026-08-21T15:11:37.237Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/virginia-beach-va/lodging": {
+    "url": "https://images.pexels.com/photos/37864194/pexels-photo-37864194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful sunrise over Virginia Beach with gentle waves and vibrant skies, perfect for relaxation themes.",
+    "photographerName": "Creative Ruckus",
+    "photographerUrl": "https://www.pexels.com/@creative-ruckus-2149996382",
+    "unsplashUrl": "https://www.pexels.com/photo/serene-sunrise-over-virginia-beach-oceanfront-37864194/",
+    "query": "Virginia Beach vacation rental",
+    "fetchedAt": "2026-08-21T15:11:28.748Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/walla-walla-wa/activities": {
     "url": "https://images.unsplash.com/photo-1682685796186-1bb4a5655653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXYWxsYSUyMFdhbGxhJTIwV0ElMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk5Mjc4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a man climbing up the side of a mountain",
@@ -5237,6 +5377,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-large-swimming-pool-in-a-backyard-surrounded-by-trees-41RtGos7y4g?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Whitefish MT vacation rental house pool",
     "fetchedAt": "2026-07-30T21:21:56.600Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/willamette-valley-or/activities": {
+    "url": "https://images.pexels.com/photos/38661701/pexels-photo-38661701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Portland's skyline with the iconic Hawthorne Bridge and Willamette River.",
+    "photographerName": "William Jacobs",
+    "photographerUrl": "https://www.pexels.com/@williamjacobs",
+    "unsplashUrl": "https://www.pexels.com/photo/portland-skyline-with-hawthorne-bridge-38661701/",
+    "query": "Willamette Valley Oregon outdoor adventure",
+    "fetchedAt": "2026-08-21T15:11:21.670Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/willamette-valley-or/bars": {
+    "url": "https://images.pexels.com/photos/37290478/pexels-photo-37290478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of the red rooftops of Union Station in Portland, with blue sky and clouds.",
+    "photographerName": "Erika Browne",
+    "photographerUrl": "https://www.pexels.com/@erika-browne-2155469409",
+    "unsplashUrl": "https://www.pexels.com/photo/union-station-rooftops-under-blue-sky-in-portland-37290478/",
+    "query": "Willamette Valley Oregon rooftop bar",
+    "fetchedAt": "2026-08-21T15:11:14.309Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/willamette-valley-or/dining": {
+    "url": "https://images.pexels.com/photos/38661701/pexels-photo-38661701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Portland's skyline with the iconic Hawthorne Bridge and Willamette River.",
+    "photographerName": "William Jacobs",
+    "photographerUrl": "https://www.pexels.com/@williamjacobs",
+    "unsplashUrl": "https://www.pexels.com/photo/portland-skyline-with-hawthorne-bridge-38661701/",
+    "query": "Willamette Valley Oregon steakhouse",
+    "fetchedAt": "2026-08-21T15:11:07.233Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/willamette-valley-or/lodging": {
+    "url": "https://images.pexels.com/photos/38661693/pexels-photo-38661693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "View of Portland's vibrant skyline and waterfront captured from beneath a bridge.",
+    "photographerName": "William Jacobs",
+    "photographerUrl": "https://www.pexels.com/@williamjacobs",
+    "unsplashUrl": "https://www.pexels.com/photo/portland-skyline-under-bridge-on-sunny-day-38661693/",
+    "query": "Willamette Valley Oregon vacation rental",
+    "fetchedAt": "2026-08-21T15:11:00.240Z",
     "addedBy": "bestman"
   },
   "bestman/showcases/andre-miami-fl-the-king/bars": {
@@ -10159,6 +10339,56 @@
     "fetchedAt": "2026-08-21T14:53:23.095Z",
     "addedBy": "moh"
   },
+  "moh/cities/columbus-oh": {
+    "url": "https://images.pexels.com/photos/8331320/pexels-photo-8331320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "View of Columbus skyline with modern skyscrapers and green park along the river.",
+    "photographerName": "Chris F",
+    "photographerUrl": "https://www.pexels.com/@chris-f-38966",
+    "unsplashUrl": "https://www.pexels.com/photo/park-and-river-near-modern-city-downtown-8331320/",
+    "query": "Columbus Ohio skyline",
+    "fetchedAt": "2026-08-21T15:10:34.042Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/columbus-oh/activities": {
+    "url": "https://images.pexels.com/photos/39065255/pexels-photo-39065255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial photograph showcasing the sprawling cityscape of Columbus, Ohio during the day.",
+    "photographerName": "Daiji Umemoto",
+    "photographerUrl": "https://www.pexels.com/@daiji-umemoto-549226763",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-columbus-ohio-cityscape-39065255/",
+    "query": "Columbus Ohio spa",
+    "fetchedAt": "2026-08-21T15:11:02.592Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/columbus-oh/bars": {
+    "url": "https://images.pexels.com/photos/39065255/pexels-photo-39065255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial photograph showcasing the sprawling cityscape of Columbus, Ohio during the day.",
+    "photographerName": "Daiji Umemoto",
+    "photographerUrl": "https://www.pexels.com/@daiji-umemoto-549226763",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-columbus-ohio-cityscape-39065255/",
+    "query": "Columbus Ohio cocktail bar",
+    "fetchedAt": "2026-08-21T15:10:55.367Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/columbus-oh/dining": {
+    "url": "https://images.pexels.com/photos/39065255/pexels-photo-39065255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial photograph showcasing the sprawling cityscape of Columbus, Ohio during the day.",
+    "photographerName": "Daiji Umemoto",
+    "photographerUrl": "https://www.pexels.com/@daiji-umemoto-549226763",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-columbus-ohio-cityscape-39065255/",
+    "query": "Columbus Ohio restaurant interior",
+    "fetchedAt": "2026-08-21T15:10:48.199Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/columbus-oh/lodging": {
+    "url": "https://images.pexels.com/photos/36893999/pexels-photo-36893999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming brick building with decorative plants in German Village, Columbus. Perfect blend of urban and vintage architecture.",
+    "photographerName": "Clinton Weaver",
+    "photographerUrl": "https://www.pexels.com/@clinton-weaver-143462690",
+    "unsplashUrl": "https://www.pexels.com/photo/charming-brick-building-in-german-village-columbus-36893999/",
+    "query": "Columbus Ohio boutique hotel",
+    "fetchedAt": "2026-08-21T15:10:41.134Z",
+    "addedBy": "moh"
+  },
   "moh/cities/dallas-tx": {
     "url": "https://images.unsplash.com/photo-1766275827053-1d46fec02858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHNreWxpbmUlMjBwaW5rJTIwc3Vuc2V0fGVufDF8MHx8fDE3NzYwMTkxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "City skyline silhouette against a colorful sunset.",
@@ -10309,6 +10539,56 @@
     "fetchedAt": "2026-08-21T14:39:47.270Z",
     "addedBy": "moh"
   },
+  "moh/cities/detroit-mi": {
+    "url": "https://images.pexels.com/photos/12950494/pexels-photo-12950494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A beautiful view of the Detroit skyline reflecting on the river at sunrise, showcasing modern skyscrapers.",
+    "photographerName": "@coldbeer",
+    "photographerUrl": "https://www.pexels.com/@coldbeer-277046249",
+    "unsplashUrl": "https://www.pexels.com/photo/city-skyline-across-body-of-water-12950494/",
+    "query": "Detroit Michigan skyline",
+    "fetchedAt": "2026-08-21T15:11:09.470Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/detroit-mi/activities": {
+    "url": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "View of the Detroit skyline across the river on a clear day with rock-strewn waterfront.",
+    "photographerName": "Anon",
+    "photographerUrl": "https://www.pexels.com/@anon-213834",
+    "unsplashUrl": "https://www.pexels.com/photo/wide-angle-photography-of-city-near-body-of-water-702343/",
+    "query": "Detroit Michigan spa",
+    "fetchedAt": "2026-08-21T15:11:39.598Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/detroit-mi/bars": {
+    "url": "https://images.pexels.com/photos/38496949/pexels-photo-38496949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic aerial view of historic buildings and urban landscape in downtown Detroit on a sunny day.",
+    "photographerName": "Kundalini Yoga in Detroit",
+    "photographerUrl": "https://www.pexels.com/@kundalini-yoga-in-detroit-2160391975",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-downtown-detroit-s-historic-buildings-38496949/",
+    "query": "Detroit bar",
+    "fetchedAt": "2026-08-21T15:11:32.446Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/detroit-mi/dining": {
+    "url": "https://images.pexels.com/photos/32681017/pexels-photo-32681017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Retro diner interior with checkered floor and stool seating in Livonia, Michigan.",
+    "photographerName": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos",
+    "unsplashUrl": "https://www.pexels.com/photo/classic-american-diner-interior-in-livonia-32681017/",
+    "query": "Detroit Michigan restaurant interior",
+    "fetchedAt": "2026-08-21T15:11:24.036Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/detroit-mi/lodging": {
+    "url": "https://images.pexels.com/photos/38335803/pexels-photo-38335803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of the Detroit Renaissance Center with lush trees framing the skyline at sunset.",
+    "photographerName": "Daoud Saeed",
+    "photographerUrl": "https://www.pexels.com/@dmakram",
+    "unsplashUrl": "https://www.pexels.com/photo/skyline-view-of-detroit-renaissance-center-at-sunset-38335803/",
+    "query": "Detroit Michigan boutique hotel",
+    "fetchedAt": "2026-08-21T15:11:16.771Z",
+    "addedBy": "moh"
+  },
   "moh/cities/door-county-wi": {
     "url": "https://images.pexels.com/photos/13338739/pexels-photo-13338739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Breathtaking aerial view of Madison, Wisconsin's cityscape during a serene sunset.",
@@ -10357,6 +10637,86 @@
     "unsplashUrl": "https://www.pexels.com/photo/view-of-an-old-closed-diner-by-the-street-in-city-19512691/",
     "query": "Door County Wisconsin boutique hotel",
     "fetchedAt": "2026-08-21T14:52:59.440Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/durango-co": {
+    "url": "https://images.pexels.com/photos/210144/pexels-photo-210144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A historic steam locomotive travels through the scenic mountain landscape under a clear sky.",
+    "photographerName": "Pixabay",
+    "photographerUrl": "https://www.pexels.com/@pixabay",
+    "unsplashUrl": "https://www.pexels.com/photo/freight-train-during-day-210144/",
+    "query": "Durango Colorado skyline",
+    "fetchedAt": "2026-08-21T15:11:46.666Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/durango-co/activities": {
+    "url": "https://images.pexels.com/photos/6903222/pexels-photo-6903222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Modern white ceramic tub with illumination and contemporary control panel with buttons and levers placed in stylish bathroom among walls",
+    "photographerName": "Max Vakhtbovych",
+    "photographerUrl": "https://www.pexels.com/@artbovich",
+    "unsplashUrl": "https://www.pexels.com/photo/contemporary-bathtub-with-lighting-in-bathroom-6903222/",
+    "query": "Durango Colorado spa",
+    "fetchedAt": "2026-08-21T15:12:16.697Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/durango-co/bars": {
+    "url": "https://images.pexels.com/photos/28321214/pexels-photo-28321214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant martini glass with a lemon twist on a bar counter in an elegant setting. Ideal for nightlife themes.",
+    "photographerName": "ajit shahu",
+    "photographerUrl": "https://www.pexels.com/@ajit-shahu-1794732582",
+    "unsplashUrl": "https://www.pexels.com/photo/cocktail-topped-with-lime-slice-single-glass-of-dry-martini-28321214/",
+    "query": "Durango Colorado cocktail bar",
+    "fetchedAt": "2026-08-21T15:12:09.497Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/durango-co/dining": {
+    "url": "https://images.pexels.com/photos/3968058/pexels-photo-3968058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Warm and inviting café in Silver Plume, CO, with books and plants by sunlit windows.",
+    "photographerName": "Haley Black",
+    "photographerUrl": "https://www.pexels.com/@haleyve",
+    "unsplashUrl": "https://www.pexels.com/photo/brown-wooden-table-and-chairs-near-window-3968058/",
+    "query": "Durango Colorado restaurant interior",
+    "fetchedAt": "2026-08-21T15:12:02.537Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/durango-co/lodging": {
+    "url": "https://images.pexels.com/photos/13047563/pexels-photo-13047563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Drone shot capturing a vibrant cityscape with prominent hotel and busy highway.",
+    "photographerName": "Amar  Preciado",
+    "photographerUrl": "https://www.pexels.com/@amar",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-buildings-near-highway-13047563/",
+    "query": "Durango hotel",
+    "fetchedAt": "2026-08-21T15:11:55.140Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eugene-or": {
+    "url": "https://images.pexels.com/photos/18939618/pexels-photo-18939618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Peaceful morning view of a wooden pathway surrounded by lush greenery in Eugene, OR.",
+    "photographerName": "Tim Mossholder",
+    "photographerUrl": "https://www.pexels.com/@timmossholder",
+    "unsplashUrl": "https://www.pexels.com/photo/wooden-railings-and-green-trees-around-road-18939618/",
+    "query": "Eugene Oregon skyline",
+    "fetchedAt": "2026-08-21T15:12:23.824Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eugene-or/dining": {
+    "url": "https://images.pexels.com/photos/37583335/pexels-photo-37583335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant red indoor dining area with modern seating at a Portland restaurant.",
+    "photographerName": "Rufina Rusakova",
+    "photographerUrl": "https://www.pexels.com/@ranevskaja",
+    "unsplashUrl": "https://www.pexels.com/photo/cozy-red-seating-area-in-portland-restaurant-37583335/",
+    "query": "Eugene Oregon restaurant interior",
+    "fetchedAt": "2026-08-21T15:12:39.401Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/eugene-or/lodging": {
+    "url": "https://images.pexels.com/photos/13070414/pexels-photo-13070414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Majestic equestrian statue and Hofburg Palace in Vienna, showcasing classic architecture and cultural heritage.",
+    "photographerName": "Pham Ngoc Anh",
+    "photographerUrl": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+    "unsplashUrl": "https://www.pexels.com/photo/a-man-riding-horse-statue-in-front-of-gray-concrete-building-13070414/",
+    "query": "Eugene hotel",
+    "fetchedAt": "2026-08-21T15:12:32.132Z",
     "addedBy": "moh"
   },
   "moh/cities/eureka-springs-ar": {
@@ -15169,6 +15529,16 @@
     "fetchedAt": "2026-06-26T18:03:08.078Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/brasada-ranch": {
+    "url": "https://images.pexels.com/photos/34751452/pexels-photo-34751452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking landscape of Smith Rock State Park, showcasing towering rocks and winding river under bright skies.",
+    "photographerName": "Julito Elizalde",
+    "photographerUrl": "https://www.pexels.com/@julito-elizalde-1831753719",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-smith-rock-state-park-oregon-34751452/",
+    "query": "Brasada Ranch Central Oregon cabins Cascade views",
+    "fetchedAt": "2026-08-21T15:12:19.230Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/bushmans-kloof-cederberg": {
     "url": "https://images.unsplash.com/photo-1597738818691-a6d49db974b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCdXNobWFucyUyMEtsb29mJTIwV2lsZGVybmVzcyUyMFJlc2VydmUlMjBDZWRlcmJlcmclMkMlMjBTb3V0aCUyMEFmcmljYXxlbnwxfDB8fHwxNzgyNDk2OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green grass field and mountain under blue sky during daytime",
@@ -15187,6 +15557,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/lighthouse-on-a-rocky-shore-in-mallorca-spain-29662406/",
     "query": "Cap Rocat fortress hotel Palma Bay Mallorca",
     "fetchedAt": "2026-08-21T15:04:04.571Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/cape-kidnappers-lodge": {
+    "url": "https://images.pexels.com/photos/37727304/pexels-photo-37727304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Lush golf course with sand traps and ocean view in George, South Africa.",
+    "photographerName": "Hanwei Zhang",
+    "photographerUrl": "https://www.pexels.com/@hanwei-zhang-1462731601",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-coastal-golf-course-overlooking-ocean-37727304/",
+    "query": "Cape Kidnappers golf clifftop ridgeline Hawkes Bay",
+    "fetchedAt": "2026-08-21T15:10:36.332Z",
     "addedBy": "offsite"
   },
   "offsite/venues/capella-singapore": {
@@ -15349,6 +15729,16 @@
     "fetchedAt": "2026-06-26T17:58:23.153Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/el-questro-homestead-kimberley": {
+    "url": "https://images.pexels.com/photos/33530303/pexels-photo-33530303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Majestic baobab tree standing tall in Derby, showcasing natural beauty.",
+    "photographerName": "Michelle Chadwick",
+    "photographerUrl": "https://www.pexels.com/@michelle-chadwick-2149425616",
+    "unsplashUrl": "https://www.pexels.com/photo/ancient-baobab-tree-in-derby-western-australia-33530303/",
+    "query": "El Questro Homestead Kimberley gorge Outback station",
+    "fetchedAt": "2026-08-21T15:10:50.655Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/estancia-cerro-guido-patagonia": {
     "url": "https://images.unsplash.com/photo-1637580980556-085dee659c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwyfHxFc3RhbmNpYSUyMENlcnJvJTIwR3VpZG8lMjAlMjhidXlvdXQlMjklMjBQYXRhZ29uaWF8ZW58MXwwfHx8MTc4NzI3NzM4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a mountain range with a pink sky in the background",
@@ -15409,6 +15799,16 @@
     "fetchedAt": "2026-06-26T17:58:38.198Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/four-seasons-hualalai": {
+    "url": "https://images.pexels.com/photos/16643520/pexels-photo-16643520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Spectacular aerial view of Hualalai Volcano with lush landscapes and ocean in Kalaoa, Hawaii.",
+    "photographerName": "Josh Withers",
+    "photographerUrl": "https://www.pexels.com/@hellojoshwithers",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-hawaii-island-with-vegetation-burnt-by-volcanic-eruption-16643520/",
+    "query": "Four Seasons Hualalai Big Island Kona oceanfront golf",
+    "fetchedAt": "2026-08-21T15:12:26.191Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/four-seasons-koh-samui": {
     "url": "https://images.pexels.com/photos/33605102/pexels-photo-33605102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Relaxing tropical poolside setting in Koh Samui, Thailand with sun loungers and vibrant umbrellas.",
@@ -15437,6 +15837,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-A6PP8o9MUcg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Four Seasons Punta Mita Tail of the Whale island green ocean lawn aerial",
     "fetchedAt": "2026-06-26T17:58:54.861Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/gateway-canyons": {
+    "url": "https://images.pexels.com/photos/30572265/pexels-photo-30572265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Red Rocks Amphitheatre amidst dramatic reddish rocks under an evening sky.",
+    "photographerName": "Noel Aph",
+    "photographerUrl": "https://www.pexels.com/@noelace",
+    "unsplashUrl": "https://www.pexels.com/photo/captivating-red-rocks-amphitheatre-at-dusk-30572265/",
+    "query": "Gateway Canyons Resort red rock Colorado auto museum",
+    "fetchedAt": "2026-08-21T15:11:49.124Z",
     "addedBy": "offsite"
   },
   "offsite/venues/gather-greene": {
@@ -15507,6 +15917,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-coastal-view-of-witsand-beach-in-south-africa-32382654/",
     "query": "Grootbos Private Nature Reserve Gansbaai / Western Cape, South Africa",
     "fetchedAt": "2026-08-21T15:07:28.683Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/gurneys-newport": {
+    "url": "https://images.pexels.com/photos/9650648/pexels-photo-9650648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A luxurious yacht docked in Newport, RI marina during a serene sunset. Perfect for travel and lifestyle themes.",
+    "photographerName": "Katie Cerami",
+    "photographerUrl": "https://www.pexels.com/@katie-cerami-110690626",
+    "unsplashUrl": "https://www.pexels.com/photo/luxurious-yachts-docked-near-shore-9650648/",
+    "query": "Gurneys Newport Resort marina harbor Rhode Island",
+    "fetchedAt": "2026-08-21T15:11:26.391Z",
     "addedBy": "offsite"
   },
   "offsite/venues/hacienda-de-san-rafael": {
@@ -15719,6 +16139,16 @@
     "fetchedAt": "2026-06-26T17:58:04.418Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/madeline-telluride-auberge": {
+    "url": "https://images.pexels.com/photos/10196535/pexels-photo-10196535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of snow-covered mountains and trees in Telluride, Colorado during winter.",
+    "photographerName": "Chad Madden",
+    "photographerUrl": "https://www.pexels.com/@chad-madden-3009304",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-snow-covered-mountains-10196535/",
+    "query": "Madeline Hotel Telluride Mountain Village ski-in winter",
+    "fetchedAt": "2026-08-21T15:11:34.863Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/margaret-river-bunker-bay-cluster": {
     "url": "https://images.unsplash.com/photo-1684442470448-982390b3acfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYXJnYXJldCUyMFJpdmVyJTIwQnVua2VyJTIwQmF5JTIwdmluZXlhcmQlMjBzdXJmJTIwY29hc3R8ZW58MXwwfHx8MTc4MjQ5ODA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large body of water near a small island",
@@ -15779,6 +16209,16 @@
     "fetchedAt": "2026-08-21T15:07:21.695Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/park-hyatt-beaver-creek": {
+    "url": "https://images.pexels.com/photos/11616144/pexels-photo-11616144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of a snowy mountain resort town with architecture and trees in winter.",
+    "photographerName": "Chris F",
+    "photographerUrl": "https://www.pexels.com/@chris-f-38966",
+    "unsplashUrl": "https://www.pexels.com/photo/an-aerial-shot-of-a-snow-covered-town-11616144/",
+    "query": "Park Hyatt Beaver Creek slopeside village Colorado winter",
+    "fetchedAt": "2026-08-21T15:11:41.964Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/park-hyatt-cabo-del-sol": {
     "url": "https://images.pexels.com/photos/37939891/pexels-photo-37939891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning view of El Arco rock formation, Cabo San Lucas, surrounded by the sea under a blue sky.",
@@ -15807,6 +16247,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-the-andaman-sea-with-islands-32024340/",
     "query": "Phulay Bay Ritz-Carlton Reserve Krabi Andaman villas",
     "fetchedAt": "2026-08-21T15:09:07.838Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/qualia-hamilton-island": {
+    "url": "https://images.pexels.com/photos/7777601/pexels-photo-7777601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking view of the serene Whitsundays beach with turquoise waters in Queensland, Australia.",
+    "photographerName": "Lukas Kloeppel",
+    "photographerUrl": "https://www.pexels.com/@lkloeppel",
+    "unsplashUrl": "https://www.pexels.com/photo/a-beautiful-beach-with-turquoise-water-7777601/",
+    "query": "qualia Hamilton Island Whitsundays pavilion reef",
+    "fetchedAt": "2026-08-21T15:10:43.475Z",
     "addedBy": "offsite"
   },
   "offsite/venues/queenstown-rees-eichardts-cluster": {
@@ -15937,6 +16387,36 @@
     "unsplashUrl": "https://www.pexels.com/photo/portrait-of-african-elephant-5541780/",
     "query": "Sabi Sand Neighbours Overflow Combine Sabi Sand, South Africa",
     "fetchedAt": "2026-08-21T15:06:56.973Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/saffire-freycinet": {
+    "url": "https://images.pexels.com/photos/29397277/pexels-photo-29397277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking aerial view of Wineglass Bay's turquoise waters and lush surrounding mountains in Tasmania.",
+    "photographerName": "Alec Doualetas",
+    "photographerUrl": "https://www.pexels.com/@alecdoua",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-wineglass-bay-in-tasmania-29397277/",
+    "query": "Saffire Freycinet Wineglass Bay Tasmania lodge",
+    "fetchedAt": "2026-08-21T15:10:57.924Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/salamander-middleburg": {
+    "url": "https://images.pexels.com/photos/34732784/pexels-photo-34732784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A peaceful landscape view from Montpelier with distant mountain scenery under a clear blue sky.",
+    "photographerName": "The Traveling Photo  Experiment",
+    "photographerUrl": "https://www.pexels.com/@the-traveling-photo-experiment-41034029",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-from-montpelier-mansion-lawn-34732784/",
+    "query": "Salamander Middleburg Virginia equestrian resort grand lawn",
+    "fetchedAt": "2026-08-21T15:11:19.222Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/salish-lodge": {
+    "url": "https://images.pexels.com/photos/33232055/pexels-photo-33232055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Beautiful summer view of Snoqualmie Falls with lush greenery and sunlight.",
+    "photographerName": "Laszlo Magyar",
+    "photographerUrl": "https://www.pexels.com/@laczadesign",
+    "unsplashUrl": "https://www.pexels.com/photo/stunning-view-of-snoqualmie-falls-in-summer-33232055/",
+    "query": "Salish Lodge Snoqualmie Falls waterfall Washington",
+    "fetchedAt": "2026-08-21T15:11:57.610Z",
     "addedBy": "offsite"
   },
   "offsite/venues/sanctuary-botswana-circuit": {
@@ -16079,6 +16559,16 @@
     "fetchedAt": "2026-08-21T15:08:33.003Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/skamania-lodge": {
+    "url": "https://images.pexels.com/photos/28954787/pexels-photo-28954787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Historic lodge nestled in the forest with mountain vistas in Mount Rainier National Park.",
+    "photographerName": "Alex Moliski",
+    "photographerUrl": "https://www.pexels.com/@alexmoliski",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-lodge-view-in-mount-rainier-national-park-28954787/",
+    "query": "Skamania Lodge Columbia River Gorge timber lodge Washington",
+    "fetchedAt": "2026-08-21T15:12:04.861Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/son-bunyola-mallorca": {
     "url": "https://images.pexels.com/photos/37068607/pexels-photo-37068607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning view of the rocky coastline and lush greenery of Mallorca, Spain, under a cloudy sky.",
@@ -16159,6 +16649,16 @@
     "fetchedAt": "2026-08-21T15:05:22.154Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/sunriver-resort": {
+    "url": "https://images.pexels.com/photos/14869687/pexels-photo-14869687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A vibrant aerial capture of a golf course in La Quinta, showcasing sand bunkers and green lawns.",
+    "photographerName": "jd garrett",
+    "photographerUrl": "https://www.pexels.com/@jdgarrettdotcom",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-shot-of-green-grass-with-trees-14869687/",
+    "query": "Sunriver Resort Central Oregon golf high desert aerial",
+    "fetchedAt": "2026-08-21T15:12:11.957Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/taj-exotica-w-goa-cluster": {
     "url": "https://images.unsplash.com/photo-1440558953273-969c107f78a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUYWolMjBFeG90aWNhJTIwR29hJTIwYmVhY2glMjByZXNvcnQlMjBwb29sfGVufDF8MHx8fDE3ODI0OTcwNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "photo of swimming pool surrounded by trees",
@@ -16187,6 +16687,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-cabin-near-mountain-o7LDdRDIYiY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "The Alpina Gstaad alpine luxury hotel Switzerland",
     "fetchedAt": "2026-06-26T18:01:06.937Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/the-breakers-palm-beach": {
+    "url": "https://images.pexels.com/photos/4784474/pexels-photo-4784474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial shot of a beachside pool oasis with palm trees and ocean waves.",
+    "photographerName": "Jess Loiterton",
+    "photographerUrl": "https://www.pexels.com/@jess-vide",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-a-swimming-pool-next-to-a-beach-4784474/",
+    "query": "The Breakers Palm Beach Italian Renaissance oceanfront aerial",
+    "fetchedAt": "2026-08-21T15:12:41.663Z",
     "addedBy": "offsite"
   },
   "offsite/venues/the-chedi-andermatt": {
@@ -16347,6 +16857,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-from-whiteface-mountain-summit-28982376/",
     "query": "Whiteface Lodge Lake Placid Adirondack great camp",
     "fetchedAt": "2026-08-21T15:02:58.278Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/wildflower-farms-auberge": {
+    "url": "https://images.pexels.com/photos/5753511/pexels-photo-5753511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Picturesque scenery of old small wooden house located on green lawn near leafless trees in mountainous countryside against overcast sky",
+    "photographerName": "Skyler Ewing",
+    "photographerUrl": "https://www.pexels.com/@skyler-ewing-266953",
+    "unsplashUrl": "https://www.pexels.com/photo/lonely-wooden-barn-located-near-leafless-trees-in-countryside-5753511/",
+    "query": "Wildflower Farms Auberge Hudson Valley cabins Shawangunk",
+    "fetchedAt": "2026-08-21T15:11:11.850Z",
     "addedBy": "offsite"
   },
   "tdf/bachelorParty/aiken-sc": {
