@@ -4,9 +4,12 @@ A single Unsplash image cache shared across every project Nick maintains. One ra
 
 ## What's in here
 
-- `cache.json` — flat dict of cached image entries, keyed by `<project>/<category>/<key>`
-- `lib/` — pure types + Unsplash API helper (no Node-specific code)
+- `cache.json` — flat dict of cached image entries, keyed by `<project>/<category>/<key>`. Every key in here HAS a photograph.
+- `misses.json` — miss tombstones: keys that were asked for and came back empty. Keeps `cache.json` meaning only "has a photo", and stops the fetcher re-asking the same dead keys forever.
+- `queries.snapshot.json` — what the loaders emit, committed so CI (which has no sibling repos) asks the same questions you do. Regenerate with `npm run snapshot`.
+- `lib/` — pure, testable policy: `fanout.ts` (which photo may sit on which key), `query-policy.ts` (what we may ask for), `queue.ts` (what this run may fetch), `misses.ts`, `health.ts`, plus the Unsplash/Pexels helpers.
 - `scripts/queries/` — per-project query loaders that read each project's data files
+- `scripts/loaders.ts` — **the one project registry.** Add a project here and the fetcher, the gap report and the snapshot all see it.
 - `scripts/fetch.ts` — unified fetcher that reads queries from every project, fetches missing entries, writes to `cache.json`
 - `scripts/seed-from-projects.ts` — one-time migration from existing per-project caches
 
@@ -78,8 +81,14 @@ const hero = cache["tdf/destinations/scottsdale-az"];
 ## Adding a new project
 
 1. Create `scripts/queries/<projectname>.ts` exporting `getXxxQueries(): Promise<QueryItem[]>`
-2. Wire it into `scripts/fetch.ts` main loop
-3. Run `npx tsx scripts/fetch.ts --project=<projectname>` to populate
+2. Add it to `LOADERS` in `scripts/loaders.ts` — that one edit covers the fetcher, `gap-report.ts` and the snapshot
+3. Add a `--project=<name>` step to `fetch-images.yml` and a `refresh <name> "$HOOK_<NAME>" HOOK_<NAME>` line plus the grep token in `daily-maxout.yml` (YAML can't import TS; `npm run gate:workflows` fails until they agree)
+4. Create the Vercel deploy hook and store it as the repo secret `HOOK_<NAME>`
+5. `npm run snapshot` and commit, so CI can see the project at all
+6. `npx tsx scripts/fetch.ts --project=<projectname>` to populate
+
+Two of six projects were missing from steps 2-5 for eight weeks and nothing
+reported it, which is why each of those layers now has a gate.
 
 ## Running the fetcher
 
@@ -101,9 +110,59 @@ npx tsx scripts/fetch.ts --refetch --project=moh
 
 # Auto-commit + push after run
 npx tsx scripts/fetch.ts --commit
+
+# Print the queue and spend nothing — no network, no API budget
+npx tsx scripts/fetch.ts --dry-run
+
+# Ignore miss tombstones for one run (a deliberate re-attempt)
+npx tsx scripts/fetch.ts --retry-misses
 ```
 
 The fetcher is idempotent (skips already-cached entries), bounded per invocation by `--limit` (default 40), spaces calls 1s apart, and aborts when the Unsplash rate-limit budget drops below 5.
+
+## Misses, and why the queue used to stand still
+
+A miss used to write nothing, so `pending` (`allQueries.filter(q => !cache[q.key])`)
+returned the same keys every run. Every 2-hourly run re-asked the same ~55 keys,
+missed them again, and reported the identical numbers forever while ~1,190 keys
+behind them were never attempted once.
+
+A miss now writes `misses.json`:
+
+```json
+{ "moh/cities/foo/bars": { "query": "...", "at": "2026-08-20T...", "reason": "no-results", "attempts": 1 } }
+```
+
+`pending` skips a key whose tombstone was written for the SAME query text and is
+younger than 30 days. Two things revive a key: the TTL expiring, or the query text
+changing — a rewritten query is a different question. Filling a key clears its
+tombstone. `gap-report` shows `MISSING`, `tombstoned` and `queueable` separately,
+so a queue that has stopped advancing is visible rather than inferred.
+
+## Health = entries added
+
+Never "the workflow went green". In June 2026 three invalid Unsplash keys 401'd
+every request for three days under green workflows. `lib/health.ts` now:
+
+- probes every configured credential before the run and ABORTS if one is set but
+  does not answer (naming the source and the error);
+- warns, naming the variable, when a source is not configured at all — "no Pexels
+  key" must not look like "Pexels found nothing";
+- fails a big run that added nothing when every query came back empty, or when it
+  recorded no misses either (the queue did not move);
+- only WARNS when a run adds nothing because every candidate was already at the
+  fan-out ceiling. That is correct behaviour, and a guard that fails correct
+  output is one somebody switches off.
+
+## Query policy
+
+`lib/query-policy.ts` is the one place the rules about query TEXT live, each with
+the incident that produced it: no generic fallback on a named-venue key; no postal
+state codes; no lighting words ("golden hour" ranked a corgi above a vineyard); no
+staged-emotion words; 2-4 terms on a templated city query; no widening fallback on
+a key that names a place. `curated: true` marks a string a human wrote and reviewed
+at the production crop and exempts it from the TEMPLATE rules — never from the
+named-venue rule. Gate: `npm run gate:queries`.
 
 ## Stats
 
@@ -132,3 +191,32 @@ before any auto-commit:
 - `dedupe-baseline.json` is the grandfathered pre-gate debt (retired by the Phase 2 honesty cut);
   any NEW wearer fails immediately. The fetcher walks all candidates and records a MISS rather
   than writing a duplicate — a missing image beats a wrong or duplicated one.
+
+### The other half: one generic photo on ONE named venue
+
+The fan-out ceiling is blind to it — a single anonymous castle under "Ashford
+Castle" is not a duplicate. It is still the same false claim, and on 2026-08-20 it
+re-filled 30 of the keys the honesty cut had just retired, through the offsite
+loader's `"{setting} corporate retreat venue landscape"` fallback, in five hours.
+
+**A named venue takes no generic fallback, and a named-venue miss stays a miss.**
+The branded fallback IS the design for an unphotographed venue (owner decision,
+2026-08-20) — do not source a stand-in. Enforced in the loader, again on the write
+path (`stripVenueFallbacks`), and against the cache by
+`scripts/check-venue-identity.ts` (`npm run gate:venues`).
+
+## Gates
+
+`npm run gate` runs all five, and `fetch.ts` runs it before every auto-commit, so
+nothing lands from either path without passing:
+
+| command | what it refuses |
+|---|---|
+| `gate:fanout` | one photo wearing many names |
+| `gate:venues` | a generic photo wearing a real property's name |
+| `gate:queries` | a query shape already known to return the wrong subject |
+| `gate:snapshot` | a snapshot older than its loaders, or missing a project |
+| `gate:workflows` | workflow YAML that does not know all six projects |
+
+`npm test` (`scripts/selftest.ts`) asserts the same rules offline — no network, no
+API budget — including that a simulated miss advances the queue head.
