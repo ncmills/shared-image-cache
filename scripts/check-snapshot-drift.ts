@@ -117,6 +117,40 @@ function main() {
     }
   }
 
+  // ── 3. heartbeat — is anything still regenerating this file? ─────────────
+  //
+  // Checks 1 and 2 both compare the snapshot against CODE, so they are blind to
+  // the common case: shared-data gains destinations, a site bumps its pin, and
+  // the loader FILE never changes while its OUTPUT does. Nothing in this repo
+  // can observe that — only a machine holding the sibling checkouts can, which
+  // is why scripts/refresh-snapshot.sh runs on Nick's laptop under launchd.
+  //
+  // A scheduled job on one laptop is exactly the kind of thing that dies
+  // quietly, and its death looks identical to "nothing changed". So CI watches
+  // its heartbeat instead of trusting it.
+  //
+  // WARN, not fail, until it is properly old: a laptop off for a fortnight is
+  // not a broken repo, and a guard that fails a correct tree gets switched off.
+  // Past HEARTBEAT_FAIL_DAYS the refresher is not late, it is gone.
+  const HEARTBEAT_WARN_DAYS = 14;
+  const HEARTBEAT_FAIL_DAYS = 45;
+  if (snapshotAt) {
+    const ageDays = Math.floor((Date.now() - Date.parse(snapshotAt)) / 86_400_000);
+    if (ageDays >= HEARTBEAT_FAIL_DAYS) {
+      stale.push(
+        `heartbeat: queries.snapshot.json has not been committed for ${ageDays} days. ` +
+          `refresh-snapshot.sh (launchd com.ncmills.image-snapshot-refresh) regenerates it daily and ` +
+          `commits only on a real change — ${ageDays} days of silence means it is not running, not ` +
+          `that the catalogue stopped growing. Check ~/work/logs/image-snapshot-refresh.log.`,
+      );
+    } else if (ageDays >= HEARTBEAT_WARN_DAYS) {
+      console.log(
+        `  ⚠ heartbeat: snapshot last committed ${ageDays} days ago. Fine if the catalogue is ` +
+          `genuinely static; suspicious otherwise. Log: ~/work/logs/image-snapshot-refresh.log`,
+      );
+    }
+  }
+
   if (stale.length > 0) {
     console.error(`\n✗ snapshot-drift: ${stale.length} slice(s) older than the code behind them:`);
     for (const s of stale) console.error(`  ${s}`);
