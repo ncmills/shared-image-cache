@@ -359,6 +359,36 @@
     "fetchedAt": "2026-07-02T09:31:37.697Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/black-hills-sd/bars": {
+    "url": "https://images.unsplash.com/photo-1721673378282-29ab91cf4c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbGFjayUyMEhpbGxzJTIwU291dGglMjBEYWtvdGElMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjMyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A group of people sitting at tables on top of a roof",
+    "photographerName": "Meg von Haartman",
+    "photographerUrl": "https://unsplash.com/@traveleroohlala?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-tables-on-top-of-a-roof-k422Xh4eqx0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Black Hills South Dakota rooftop bar",
+    "fetchedAt": "2026-08-21T14:41:14.867Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/black-hills-sd/dining": {
+    "url": "https://images.unsplash.com/photo-1688690154845-40e6679f3cef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbGFjayUyMEhpbGxzJTIwU291dGglMjBEYWtvdGElMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMjMyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a herd of cattle grazing on a lush green hillside",
+    "photographerName": "Alexavier Brink",
+    "photographerUrl": "https://unsplash.com/@tubbo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-herd-of-cattle-grazing-on-a-lush-green-hillside-tDP_VBSKPhQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Black Hills South Dakota steakhouse",
+    "fetchedAt": "2026-08-21T14:41:13.382Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/black-hills-sd/lodging": {
+    "url": "https://images.unsplash.com/photo-1631995733080-4dcb4f37bf60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbGFjayUyMEhpbGxzJTIwU291dGglMjBEYWtvdGElMjB2YWNhdGlvbiUyMHJlbnRhbHxlbnwxfDB8fHwxNzg3MzIzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a river running through a lush green valley",
+    "photographerName": "Rich Martello",
+    "photographerUrl": "https://unsplash.com/@rmarte?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-lush-green-valley-ePAx4p20TUw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Black Hills South Dakota vacation rental",
+    "fetchedAt": "2026-08-21T14:41:11.932Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/block-island-ri/activities": {
     "url": "https://images.unsplash.com/photo-1631830298489-4e7ed3257fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMG91dGRvb3IlMjByZWNyZWF0aW9uJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODU0NTM1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large brick building with a light house on top of it",
@@ -689,6 +719,16 @@
     "fetchedAt": "2026-07-02T09:32:13.265Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/cannon-beach-or/bars": {
+    "url": "https://images.pexels.com/photos/2260281/pexels-photo-2260281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime and umbrellas on a dimly lit bar counter, perfect for nightlife.",
+    "photographerName": "Richard - DJ Sanks  Norman",
+    "photographerUrl": "https://www.pexels.com/@deejaysankssa",
+    "unsplashUrl": "https://www.pexels.com/photo/two-margarita-glasses-on-brown-wooden-surface-2260281/",
+    "query": "Cannon Beach cocktail lounge",
+    "fetchedAt": "2026-08-21T14:40:37.753Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/cannon-beach-or/dining": {
     "url": "https://images.unsplash.com/photo-1598501611204-cebd14581530?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPcmVnb24lMjByZXN0YXVyYW50JTIwZm9vZHxlbnwxfDB8fHwxNzc2MTAxNzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman in black jacket sitting on black metal chair",
@@ -959,6 +999,16 @@
     "fetchedAt": "2026-08-02T19:32:48.911Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/cody-wy/bars": {
+    "url": "https://images.pexels.com/photos/16859952/pexels-photo-16859952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime garnish on a bar, set against a blurred background. Perfect for nightlife scenes.",
+    "photographerName": "Skills Media",
+    "photographerUrl": "https://www.pexels.com/@skills-media-437558258",
+    "unsplashUrl": "https://www.pexels.com/photo/close-up-of-cocktails-16859952/",
+    "query": "Cody cocktail lounge",
+    "fetchedAt": "2026-08-21T14:40:45.426Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/cody-wy/dining": {
     "url": "https://images.unsplash.com/photo-1713742000867-404a4a32dd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMxNzcyMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a steak on a plate with a fork and knife",
@@ -979,6 +1029,46 @@
     "fetchedAt": "2026-08-21T13:08:38.980Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/coeur-dalene-id/activities": {
+    "url": "https://images.unsplash.com/photo-1636708088322-292639806f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2V1ciUyMGQlMjdBbGVuZSUyMElkYWhvJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzIzMjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a lake surrounded by a forest with mountains in the background",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lake-surrounded-by-a-forest-with-mountains-in-the-background-9q3xFXz5jf8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Coeur d'Alene Idaho outdoor adventure",
+    "fetchedAt": "2026-08-21T14:41:10.254Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/coeur-dalene-id/bars": {
+    "url": "https://images.unsplash.com/photo-1763080713286-81aeaa584ef7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2V1ciUyMGQlMjdBbGVuZSUyMElkYWhvJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzMjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Castle-like building against a vibrant sunset sky",
+    "photographerName": "Benjamin Dahl",
+    "photographerUrl": "https://unsplash.com/@benjamindahl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/castle-like-building-against-a-vibrant-sunset-sky-zXH-zoE6pcY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Coeur d'Alene Idaho rooftop bar",
+    "fetchedAt": "2026-08-21T14:41:08.880Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/coeur-dalene-id/dining": {
+    "url": "https://images.pexels.com/photos/5133491/pexels-photo-5133491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A detailed view of a vintage brick wall with weathered texture, located in Coeur d'Alene, Idaho.",
+    "photographerName": "Tim Mossholder",
+    "photographerUrl": "https://www.pexels.com/@timmossholder",
+    "unsplashUrl": "https://www.pexels.com/photo/brown-brick-wall-5133491/",
+    "query": "Coeur d'Alene restaurant",
+    "fetchedAt": "2026-08-21T14:41:07.450Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/coeur-dalene-id/lodging": {
+    "url": "https://images.unsplash.com/photo-1636708088322-292639806f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2V1ciUyMGQlMjdBbGVuZSUyMElkYWhvJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyMzI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a lake surrounded by a forest with mountains in the background",
+    "photographerName": "Matthew Lancaster",
+    "photographerUrl": "https://unsplash.com/@matthewelancaster?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-lake-surrounded-by-a-forest-with-mountains-in-the-background-9q3xFXz5jf8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Coeur d'Alene Idaho vacation rental",
+    "fetchedAt": "2026-08-21T14:41:03.125Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/columbus-oh/activities": {
     "url": "https://images.unsplash.com/photo-1612982128234-70b86b4d2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDb2x1bWJ1cyUyMG91dGRvb3IlMjByZWNyZWF0aW9uJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODU1MjAyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown wooden house near green trees during daytime",
@@ -997,6 +1087,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-dimly-lit-bar-with-stools-and-bottles-on-the-shelves-nsgzQHsxbXE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Columbus cocktail lounge speakeasy interior",
     "fetchedAt": "2026-07-02T12:22:28.470Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/columbus-oh/dining": {
+    "url": "https://images.pexels.com/photos/18090414/pexels-photo-18090414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming outdoor dining area with neatly set tables in Sitges, Spain, bathed in natural light.",
+    "photographerName": "Antonio Lorenzana Bermejo",
+    "photographerUrl": "https://www.pexels.com/@antonio-lorenzana-bermejo-353570724",
+    "unsplashUrl": "https://www.pexels.com/photo/decoration-in-restaurant-18090414/",
+    "query": "Columbus restaurant",
+    "fetchedAt": "2026-08-21T14:40:41.195Z",
     "addedBy": "bestman"
   },
   "bestman/cities/columbus-oh/lodging": {
@@ -1169,6 +1269,46 @@
     "fetchedAt": "2026-07-01T23:41:43.430Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/door-county-wi/activities": {
+    "url": "https://images.unsplash.com/photo-1630283922235-a97c7bef05f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwV2lzY29uc2luJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzIzMjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray tree trunk on gray sand near body of water during sunset",
+    "photographerName": "Dave Hoefler",
+    "photographerUrl": "https://unsplash.com/@iamthedave?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-tree-trunk-on-gray-sand-near-body-of-water-during-sunset-fw_8aPCdG_A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Door County Wisconsin outdoor adventure",
+    "fetchedAt": "2026-08-21T14:40:55.714Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/door-county-wi/bars": {
+    "url": "https://images.unsplash.com/photo-1729858635657-4e095a44f225?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwV2lzY29uc2luJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzMjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A small building with a sign on the front of it",
+    "photographerName": "Ben Trapp",
+    "photographerUrl": "https://unsplash.com/@bentrapp?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-small-building-with-a-sign-on-the-front-of-it-GougcrYeA2I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Door County Wisconsin rooftop bar",
+    "fetchedAt": "2026-08-21T14:40:54.314Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/door-county-wi/dining": {
+    "url": "https://images.unsplash.com/photo-1770891081133-cadcb5c1194c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg3MzIzMjUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "White building with red windows on a street",
+    "photographerName": "atelierbyvineeth ...",
+    "photographerUrl": "https://unsplash.com/@atelierbyvineeth?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-building-with-red-windows-on-a-street-4j8Yduj22VM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Door County restaurant",
+    "fetchedAt": "2026-08-21T14:40:52.858Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/door-county-wi/lodging": {
+    "url": "https://images.unsplash.com/photo-1630283922235-a97c7bef05f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEb29yJTIwQ291bnR5JTIwV2lzY29uc2luJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyMzI0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray tree trunk on gray sand near body of water during sunset",
+    "photographerName": "Dave Hoefler",
+    "photographerUrl": "https://unsplash.com/@iamthedave?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-tree-trunk-on-gray-sand-near-body-of-water-during-sunset-fw_8aPCdG_A?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Door County Wisconsin vacation rental",
+    "fetchedAt": "2026-08-21T14:40:49.821Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/durango-co/activities": {
     "url": "https://images.unsplash.com/photo-1697604428866-80ba0e03e686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEdXJhbmdvJTIwQ08lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk4NDcwOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people hiking up a hill in the woods",
@@ -1177,6 +1317,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-hiking-up-a-hill-in-the-woods-A9lyBMttmrA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Durango CO adventure outdoor sport",
     "fetchedAt": "2026-07-02T09:31:48.361Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/durango-co/bars": {
+    "url": "https://images.pexels.com/photos/5863542/pexels-photo-5863542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant cocktails on a bar counter in a cozy nightlife setting with ambient lighting.",
+    "photographerName": "Rachel Claire",
+    "photographerUrl": "https://www.pexels.com/@rachel-claire",
+    "unsplashUrl": "https://www.pexels.com/photo/two-drinks-on-a-counter-5863542/",
+    "query": "Durango cocktail lounge",
+    "fetchedAt": "2026-08-21T14:40:33.655Z",
     "addedBy": "bestman"
   },
   "bestman/cities/durango-co/dining": {
@@ -2319,6 +2469,46 @@
     "fetchedAt": "2026-07-01T23:42:07.203Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/mackinac-island-mi/activities": {
+    "url": "https://images.unsplash.com/photo-1598547294033-e32cc3ea1f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYWNraW5hYyUyMElzbGFuZCUyME1pY2hpZ2FuJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzIzMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and gray houses near sea during daytime",
+    "photographerName": "Selena Parker",
+    "photographerUrl": "https://unsplash.com/@jmtpd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-gray-houses-near-sea-during-daytime-12qy9S323Os?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mackinac Island Michigan outdoor adventure",
+    "fetchedAt": "2026-08-21T14:41:01.700Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mackinac-island-mi/bars": {
+    "url": "https://images.unsplash.com/photo-1598547294033-e32cc3ea1f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNYWNraW5hYyUyMElzbGFuZCUyME1pY2hpZ2FuJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzMjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and gray houses near sea during daytime",
+    "photographerName": "Selena Parker",
+    "photographerUrl": "https://unsplash.com/@jmtpd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-gray-houses-near-sea-during-daytime-12qy9S323Os?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mackinac Island Michigan rooftop bar",
+    "fetchedAt": "2026-08-21T14:41:00.290Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mackinac-island-mi/dining": {
+    "url": "https://images.unsplash.com/photo-1598547294033-e32cc3ea1f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYWNraW5hYyUyMElzbGFuZCUyME1pY2hpZ2FuJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzIzMjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and gray houses near sea during daytime",
+    "photographerName": "Selena Parker",
+    "photographerUrl": "https://unsplash.com/@jmtpd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-gray-houses-near-sea-during-daytime-12qy9S323Os?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mackinac Island Michigan steakhouse",
+    "fetchedAt": "2026-08-21T14:40:58.731Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/mackinac-island-mi/lodging": {
+    "url": "https://images.unsplash.com/photo-1598547294033-e32cc3ea1f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYWNraW5hYyUyMElzbGFuZCUyME1pY2hpZ2FuJTIwdmFjYXRpb24lMjByZW50YWx8ZW58MXwwfHx8MTc4NzMyMzI1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "white and gray houses near sea during daytime",
+    "photographerName": "Selena Parker",
+    "photographerUrl": "https://unsplash.com/@jmtpd?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/white-and-gray-houses-near-sea-during-daytime-12qy9S323Os?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mackinac Island Michigan vacation rental",
+    "fetchedAt": "2026-08-21T14:40:57.196Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/memphis-tn/activities": {
     "url": "https://images.unsplash.com/photo-1562531783-f4a11f4a2c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNZW1waGlzJTIwVE4lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4Mjk0OTMyNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white Memphis decor",
@@ -3249,6 +3439,16 @@
     "fetchedAt": "2026-07-31T06:54:45.665Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/raleigh-durham-nc/activities": {
+    "url": "https://images.pexels.com/photos/36777595/pexels-photo-36777595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial photo showing downtown Durham's vibrant skyline and cityscape on a sunny day.",
+    "photographerName": "Curtis Adams",
+    "photographerUrl": "https://www.pexels.com/@curtis-adams-1694007",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-downtown-durham-north-carolina-36777595/",
+    "query": "Raleigh-Durham outdoor recreation",
+    "fetchedAt": "2026-08-21T14:40:29.459Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/raleigh-durham-nc/bars": {
     "url": "https://images.unsplash.com/photo-1633626460298-314b7f5359a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMENhcm9saW5hJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3NzYwMzg5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of people sitting outside of a building",
@@ -3257,6 +3457,46 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-outside-of-a-building-r9eTIxXd8Bg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "North Carolina bar nightlife",
     "fetchedAt": "2026-04-13T00:09:03.916Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/raleigh-durham-nc/dining": {
+    "url": "https://images.pexels.com/photos/36777595/pexels-photo-36777595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial photo showing downtown Durham's vibrant skyline and cityscape on a sunny day.",
+    "photographerName": "Curtis Adams",
+    "photographerUrl": "https://www.pexels.com/@curtis-adams-1694007",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-downtown-durham-north-carolina-36777595/",
+    "query": "Raleigh-Durham restaurant",
+    "fetchedAt": "2026-08-21T14:40:26.067Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/raleigh-durham-nc/lodging": {
+    "url": "https://images.pexels.com/photos/6769528/pexels-photo-6769528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of Raleigh, NC showcasing modern skyscrapers under a clear blue sky.",
+    "photographerName": "Andretti Brown",
+    "photographerUrl": "https://www.pexels.com/@andrettibrown",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-photography-of-tall-buildings-in-the-city-6769528/",
+    "query": "Raleigh-Durham downtown architecture",
+    "fetchedAt": "2026-08-21T14:40:22.605Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/rehoboth-beach-de/activities": {
+    "url": "https://images.unsplash.com/photo-1565710751119-4311b79fe561?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxSZWhvYm90aCUyMEJlYWNoJTIwRGVsYXdhcmUlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMjMyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a dog standing on a sandy beach next to the ocean",
+    "photographerName": "Johnell Pannell",
+    "photographerUrl": "https://unsplash.com/@johnell_pannell?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-dog-standing-on-a-sandy-beach-next-to-the-ocean-R3WiQyH0Irc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Rehoboth Beach Delaware outdoor adventure",
+    "fetchedAt": "2026-08-21T14:40:48.361Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/rehoboth-beach-de/bars": {
+    "url": "https://images.unsplash.com/photo-1584347902032-442a7eb0c1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxSZWhvYm90aCUyMEJlYWNoJTIwRGVsYXdhcmUlMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMjMyNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people walking on wooden dock near building during daytime",
+    "photographerName": "Shawn",
+    "photographerUrl": "https://unsplash.com/@shawnanggg?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-walking-on-wooden-dock-near-building-during-daytime-JRPsI9pXurE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Rehoboth Beach Delaware rooftop bar",
+    "fetchedAt": "2026-08-21T14:40:46.933Z",
     "addedBy": "bestman"
   },
   "bestman/cities/rehoboth-beach-de/dining": {
@@ -3287,6 +3527,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-city-below-a-mountain-devhvGfqNjA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Salt Lake City UT adventure outdoor sport",
     "fetchedAt": "2026-07-01T12:20:39.899Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/salt-lake-city-ut/bars": {
+    "url": "https://images.pexels.com/photos/16859952/pexels-photo-16859952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Two cocktails with lime garnish on a bar, set against a blurred background. Perfect for nightlife scenes.",
+    "photographerName": "Skills Media",
+    "photographerUrl": "https://www.pexels.com/@skills-media-437558258",
+    "unsplashUrl": "https://www.pexels.com/photo/close-up-of-cocktails-16859952/",
+    "query": "Salt Lake City cocktail lounge",
+    "fetchedAt": "2026-08-21T14:40:19.115Z",
     "addedBy": "bestman"
   },
   "bestman/cities/salt-lake-city-ut/dining": {
@@ -8209,6 +8459,16 @@
     "fetchedAt": "2026-07-03T11:44:45.929Z",
     "addedBy": "moh"
   },
+  "moh/cities/destin-fl/lodging": {
+    "url": "https://images.unsplash.com/photo-1581727299597-7326efc02eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBGbG9yaWRhJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzMTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "aerial view of city near sea during daytime",
+    "photographerName": "TopSphere Media",
+    "photographerUrl": "https://unsplash.com/@zvessels55?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-sea-during-daytime-Pg7ZPx-cvHc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Destin Florida boutique hotel",
+    "fetchedAt": "2026-08-21T14:39:47.270Z",
+    "addedBy": "moh"
+  },
   "moh/cities/finger-lakes-ny": {
     "url": "https://images.unsplash.com/photo-1519757043093-285fcb07a4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ZJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc3NjAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "woman wearing sunhat riding boat on body of water",
@@ -8237,6 +8497,16 @@
     "unsplashUrl": "https://unsplash.com/photos/calm-body-of-water-during-daytime-tk9A6sV1sec?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Finger Lakes NY cocktail bar pink sunset",
     "fetchedAt": "2026-07-31T11:38:18.742Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/finger-lakes-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1765741836925-5363bbaa6507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjByZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NzMyMzE5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Dimly lit restaurant interior with diners at tables",
+    "photographerName": "Matthew Zheng",
+    "photographerUrl": "https://unsplash.com/@che_3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/dimly-lit-restaurant-interior-with-diners-at-tables-xo72yqpKe1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York restaurant interior",
+    "fetchedAt": "2026-08-21T14:39:57.000Z",
     "addedBy": "moh"
   },
   "moh/cities/finger-lakes-ny/lodging": {
@@ -8277,6 +8547,16 @@
     "unsplashUrl": "https://unsplash.com/photos/dramatic-clouds-with-pink-and-gray-hues-at-sunset-Vx3M_R6ZhSQ?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fort Lauderdale FL cocktail bar pink sunset",
     "fetchedAt": "2026-07-05T11:16:30.324Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/fort-lauderdale-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1593435713251-1e390ae77432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4NzMxNzY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees beside body of water during night time",
+    "photographerName": "Andrey Bond",
+    "photographerUrl": "https://unsplash.com/@andreybond?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-body-of-water-during-night-time-qgXwWYVt_9k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale restaurant",
+    "fetchedAt": "2026-08-21T14:39:52.651Z",
     "addedBy": "moh"
   },
   "moh/cities/fort-lauderdale-fl/lodging": {
@@ -8459,6 +8739,26 @@
     "fetchedAt": "2026-07-03T11:45:29.294Z",
     "addedBy": "moh"
   },
+  "moh/cities/hudson-valley-ny/bars": {
+    "url": "https://images.unsplash.com/photo-1683117569462-72760dc8eb51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIdWRzb24lMjBWYWxsZXklMjBOZXclMjBZb3JrJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyMzE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting at a bar",
+    "photographerName": "Kevin Snow",
+    "photographerUrl": "https://unsplash.com/@snowbot?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-a-bar-_AOSnS783gY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hudson Valley New York cocktail bar",
+    "fetchedAt": "2026-08-21T14:39:50.237Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/hudson-valley-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1765741836925-5363bbaa6507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIdWRzb24lMjBWYWxsZXklMjBOZXclMjBZb3JrJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDF8MHx8fDE3ODczMjMxODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Dimly lit restaurant interior with diners at tables",
+    "photographerName": "Matthew Zheng",
+    "photographerUrl": "https://unsplash.com/@che_3?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/dimly-lit-restaurant-interior-with-diners-at-tables-xo72yqpKe1g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hudson Valley New York restaurant interior",
+    "fetchedAt": "2026-08-21T14:39:48.807Z",
+    "addedBy": "moh"
+  },
   "moh/cities/hudson-valley-ny/lodging": {
     "url": "https://images.unsplash.com/photo-1714138083505-fc47d575e3b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIdWRzb24lMjBWYWxsZXklMjBOWSUyMGJvdXRpcXVlJTIwaG90ZWwlMjBiYWNoZWxvcmV0dGUlMjBzdWl0ZXxlbnwxfDB8fHwxNzgzMDc5MTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a bedroom with a checkered floor and a white bed",
@@ -8617,6 +8917,16 @@
     "unsplashUrl": "https://unsplash.com/photos/interior-view-of-a-cozy-room-with-wooden-accents-Gj8S5kOg8iU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Kiawah Island SC boutique hotel bachelorette suite",
     "fetchedAt": "2026-07-02T11:47:11.599Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/knoxville-tn": {
+    "url": "https://images.unsplash.com/photo-1627918563419-121d60046176?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUZW5uZXNzZWUlMjBza3lsaW5lfGVufDF8MHx8fDE3ODczMjMyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "brown concrete building under blue sky during daytime",
+    "photographerName": "Stephen Ellis",
+    "photographerUrl": "https://unsplash.com/@fstopusa?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-17I0RhymL9M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville Tennessee skyline",
+    "fetchedAt": "2026-08-21T14:40:01.346Z",
     "addedBy": "moh"
   },
   "moh/cities/knoxville-tn/activities": {
@@ -8989,6 +9299,16 @@
     "fetchedAt": "2026-07-03T11:44:28.383Z",
     "addedBy": "moh"
   },
+  "moh/cities/myrtle-beach-sc/lodging": {
+    "url": "https://images.unsplash.com/photo-1655485618583-20c7aa1876d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNeXJ0bGUlMjBCZWFjaCUyMFNvdXRoJTIwQ2Fyb2xpbmElMjBib3V0aXF1ZSUyMGhvdGVsfGVufDF8MHx8fDE3ODczMjMxODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a street with palm trees and buildings",
+    "photographerName": "Drew Perales",
+    "photographerUrl": "https://unsplash.com/@drewpera?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-street-with-palm-trees-and-buildings-FpZA0jbNlbQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Myrtle Beach South Carolina boutique hotel",
+    "fetchedAt": "2026-08-21T14:39:45.622Z",
+    "addedBy": "moh"
+  },
   "moh/cities/nantucket-ma": {
     "url": "https://images.unsplash.com/photo-1777160050974-d4c1a8ea1cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYW50dWNrZXQlMjBNQSUyMHJvb2Z0b3AlMjBiYWNoZWxvcmV0dGUlMjBnbGFtfGVufDF8MHx8fDE3ODI5MDg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Woman in white outfit standing at beach kiosk",
@@ -9259,6 +9579,16 @@
     "fetchedAt": "2026-07-02T11:46:06.686Z",
     "addedBy": "moh"
   },
+  "moh/cities/newport-ri/bars": {
+    "url": "https://images.unsplash.com/photo-1654864344462-b2ed37b5ed82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUmhvZGUlMjBJc2xhbmQlMjBjb2NrdGFpbCUyMGJhcnxlbnwxfDB8fHwxNzg3MzIzMTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large house with a lawn in front of it",
+    "photographerName": "David Trinks",
+    "photographerUrl": "https://unsplash.com/@dtrinksrph?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-house-with-a-lawn-in-front-of-it-vL6fkCBvP3Y?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Newport Rhode Island cocktail bar",
+    "fetchedAt": "2026-08-21T14:39:41.097Z",
+    "addedBy": "moh"
+  },
   "moh/cities/newport-ri/dining": {
     "url": "https://images.unsplash.com/photo-1654864344462-b2ed37b5ed82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXdwb3J0JTIwUkklMjBlZGl0b3JpYWwlMjByZXN0YXVyYW50JTIwYnJ1bmNofGVufDF8MHx8fDE3ODI5OTI3NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large house with a lawn in front of it",
@@ -9489,6 +9819,16 @@
     "fetchedAt": "2026-04-12T18:39:39.089Z",
     "addedBy": "moh"
   },
+  "moh/cities/portland-me/activities": {
+    "url": "https://images.unsplash.com/photo-1602422802815-7f968803216d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyMHdlbGxuZXNzfGVufDF8MHx8fDE3ODczMjMxODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cars parked in front of UNKs building",
+    "photographerName": "Janne Simoes",
+    "photographerUrl": "https://unsplash.com/@swedportkid?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-in-front-of-unks-building-3RJclUjVMfA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Portland wellness",
+    "fetchedAt": "2026-08-21T14:39:44.058Z",
+    "addedBy": "moh"
+  },
   "moh/cities/portland-me/bars": {
     "url": "https://images.unsplash.com/photo-1581103999533-28042d72e6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb3J0bGFuZCUyMGNvY2t0YWlsJTIwbG91bmdlJTIwc3BlYWtlYXN5JTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4Mjk5Mjc5OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "grayscale photo of table lamp on table",
@@ -9637,6 +9977,16 @@
     "unsplashUrl": "https://unsplash.com/photos/brown-concrete-water-fountain-during-daytime--7YxccKOMic?utm_source=shared_image_cache&utm_medium=referral",
     "query": "San Juan PR spa wellness retreat",
     "fetchedAt": "2026-08-03T12:38:12.283Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/san-juan-pr/bars": {
+    "url": "https://images.unsplash.com/photo-1491333078588-55b6733c7de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBKdWFuJTIwYmFyfGVufDF8MHx8fDE3ODczMjMxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "The interior of a bar with stools, glass cups and empty bottles attached to the roof in Madrid",
+    "photographerName": "Maria Voss",
+    "photographerUrl": "https://unsplash.com/@themariavoss?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/the-interior-of-a-bar-with-stools-glass-cups-and-empty-bottles-attached-to-the-roof-in-madrid--V-ENAd192g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Juan bar",
+    "fetchedAt": "2026-08-21T14:39:59.892Z",
     "addedBy": "moh"
   },
   "moh/cities/san-juan-pr/dining": {
@@ -9949,6 +10299,16 @@
     "fetchedAt": "2026-07-06T13:02:03.866Z",
     "addedBy": "moh"
   },
+  "moh/cities/sonoma-ca/lodging": {
+    "url": "https://images.unsplash.com/photo-1724230758718-406bab979e67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTb25vbWElMjBDYWxpZm9ybmlhJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzIzMTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A woman is standing at the front desk of a restaurant",
+    "photographerName": "Zoshua Colah",
+    "photographerUrl": "https://unsplash.com/@zoshuacolah?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-woman-is-standing-at-the-front-desk-of-a-restaurant-wOkEwfChQqM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Sonoma California boutique hotel",
+    "fetchedAt": "2026-08-21T14:39:54.069Z",
+    "addedBy": "moh"
+  },
   "moh/cities/stowe-vt": {
     "url": "https://images.unsplash.com/photo-1752766074168-44afdbaaf390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdG93ZSUyMFZUJTIwcm9vZnRvcCUyMGJhY2hlbG9yZXR0ZSUyMGdsYW18ZW58MXwwfHx8MTc4NTg0MzQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A rooftop dining table set for an elegant event.",
@@ -10117,6 +10477,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lush-green-valley-jnnPubvXbsM?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Willamette Valley wellness outdoor scene",
     "fetchedAt": "2026-07-06T13:02:36.923Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/willamette-valley-or/bars": {
+    "url": "https://images.unsplash.com/photo-1750128307395-036aeda2a1ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXaWxsYW1ldHRlJTIwVmFsbGV5JTIwT3JlZ29uJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzMyMzE5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A scenic view of a lush, green valley",
+    "photographerName": "Brett Wharton",
+    "photographerUrl": "https://unsplash.com/@brettwharton?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-lush-green-valley-jnnPubvXbsM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Willamette Valley Oregon cocktail bar",
+    "fetchedAt": "2026-08-21T14:39:55.581Z",
     "addedBy": "moh"
   },
   "moh/cities/willamette-valley-or/dining": {
