@@ -6,6 +6,27 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "bestman/cities/glenwood-springs-co/bars": {
+    "query": "Glenwood Springs Colorado rooftop bar",
+    "fallbackQuery": "Glenwood Springs cocktail lounge",
+    "at": "2026-08-21T20:47:04.972Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "bestman/cities/madison-wi/bars": {
+    "query": "Madison Wisconsin rooftop bar",
+    "fallbackQuery": "Madison cocktail lounge",
+    "at": "2026-08-21T20:37:09.636Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "bestman/cities/missoula-mt/dining": {
+    "query": "Missoula Montana steakhouse",
+    "fallbackQuery": "Missoula restaurant",
+    "at": "2026-08-21T20:48:00.020Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "bestman/cities/norfolk-va/bars": {
     "query": "Norfolk Virginia rooftop bar",
     "fallbackQuery": "Norfolk cocktail lounge",
@@ -48,10 +69,52 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
+  "bestman/cities/stateline-nv/dining": {
+    "query": "Stateline Nevada steakhouse",
+    "fallbackQuery": "Stateline restaurant",
+    "at": "2026-08-21T20:43:56.978Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/bentonville-ar/dining": {
+    "query": "Bentonville Arkansas restaurant interior",
+    "fallbackQuery": "Bentonville restaurant",
+    "at": "2026-08-21T20:41:12.542Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/berkshires-ma/dining": {
+    "query": "Berkshires Massachusetts restaurant interior",
+    "fallbackQuery": "Berkshires restaurant",
+    "at": "2026-08-21T20:48:38.324Z",
+    "reason": "no-results",
+    "attempts": 1
+  },
+  "moh/cities/berkshires-ma/lodging": {
+    "query": "Berkshires Massachusetts boutique hotel",
+    "fallbackQuery": "Berkshires hotel",
+    "at": "2026-08-21T20:48:36.185Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
   "moh/cities/fredericksburg-tx/bars": {
     "query": "Fredericksburg Texas cocktail bar",
     "fallbackQuery": "Fredericksburg bar",
     "at": "2026-08-21T16:48:58.517Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/lake-placid-ny/activities": {
+    "query": "Lake Placid New York spa",
+    "fallbackQuery": "Lake Placid wellness",
+    "at": "2026-08-21T20:46:43.181Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/lake-placid-ny/lodging": {
+    "query": "Lake Placid New York boutique hotel",
+    "fallbackQuery": "Lake Placid hotel",
+    "at": "2026-08-21T20:46:20.402Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
@@ -66,6 +129,20 @@
     "query": "Mendocino California cocktail bar",
     "fallbackQuery": "Mendocino bar",
     "at": "2026-08-21T15:02:40.669Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/shreveport-la/dining": {
+    "query": "Shreveport Louisiana restaurant interior",
+    "fallbackQuery": "Shreveport restaurant",
+    "at": "2026-08-21T20:42:34.810Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 1
+  },
+  "moh/cities/tunica-ms/bars": {
+    "query": "Tunica Mississippi cocktail bar",
+    "fallbackQuery": "Tunica bar",
+    "at": "2026-08-21T20:40:39.706Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
