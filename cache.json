@@ -379,6 +379,16 @@
     "fetchedAt": "2026-07-30T23:19:29.195Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/block-island-ri/dining": {
+    "url": "https://images.unsplash.com/photo-1631830298489-4e7ed3257fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMFJob2RlJTIwSXNsYW5kJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzE3NzEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large brick building with a light house on top of it",
+    "photographerName": "John Angel",
+    "photographerUrl": "https://unsplash.com/@johnangelnyc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-brick-building-with-a-light-house-on-top-of-it-fLb31kFlQXg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Block Island Rhode Island steakhouse",
+    "fetchedAt": "2026-08-21T13:08:33.369Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/block-island-ri/lodging": {
     "url": "https://images.unsplash.com/photo-1781797078717-a036d374e52d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCbG9jayUyMElzbGFuZCUyMGRvd250b3duJTIwYXJjaGl0ZWN0dXJlJTIwaGlzdG9yaWN8ZW58MXwwfHx8MTc4NTQ1MzU2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Old town street with historic buildings, a church, and trees.",
@@ -569,6 +579,26 @@
     "fetchedAt": "2026-07-06T13:03:04.908Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/burlington-vt/dining": {
+    "url": "https://images.unsplash.com/photo-1737038934055-7583c135e8b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVmVybW9udCUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMxNzcxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A car driving down a street next to a tall white building",
+    "photographerName": "Ronan Furuta",
+    "photographerUrl": "https://unsplash.com/@ronan18?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-white-building-y4V2Y1vT4ok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington Vermont steakhouse",
+    "fetchedAt": "2026-08-21T13:08:32.007Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/burlington-vt/lodging": {
+    "url": "https://images.unsplash.com/photo-1737038934055-7583c135e8b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCdXJsaW5ndG9uJTIwVmVybW9udCUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMTc3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A car driving down a street next to a tall white building",
+    "photographerName": "Ronan Furuta",
+    "photographerUrl": "https://unsplash.com/@ronan18?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-white-building-y4V2Y1vT4ok?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Burlington Vermont vacation rental",
+    "fetchedAt": "2026-08-21T13:08:30.675Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/cabo-mx/activities": {
     "url": "https://images.unsplash.com/photo-1580846629083-02669741360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDYWJvJTIwU2FuJTIwTHVjYXMlMjBNZXhpY28lMjBhZHZlbnR1cmUlMjBvdXRkb29yJTIwc3BvcnR8ZW58MXwwfHx8MTc4MjkwODQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "brown rock formation on sea under blue sky during daytime",
@@ -737,6 +767,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-near-green-trees-during-daytime-QHFmLbh3PYg?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Charleston SC rooftop bar nightlife",
     "fetchedAt": "2026-04-11T20:07:00.290Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/charleston-sc/dining": {
+    "url": "https://images.unsplash.com/photo-1601237089652-48cf3d839139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwyfHxDaGFybGVzdG9uJTIwU291dGglMjBDYXJvbGluYSUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMxNzY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "water fountain in front of white building",
+    "photographerName": "Emmy Gaddy",
+    "photographerUrl": "https://unsplash.com/@emmygaddy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/water-fountain-in-front-of-white-building-bXck1OXDvYo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Charleston South Carolina steakhouse",
+    "fetchedAt": "2026-08-21T13:07:44.121Z",
     "addedBy": "bestman"
   },
   "bestman/cities/charleston-sc/lodging": {
@@ -917,6 +957,26 @@
     "unsplashUrl": "https://unsplash.com/photos/mountain-under-cloudy-sky-1opNIiEe9NY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Cody WY adventure outdoor sport",
     "fetchedAt": "2026-08-02T19:32:48.911Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cody-wy/dining": {
+    "url": "https://images.unsplash.com/photo-1713742000867-404a4a32dd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMxNzcyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a steak on a plate with a fork and knife",
+    "photographerName": "Marcelo de la Torre",
+    "photographerUrl": "https://unsplash.com/@marcelodlt?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-steak-on-a-plate-with-a-fork-and-knife-BuWKiCGY33w?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming steakhouse",
+    "fetchedAt": "2026-08-21T13:08:40.479Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/cody-wy/lodging": {
+    "url": "https://images.unsplash.com/photo-1561955786-b278c47755e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb2R5JTIwV3lvbWluZyUyMHZhY2F0aW9uJTIwcmVudGFsfGVufDF8MHx8fDE3ODczMTc3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "mountain under cloudy sky",
+    "photographerName": "Jacob Stone",
+    "photographerUrl": "https://unsplash.com/@thejacobstone?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/mountain-under-cloudy-sky-1opNIiEe9NY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Cody Wyoming vacation rental",
+    "fetchedAt": "2026-08-21T13:08:38.980Z",
     "addedBy": "bestman"
   },
   "bestman/cities/columbus-oh/activities": {
@@ -1229,6 +1289,26 @@
     "fetchedAt": "2026-07-31T03:48:38.797Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/flagstaff-az/bars": {
+    "url": "https://images.unsplash.com/photo-1625737120653-4cfe60e7f68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBcml6b25hJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzE3NzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees under cloudy sky during daytime",
+    "photographerName": "Marius Christensen",
+    "photographerUrl": "https://unsplash.com/@mariuschristensen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-under-cloudy-sky-during-daytime-9QBKZCPjm2U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff Arizona rooftop bar",
+    "fetchedAt": "2026-08-21T13:08:36.182Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/flagstaff-az/dining": {
+    "url": "https://images.unsplash.com/photo-1642667112702-fa6bcc39b4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBBcml6b25hJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzE3NzE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a mural of a cow painted on the side of a building",
+    "photographerName": "Dave",
+    "photographerUrl": "https://unsplash.com/@sleepnin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-mural-of-a-cow-painted-on-the-side-of-a-building-_1kZB_1GRGk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Flagstaff Arizona steakhouse",
+    "fetchedAt": "2026-08-21T13:08:34.756Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/flagstaff-az/lodging": {
     "url": "https://images.unsplash.com/photo-1666048087199-119b32ce45bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGbGFnc3RhZmYlMjBkb3dudG93biUyMGFyY2hpdGVjdHVyZSUyMGhpc3RvcmljfGVufDF8MHx8fDE3ODU0Njk3MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a brick building on a street corner",
@@ -1259,6 +1339,16 @@
     "fetchedAt": "2026-04-12T19:02:28.846Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/fort-lauderdale-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1593435713251-1e390ae77432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4NzMxNzY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees beside body of water during night time",
+    "photographerName": "Andrey Bond",
+    "photographerUrl": "https://unsplash.com/@andreybond?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-body-of-water-during-night-time-qgXwWYVt_9k?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fort Lauderdale restaurant",
+    "fetchedAt": "2026-08-21T13:07:51.010Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/fort-lauderdale-fl/lodging": {
     "url": "https://images.unsplash.com/photo-1700357650382-8738ed7c2ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGb3J0JTIwTGF1ZGVyZGFsZSUyMEZMJTIwdmFjYXRpb24lMjByZW50YWwlMjBob3VzZSUyMHBvb2x8ZW58MXwwfHx8MTc3NjAyMDMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a couple of boats that are sitting in the water",
@@ -1279,6 +1369,16 @@
     "fetchedAt": "2026-07-02T04:20:22.421Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/fredericksburg-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1667857391827-039bd01b74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGcmVkZXJpY2tzYnVyZyUyMFRleGFzJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzE3NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sign on a porch",
+    "photographerName": "tyler richardson",
+    "photographerUrl": "https://unsplash.com/@harpandbowl?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-porch-y8RHTTJhUlg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fredericksburg Texas rooftop bar",
+    "fetchedAt": "2026-08-21T13:08:10.132Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/fredericksburg-tx/dining": {
     "url": "https://images.unsplash.com/photo-1650772263983-daebce6959c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHJlc3RhdXJhbnQlMjBmb29kfGVufDF8MHx8fDE3NzYwODU0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "people sitting at a table",
@@ -1297,6 +1397,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-night-sky-with-stars-and-trees-in-the-foreground-_9LaKa3dt_c?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Fredericksburg skyline night",
     "fetchedAt": "2026-04-13T17:35:53.840Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galena-il/activities": {
+    "url": "https://images.unsplash.com/photo-1696994205306-11ba6695ab00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYWxlbmElMjBJbGxpbm9pcyUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMxNzcxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a river running through a lush green countryside",
+    "photographerName": "Vincent Y @USA",
+    "photographerUrl": "https://unsplash.com/@vincentyuan87?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-lush-green-countryside-Fy1DkkIVFio?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galena Illinois outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:37.543Z",
     "addedBy": "bestman"
   },
   "bestman/cities/galena-il/bars": {
@@ -1337,6 +1447,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-man-riding-a-jet-ski-on-top-of-a-body-of-water-qytJUmJezz0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Galveston TX adventure outdoor sport",
     "fetchedAt": "2026-06-29T17:36:39.236Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galveston-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1656879595640-188fbdfda23c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHYWx2ZXN0b24lMjBUZXhhcyUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4NzMxNzY2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of people sitting outside a restaurant",
+    "photographerName": "Estevão Teixeira",
+    "photographerUrl": "https://unsplash.com/@estevaosoberano?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-outside-a-restaurant-yMbzmWYKNrU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galveston Texas rooftop bar",
+    "fetchedAt": "2026-08-21T13:07:48.270Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/galveston-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1776480307290-e64c44d75cfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHYWx2ZXN0b24lMjBUZXhhcyUyMHN0ZWFraG91c2V8ZW58MXwwfHx8MTc4NzMxNzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Old texaco gas station with vintage pump",
+    "photographerName": "Ronald Crow",
+    "photographerUrl": "https://unsplash.com/@ronaldacrow?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/old-texaco-gas-station-with-vintage-pump-4LjtDRPTmWc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Galveston Texas steakhouse",
+    "fetchedAt": "2026-08-21T13:07:46.867Z",
     "addedBy": "bestman"
   },
   "bestman/cities/galveston-tx/lodging": {
@@ -1387,6 +1517,36 @@
     "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-mountain-during-daytime-dSQkYdua6ck?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Gatlinburg TN vacation rental house pool",
     "fetchedAt": "2026-07-01T23:42:10.144Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/greenville-sc/activities": {
+    "url": "https://images.unsplash.com/photo-1569007655955-7da59f249ff8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxHcmVlbnZpbGxlJTIwU291dGglMjBDYXJvbGluYSUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMxNzcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green-leafed trees beside water",
+    "photographerName": "Jonathan Hanna",
+    "photographerUrl": "https://unsplash.com/@funnelhead?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-leafed-trees-beside-water-dMdN90caPXw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Greenville South Carolina outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:48.602Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/greenville-sc/bars": {
+    "url": "https://images.unsplash.com/photo-1758304480494-46137b384e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxHcmVlbnZpbGxlJTIwU291dGglMjBDYXJvbGluYSUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4NzMxNzcyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Aerial view of buildings and trees under a hazy sky",
+    "photographerName": "Alex Reynolds",
+    "photographerUrl": "https://unsplash.com/@asreynolds?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-buildings-and-trees-under-a-hazy-sky-Ar7nCBZRW5M?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Greenville South Carolina rooftop bar",
+    "fetchedAt": "2026-08-21T13:08:47.240Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/greenville-sc/dining": {
+    "url": "https://images.unsplash.com/photo-1682988007523-5d34e0690abe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHcmVlbnZpbGxlJTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg3MzE3NzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "four chairs and a table on a wooden floor",
+    "photographerName": "Casey Lovegrove",
+    "photographerUrl": "https://unsplash.com/@clovegrove7?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/four-chairs-and-a-table-on-a-wooden-floor-GfkIfijVXws?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Greenville restaurant",
+    "fetchedAt": "2026-08-21T13:08:45.831Z",
     "addedBy": "bestman"
   },
   "bestman/cities/greenville-sc/lodging": {
@@ -1529,6 +1689,26 @@
     "fetchedAt": "2026-07-02T11:46:36.085Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/hood-river-or/bars": {
+    "url": "https://images.unsplash.com/photo-1783211486193-19174496f7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIb29kJTIwUml2ZXIlMjBPcmVnb24lMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODczMTc3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Urban riverfront with bridge, city, and mount hood in distance",
+    "photographerName": "Emily Irene Photo Co.",
+    "photographerUrl": "https://unsplash.com/@emilyirenephotoco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/urban-riverfront-with-bridge-city-and-mount-hood-in-distance-Eovnbe3DDgY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hood River Oregon rooftop bar",
+    "fetchedAt": "2026-08-21T13:08:21.296Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hood-river-or/dining": {
+    "url": "https://images.unsplash.com/photo-1575397283492-fde3e31e31f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIb29kJTIwUml2ZXIlMjBPcmVnb24lMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMTc2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "time-lapse photography of a flowing body of water",
+    "photographerName": "Jeff Finley",
+    "photographerUrl": "https://unsplash.com/@jeff_finley?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/time-lapse-photography-of-a-flowing-body-of-water-aEzm7Gb37a4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hood River Oregon steakhouse",
+    "fetchedAt": "2026-08-21T13:08:19.832Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/hood-river-or/lodging": {
     "url": "https://images.unsplash.com/photo-1586802126889-917450f2f126?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxIb29kJTIwUml2ZXIlMjBPUiUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3NzYxMDE3OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "waterfalls between brown and green rock mountain during daytime",
@@ -1557,6 +1737,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-at-tables-in-a-restaurant-zA_-gWiwjh0?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Hot Springs AR rooftop bar nightlife",
     "fetchedAt": "2026-08-02T23:09:31.770Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/hot-springs-ar/dining": {
+    "url": "https://images.unsplash.com/photo-1668396325974-01655cb59369?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIb3QlMjBTcHJpbmdzJTIwQXJrYW5zYXMlMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMTc3MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a building with a sign on the front",
+    "photographerName": "Zack Yeo",
+    "photographerUrl": "https://unsplash.com/@zackyeo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-on-the-front-lfwqOuj5lVQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Hot Springs Arkansas steakhouse",
+    "fetchedAt": "2026-08-21T13:08:52.764Z",
     "addedBy": "bestman"
   },
   "bestman/cities/hot-springs-ar/lodging": {
@@ -1607,6 +1797,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-pool-with-a-waterfall-and-a-slide-sE_kbkcX2ZA?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Houston TX vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:21.683Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/indianapolis-in/activities": {
+    "url": "https://images.unsplash.com/photo-1638332929548-9f785b5c07e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxJbmRpYW5hcG9saXMlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMTc3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an aerial view of a lake surrounded by trees",
+    "photographerName": "Steven Van Elk",
+    "photographerUrl": "https://unsplash.com/@stevenvanelk?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-lake-surrounded-by-trees-medijwZmxJM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Indianapolis outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:22.646Z",
     "addedBy": "bestman"
   },
   "bestman/cities/indianapolis-in/bars": {
@@ -1697,6 +1897,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-river-with-a-city-in-the-background-oUH-XIvIs1A?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Jacksonville FL rooftop bar nightlife",
     "fetchedAt": "2026-04-13T00:09:09.001Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/jacksonville-fl/dining": {
+    "url": "https://images.unsplash.com/photo-1529022805552-1c88a713c1c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxKYWNrc29udmlsbGUlMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODczMTc2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people sitting on restaurant chairs",
+    "photographerName": "Wade Austin Ellis",
+    "photographerUrl": "https://unsplash.com/@wadeaustinellis?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-restaurant-chairs-4YApsoSaNKA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Jacksonville restaurant",
+    "fetchedAt": "2026-08-21T13:08:08.711Z",
     "addedBy": "bestman"
   },
   "bestman/cities/jacksonville-fl/lodging": {
@@ -1809,6 +2019,16 @@
     "fetchedAt": "2026-07-02T19:49:40.450Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/knoxville-tn/dining": {
+    "url": "https://images.unsplash.com/photo-1737688647483-7deaf8571705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUZW5uZXNzZWUlMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMTc3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A factory with smoke coming out of it",
+    "photographerName": "Jacob McGowin",
+    "photographerUrl": "https://unsplash.com/@bamaham93?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-1Y54Adwvo94?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Knoxville Tennessee steakhouse",
+    "fetchedAt": "2026-08-21T13:08:29.285Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/knoxville-tn/lodging": {
     "url": "https://images.unsplash.com/photo-1482782859086-51a957c4bee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxLbm94dmlsbGUlMjBUTiUyMHZhY2F0aW9uJTIwcmVudGFsJTIwaG91c2UlMjBwb29sfGVufDF8MHx8fDE3ODU0NDY1NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "aerial photography of body of water and trees during daytime",
@@ -1837,6 +2057,16 @@
     "unsplashUrl": "https://unsplash.com/photos/woman-standing-outdoors-bTtH2i-Q8Co?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Lake George NY rooftop bar nightlife",
     "fetchedAt": "2026-07-31T23:16:34.600Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/lake-george-ny/dining": {
+    "url": "https://images.unsplash.com/photo-1660175831945-5d98e23ae4a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwR2VvcmdlJTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg3MzE3NzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat with people on it",
+    "photographerName": "Maxwell Gold",
+    "photographerUrl": "https://unsplash.com/@maxwgold?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-with-people-on-it-3L9ArTMUCwk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake George restaurant",
+    "fetchedAt": "2026-08-21T13:08:51.242Z",
     "addedBy": "bestman"
   },
   "bestman/cities/lake-george-ny/lodging": {
@@ -2499,6 +2729,16 @@
     "fetchedAt": "2026-04-11T20:06:49.869Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/new-orleans-la/activities": {
+    "url": "https://images.unsplash.com/photo-1657120925406-947f8655ab9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOZXclMjBPcmxlYW5zJTIwTG91aXNpYW5hJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzE3NjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a boat on the water",
+    "photographerName": "Quick PS",
+    "photographerUrl": "https://unsplash.com/@quickps?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-boat-on-the-water-JzYLXb01SZw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "New Orleans Louisiana outdoor adventure",
+    "fetchedAt": "2026-08-21T13:07:45.475Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/new-orleans-la/bars": {
     "url": "https://images.unsplash.com/photo-1570578066030-a5792a08ec7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMb3Vpc2lhbmElMjBiYXIlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc3NTkzODAzMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "group of people by a row of stores",
@@ -2929,6 +3169,16 @@
     "fetchedAt": "2026-07-01T12:19:40.496Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/providence-ri/activities": {
+    "url": "https://images.unsplash.com/photo-1582767800313-11d1e723c119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxQcm92aWRlbmNlJTIwUmhvZGUlMjBJc2xhbmQlMjBvdXRkb29yJTIwYWR2ZW50dXJlfGVufDF8MHx8fDE3ODczMTc3MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "gray concrete road near body of water during daytime",
+    "photographerName": "Zean Wu",
+    "photographerUrl": "https://unsplash.com/@ze_wu?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/gray-concrete-road-near-body-of-water-during-daytime-8-HbnmOJK3U?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Providence Rhode Island outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:27.953Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/providence-ri/bars": {
     "url": "https://images.unsplash.com/photo-1669779154767-1947be2d364d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxSaG9kZSUyMElzbGFuZCUyMGJhciUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzc2MTE1MDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a group of houses on a rocky island",
@@ -3009,6 +3259,16 @@
     "fetchedAt": "2026-04-13T00:09:03.916Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/rehoboth-beach-de/dining": {
+    "url": "https://images.unsplash.com/photo-1618868461757-011148fe788d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxSZWhvYm90aCUyMEJlYWNoJTIwRGVsYXdhcmUlMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMTc3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red and white building on beach during daytime",
+    "photographerName": "Aditya Vyas",
+    "photographerUrl": "https://unsplash.com/@aditya1702?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-and-white-building-on-beach-during-daytime-bblqTmBolGE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Rehoboth Beach Delaware steakhouse",
+    "fetchedAt": "2026-08-21T13:08:54.227Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/rehoboth-beach-de/lodging": {
     "url": "https://images.unsplash.com/photo-1559577158-82ccd18556f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxSZWhvYm90aCUyMEJlYWNoJTIwREUlMjB2YWNhdGlvbiUyMHJlbnRhbCUyMGhvdXNlJTIwcG9vbHxlbnwxfDB8fHwxNzg2MDEzNDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "body of water during daytime",
@@ -3067,6 +3327,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-river-runs-through-a-city-at-night-XwmqeX7Vsso?utm_source=shared_image_cache&utm_medium=referral",
     "query": "San Antonio TX rooftop bar nightlife",
     "fetchedAt": "2026-07-30T23:18:20.431Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/san-antonio-tx/dining": {
+    "url": "https://images.unsplash.com/photo-1605649666555-e321522c3023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW4lMjBBbnRvbmlvJTIwVGV4YXMlMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMTc2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people riding on red boat on river during daytime",
+    "photographerName": "Shelly Collins",
+    "photographerUrl": "https://unsplash.com/@eyedealstuff?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-riding-on-red-boat-on-river-during-daytime-o2eGoxwxWqI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "San Antonio Texas steakhouse",
+    "fetchedAt": "2026-08-21T13:07:57.779Z",
     "addedBy": "bestman"
   },
   "bestman/cities/san-antonio-tx/lodging": {
@@ -3207,6 +3477,26 @@
     "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-beach-and-mountains-GnGkqtZ8Wzc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Santa Barbara CA adventure outdoor sport",
     "fetchedAt": "2026-07-01T12:19:30.114Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-barbara-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1540840430747-71880eb5b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDYWxpZm9ybmlhJTIwcm9vZnRvcCUyMGJhcnxlbnwxfDB8fHwxNzg3MzE3NjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with palm trees and mountains in the background",
+    "photographerName": "Yifan Ma",
+    "photographerUrl": "https://unsplash.com/@nina33?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-palm-trees-and-mountains-in-the-background-lVbc4XCaxnk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara California rooftop bar",
+    "fetchedAt": "2026-08-21T13:07:53.729Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/santa-barbara-ca/dining": {
+    "url": "https://images.unsplash.com/photo-1540840430747-71880eb5b5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYW50YSUyMEJhcmJhcmElMjBDYWxpZm9ybmlhJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzE3NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of a city with palm trees and mountains in the background",
+    "photographerName": "Yifan Ma",
+    "photographerUrl": "https://unsplash.com/@nina33?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-palm-trees-and-mountains-in-the-background-lVbc4XCaxnk?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Santa Barbara California steakhouse",
+    "fetchedAt": "2026-08-21T13:07:52.378Z",
     "addedBy": "bestman"
   },
   "bestman/cities/santa-barbara-ca/lodging": {
@@ -3379,6 +3669,16 @@
     "fetchedAt": "2026-04-12T19:03:12.737Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/spokane-wa/activities": {
+    "url": "https://images.unsplash.com/photo-1734220700325-97bf88c7ad31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTcG9rYW5lJTIwV2FzaGluZ3RvbiUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMxNzY5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A river running through a forest filled with trees",
+    "photographerName": "Kokia & Sawyer",
+    "photographerUrl": "https://unsplash.com/@kokiakc?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-forest-filled-with-trees-B81-eCa5Tgc?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Spokane Washington outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:15.581Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/spokane-wa/bars": {
     "url": "https://images.unsplash.com/photo-1628726260699-7daec378e8ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTcG9rYW5lJTIwV0ElMjByb29mdG9wJTIwYmFyJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODU1MjAyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "water falls near bridge during night time",
@@ -3447,6 +3747,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-near-body-of-water-during-night-time-kedLA3pO9AI?utm_source=shared_image_cache&utm_medium=referral",
     "query": "St. Augustine skyline night",
     "fetchedAt": "2026-04-13T00:08:39.614Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/st-louis-mo/activities": {
+    "url": "https://images.unsplash.com/photo-1671643492744-e880b121bb95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTdC4lMjBMb3VpcyUyME1pc3NvdXJpJTIwb3V0ZG9vciUyMGFkdmVudHVyZXxlbnwxfDB8fHwxNzg3MzE3NzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "an orange umbrella sitting on top of a rocky beach",
+    "photographerName": "Daniel Jerez",
+    "photographerUrl": "https://unsplash.com/@danieljerez?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/an-orange-umbrella-sitting-on-top-of-a-rocky-beach-V8ze4YfzttE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "St. Louis Missouri outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:23.988Z",
     "addedBy": "bestman"
   },
   "bestman/cities/st-louis-mo/bars": {
@@ -3637,6 +3947,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-a-beach-in-the-background--mDSy4FTDWU?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Tampa FL vacation rental house pool",
     "fetchedAt": "2026-04-11T20:07:49.992Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/telluride-co/activities": {
+    "url": "https://images.unsplash.com/photo-1564779443480-b4bec3080d26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUZWxsdXJpZGUlMjBDb2xvcmFkbyUyMG91dGRvb3IlMjBhZHZlbnR1cmV8ZW58MXwwfHx8MTc4NzMxNzY5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "field of green trees",
+    "photographerName": "Chad Madden",
+    "photographerUrl": "https://unsplash.com/@chadmadden?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/field-of-green-trees-2qKgMxC8iAg?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Telluride Colorado outdoor adventure",
+    "fetchedAt": "2026-08-21T13:08:11.521Z",
     "addedBy": "bestman"
   },
   "bestman/cities/telluride-co/bars": {
