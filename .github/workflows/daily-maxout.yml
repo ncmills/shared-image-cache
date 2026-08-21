@@ -112,11 +112,17 @@ jobs:
         env:
           HOOK_BESTMAN: ${{ secrets.HOOK_BESTMAN }}
           HOOK_MOH: ${{ secrets.HOOK_MOH }}
-          HOOK_TDF: ${{ secrets.HOOK_TDF }}
+          # The `tdf/*` cache prefix is LEGACY NAMING, from before the golf
+          # planner split out of tour-de-fore on 2026-07-02. The consumer of
+          # those keys is HANDICAP HQ (`~/handicap-hq`, prj_VwDh…), which is the
+          # only one of the two with a `prebuild` sync-image-cache step.
+          # `tour-de-fore` is a PERSONAL site, a separate project on every axis,
+          # and it consumes nothing from this cache — so the image pipeline must
+          # never rebuild it. Firing a hook named for TDF to refresh HHQ's images
+          # is how the two got conflated; the secret now names the project it
+          # actually deploys.
+          HOOK_HANDICAP: ${{ secrets.HOOK_HANDICAP }}
           HOOK_OFFSITE: ${{ secrets.HOOK_OFFSITE }}
-          # NOT YET CREATED. Both resolve to "" until the owner adds them, and
-          # the refresh below says so out loud, per site, in the step summary.
-          # An unset secret must never read as "nothing to do".
           HOOK_FRIENDSMOON: ${{ secrets.HOOK_FRIENDSMOON }}
           HOOK_ENGAGEDMOON: ${{ secrets.HOOK_ENGAGEDMOON }}
         run: |
@@ -151,7 +157,7 @@ jobs:
           }
           refresh bestman     "$HOOK_BESTMAN"     HOOK_BESTMAN
           refresh moh         "$HOOK_MOH"         HOOK_MOH
-          refresh tdf         "$HOOK_TDF"         HOOK_TDF
+          refresh tdf         "$HOOK_HANDICAP"    HOOK_HANDICAP
           refresh offsite     "$HOOK_OFFSITE"     HOOK_OFFSITE
           refresh friendsmoon "$HOOK_FRIENDSMOON" HOOK_FRIENDSMOON
           refresh engagedmoon "$HOOK_ENGAGEDMOON" HOOK_ENGAGEDMOON

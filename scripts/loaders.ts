@@ -38,7 +38,25 @@ export const LOADERS: Record<string, () => Promise<QueryItem[]>> = {
 /** Every project key, in the order the fetcher loads them. */
 export const PROJECTS = Object.keys(LOADERS);
 
-/** The repo secret holding each project's Vercel deploy hook. */
+/**
+ * The repo secret holding each project's Vercel deploy hook.
+ *
+ * Derived from the project key by default, with ONE deliberate exception: a
+ * cache-key prefix names a QUERY SET, not a Vercel project, and for `tdf` those
+ * two came apart when the golf planner split out of tour-de-fore on 2026-07-02.
+ * The `tdf/*` keys are generated from handicap-hq's data and consumed by
+ * handicap-hq — the only one of the pair with a `prebuild` sync-image-cache
+ * step. `tour-de-fore` is a separate PERSONAL site that consumes nothing here,
+ * so the image pipeline must never rebuild it, and a secret named HOOK_TDF
+ * deploying HHQ is exactly the conflation that hid this.
+ *
+ * Renaming the prefix itself would orphan 419 cached keys, so the override
+ * lives here instead — one line, next to the rule it bends.
+ */
+const HOOK_SECRET_OVERRIDES: Record<string, string> = {
+  tdf: "HOOK_HANDICAP",
+};
+
 export const HOOK_SECRET: Record<string, string> = Object.fromEntries(
-  PROJECTS.map((p) => [p, `HOOK_${p.toUpperCase()}`]),
+  PROJECTS.map((p) => [p, HOOK_SECRET_OVERRIDES[p] ?? `HOOK_${p.toUpperCase()}`]),
 );
