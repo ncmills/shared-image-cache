@@ -73,18 +73,32 @@ export async function getOffsiteQueries(): Promise<QueryItem[]> {
 
   const queries: QueryItem[] = [];
 
-  // Venues — the search intent the atlas already carries is the primary query.
+  // ── Venues — NO FALLBACK QUERY. Deliberate. ──────────────────────────────
+  // This used to carry `fallbackQuery: "${v.setting} corporate retreat venue
+  // landscape"`, and on 2026-08-20 that line re-filled 30 of the named-venue
+  // keys the Phase 2 honesty cut had just retired — inside five hours, through
+  // the fan-out gate, which cannot see this class: the ceiling forbids ONE
+  // PHOTO ON MANY VENUES and says nothing about ONE GENERIC PHOTO ON ONE
+  // VENUE. `ashford-castle` came back wearing an anonymous castle.
+  //
+  // A venue photo is an identity claim about a real, bookable property. If the
+  // libraries have no photograph of that property, the honest render is the
+  // branded RidgelineFallback, which is the DESIGN for an unphotographed venue
+  // (owner decision, 2026-08-20) and not a coverage bug. A named-venue miss
+  // stays a miss. `settings/*` below keeps its fallback, because there the
+  // setting IS the subject and a setting photograph claims nothing false.
   for (const v of venues) {
     queries.push({
       key: `offsite/venues/${v.id}`,
       query: v.imageQuery || `${v.name} ${v.region}`,
-      fallbackQuery: `${v.setting} corporate retreat venue landscape`,
       addedBy: "offsite",
       label: `${v.name} (${v.setting})`,
+      // The atlas `imageQuery` is hand-authored per property, not templated.
+      curated: true,
     });
   }
 
-  // Experiences.
+  // Experiences — `imageQuery` is likewise hand-authored per record.
   for (const e of experiences) {
     queries.push({
       key: `offsite/experiences/${e.id}`,
@@ -92,6 +106,7 @@ export async function getOffsiteQueries(): Promise<QueryItem[]> {
       fallbackQuery: `${e.kind} corporate team experience outdoor`,
       addedBy: "offsite",
       label: `exp:${e.name}`,
+      curated: true,
     });
   }
 

@@ -29,6 +29,7 @@ import {
 } from "../lib/pexels";
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
 import { wouldViolate } from "../lib/fanout";
+import { stripVenueFallbacks } from "../lib/query-policy";
 import { getTdfQueries } from "./queries/tdf";
 import { getOffsiteQueries } from "./queries/offsite";
 import { getBestmanQueries } from "./queries/bestman";
@@ -173,8 +174,22 @@ async function main() {
     allQueries.push(...(await getFriendsmoonQueries()));
   }
 
+  // ── Named-venue keys get NO generic fallback, whatever the loader said ───
+  // The rule lives in the loaders (lib/query-policy.ts rule 1), but the
+  // fetcher is the write path and a rule enforced only at the source is a rule
+  // that a stale queries.snapshot.json escapes — the snapshot in this repo was
+  // eight weeks old and still carried `"{setting} corporate retreat venue
+  // landscape"` on every offsite venue. Strip it here too, loudly.
+  const { items: policedQueries, stripped } = stripVenueFallbacks(allQueries);
+  if (stripped.length > 0) {
+    console.log(
+      `  ⚠ stripped a generic fallbackQuery from ${stripped.length} named-venue key(s) — ` +
+        `a venue miss must stay a miss (e.g. ${stripped.slice(0, 3).join(", ")})`,
+    );
+  }
+
   // Filter out already-cached entries
-  const pending = allQueries.filter((q) => args.refetch || !cache[q.key]);
+  const pending = policedQueries.filter((q) => args.refetch || !cache[q.key]);
 
   // Round-robin interleave across projects so every project with pending work
   // makes progress each run. A fixed concat (tdf→bestman→moh→offsite) starves
@@ -199,7 +214,7 @@ async function main() {
   }
 
   console.log(
-    `Shared cache fetch — ${allQueries.length} total queries, ${queue.length} pending`,
+    `Shared cache fetch — ${policedQueries.length} total queries, ${queue.length} pending`,
   );
   console.log(`  cache currently holds ${Object.keys(cache).length} entries`);
 
@@ -361,12 +376,12 @@ function commitAndPush(added: number): void {
   // runner. Selection above should make this unreachable; if it fires,
   // selection and gate disagree and THAT is the bug to fix.
   try {
-    execSync("npx tsx scripts/check-duplicate-fanout.ts", {
+    execSync("npm run --silent gate", {
       stdio: "inherit",
       cwd: REPO_ROOT,
     });
   } catch {
-    console.error("✘ duplicate-fanout gate FAILED — refusing to commit/push this cache state");
+    console.error("✘ cache gates FAILED — refusing to commit/push this cache state");
     process.exitCode = 1;
     return;
   }
