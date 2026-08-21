@@ -34,6 +34,12 @@ import { wouldViolate } from "../lib/fanout";
 import { stripVenueFallbacks } from "../lib/query-policy";
 import { buildQueue } from "../lib/queue";
 import {
+  evaluateRunHealth,
+  reportRunHealth,
+  type RunStats,
+  type SourceProbe,
+} from "../lib/health";
+import {
   clearMiss,
   isSuppressed,
   missStats,
@@ -146,6 +152,80 @@ function parseArgs(): Args {
 
 function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+// ── Source probes (lib/health.ts) ───────────────────────────────────
+//
+// One cheap real request per configured credential, BEFORE the run. The
+// 2026-06-29 incident spent three days of budget on 401s under green
+// workflows because nothing ever asked a source whether it was listening.
+// Costs (keys + 1) requests out of ~150; the alternative costs days.
+
+const PROBE_QUERY = "mountain lake";
+
+async function probeSources(
+  unsplashKeys: string[],
+  pexelsKey: string | null,
+): Promise<SourceProbe[]> {
+  const probes: SourceProbe[] = [];
+
+  for (let i = 0; i < unsplashKeys.length; i++) {
+    const name = `unsplash[${i + 1}]`;
+    try {
+      const res = await searchUnsplash(PROBE_QUERY, unsplashKeys[i]);
+      probes.push({
+        name,
+        configured: true,
+        ok: res.entries.length > 0,
+        detail:
+          res.entries.length > 0
+            ? `${res.entries.length} results, ${res.ratelimitRemaining} requests left`
+            : `answered but returned 0 results for "${PROBE_QUERY}" — a valid key always finds this`,
+      });
+    } catch (err) {
+      probes.push({
+        name,
+        configured: true,
+        ok: false,
+        detail: err instanceof Error ? err.message : String(err),
+      });
+    }
+    await sleep(SLEEP_MS);
+  }
+
+  if (!pexelsKey) {
+    probes.push({
+      name: "pexels",
+      configured: false,
+      ok: false,
+      detail: "PEXELS_API_KEY not set in env or .env.local",
+    });
+  } else {
+    try {
+      const res = await searchPexels(PROBE_QUERY, pexelsKey);
+      probes.push({
+        name: "pexels",
+        configured: true,
+        ok: res.entry !== null,
+        detail: res.entry
+          ? `answered, ${res.ratelimitRemaining} requests left`
+          : `answered but returned 0 results for "${PROBE_QUERY}"`,
+      });
+    } catch (err) {
+      probes.push({
+        name: "pexels",
+        configured: true,
+        ok: false,
+        detail: err instanceof Error ? err.message : String(err),
+      });
+    }
+  }
+
+  for (const p of probes) {
+    const mark = !p.configured ? "·" : p.ok ? "✓" : "✘";
+    console.log(`  ${mark} ${p.name}: ${p.detail}`);
+  }
+  return probes;
 }
 
 // ── Main ────────────────────────────────────────────────────────────
@@ -267,6 +347,38 @@ async function main() {
     console.log("✓ Nothing to fetch — every desired key is cached or tombstoned");
     if (args.commit) commitAndPush(0);
     return;
+  }
+
+  // Ask every configured source whether it is actually listening, BEFORE
+  // spending the run on it. Health is entries added, not workflow green.
+  console.log("\nProbing image sources...");
+  const probes = await probeSources(keys, pexelsKey);
+  const deadSource = probes.find((p) => p.configured && !p.ok);
+  if (deadSource) {
+    // Do not spend the budget against a source we already know is refusing.
+    const verdict = evaluateRunHealth({
+      processed: 0,
+      added: 0,
+      tombstoned: 0,
+      pendingBefore: queue.length,
+      zeroResultKeys: 0,
+      ceilingRejectedKeys: 0,
+      probes,
+    });
+    reportRunHealth(verdict, {
+      processed: 0,
+      added: 0,
+      tombstoned: 0,
+      pendingBefore: queue.length,
+      zeroResultKeys: 0,
+      ceilingRejectedKeys: 0,
+      probes,
+    });
+    console.error("✘ Aborting before the run — fix the credential, do not spend the budget on it.");
+    process.exit(1);
+  }
+  if (pexelsKey && !probes.find((p) => p.name === "pexels")?.ok) {
+    pexelsRemaining = 0;
   }
 
   const batch = queue.slice(0, args.limit);
@@ -425,6 +537,18 @@ async function main() {
       `${tombstoned} miss(es) tombstoned, ${remaining} left in this run's queue`,
   );
 
+  const runStats: RunStats = {
+    processed,
+    added,
+    tombstoned,
+    pendingBefore: queue.length,
+    zeroResultKeys,
+    ceilingRejectedKeys,
+    probes,
+  };
+  const verdict = evaluateRunHealth(runStats);
+  reportRunHealth(verdict, runStats);
+
   // Commit when anything DURABLE changed. Gating on `added > 0` alone is what
   // made the tombstones pointless on CI: a run that adds nothing but records
   // 40 misses has moved the queue head forward, and throwing that away is
@@ -433,6 +557,10 @@ async function main() {
   if (remaining > 0) {
     console.log(`  Re-run \`npm run fetch\` after the rate-limit window resets (~1 hour)`);
   }
+
+  // Exit non-zero LAST, after the commit: a run that recorded misses has done
+  // real work and that work must land even when the run is judged unhealthy.
+  if (verdict.status === "fail") process.exitCode = 1;
 }
 
 function commitAndPush(added: number, tombstoned = 0): void {

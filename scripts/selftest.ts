@@ -20,6 +20,7 @@ import {
   type Misses,
 } from "../lib/misses";
 import { checkQueryItem, stripVenueFallbacks } from "../lib/query-policy";
+import { evaluateRunHealth, type RunStats } from "../lib/health";
 import { checkVenueIdentity } from "./check-venue-identity";
 
 let failures = 0;
@@ -198,6 +199,81 @@ suite("query hygiene rules");
   eq(checkQueryItem(curated), [], "a curated, human-reviewed query is exempt — engagedmoon queries dusk on purpose");
   const curatedWithCode: QueryItem = { ...q("engagedmoon/spots/x", "Sedona AZ red rocks"), curated: true };
   ok(checkQueryItem(curatedWithCode).map((v) => v.rule).includes("postal-state-code"), "…but `curated` never exempts a postal code, which matches nothing anywhere");
+}
+
+// ══ 4. Change D — health is entries added, not workflow green ═════════════
+suite("run health (Change D)");
+{
+  const base: RunStats = {
+    processed: 0,
+    added: 0,
+    tombstoned: 0,
+    pendingBefore: 0,
+    zeroResultKeys: 0,
+    ceilingRejectedKeys: 0,
+    probes: [{ name: "unsplash[1]", configured: true, ok: true, detail: "5 results" }],
+  };
+
+  eq(evaluateRunHealth({ ...base, processed: 40, added: 37, pendingBefore: 900 }).status, "ok", "a run that adds entries is healthy");
+
+  // The silent-401: every query returns nothing, the workflow goes green, and
+  // three days of budget produce zero. That must be a FAILURE.
+  const silent401 = evaluateRunHealth({
+    ...base,
+    processed: 40,
+    added: 0,
+    tombstoned: 40,
+    zeroResultKeys: 40,
+    pendingBefore: 700,
+  });
+  eq(silent401.status, "fail", "40 processed / 0 added / every query empty FAILS the run");
+
+  // A run that adds nothing because every candidate was already at the fan-out
+  // ceiling is CORRECT behaviour — a miss beats a duplicate. It must warn, not
+  // fail: a guard that fails correct output gets switched off.
+  const allCeiling = evaluateRunHealth({
+    ...base,
+    processed: 40,
+    added: 0,
+    tombstoned: 40,
+    ceilingRejectedKeys: 40,
+    pendingBefore: 700,
+  });
+  eq(allCeiling.status, "warn", "0 added because every candidate was at the ceiling warns, it does not fail");
+
+  const deadHead = evaluateRunHealth({ ...base, processed: 40, added: 0, tombstoned: 0, pendingBefore: 700 });
+  eq(deadHead.status, "fail", "processed 40, added 0, recorded 0 misses = the queue did not advance");
+
+  const badPexels = evaluateRunHealth({
+    ...base,
+    processed: 40,
+    added: 40,
+    pendingBefore: 700,
+    probes: [
+      { name: "unsplash[1]", configured: true, ok: true, detail: "5 results" },
+      { name: "pexels", configured: true, ok: false, detail: "HTTP 401" },
+    ],
+  });
+  eq(badPexels.status, "fail", "a configured source that does not answer FAILS even on a run that added entries");
+  ok(
+    badPexels.reasons.some((r) => r.includes("pexels")),
+    "…and says which source, in the reason",
+  );
+
+  const noPexels = evaluateRunHealth({
+    ...base,
+    processed: 10,
+    added: 8,
+    pendingBefore: 50,
+    probes: [
+      { name: "unsplash[1]", configured: true, ok: true, detail: "5 results" },
+      { name: "pexels", configured: false, ok: false, detail: "PEXELS_API_KEY not set" },
+    ],
+  });
+  eq(noPexels.status, "warn", "an UNCONFIGURED source warns — it is never silent");
+
+  const smallRun = evaluateRunHealth({ ...base, processed: 5, added: 0, tombstoned: 5, zeroResultKeys: 5, pendingBefore: 20 });
+  eq(smallRun.status, "ok", "a small tail-end run with nothing left to find is not an alarm");
 }
 
 // ══ 5. The committed cache still passes its own gates ═════════════════════
