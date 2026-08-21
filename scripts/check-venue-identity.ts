@@ -44,6 +44,26 @@ export const RETIRED_GENERIC_VENUE_PATTERNS: RegExp[] = [
   /\bcorporate retreat venue landscape$/i,
 ];
 
+/**
+ * "*a* castle" / "*a* desert retreat" — the finding names the setting the query
+ * ACTUALLY asked for, read off the query itself.
+ *
+ * This used to be the hardcoded word "castle" for every finding, so a desert or
+ * lake entry was reported as a castle. Harmless to the verdict, but the detail
+ * line is the whole point of the finding: it is what tells a reader why the
+ * entry is a lie, and a message that describes the wrong thing trains people to
+ * skim it. Falls back to neutral wording when the setting can't be read, rather
+ * than guessing.
+ */
+export function anySettingPhrase(query: string): string {
+  let setting = query.trim();
+  for (const re of RETIRED_GENERIC_VENUE_PATTERNS) setting = setting.replace(re, "").trim();
+  const readable = setting.replace(/-/g, " ");
+  if (!readable) return "*a* generic setting";
+  const article = /^[aeiou]/i.test(readable) ? "an" : "a";
+  return `*${article}* ${readable} retreat`;
+}
+
 export interface VenueIdentityFinding {
   rule: "shared-venue-query" | "generic-venue-query";
   detail: string;
@@ -92,9 +112,9 @@ export function checkVenueIdentity(cache: Cache): VenueIdentityFinding[] {
         rule: "generic-venue-query",
         keys: [key],
         detail:
-          `${key} was filled by the generic setting-level query "${q}". A photograph of *a* ` +
-          `castle is not a photograph of this property — delete the entry and let the branded ` +
-          `fallback render, which is the design for an unphotographed venue.`,
+          `${key} was filled by the generic setting-level query "${q}". A photograph of ` +
+          `${anySettingPhrase(q)} is not a photograph of this property — delete the entry and ` +
+          `let the branded fallback render, which is the design for an unphotographed venue.`,
       });
     }
   }
