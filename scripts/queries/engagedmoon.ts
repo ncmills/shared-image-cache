@@ -176,6 +176,14 @@ const DESTINATION_QUERIES: Array<{ id: string; query: string; fallbackQuery: str
 export async function getEngagedmoonQueries(): Promise<QueryItem[]> {
   const queries: QueryItem[] = [];
 
+  // Every string in this file was hand-written against a named landmark and
+  // reviewed — `curated` marks them exempt from the TEMPLATE hygiene rules in
+  // lib/query-policy.ts (no lighting words, ≤6 terms). This site asks for dusk
+  // ON PURPOSE: its whole subject is the last hour of light, and a midday
+  // photograph under the hero headline "down to the light" contradicts the
+  // copy. The curated set of 24 is FROZEN by the owner (2026-08-20) — the ~120
+  // spots with no query render the sky gradient by design, and a
+  // coverage-driven agent must not "fix" that number.
   for (const s of SPOT_QUERIES) {
     queries.push({
       key: `engagedmoon/spots/${s.id}`,
@@ -183,6 +191,7 @@ export async function getEngagedmoonQueries(): Promise<QueryItem[]> {
       fallbackQuery: s.fallbackQuery,
       addedBy: "engagedmoon",
       label: `engagedmoon/spot ${s.id}`,
+      curated: true,
     });
   }
 
@@ -193,6 +202,7 @@ export async function getEngagedmoonQueries(): Promise<QueryItem[]> {
       fallbackQuery: d.fallbackQuery,
       addedBy: "engagedmoon",
       label: `engagedmoon/dest ${d.id}`,
+      curated: true,
     });
   }
 

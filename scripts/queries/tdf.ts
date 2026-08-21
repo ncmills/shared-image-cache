@@ -11,6 +11,7 @@ import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { placePhrase } from "../../lib/query-policy";
 import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
@@ -63,12 +64,15 @@ export async function getTdfQueries(): Promise<QueryItem[]> {
 
   const queries: QueryItem[] = [];
 
+  // The postal code is dropped for the full state name, and the STATE-LEVEL
+  // fallbacks are dropped entirely. `"${stateName} landscape"` is the exact
+  // shape that puts one photograph on every city in a state — a destination
+  // key names one town, and widening it to the state answers a question
+  // nobody asked. A miss here renders ImageWithFallback, which is fine.
   for (const dest of allDestinations) {
-    const stateName = STATE_NAMES[dest.state] || dest.state;
     queries.push({
       key: `tdf/destinations/${dest.id}`,
-      query: `${dest.city} ${dest.state} landscape`,
-      fallbackQuery: `${stateName} landscape`,
+      query: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} landscape`,
       addedBy: "tdf",
       label: `${dest.city}, ${dest.state}`,
     });
@@ -77,24 +81,24 @@ export async function getTdfQueries(): Promise<QueryItem[]> {
   // Bachelor party pages — only for destinations with 3+ bars and not tiny
   for (const dest of allDestinations) {
     if (dest.bars.length >= 3 && dest.population !== "tiny") {
-      const stateName = STATE_NAMES[dest.state] || dest.state;
       queries.push({
         key: `tdf/bachelorParty/${dest.id}`,
-        query: `${dest.city} nightlife skyline`,
-        fallbackQuery: `${stateName} downtown night`,
+        query: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} nightlife`,
+        fallbackQuery: `${dest.city} downtown`,
         addedBy: "tdf",
         label: `${dest.city} bachelor`,
       });
     }
   }
 
-  // Guides
+  // Guides — hand-picked thematic strings, not templates.
   for (const [slug, query] of Object.entries(GUIDE_QUERIES)) {
     queries.push({
       key: `tdf/guides/${slug}`,
       query,
       addedBy: "tdf",
       label: `tdf guide:${slug}`,
+      curated: true,
     });
   }
 

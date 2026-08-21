@@ -1,13 +1,20 @@
 /**
  * Query loader for maid-of-honor-hq (MOH).
  *
- * Bachelorette-themed hero queries: pool club / rooftop / glam aesthetic.
+ * Five keys per city: a hero plus lodging / dining / bars / activities.
+ *
+ * The queries ask for the PLACE and the VENUE TYPE, never for the occasion.
+ * "bachelorette glam" returns staged models at a party that never happened;
+ * a photograph of a real bar in a real city is both honest and better-looking,
+ * and the site's own design carries the occasion. Same ruling friendsmoon and
+ * engagedmoon made. Policy: lib/query-policy.ts.
  */
 
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { placePhrase } from "../../lib/query-policy";
 import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
@@ -41,52 +48,61 @@ export async function getMohQueries(): Promise<QueryItem[]> {
 
   const queries: QueryItem[] = [];
 
+  // ── QUERY SHAPE (rewritten 2026-08-20) ───────────────────────────────────
+  // Every template here had all three of the defects the 199-image review
+  // named. `stateName` was COMPUTED AND NEVER USED, so each query shipped a
+  // postal abbreviation ("New Orleans LA ..."); friendsmoon had already proved
+  // a postal code returns nothing. They were 5-6 term AND queries, and
+  // `"Austin TX cocktail bar pink sunset"` returns ZERO while `"Austin
+  // cocktail bar"` returns hundreds — a zero-result primary is what pushes a
+  // key onto its fallback in the first place. And "bachelorette glam" /
+  // "pink sunset" ask for staged models and lighting, which is how a well-lit
+  // stock portrait outranks the city.
+  //
+  // Shape now: `<City> <State Name> <two-word scene>` primary, `<City>
+  // <one-word scene>` fallback. The fallback stays scoped to the SAME CITY —
+  // a state-level fallback is what collapsed four California cities onto one
+  // photograph.
   for (const dest of allDestinations) {
     const stateName = STATE_NAMES[dest.state] || dest.state;
+    const place = placePhrase(dest.city, stateName);
 
     // City-level hero (legacy single-photo key — kept for backward-compat
-    // with existing consumers; will be deprecated once category fan-out
-    // is fully populated below).
+    // with existing consumers).
     queries.push({
       key: `moh/cities/${dest.id}`,
-      query: `${dest.city} ${dest.state} rooftop bachelorette glam`,
-      // Fallback: city-specific scene (was `${stateName} skyline pink
-      // sunset` which collapsed 4 California cities to the same photo).
-      // Updated 2026-04-26 dedup pass.
-      fallbackQuery: `${dest.city} historic district golden hour`,
+      query: `${place} skyline`,
+      fallbackQuery: `${dest.city} downtown`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state}`,
     });
 
-    // Category fan-out — added 2026-04-26 to mirror the BESTMAN HQ
-    // bars/dining/lodging/activities split. All fallbacks are now
-    // city-specific (was state-level; collapsed nearby cities to the
-    // same photo). Updated 2026-04-26 dedup pass.
+    // Category fan-out — mirrors the BESTMAN HQ split.
     queries.push({
       key: `moh/cities/${dest.id}/lodging`,
-      query: `${dest.city} ${dest.state} boutique hotel bachelorette suite`,
-      fallbackQuery: `${dest.city} luxury hotel pool`,
+      query: `${place} boutique hotel`,
+      fallbackQuery: `${dest.city} hotel`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — lodging`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/dining`,
-      query: `${dest.city} ${dest.state} editorial restaurant brunch`,
-      fallbackQuery: `${dest.city} farm-to-table tasting menu`,
+      query: `${place} restaurant interior`,
+      fallbackQuery: `${dest.city} restaurant`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — dining`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/bars`,
-      query: `${dest.city} ${dest.state} cocktail bar pink sunset`,
-      fallbackQuery: `${dest.city} cocktail lounge speakeasy interior`,
+      query: `${place} cocktail bar`,
+      fallbackQuery: `${dest.city} bar`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — bars`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/activities`,
-      query: `${dest.city} ${dest.state} spa wellness retreat`,
-      fallbackQuery: `${dest.city} wellness outdoor scene`,
+      query: `${place} spa`,
+      fallbackQuery: `${dest.city} wellness`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — activities`,
     });

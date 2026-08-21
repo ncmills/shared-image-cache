@@ -21,6 +21,21 @@ interface Snapshot {
 
 let cached: Snapshot | null = null;
 
+/**
+ * Which projects fell back to the snapshot in THIS process.
+ *
+ * snapshot-queries.ts needs to know: a loader that read the snapshot must not
+ * have its slice re-stamped as freshly generated, or the file looks eternally
+ * current while its contents age. Recording it here, at the one place the
+ * fallback actually happens, means no caller has to duplicate the loaders'
+ * data-dir knowledge to find out.
+ */
+const loadedFromSnapshot = new Set<string>();
+
+export function wasLoadedFromSnapshot(project: string): boolean {
+  return loadedFromSnapshot.has(project);
+}
+
 function loadSnapshot(): Snapshot | null {
   if (cached) return cached;
   if (!existsSync(SNAPSHOT_PATH)) return null;
@@ -35,5 +50,7 @@ function loadSnapshot(): Snapshot | null {
 export function getQueriesFromSnapshot(project: string): QueryItem[] | null {
   const snapshot = loadSnapshot();
   if (!snapshot) return null;
-  return snapshot.projects[project] ?? null;
+  const queries = snapshot.projects[project] ?? null;
+  if (queries) loadedFromSnapshot.add(project);
+  return queries;
 }

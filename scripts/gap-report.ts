@@ -19,21 +19,13 @@
  */
 import { readFileSync, existsSync, appendFileSync } from "node:fs";
 import { resolve } from "node:path";
-import type { Cache, QueryItem } from "../lib/types";
-import { getTdfQueries } from "./queries/tdf";
-import { getOffsiteQueries } from "./queries/offsite";
-import { getBestmanQueries } from "./queries/bestman";
-import { getMohQueries } from "./queries/moh";
+import type { Cache } from "../lib/types";
+import { isSuppressed, missStats, type Misses } from "../lib/misses";
+import { LOADERS } from "./loaders";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
-
-const LOADERS: Record<string, () => Promise<QueryItem[]>> = {
-  tdf: getTdfQueries,
-  bestman: getBestmanQueries,
-  moh: getMohQueries,
-  offsite: getOffsiteQueries,
-};
+const MISSES_PATH = resolve(REPO_ROOT, "misses.json");
 
 async function main() {
   const args = process.argv.slice(2);
@@ -44,10 +36,16 @@ async function main() {
     ? JSON.parse(readFileSync(CACHE_PATH, "utf8"))
     : {};
 
+  const misses: Misses = existsSync(MISSES_PATH)
+    ? JSON.parse(readFileSync(MISSES_PATH, "utf8"))
+    : {};
+
   type ProjStat = {
     total: number;
     cached: number;
     missing: number;
+    /** Missing AND held out of the queue by a fresh tombstone (lib/misses.ts). */
+    suppressed: number;
     byCategory: Record<string, { total: number; missing: number }>;
     missingKeys: string[];
   };
@@ -55,7 +53,14 @@ async function main() {
 
   for (const [project, loader] of Object.entries(LOADERS)) {
     const queries = await loader();
-    const s: ProjStat = { total: 0, cached: 0, missing: 0, byCategory: {}, missingKeys: [] };
+    const s: ProjStat = {
+      total: 0,
+      cached: 0,
+      missing: 0,
+      suppressed: 0,
+      byCategory: {},
+      missingKeys: [],
+    };
     for (const q of queries) {
       s.total++;
       const cat = q.key.split("/")[1] ?? "_";
@@ -67,6 +72,7 @@ async function main() {
         s.missing++;
         s.byCategory[cat].missing++;
         s.missingKeys.push(q.key);
+        if (isSuppressed(misses, q)) s.suppressed++;
       }
     }
     stats[project] = s;
@@ -76,12 +82,16 @@ async function main() {
   let totalMissing = 0;
   const lines: string[] = [];
   lines.push("# Shared image-cache — gap report\n");
-  lines.push("| Project | desired | cached | MISSING | coverage |");
-  lines.push("|---|--:|--:|--:|--:|");
+  lines.push("| Project | desired | cached | MISSING | tombstoned | queueable | coverage |");
+  lines.push("|---|--:|--:|--:|--:|--:|--:|");
+  let totalSuppressed = 0;
   for (const [project, s] of Object.entries(stats)) {
     totalMissing += s.missing;
+    totalSuppressed += s.suppressed;
     const pct = s.total ? Math.round((s.cached / s.total) * 100) : 100;
-    lines.push(`| ${project} | ${s.total} | ${s.cached} | ${s.missing} | ${pct}% |`);
+    lines.push(
+      `| ${project} | ${s.total} | ${s.cached} | ${s.missing} | ${s.suppressed} | ${s.missing - s.suppressed} | ${pct}% |`,
+    );
   }
   lines.push("");
   for (const [project, s] of Object.entries(stats)) {
@@ -94,8 +104,18 @@ async function main() {
     lines.push(`**${project}** — ${s.missing} missing by category: ${cats}`);
   }
 
+  const ms = missStats(misses);
+  lines.push("");
+  lines.push(
+    `_"tombstoned" = missing keys held out of the fetch queue by a fresh miss record ` +
+      `(${ms.fresh} fresh / ${ms.total} recorded). "queueable" is what the next run can actually reach._`,
+  );
+
   console.log(lines.join("\n"));
-  console.log(`\nTotal missing across all sites: ${totalMissing}`);
+  console.log(
+    `\nTotal missing across all sites: ${totalMissing} (${totalSuppressed} tombstoned, ` +
+      `${totalMissing - totalSuppressed} queueable)`,
+  );
 
   if (listProject && stats[listProject]) {
     console.log(`\n── every missing key for ${listProject} ──`);
@@ -103,7 +123,12 @@ async function main() {
   }
 
   if (writeSummary && process.env.GITHUB_STEP_SUMMARY) {
-    appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + `\n\n**Total missing: ${totalMissing}**\n`);
+    appendFileSync(
+      process.env.GITHUB_STEP_SUMMARY,
+      lines.join("\n") +
+        `\n\n**Total missing: ${totalMissing}** (${totalSuppressed} tombstoned, ` +
+        `${totalMissing - totalSuppressed} queueable)\n`,
+    );
   }
 }
 

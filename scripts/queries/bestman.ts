@@ -20,6 +20,7 @@ import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { QueryItem } from "../../lib/types";
 import { STATE_NAMES } from "./state-names";
+import { placePhrase } from "../../lib/query-policy";
 import { getQueriesFromSnapshot } from "./from-snapshot";
 
 const HOME = process.env.HOME || "/Users/bignick";
@@ -54,51 +55,49 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
 
   const queries: QueryItem[] = [];
 
+  // ── QUERY SHAPE (rewritten 2026-08-20) ───────────────────────────────────
+  // Same three defects as MOH: `stateName` was computed and never used, so
+  // every query shipped a postal code; the primaries ran to six terms, which
+  // returns zero for most cities and pushes the key onto its fallback; and the
+  // resulting URLs showed state-level text on city keys ("North Carolina
+  // restaurant food" under asheville-nc/dining), which is the mechanism that
+  // puts one photo on eight cities. Primary = `<City> <State> <two-word
+  // scene>`; fallback = `<City> <scene>`, never wider than the city.
   for (const dest of allDestinations) {
-    const stateName = STATE_NAMES[dest.state] || dest.state;
+    const place = placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state);
 
-    // Lodging hero — the primary city hero, used on tier cards + lodging section
+    // Lodging hero — also the primary city hero on tier cards.
     queries.push({
       key: `bestman/cities/${dest.id}/lodging`,
-      query: `${dest.city} ${dest.state} vacation rental house pool`,
-      // Fallback: city-specific architecture descriptor (was the generic
-      // `${dest.city} skyline night`, which collapsed nearby cities to the
-      // same skyline photo). Updated 2026-04-26 dedup pass to break those
-      // collisions while staying city-grounded.
-      fallbackQuery: `${dest.city} downtown architecture historic`,
+      query: `${place} vacation rental`,
+      fallbackQuery: `${dest.city} downtown architecture`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — lodging`,
     });
 
-    // Dining hero — used on the "Where to Eat" section
+    // Dining hero — the "Where to Eat" section.
     queries.push({
       key: `bestman/cities/${dest.id}/dining`,
-      query: `${dest.city} ${dest.state} steakhouse restaurant food`,
-      // Fallback: city-specific (was `${stateName} restaurant food` which
-      // collapsed all Texas cities to the same Austin BBQ photo).
-      fallbackQuery: `${dest.city} chef tasting menu interior`,
+      query: `${place} steakhouse`,
+      fallbackQuery: `${dest.city} restaurant`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — dining`,
     });
 
-    // Bars hero — used on the "The Bars" section
+    // Bars hero — "The Bars".
     queries.push({
       key: `bestman/cities/${dest.id}/bars`,
-      query: `${dest.city} ${dest.state} rooftop bar nightlife`,
-      // Fallback: city-specific (was `${stateName} bar nightlife` which
-      // served the same photo to 7 California + 6 Texas cities).
-      fallbackQuery: `${dest.city} cocktail lounge speakeasy interior`,
+      query: `${place} rooftop bar`,
+      fallbackQuery: `${dest.city} cocktail lounge`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — bars`,
     });
 
-    // Activities hero — covers the "What to Do" section.
+    // Activities hero — "What to Do".
     queries.push({
       key: `bestman/cities/${dest.id}/activities`,
-      query: `${dest.city} ${dest.state} adventure outdoor sport`,
-      // Fallback: city-specific (was `${stateName} outdoor adventure
-      // landscape` — too generic).
-      fallbackQuery: `${dest.city} outdoor recreation landscape`,
+      query: `${place} outdoor adventure`,
+      fallbackQuery: `${dest.city} outdoor recreation`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — activities`,
     });
