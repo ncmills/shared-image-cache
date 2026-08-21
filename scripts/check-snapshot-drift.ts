@@ -132,22 +132,38 @@ function main() {
   // WARN, not fail, until it is properly old: a laptop off for a fortnight is
   // not a broken repo, and a guard that fails a correct tree gets switched off.
   // Past HEARTBEAT_FAIL_DAYS the refresher is not late, it is gone.
+  // Read the REFRESHER's own heartbeat, not the snapshot's commit age. Those
+  // are different facts: the snapshot not changing is the expected state most
+  // nights, and it is also exactly what a dead scheduler looks like. Dating the
+  // job by its output cannot tell the two apart.
   const HEARTBEAT_WARN_DAYS = 14;
   const HEARTBEAT_FAIL_DAYS = 45;
-  if (snapshotAt) {
-    const ageDays = Math.floor((Date.now() - Date.parse(snapshotAt)) / 86_400_000);
-    if (ageDays >= HEARTBEAT_FAIL_DAYS) {
-      stale.push(
-        `heartbeat: queries.snapshot.json has not been committed for ${ageDays} days. ` +
-          `refresh-snapshot.sh (launchd com.ncmills.image-snapshot-refresh) regenerates it daily and ` +
-          `commits only on a real change — ${ageDays} days of silence means it is not running, not ` +
-          `that the catalogue stopped growing. Check ~/work/logs/image-snapshot-refresh.log.`,
-      );
-    } else if (ageDays >= HEARTBEAT_WARN_DAYS) {
-      console.log(
-        `  ⚠ heartbeat: snapshot last committed ${ageDays} days ago. Fine if the catalogue is ` +
-          `genuinely static; suspicious otherwise. Log: ~/work/logs/image-snapshot-refresh.log`,
-      );
+  const heartbeatPath = resolve(REPO_ROOT, "snapshot-heartbeat.json");
+  if (existsSync(heartbeatPath)) {
+    try {
+      const beat = JSON.parse(readFileSync(heartbeatPath, "utf8")) as { lastRunAt?: string };
+      const at = beat.lastRunAt ? Date.parse(beat.lastRunAt) : NaN;
+      if (!Number.isNaN(at)) {
+        const ageDays = Math.floor((Date.now() - at) / 86_400_000);
+        if (ageDays >= HEARTBEAT_FAIL_DAYS) {
+          stale.push(
+            `heartbeat: the snapshot refresher last ran ${ageDays} days ago. It runs daily under ` +
+              `launchd (com.ncmills.image-snapshot-refresh) and stamps this file whether or not it ` +
+              `finds a change, so ${ageDays} days of silence means it is not running — NOT that the ` +
+              `catalogue stopped growing. While it is down, destinations added to shared-data are ` +
+              `never photographed. Log: ~/work/logs/image-snapshot-refresh.log`,
+          );
+        } else if (ageDays >= HEARTBEAT_WARN_DAYS) {
+          console.log(
+            `  ⚠ heartbeat: refresher last ran ${ageDays} days ago (commits at most weekly, so up ` +
+              `to 7 is normal). Log: ~/work/logs/image-snapshot-refresh.log`,
+          );
+        } else {
+          console.log(`  ✓ heartbeat: refresher ran ${ageDays}d ago`);
+        }
+      }
+    } catch {
+      console.log("  · heartbeat: snapshot-heartbeat.json unreadable — skipping that half");
     }
   }
 
