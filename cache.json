@@ -11509,6 +11509,16 @@
     "fetchedAt": "2026-06-26T18:03:50.090Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/andbeyond-phinda": {
+    "url": "https://images.unsplash.com/photo-1709420968279-2b7ea51c6d37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHw1fHxzYWZhcmklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI4MjE4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a herd of animals walking across a lush green field",
+    "photographerName": "Meg von Haartman",
+    "photographerUrl": "https://unsplash.com/@traveleroohlala?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-herd-of-animals-walking-across-a-lush-green-field-kHoml5W-fuo?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "safari corporate retreat venue landscape",
+    "fetchedAt": "2026-08-21T03:16:20.174Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/ashford-castle": {
     "url": "https://images.unsplash.com/photo-1696882297380-7bf2f8144e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxjYXN0bGUlMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI0NDUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a large castle sitting on top of a lush green field",
@@ -11777,6 +11787,16 @@
     "unsplashUrl": "https://unsplash.com/photos/ocean-view-during-daytime-XJfHMPJ0e-g?utm_source=shared_image_cache&utm_medium=referral",
     "query": "coastal corporate retreat venue landscape",
     "fetchedAt": "2026-06-26T17:58:33.589Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/cottars-1920s-safari-camp": {
+    "url": "https://images.unsplash.com/photo-1516651165460-30864737f9d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHw0fHxzYWZhcmklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI4MjE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "person riding in green UTV",
+    "photographerName": "Wade Lambert",
+    "photographerUrl": "https://unsplash.com/@wade_lambert?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/person-riding-in-green-utv-gu11ihvi07Q?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "safari corporate retreat venue landscape",
+    "fetchedAt": "2026-08-21T03:16:17.572Z",
     "addedBy": "offsite"
   },
   "offsite/venues/des-iles-borromees-maggiore": {
@@ -12387,6 +12407,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-castle-on-top-of-a-hill-surrounded-by-trees-DPkLuyJcFDk?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Schloss Elmau castle Bavarian Alps exterior aerial",
     "fetchedAt": "2026-06-26T17:58:27.352Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/segera-retreat-laikipia": {
+    "url": "https://images.unsplash.com/photo-1535759554012-8cbbc491f0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwzfHxzYWZhcmklMjBjb3Jwb3JhdGUlMjByZXRyZWF0JTIwdmVudWUlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4NzI4MjE3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "elephants near trees",
+    "photographerName": "David Clode",
+    "photographerUrl": "https://unsplash.com/@davidclode?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/elephants-near-trees-qHliP9cWqx4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "safari corporate retreat venue landscape",
+    "fetchedAt": "2026-08-21T03:16:14.935Z",
     "addedBy": "offsite"
   },
   "offsite/venues/selman-marrakech": {
