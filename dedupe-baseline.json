@@ -6,11 +6,6 @@
     "bestman/cities/galena-il/bars",
     "bestman/cities/stowe-vt/bars"
   ],
-  "surface-ceiling|unsplash:1689841667551-eeaee48f2247|bestman|activities": [
-    "bestman/cities/beaufort-sc/activities",
-    "bestman/cities/eureka-springs-ar/activities",
-    "bestman/cities/steamboat-springs-co/activities"
-  ],
   "surface-ceiling|unsplash:1600891964092-4316c288032e|bestman|dining": [
     "bestman/cities/beaufort-sc/dining",
     "bestman/cities/bozeman-mt/dining",
@@ -28,11 +23,6 @@
     "bestman/cities/hot-springs-ar/lodging",
     "bestman/cities/walla-walla-wa/lodging"
   ],
-  "surface-ceiling|unsplash:1699959560616-aa17ace76879|bestman|activities": [
-    "bestman/cities/boise-id/activities",
-    "bestman/cities/st-augustine-fl/activities",
-    "bestman/cities/stowe-vt/activities"
-  ],
   "surface-ceiling|unsplash:1615937657715-bc7b4b7962c1|bestman|dining": [
     "bestman/cities/galena-il/dining",
     "bestman/cities/hilton-head-sc/dining",
@@ -43,6 +33,11 @@
     "bestman/cities/jackson-hole-wy/lodging",
     "bestman/cities/steamboat-springs-co/lodging",
     "bestman/cities/sun-valley-id/lodging"
+  ],
+  "surface-ceiling|unsplash:1668232295546-c8bd49625f4b|tdf|bachelorParty": [
+    "tdf/bachelorParty/door-county-wi",
+    "tdf/bachelorParty/madison-wi",
+    "tdf/bachelorParty/milwaukee-wi"
   ],
   "surface-ceiling|unsplash:1488345979593-09db0f85545f|moh|activities": [
     "moh/cities/cape-cod-ma/activities",
@@ -169,11 +164,6 @@
     "tdf/bachelorParty/dallas-fort-worth-tx",
     "tdf/bachelorParty/fredericksburg-tx",
     "tdf/bachelorParty/san-antonio-tx"
-  ],
-  "surface-ceiling|unsplash:1668232295546-c8bd49625f4b|tdf|bachelorParty": [
-    "tdf/bachelorParty/door-county-wi",
-    "tdf/bachelorParty/madison-wi",
-    "tdf/bachelorParty/milwaukee-wi"
   ],
   "surface-ceiling|unsplash:1619856699906-09e1f58c98b1|tdf|bachelorParty": [
     "tdf/bachelorParty/durango-co",

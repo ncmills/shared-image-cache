@@ -93,14 +93,24 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
       label: `bestman/${dest.city}, ${dest.state} — bars`,
     });
 
-    // Activities hero — "What to Do".
-    queries.push({
-      key: `bestman/cities/${dest.id}/activities`,
-      query: `${place} outdoor adventure`,
-      fallbackQuery: `${dest.city} outdoor recreation`,
-      addedBy: "bestman",
-      label: `bestman/${dest.city}, ${dest.state} — activities`,
-    });
+    // NO activities hero. BestManHQ's prebuild sync drops it:
+    //   plan-my-party/scripts/sync-image-cache.ts
+    //   `if (imageType !== "lodging" && imageType !== "dining" &&
+    //        imageType !== "bars") continue;`
+    // — on BOTH the showcases and the cities branch. The synced
+    // `src/data/city-images.json` carries only bars/dining/lodging across all
+    // 106 cities, so no `activities` photo has ever reached a page.
+    //
+    // It was still being fetched: 213 entries occupying API budget, cache
+    // bytes and gate surface (2 of the 33 grandfathered duplicate-fanout
+    // violations were bestman|activities) to produce something nothing reads.
+    // A desired-key list that asks for what no consumer slices is a gap report
+    // measuring the wrong gap — bestman read 99% cached while a quarter of its
+    // keys were unreachable.
+    //
+    // If BestManHQ ever renders a "What to Do" hero, re-add this block AND the
+    // imageType allow-list in the sync — the two lists have to agree, and this
+    // comment is here so the next person changes both.
   }
 
   return queries;

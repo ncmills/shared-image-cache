@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:00:10.356Z",
+  "generatedAt": "2026-08-24T03:03:58.220Z",
   "projects": {
     "tdf": [
       {
@@ -2760,13 +2760,6 @@
         "label": "bestman/Nashville, TN — bars"
       },
       {
-        "key": "bestman/cities/nashville-tn/activities",
-        "query": "Nashville Tennessee outdoor adventure",
-        "fallbackQuery": "Nashville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Nashville, TN — activities"
-      },
-      {
         "key": "bestman/cities/charleston-sc/lodging",
         "query": "Charleston South Carolina vacation rental",
         "fallbackQuery": "Charleston downtown architecture",
@@ -2786,13 +2779,6 @@
         "fallbackQuery": "Charleston cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Charleston, SC — bars"
-      },
-      {
-        "key": "bestman/cities/charleston-sc/activities",
-        "query": "Charleston South Carolina outdoor adventure",
-        "fallbackQuery": "Charleston outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Charleston, SC — activities"
       },
       {
         "key": "bestman/cities/savannah-ga/lodging",
@@ -2816,13 +2802,6 @@
         "label": "bestman/Savannah, GA — bars"
       },
       {
-        "key": "bestman/cities/savannah-ga/activities",
-        "query": "Savannah Georgia outdoor adventure",
-        "fallbackQuery": "Savannah outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Savannah, GA — activities"
-      },
-      {
         "key": "bestman/cities/new-orleans-la/lodging",
         "query": "New Orleans Louisiana vacation rental",
         "fallbackQuery": "New Orleans downtown architecture",
@@ -2842,13 +2821,6 @@
         "fallbackQuery": "New Orleans cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/New Orleans, LA — bars"
-      },
-      {
-        "key": "bestman/cities/new-orleans-la/activities",
-        "query": "New Orleans Louisiana outdoor adventure",
-        "fallbackQuery": "New Orleans outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/New Orleans, LA — activities"
       },
       {
         "key": "bestman/cities/austin-tx/lodging",
@@ -2872,13 +2844,6 @@
         "label": "bestman/Austin, TX — bars"
       },
       {
-        "key": "bestman/cities/austin-tx/activities",
-        "query": "Austin Texas outdoor adventure",
-        "fallbackQuery": "Austin outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Austin, TX — activities"
-      },
-      {
         "key": "bestman/cities/dallas-tx/lodging",
         "query": "Dallas Texas vacation rental",
         "fallbackQuery": "Dallas downtown architecture",
@@ -2898,13 +2863,6 @@
         "fallbackQuery": "Dallas cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Dallas, TX — bars"
-      },
-      {
-        "key": "bestman/cities/dallas-tx/activities",
-        "query": "Dallas Texas outdoor adventure",
-        "fallbackQuery": "Dallas outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Dallas, TX — activities"
       },
       {
         "key": "bestman/cities/houston-tx/lodging",
@@ -2928,13 +2886,6 @@
         "label": "bestman/Houston, TX — bars"
       },
       {
-        "key": "bestman/cities/houston-tx/activities",
-        "query": "Houston Texas outdoor adventure",
-        "fallbackQuery": "Houston outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Houston, TX — activities"
-      },
-      {
         "key": "bestman/cities/gulf-shores-al/lodging",
         "query": "Gulf Shores Alabama vacation rental",
         "fallbackQuery": "Gulf Shores downtown architecture",
@@ -2954,13 +2905,6 @@
         "fallbackQuery": "Gulf Shores cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Gulf Shores, AL — bars"
-      },
-      {
-        "key": "bestman/cities/gulf-shores-al/activities",
-        "query": "Gulf Shores Alabama outdoor adventure",
-        "fallbackQuery": "Gulf Shores outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Gulf Shores, AL — activities"
       },
       {
         "key": "bestman/cities/destin-fl/lodging",
@@ -2984,13 +2928,6 @@
         "label": "bestman/Destin, FL — bars"
       },
       {
-        "key": "bestman/cities/destin-fl/activities",
-        "query": "Destin Florida outdoor adventure",
-        "fallbackQuery": "Destin outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Destin, FL — activities"
-      },
-      {
         "key": "bestman/cities/galveston-tx/lodging",
         "query": "Galveston Texas vacation rental",
         "fallbackQuery": "Galveston downtown architecture",
@@ -3010,13 +2947,6 @@
         "fallbackQuery": "Galveston cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Galveston, TX — bars"
-      },
-      {
-        "key": "bestman/cities/galveston-tx/activities",
-        "query": "Galveston Texas outdoor adventure",
-        "fallbackQuery": "Galveston outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Galveston, TX — activities"
       },
       {
         "key": "bestman/cities/key-west-fl/lodging",
@@ -3040,13 +2970,6 @@
         "label": "bestman/Key West, FL — bars"
       },
       {
-        "key": "bestman/cities/key-west-fl/activities",
-        "query": "Key West Florida outdoor adventure",
-        "fallbackQuery": "Key West outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Key West, FL — activities"
-      },
-      {
         "key": "bestman/cities/miami-fl/lodging",
         "query": "Miami Florida vacation rental",
         "fallbackQuery": "Miami downtown architecture",
@@ -3066,13 +2989,6 @@
         "fallbackQuery": "Miami cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Miami, FL — bars"
-      },
-      {
-        "key": "bestman/cities/miami-fl/activities",
-        "query": "Miami Florida outdoor adventure",
-        "fallbackQuery": "Miami outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Miami, FL — activities"
       },
       {
         "key": "bestman/cities/tampa-fl/lodging",
@@ -3096,13 +3012,6 @@
         "label": "bestman/Tampa, FL — bars"
       },
       {
-        "key": "bestman/cities/tampa-fl/activities",
-        "query": "Tampa Florida outdoor adventure",
-        "fallbackQuery": "Tampa outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tampa, FL — activities"
-      },
-      {
         "key": "bestman/cities/fort-lauderdale-fl/lodging",
         "query": "Fort Lauderdale Florida vacation rental",
         "fallbackQuery": "Fort Lauderdale downtown architecture",
@@ -3122,13 +3031,6 @@
         "fallbackQuery": "Fort Lauderdale cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Fort Lauderdale, FL — bars"
-      },
-      {
-        "key": "bestman/cities/fort-lauderdale-fl/activities",
-        "query": "Fort Lauderdale Florida outdoor adventure",
-        "fallbackQuery": "Fort Lauderdale outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Fort Lauderdale, FL — activities"
       },
       {
         "key": "bestman/cities/scottsdale-az/lodging",
@@ -3152,13 +3054,6 @@
         "label": "bestman/Scottsdale, AZ — bars"
       },
       {
-        "key": "bestman/cities/scottsdale-az/activities",
-        "query": "Scottsdale Arizona outdoor adventure",
-        "fallbackQuery": "Scottsdale outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Scottsdale, AZ — activities"
-      },
-      {
         "key": "bestman/cities/las-vegas-nv/lodging",
         "query": "Las Vegas Nevada vacation rental",
         "fallbackQuery": "Las Vegas downtown architecture",
@@ -3178,13 +3073,6 @@
         "fallbackQuery": "Las Vegas cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Las Vegas, NV — bars"
-      },
-      {
-        "key": "bestman/cities/las-vegas-nv/activities",
-        "query": "Las Vegas Nevada outdoor adventure",
-        "fallbackQuery": "Las Vegas outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Las Vegas, NV — activities"
       },
       {
         "key": "bestman/cities/san-diego-ca/lodging",
@@ -3208,13 +3096,6 @@
         "label": "bestman/San Diego, CA — bars"
       },
       {
-        "key": "bestman/cities/san-diego-ca/activities",
-        "query": "San Diego California outdoor adventure",
-        "fallbackQuery": "San Diego outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/San Diego, CA — activities"
-      },
-      {
         "key": "bestman/cities/denver-co/lodging",
         "query": "Denver Colorado vacation rental",
         "fallbackQuery": "Denver downtown architecture",
@@ -3234,13 +3115,6 @@
         "fallbackQuery": "Denver cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Denver, CO — bars"
-      },
-      {
-        "key": "bestman/cities/denver-co/activities",
-        "query": "Denver Colorado outdoor adventure",
-        "fallbackQuery": "Denver outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Denver, CO — activities"
       },
       {
         "key": "bestman/cities/lake-tahoe-ca/lodging",
@@ -3264,13 +3138,6 @@
         "label": "bestman/Lake Tahoe, CA — bars"
       },
       {
-        "key": "bestman/cities/lake-tahoe-ca/activities",
-        "query": "Lake Tahoe California outdoor adventure",
-        "fallbackQuery": "Lake Tahoe outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake Tahoe, CA — activities"
-      },
-      {
         "key": "bestman/cities/park-city-ut/lodging",
         "query": "Park City Utah vacation rental",
         "fallbackQuery": "Park City downtown architecture",
@@ -3290,13 +3157,6 @@
         "fallbackQuery": "Park City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Park City, UT — bars"
-      },
-      {
-        "key": "bestman/cities/park-city-ut/activities",
-        "query": "Park City Utah outdoor adventure",
-        "fallbackQuery": "Park City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Park City, UT — activities"
       },
       {
         "key": "bestman/cities/palm-springs-ca/lodging",
@@ -3320,13 +3180,6 @@
         "label": "bestman/Palm Springs, CA — bars"
       },
       {
-        "key": "bestman/cities/palm-springs-ca/activities",
-        "query": "Palm Springs California outdoor adventure",
-        "fallbackQuery": "Palm Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Palm Springs, CA — activities"
-      },
-      {
         "key": "bestman/cities/napa-ca/lodging",
         "query": "Napa California vacation rental",
         "fallbackQuery": "Napa downtown architecture",
@@ -3346,13 +3199,6 @@
         "fallbackQuery": "Napa cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Napa, CA — bars"
-      },
-      {
-        "key": "bestman/cities/napa-ca/activities",
-        "query": "Napa California outdoor adventure",
-        "fallbackQuery": "Napa outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Napa, CA — activities"
       },
       {
         "key": "bestman/cities/sedona-az/lodging",
@@ -3376,13 +3222,6 @@
         "label": "bestman/Sedona, AZ — bars"
       },
       {
-        "key": "bestman/cities/sedona-az/activities",
-        "query": "Sedona Arizona outdoor adventure",
-        "fallbackQuery": "Sedona outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sedona, AZ — activities"
-      },
-      {
         "key": "bestman/cities/santa-barbara-ca/lodging",
         "query": "Santa Barbara California vacation rental",
         "fallbackQuery": "Santa Barbara downtown architecture",
@@ -3402,13 +3241,6 @@
         "fallbackQuery": "Santa Barbara cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Santa Barbara, CA — bars"
-      },
-      {
-        "key": "bestman/cities/santa-barbara-ca/activities",
-        "query": "Santa Barbara California outdoor adventure",
-        "fallbackQuery": "Santa Barbara outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Santa Barbara, CA — activities"
       },
       {
         "key": "bestman/cities/bend-or/lodging",
@@ -3432,13 +3264,6 @@
         "label": "bestman/Bend, OR — bars"
       },
       {
-        "key": "bestman/cities/bend-or/activities",
-        "query": "Bend Oregon outdoor adventure",
-        "fallbackQuery": "Bend outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Bend, OR — activities"
-      },
-      {
         "key": "bestman/cities/portland-or/lodging",
         "query": "Portland Oregon vacation rental",
         "fallbackQuery": "Portland downtown architecture",
@@ -3458,13 +3283,6 @@
         "fallbackQuery": "Portland cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Portland, OR — bars"
-      },
-      {
-        "key": "bestman/cities/portland-or/activities",
-        "query": "Portland Oregon outdoor adventure",
-        "fallbackQuery": "Portland outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Portland, OR — activities"
       },
       {
         "key": "bestman/cities/boise-id/lodging",
@@ -3488,13 +3306,6 @@
         "label": "bestman/Boise, ID — bars"
       },
       {
-        "key": "bestman/cities/boise-id/activities",
-        "query": "Boise Idaho outdoor adventure",
-        "fallbackQuery": "Boise outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Boise, ID — activities"
-      },
-      {
         "key": "bestman/cities/chicago-il/lodging",
         "query": "Chicago Illinois vacation rental",
         "fallbackQuery": "Chicago downtown architecture",
@@ -3514,13 +3325,6 @@
         "fallbackQuery": "Chicago cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Chicago, IL — bars"
-      },
-      {
-        "key": "bestman/cities/chicago-il/activities",
-        "query": "Chicago Illinois outdoor adventure",
-        "fallbackQuery": "Chicago outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Chicago, IL — activities"
       },
       {
         "key": "bestman/cities/charlotte-nc/lodging",
@@ -3544,13 +3348,6 @@
         "label": "bestman/Charlotte, NC — bars"
       },
       {
-        "key": "bestman/cities/charlotte-nc/activities",
-        "query": "Charlotte North Carolina outdoor adventure",
-        "fallbackQuery": "Charlotte outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Charlotte, NC — activities"
-      },
-      {
         "key": "bestman/cities/atlanta-ga/lodging",
         "query": "Atlanta Georgia vacation rental",
         "fallbackQuery": "Atlanta downtown architecture",
@@ -3570,13 +3367,6 @@
         "fallbackQuery": "Atlanta cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Atlanta, GA — bars"
-      },
-      {
-        "key": "bestman/cities/atlanta-ga/activities",
-        "query": "Atlanta Georgia outdoor adventure",
-        "fallbackQuery": "Atlanta outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Atlanta, GA — activities"
       },
       {
         "key": "bestman/cities/asheville-nc/lodging",
@@ -3600,13 +3390,6 @@
         "label": "bestman/Asheville, NC — bars"
       },
       {
-        "key": "bestman/cities/asheville-nc/activities",
-        "query": "Asheville North Carolina outdoor adventure",
-        "fallbackQuery": "Asheville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Asheville, NC — activities"
-      },
-      {
         "key": "bestman/cities/hilton-head-sc/lodging",
         "query": "Hilton Head South Carolina vacation rental",
         "fallbackQuery": "Hilton Head downtown architecture",
@@ -3626,13 +3409,6 @@
         "fallbackQuery": "Hilton Head cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Hilton Head, SC — bars"
-      },
-      {
-        "key": "bestman/cities/hilton-head-sc/activities",
-        "query": "Hilton Head South Carolina outdoor adventure",
-        "fallbackQuery": "Hilton Head outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Hilton Head, SC — activities"
       },
       {
         "key": "bestman/cities/myrtle-beach-sc/lodging",
@@ -3656,13 +3432,6 @@
         "label": "bestman/Myrtle Beach, SC — bars"
       },
       {
-        "key": "bestman/cities/myrtle-beach-sc/activities",
-        "query": "Myrtle Beach South Carolina outdoor adventure",
-        "fallbackQuery": "Myrtle Beach outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Myrtle Beach, SC — activities"
-      },
-      {
         "key": "bestman/cities/salt-lake-city-ut/lodging",
         "query": "Salt Lake City vacation rental",
         "fallbackQuery": "Salt Lake City downtown architecture",
@@ -3682,13 +3451,6 @@
         "fallbackQuery": "Salt Lake City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Salt Lake City, UT — bars"
-      },
-      {
-        "key": "bestman/cities/salt-lake-city-ut/activities",
-        "query": "Salt Lake City outdoor adventure",
-        "fallbackQuery": "Salt Lake City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Salt Lake City, UT — activities"
       },
       {
         "key": "bestman/cities/cabo-mx/lodging",
@@ -3712,13 +3474,6 @@
         "label": "bestman/Cabo San Lucas, Mexico — bars"
       },
       {
-        "key": "bestman/cities/cabo-mx/activities",
-        "query": "Cabo San Lucas outdoor adventure",
-        "fallbackQuery": "Cabo San Lucas outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cabo San Lucas, Mexico — activities"
-      },
-      {
         "key": "bestman/cities/cancun-mx/lodging",
         "query": "Cancun Mexico vacation rental",
         "fallbackQuery": "Cancun downtown architecture",
@@ -3738,13 +3493,6 @@
         "fallbackQuery": "Cancun cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Cancun, Mexico — bars"
-      },
-      {
-        "key": "bestman/cities/cancun-mx/activities",
-        "query": "Cancun Mexico outdoor adventure",
-        "fallbackQuery": "Cancun outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cancun, Mexico — activities"
       },
       {
         "key": "bestman/cities/tulum-mx/lodging",
@@ -3768,13 +3516,6 @@
         "label": "bestman/Tulum, Mexico — bars"
       },
       {
-        "key": "bestman/cities/tulum-mx/activities",
-        "query": "Tulum Mexico outdoor adventure",
-        "fallbackQuery": "Tulum outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tulum, Mexico — activities"
-      },
-      {
         "key": "bestman/cities/san-juan-pr/lodging",
         "query": "San Juan Puerto Rico vacation rental",
         "fallbackQuery": "San Juan downtown architecture",
@@ -3794,13 +3535,6 @@
         "fallbackQuery": "San Juan cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/San Juan, Puerto Rico — bars"
-      },
-      {
-        "key": "bestman/cities/san-juan-pr/activities",
-        "query": "San Juan Puerto Rico outdoor adventure",
-        "fallbackQuery": "San Juan outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/San Juan, Puerto Rico — activities"
       },
       {
         "key": "bestman/cities/cartagena-co/lodging",
@@ -3824,13 +3558,6 @@
         "label": "bestman/Cartagena, Colombia — bars"
       },
       {
-        "key": "bestman/cities/cartagena-co/activities",
-        "query": "Cartagena Colombia outdoor adventure",
-        "fallbackQuery": "Cartagena outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cartagena, Colombia — activities"
-      },
-      {
         "key": "bestman/cities/montreal-ca/lodging",
         "query": "Montreal Canada vacation rental",
         "fallbackQuery": "Montreal downtown architecture",
@@ -3850,13 +3577,6 @@
         "fallbackQuery": "Montreal cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Montreal, Canada — bars"
-      },
-      {
-        "key": "bestman/cities/montreal-ca/activities",
-        "query": "Montreal Canada outdoor adventure",
-        "fallbackQuery": "Montreal outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Montreal, Canada — activities"
       },
       {
         "key": "bestman/cities/new-york-ny/lodging",
@@ -3880,13 +3600,6 @@
         "label": "bestman/New York, NY — bars"
       },
       {
-        "key": "bestman/cities/new-york-ny/activities",
-        "query": "New York outdoor adventure",
-        "fallbackQuery": "New York outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/New York, NY — activities"
-      },
-      {
         "key": "bestman/cities/boston-ma/lodging",
         "query": "Boston Massachusetts vacation rental",
         "fallbackQuery": "Boston downtown architecture",
@@ -3906,13 +3619,6 @@
         "fallbackQuery": "Boston cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Boston, MA — bars"
-      },
-      {
-        "key": "bestman/cities/boston-ma/activities",
-        "query": "Boston Massachusetts outdoor adventure",
-        "fallbackQuery": "Boston outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Boston, MA — activities"
       },
       {
         "key": "bestman/cities/philadelphia-pa/lodging",
@@ -3936,13 +3642,6 @@
         "label": "bestman/Philadelphia, PA — bars"
       },
       {
-        "key": "bestman/cities/philadelphia-pa/activities",
-        "query": "Philadelphia Pennsylvania outdoor adventure",
-        "fallbackQuery": "Philadelphia outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Philadelphia, PA — activities"
-      },
-      {
         "key": "bestman/cities/pittsburgh-pa/lodging",
         "query": "Pittsburgh Pennsylvania vacation rental",
         "fallbackQuery": "Pittsburgh downtown architecture",
@@ -3962,13 +3661,6 @@
         "fallbackQuery": "Pittsburgh cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Pittsburgh, PA — bars"
-      },
-      {
-        "key": "bestman/cities/pittsburgh-pa/activities",
-        "query": "Pittsburgh Pennsylvania outdoor adventure",
-        "fallbackQuery": "Pittsburgh outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Pittsburgh, PA — activities"
       },
       {
         "key": "bestman/cities/minneapolis-mn/lodging",
@@ -3992,13 +3684,6 @@
         "label": "bestman/Minneapolis, MN — bars"
       },
       {
-        "key": "bestman/cities/minneapolis-mn/activities",
-        "query": "Minneapolis Minnesota outdoor adventure",
-        "fallbackQuery": "Minneapolis outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Minneapolis, MN — activities"
-      },
-      {
         "key": "bestman/cities/milwaukee-wi/lodging",
         "query": "Milwaukee Wisconsin vacation rental",
         "fallbackQuery": "Milwaukee downtown architecture",
@@ -4018,13 +3703,6 @@
         "fallbackQuery": "Milwaukee cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Milwaukee, WI — bars"
-      },
-      {
-        "key": "bestman/cities/milwaukee-wi/activities",
-        "query": "Milwaukee Wisconsin outdoor adventure",
-        "fallbackQuery": "Milwaukee outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Milwaukee, WI — activities"
       },
       {
         "key": "bestman/cities/detroit-mi/lodging",
@@ -4048,13 +3726,6 @@
         "label": "bestman/Detroit, MI — bars"
       },
       {
-        "key": "bestman/cities/detroit-mi/activities",
-        "query": "Detroit Michigan outdoor adventure",
-        "fallbackQuery": "Detroit outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Detroit, MI — activities"
-      },
-      {
         "key": "bestman/cities/san-francisco-ca/lodging",
         "query": "San Francisco California vacation rental",
         "fallbackQuery": "San Francisco downtown architecture",
@@ -4074,13 +3745,6 @@
         "fallbackQuery": "San Francisco cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/San Francisco, CA — bars"
-      },
-      {
-        "key": "bestman/cities/san-francisco-ca/activities",
-        "query": "San Francisco California outdoor adventure",
-        "fallbackQuery": "San Francisco outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/San Francisco, CA — activities"
       },
       {
         "key": "bestman/cities/los-angeles-ca/lodging",
@@ -4104,13 +3768,6 @@
         "label": "bestman/Los Angeles, CA — bars"
       },
       {
-        "key": "bestman/cities/los-angeles-ca/activities",
-        "query": "Los Angeles California outdoor adventure",
-        "fallbackQuery": "Los Angeles outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Los Angeles, CA — activities"
-      },
-      {
         "key": "bestman/cities/seattle-wa/lodging",
         "query": "Seattle Washington vacation rental",
         "fallbackQuery": "Seattle downtown architecture",
@@ -4130,13 +3787,6 @@
         "fallbackQuery": "Seattle cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Seattle, WA — bars"
-      },
-      {
-        "key": "bestman/cities/seattle-wa/activities",
-        "query": "Seattle Washington outdoor adventure",
-        "fallbackQuery": "Seattle outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Seattle, WA — activities"
       },
       {
         "key": "bestman/cities/san-antonio-tx/lodging",
@@ -4160,13 +3810,6 @@
         "label": "bestman/San Antonio, TX — bars"
       },
       {
-        "key": "bestman/cities/san-antonio-tx/activities",
-        "query": "San Antonio Texas outdoor adventure",
-        "fallbackQuery": "San Antonio outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/San Antonio, TX — activities"
-      },
-      {
         "key": "bestman/cities/memphis-tn/lodging",
         "query": "Memphis Tennessee vacation rental",
         "fallbackQuery": "Memphis downtown architecture",
@@ -4186,13 +3829,6 @@
         "fallbackQuery": "Memphis cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Memphis, TN — bars"
-      },
-      {
-        "key": "bestman/cities/memphis-tn/activities",
-        "query": "Memphis Tennessee outdoor adventure",
-        "fallbackQuery": "Memphis outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Memphis, TN — activities"
       },
       {
         "key": "bestman/cities/louisville-ky/lodging",
@@ -4216,13 +3852,6 @@
         "label": "bestman/Louisville, KY — bars"
       },
       {
-        "key": "bestman/cities/louisville-ky/activities",
-        "query": "Louisville Kentucky outdoor adventure",
-        "fallbackQuery": "Louisville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Louisville, KY — activities"
-      },
-      {
         "key": "bestman/cities/gatlinburg-tn/lodging",
         "query": "Gatlinburg Tennessee vacation rental",
         "fallbackQuery": "Gatlinburg downtown architecture",
@@ -4242,13 +3871,6 @@
         "fallbackQuery": "Gatlinburg cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Gatlinburg, TN — bars"
-      },
-      {
-        "key": "bestman/cities/gatlinburg-tn/activities",
-        "query": "Gatlinburg Tennessee outdoor adventure",
-        "fallbackQuery": "Gatlinburg outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Gatlinburg, TN — activities"
       },
       {
         "key": "bestman/cities/atlantic-city-nj/lodging",
@@ -4272,13 +3894,6 @@
         "label": "bestman/Atlantic City, NJ — bars"
       },
       {
-        "key": "bestman/cities/atlantic-city-nj/activities",
-        "query": "Atlantic City New Jersey outdoor adventure",
-        "fallbackQuery": "Atlantic City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Atlantic City, NJ — activities"
-      },
-      {
         "key": "bestman/cities/st-augustine-fl/lodging",
         "query": "St. Augustine Florida vacation rental",
         "fallbackQuery": "St. Augustine downtown architecture",
@@ -4298,13 +3913,6 @@
         "fallbackQuery": "St. Augustine cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/St. Augustine, FL — bars"
-      },
-      {
-        "key": "bestman/cities/st-augustine-fl/activities",
-        "query": "St. Augustine Florida outdoor adventure",
-        "fallbackQuery": "St. Augustine outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/St. Augustine, FL — activities"
       },
       {
         "key": "bestman/cities/lake-of-the-ozarks-mo/lodging",
@@ -4328,13 +3936,6 @@
         "label": "bestman/Lake of the Ozarks, MO — bars"
       },
       {
-        "key": "bestman/cities/lake-of-the-ozarks-mo/activities",
-        "query": "Lake of the Ozarks outdoor adventure",
-        "fallbackQuery": "Lake of the Ozarks outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake of the Ozarks, MO — activities"
-      },
-      {
         "key": "bestman/cities/honolulu-hi/lodging",
         "query": "Honolulu Hawaii vacation rental",
         "fallbackQuery": "Honolulu downtown architecture",
@@ -4354,13 +3955,6 @@
         "fallbackQuery": "Honolulu cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Honolulu, HI — bars"
-      },
-      {
-        "key": "bestman/cities/honolulu-hi/activities",
-        "query": "Honolulu Hawaii outdoor adventure",
-        "fallbackQuery": "Honolulu outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Honolulu, HI — activities"
       },
       {
         "key": "bestman/cities/raleigh-durham-nc/lodging",
@@ -4384,13 +3978,6 @@
         "label": "bestman/Raleigh-Durham, NC — bars"
       },
       {
-        "key": "bestman/cities/raleigh-durham-nc/activities",
-        "query": "Raleigh-Durham North Carolina outdoor adventure",
-        "fallbackQuery": "Raleigh-Durham outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Raleigh-Durham, NC — activities"
-      },
-      {
         "key": "bestman/cities/jacksonville-fl/lodging",
         "query": "Jacksonville Florida vacation rental",
         "fallbackQuery": "Jacksonville downtown architecture",
@@ -4410,13 +3997,6 @@
         "fallbackQuery": "Jacksonville cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Jacksonville, FL — bars"
-      },
-      {
-        "key": "bestman/cities/jacksonville-fl/activities",
-        "query": "Jacksonville Florida outdoor adventure",
-        "fallbackQuery": "Jacksonville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Jacksonville, FL — activities"
       },
       {
         "key": "bestman/cities/outer-banks-nc/lodging",
@@ -4440,13 +4020,6 @@
         "label": "bestman/Outer Banks, NC — bars"
       },
       {
-        "key": "bestman/cities/outer-banks-nc/activities",
-        "query": "Outer Banks North Carolina outdoor adventure",
-        "fallbackQuery": "Outer Banks outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Outer Banks, NC — activities"
-      },
-      {
         "key": "bestman/cities/aspen-co/lodging",
         "query": "Aspen Colorado vacation rental",
         "fallbackQuery": "Aspen downtown architecture",
@@ -4466,13 +4039,6 @@
         "fallbackQuery": "Aspen cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Aspen, CO — bars"
-      },
-      {
-        "key": "bestman/cities/aspen-co/activities",
-        "query": "Aspen Colorado outdoor adventure",
-        "fallbackQuery": "Aspen outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Aspen, CO — activities"
       },
       {
         "key": "bestman/cities/moab-ut/lodging",
@@ -4496,13 +4062,6 @@
         "label": "bestman/Moab, UT — bars"
       },
       {
-        "key": "bestman/cities/moab-ut/activities",
-        "query": "Moab Utah outdoor adventure",
-        "fallbackQuery": "Moab outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Moab, UT — activities"
-      },
-      {
         "key": "bestman/cities/fredericksburg-tx/lodging",
         "query": "Fredericksburg Texas vacation rental",
         "fallbackQuery": "Fredericksburg downtown architecture",
@@ -4522,13 +4081,6 @@
         "fallbackQuery": "Fredericksburg cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Fredericksburg, TX — bars"
-      },
-      {
-        "key": "bestman/cities/fredericksburg-tx/activities",
-        "query": "Fredericksburg Texas outdoor adventure",
-        "fallbackQuery": "Fredericksburg outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Fredericksburg, TX — activities"
       },
       {
         "key": "bestman/cities/oklahoma-city-ok/lodging",
@@ -4552,13 +4104,6 @@
         "label": "bestman/Oklahoma City, OK — bars"
       },
       {
-        "key": "bestman/cities/oklahoma-city-ok/activities",
-        "query": "Oklahoma City outdoor adventure",
-        "fallbackQuery": "Oklahoma City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Oklahoma City, OK — activities"
-      },
-      {
         "key": "bestman/cities/jackson-hole-wy/lodging",
         "query": "Jackson Hole Wyoming vacation rental",
         "fallbackQuery": "Jackson Hole downtown architecture",
@@ -4578,13 +4123,6 @@
         "fallbackQuery": "Jackson Hole cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Jackson Hole, WY — bars"
-      },
-      {
-        "key": "bestman/cities/jackson-hole-wy/activities",
-        "query": "Jackson Hole Wyoming outdoor adventure",
-        "fallbackQuery": "Jackson Hole outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Jackson Hole, WY — activities"
       },
       {
         "key": "bestman/cities/washington-dc/lodging",
@@ -4608,13 +4146,6 @@
         "label": "bestman/Washington, DC — bars"
       },
       {
-        "key": "bestman/cities/washington-dc/activities",
-        "query": "Washington DC outdoor adventure",
-        "fallbackQuery": "Washington outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Washington, DC — activities"
-      },
-      {
         "key": "bestman/cities/breckenridge-co/lodging",
         "query": "Breckenridge Colorado vacation rental",
         "fallbackQuery": "Breckenridge downtown architecture",
@@ -4634,13 +4165,6 @@
         "fallbackQuery": "Breckenridge cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Breckenridge, CO — bars"
-      },
-      {
-        "key": "bestman/cities/breckenridge-co/activities",
-        "query": "Breckenridge Colorado outdoor adventure",
-        "fallbackQuery": "Breckenridge outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Breckenridge, CO — activities"
       },
       {
         "key": "bestman/cities/steamboat-springs-co/lodging",
@@ -4664,13 +4188,6 @@
         "label": "bestman/Steamboat Springs, CO — bars"
       },
       {
-        "key": "bestman/cities/steamboat-springs-co/activities",
-        "query": "Steamboat Springs Colorado outdoor adventure",
-        "fallbackQuery": "Steamboat Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Steamboat Springs, CO — activities"
-      },
-      {
         "key": "bestman/cities/telluride-co/lodging",
         "query": "Telluride Colorado vacation rental",
         "fallbackQuery": "Telluride downtown architecture",
@@ -4690,13 +4207,6 @@
         "fallbackQuery": "Telluride cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Telluride, CO — bars"
-      },
-      {
-        "key": "bestman/cities/telluride-co/activities",
-        "query": "Telluride Colorado outdoor adventure",
-        "fallbackQuery": "Telluride outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Telluride, CO — activities"
       },
       {
         "key": "bestman/cities/big-sky-mt/lodging",
@@ -4720,13 +4230,6 @@
         "label": "bestman/Big Sky, MT — bars"
       },
       {
-        "key": "bestman/cities/big-sky-mt/activities",
-        "query": "Big Sky Montana outdoor adventure",
-        "fallbackQuery": "Big Sky outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Big Sky, MT — activities"
-      },
-      {
         "key": "bestman/cities/bozeman-mt/lodging",
         "query": "Bozeman Montana vacation rental",
         "fallbackQuery": "Bozeman downtown architecture",
@@ -4746,13 +4249,6 @@
         "fallbackQuery": "Bozeman cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Bozeman, MT — bars"
-      },
-      {
-        "key": "bestman/cities/bozeman-mt/activities",
-        "query": "Bozeman Montana outdoor adventure",
-        "fallbackQuery": "Bozeman outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Bozeman, MT — activities"
       },
       {
         "key": "bestman/cities/durango-co/lodging",
@@ -4776,13 +4272,6 @@
         "label": "bestman/Durango, CO — bars"
       },
       {
-        "key": "bestman/cities/durango-co/activities",
-        "query": "Durango Colorado outdoor adventure",
-        "fallbackQuery": "Durango outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Durango, CO — activities"
-      },
-      {
         "key": "bestman/cities/whitefish-mt/lodging",
         "query": "Whitefish Montana vacation rental",
         "fallbackQuery": "Whitefish downtown architecture",
@@ -4802,13 +4291,6 @@
         "fallbackQuery": "Whitefish cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Whitefish, MT — bars"
-      },
-      {
-        "key": "bestman/cities/whitefish-mt/activities",
-        "query": "Whitefish Montana outdoor adventure",
-        "fallbackQuery": "Whitefish outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Whitefish, MT — activities"
       },
       {
         "key": "bestman/cities/sun-valley-id/lodging",
@@ -4832,13 +4314,6 @@
         "label": "bestman/Sun Valley, ID — bars"
       },
       {
-        "key": "bestman/cities/sun-valley-id/activities",
-        "query": "Sun Valley Idaho outdoor adventure",
-        "fallbackQuery": "Sun Valley outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sun Valley, ID — activities"
-      },
-      {
         "key": "bestman/cities/spokane-wa/lodging",
         "query": "Spokane Washington vacation rental",
         "fallbackQuery": "Spokane downtown architecture",
@@ -4858,13 +4333,6 @@
         "fallbackQuery": "Spokane cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Spokane, WA — bars"
-      },
-      {
-        "key": "bestman/cities/spokane-wa/activities",
-        "query": "Spokane Washington outdoor adventure",
-        "fallbackQuery": "Spokane outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Spokane, WA — activities"
       },
       {
         "key": "bestman/cities/eugene-or/lodging",
@@ -4888,13 +4356,6 @@
         "label": "bestman/Eugene, OR — bars"
       },
       {
-        "key": "bestman/cities/eugene-or/activities",
-        "query": "Eugene Oregon outdoor adventure",
-        "fallbackQuery": "Eugene outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Eugene, OR — activities"
-      },
-      {
         "key": "bestman/cities/leavenworth-wa/lodging",
         "query": "Leavenworth Washington vacation rental",
         "fallbackQuery": "Leavenworth downtown architecture",
@@ -4914,13 +4375,6 @@
         "fallbackQuery": "Leavenworth cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Leavenworth, WA — bars"
-      },
-      {
-        "key": "bestman/cities/leavenworth-wa/activities",
-        "query": "Leavenworth Washington outdoor adventure",
-        "fallbackQuery": "Leavenworth outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Leavenworth, WA — activities"
       },
       {
         "key": "bestman/cities/cannon-beach-or/lodging",
@@ -4944,13 +4398,6 @@
         "label": "bestman/Cannon Beach, OR — bars"
       },
       {
-        "key": "bestman/cities/cannon-beach-or/activities",
-        "query": "Cannon Beach Oregon outdoor adventure",
-        "fallbackQuery": "Cannon Beach outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cannon Beach, OR — activities"
-      },
-      {
         "key": "bestman/cities/walla-walla-wa/lodging",
         "query": "Walla Walla Washington vacation rental",
         "fallbackQuery": "Walla Walla downtown architecture",
@@ -4970,13 +4417,6 @@
         "fallbackQuery": "Walla Walla cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Walla Walla, WA — bars"
-      },
-      {
-        "key": "bestman/cities/walla-walla-wa/activities",
-        "query": "Walla Walla Washington outdoor adventure",
-        "fallbackQuery": "Walla Walla outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Walla Walla, WA — activities"
       },
       {
         "key": "bestman/cities/hood-river-or/lodging",
@@ -5000,13 +4440,6 @@
         "label": "bestman/Hood River, OR — bars"
       },
       {
-        "key": "bestman/cities/hood-river-or/activities",
-        "query": "Hood River Oregon outdoor adventure",
-        "fallbackQuery": "Hood River outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Hood River, OR — activities"
-      },
-      {
         "key": "bestman/cities/kansas-city-mo/lodging",
         "query": "Kansas City Missouri vacation rental",
         "fallbackQuery": "Kansas City downtown architecture",
@@ -5026,13 +4459,6 @@
         "fallbackQuery": "Kansas City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Kansas City, MO — bars"
-      },
-      {
-        "key": "bestman/cities/kansas-city-mo/activities",
-        "query": "Kansas City Missouri outdoor adventure",
-        "fallbackQuery": "Kansas City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Kansas City, MO — activities"
       },
       {
         "key": "bestman/cities/indianapolis-in/lodging",
@@ -5056,13 +4482,6 @@
         "label": "bestman/Indianapolis, IN — bars"
       },
       {
-        "key": "bestman/cities/indianapolis-in/activities",
-        "query": "Indianapolis outdoor adventure",
-        "fallbackQuery": "Indianapolis outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Indianapolis, IN — activities"
-      },
-      {
         "key": "bestman/cities/st-louis-mo/lodging",
         "query": "St. Louis Missouri vacation rental",
         "fallbackQuery": "St. Louis downtown architecture",
@@ -5082,13 +4501,6 @@
         "fallbackQuery": "St. Louis cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/St. Louis, MO — bars"
-      },
-      {
-        "key": "bestman/cities/st-louis-mo/activities",
-        "query": "St. Louis Missouri outdoor adventure",
-        "fallbackQuery": "St. Louis outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/St. Louis, MO — activities"
       },
       {
         "key": "bestman/cities/cincinnati-oh/lodging",
@@ -5112,13 +4524,6 @@
         "label": "bestman/Cincinnati, OH — bars"
       },
       {
-        "key": "bestman/cities/cincinnati-oh/activities",
-        "query": "Cincinnati Ohio outdoor adventure",
-        "fallbackQuery": "Cincinnati outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cincinnati, OH — activities"
-      },
-      {
         "key": "bestman/cities/cleveland-oh/lodging",
         "query": "Cleveland Ohio vacation rental",
         "fallbackQuery": "Cleveland downtown architecture",
@@ -5138,13 +4543,6 @@
         "fallbackQuery": "Cleveland cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Cleveland, OH — bars"
-      },
-      {
-        "key": "bestman/cities/cleveland-oh/activities",
-        "query": "Cleveland Ohio outdoor adventure",
-        "fallbackQuery": "Cleveland outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cleveland, OH — activities"
       },
       {
         "key": "bestman/cities/columbus-oh/lodging",
@@ -5168,13 +4566,6 @@
         "label": "bestman/Columbus, OH — bars"
       },
       {
-        "key": "bestman/cities/columbus-oh/activities",
-        "query": "Columbus Ohio outdoor adventure",
-        "fallbackQuery": "Columbus outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Columbus, OH — activities"
-      },
-      {
         "key": "bestman/cities/baltimore-md/lodging",
         "query": "Baltimore Maryland vacation rental",
         "fallbackQuery": "Baltimore downtown architecture",
@@ -5194,13 +4585,6 @@
         "fallbackQuery": "Baltimore cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Baltimore, MD — bars"
-      },
-      {
-        "key": "bestman/cities/baltimore-md/activities",
-        "query": "Baltimore Maryland outdoor adventure",
-        "fallbackQuery": "Baltimore outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Baltimore, MD — activities"
       },
       {
         "key": "bestman/cities/providence-ri/lodging",
@@ -5224,13 +4608,6 @@
         "label": "bestman/Providence, RI — bars"
       },
       {
-        "key": "bestman/cities/providence-ri/activities",
-        "query": "Providence Rhode Island outdoor adventure",
-        "fallbackQuery": "Providence outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Providence, RI — activities"
-      },
-      {
         "key": "bestman/cities/portland-me/lodging",
         "query": "Portland Maine vacation rental",
         "fallbackQuery": "Portland downtown architecture",
@@ -5250,13 +4627,6 @@
         "fallbackQuery": "Portland cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Portland, ME — bars"
-      },
-      {
-        "key": "bestman/cities/portland-me/activities",
-        "query": "Portland Maine outdoor adventure",
-        "fallbackQuery": "Portland outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Portland, ME — activities"
       },
       {
         "key": "bestman/cities/montauk-ny/lodging",
@@ -5280,13 +4650,6 @@
         "label": "bestman/Montauk, NY — bars"
       },
       {
-        "key": "bestman/cities/montauk-ny/activities",
-        "query": "Montauk New York outdoor adventure",
-        "fallbackQuery": "Montauk outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Montauk, NY — activities"
-      },
-      {
         "key": "bestman/cities/knoxville-tn/lodging",
         "query": "Knoxville Tennessee vacation rental",
         "fallbackQuery": "Knoxville downtown architecture",
@@ -5306,13 +4669,6 @@
         "fallbackQuery": "Knoxville cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Knoxville, TN — bars"
-      },
-      {
-        "key": "bestman/cities/knoxville-tn/activities",
-        "query": "Knoxville Tennessee outdoor adventure",
-        "fallbackQuery": "Knoxville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Knoxville, TN — activities"
       },
       {
         "key": "bestman/cities/burlington-vt/lodging",
@@ -5336,13 +4692,6 @@
         "label": "bestman/Burlington, VT — bars"
       },
       {
-        "key": "bestman/cities/burlington-vt/activities",
-        "query": "Burlington Vermont outdoor adventure",
-        "fallbackQuery": "Burlington outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Burlington, VT — activities"
-      },
-      {
         "key": "bestman/cities/stowe-vt/lodging",
         "query": "Stowe Vermont vacation rental",
         "fallbackQuery": "Stowe downtown architecture",
@@ -5362,13 +4711,6 @@
         "fallbackQuery": "Stowe cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Stowe, VT — bars"
-      },
-      {
-        "key": "bestman/cities/stowe-vt/activities",
-        "query": "Stowe Vermont outdoor adventure",
-        "fallbackQuery": "Stowe outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Stowe, VT — activities"
       },
       {
         "key": "bestman/cities/block-island-ri/lodging",
@@ -5392,13 +4734,6 @@
         "label": "bestman/Block Island, RI — bars"
       },
       {
-        "key": "bestman/cities/block-island-ri/activities",
-        "query": "Block Island Rhode Island outdoor adventure",
-        "fallbackQuery": "Block Island outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Block Island, RI — activities"
-      },
-      {
         "key": "bestman/cities/tucson-az/lodging",
         "query": "Tucson Arizona vacation rental",
         "fallbackQuery": "Tucson downtown architecture",
@@ -5418,13 +4753,6 @@
         "fallbackQuery": "Tucson cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Tucson, AZ — bars"
-      },
-      {
-        "key": "bestman/cities/tucson-az/activities",
-        "query": "Tucson Arizona outdoor adventure",
-        "fallbackQuery": "Tucson outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tucson, AZ — activities"
       },
       {
         "key": "bestman/cities/flagstaff-az/lodging",
@@ -5448,13 +4776,6 @@
         "label": "bestman/Flagstaff, AZ — bars"
       },
       {
-        "key": "bestman/cities/flagstaff-az/activities",
-        "query": "Flagstaff Arizona outdoor adventure",
-        "fallbackQuery": "Flagstaff outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Flagstaff, AZ — activities"
-      },
-      {
         "key": "bestman/cities/galena-il/lodging",
         "query": "Galena Illinois vacation rental",
         "fallbackQuery": "Galena downtown architecture",
@@ -5474,13 +4795,6 @@
         "fallbackQuery": "Galena cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Galena, IL — bars"
-      },
-      {
-        "key": "bestman/cities/galena-il/activities",
-        "query": "Galena Illinois outdoor adventure",
-        "fallbackQuery": "Galena outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Galena, IL — activities"
       },
       {
         "key": "bestman/cities/cody-wy/lodging",
@@ -5504,13 +4818,6 @@
         "label": "bestman/Cody, WY — bars"
       },
       {
-        "key": "bestman/cities/cody-wy/activities",
-        "query": "Cody Wyoming outdoor adventure",
-        "fallbackQuery": "Cody outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cody, WY — activities"
-      },
-      {
         "key": "bestman/cities/provincetown-ma/lodging",
         "query": "Provincetown Massachusetts vacation rental",
         "fallbackQuery": "Provincetown downtown architecture",
@@ -5530,13 +4837,6 @@
         "fallbackQuery": "Provincetown cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Provincetown, MA — bars"
-      },
-      {
-        "key": "bestman/cities/provincetown-ma/activities",
-        "query": "Provincetown Massachusetts outdoor adventure",
-        "fallbackQuery": "Provincetown outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Provincetown, MA — activities"
       },
       {
         "key": "bestman/cities/greenville-sc/lodging",
@@ -5560,13 +4860,6 @@
         "label": "bestman/Greenville, SC — bars"
       },
       {
-        "key": "bestman/cities/greenville-sc/activities",
-        "query": "Greenville South Carolina outdoor adventure",
-        "fallbackQuery": "Greenville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Greenville, SC — activities"
-      },
-      {
         "key": "bestman/cities/lake-george-ny/lodging",
         "query": "Lake George New York vacation rental",
         "fallbackQuery": "Lake George downtown architecture",
@@ -5586,13 +4879,6 @@
         "fallbackQuery": "Lake George cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Lake George, NY — bars"
-      },
-      {
-        "key": "bestman/cities/lake-george-ny/activities",
-        "query": "Lake George New York outdoor adventure",
-        "fallbackQuery": "Lake George outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake George, NY — activities"
       },
       {
         "key": "bestman/cities/hot-springs-ar/lodging",
@@ -5616,13 +4902,6 @@
         "label": "bestman/Hot Springs, AR — bars"
       },
       {
-        "key": "bestman/cities/hot-springs-ar/activities",
-        "query": "Hot Springs Arkansas outdoor adventure",
-        "fallbackQuery": "Hot Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Hot Springs, AR — activities"
-      },
-      {
         "key": "bestman/cities/beaufort-sc/lodging",
         "query": "Beaufort South Carolina vacation rental",
         "fallbackQuery": "Beaufort downtown architecture",
@@ -5642,13 +4921,6 @@
         "fallbackQuery": "Beaufort cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Beaufort, SC — bars"
-      },
-      {
-        "key": "bestman/cities/beaufort-sc/activities",
-        "query": "Beaufort South Carolina outdoor adventure",
-        "fallbackQuery": "Beaufort outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Beaufort, SC — activities"
       },
       {
         "key": "bestman/cities/eureka-springs-ar/lodging",
@@ -5672,13 +4944,6 @@
         "label": "bestman/Eureka Springs, AR — bars"
       },
       {
-        "key": "bestman/cities/eureka-springs-ar/activities",
-        "query": "Eureka Springs Arkansas outdoor adventure",
-        "fallbackQuery": "Eureka Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Eureka Springs, AR — activities"
-      },
-      {
         "key": "bestman/cities/ocean-city-md/lodging",
         "query": "Ocean City Maryland vacation rental",
         "fallbackQuery": "Ocean City downtown architecture",
@@ -5698,13 +4963,6 @@
         "fallbackQuery": "Ocean City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Ocean City, MD — bars"
-      },
-      {
-        "key": "bestman/cities/ocean-city-md/activities",
-        "query": "Ocean City Maryland outdoor adventure",
-        "fallbackQuery": "Ocean City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Ocean City, MD — activities"
       },
       {
         "key": "bestman/cities/rehoboth-beach-de/lodging",
@@ -5728,13 +4986,6 @@
         "label": "bestman/Rehoboth Beach, DE — bars"
       },
       {
-        "key": "bestman/cities/rehoboth-beach-de/activities",
-        "query": "Rehoboth Beach Delaware outdoor adventure",
-        "fallbackQuery": "Rehoboth Beach outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Rehoboth Beach, DE — activities"
-      },
-      {
         "key": "bestman/cities/door-county-wi/lodging",
         "query": "Door County Wisconsin vacation rental",
         "fallbackQuery": "Door County downtown architecture",
@@ -5754,13 +5005,6 @@
         "fallbackQuery": "Door County cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Door County, WI — bars"
-      },
-      {
-        "key": "bestman/cities/door-county-wi/activities",
-        "query": "Door County Wisconsin outdoor adventure",
-        "fallbackQuery": "Door County outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Door County, WI — activities"
       },
       {
         "key": "bestman/cities/mackinac-island-mi/lodging",
@@ -5784,13 +5028,6 @@
         "label": "bestman/Mackinac Island, MI — bars"
       },
       {
-        "key": "bestman/cities/mackinac-island-mi/activities",
-        "query": "Mackinac Island Michigan outdoor adventure",
-        "fallbackQuery": "Mackinac Island outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mackinac Island, MI — activities"
-      },
-      {
         "key": "bestman/cities/coeur-dalene-id/lodging",
         "query": "Coeur d'Alene Idaho vacation rental",
         "fallbackQuery": "Coeur d'Alene downtown architecture",
@@ -5810,13 +5047,6 @@
         "fallbackQuery": "Coeur d'Alene cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Coeur d'Alene, ID — bars"
-      },
-      {
-        "key": "bestman/cities/coeur-dalene-id/activities",
-        "query": "Coeur d'Alene Idaho outdoor adventure",
-        "fallbackQuery": "Coeur d'Alene outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Coeur d'Alene, ID — activities"
       },
       {
         "key": "bestman/cities/black-hills-sd/lodging",
@@ -5840,13 +5070,6 @@
         "label": "bestman/Black Hills, SD — bars"
       },
       {
-        "key": "bestman/cities/black-hills-sd/activities",
-        "query": "Black Hills South Dakota outdoor adventure",
-        "fallbackQuery": "Black Hills outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Black Hills, SD — activities"
-      },
-      {
         "key": "bestman/cities/big-bear-lake-ca/lodging",
         "query": "Big Bear Lake vacation rental",
         "fallbackQuery": "Big Bear Lake downtown architecture",
@@ -5866,13 +5089,6 @@
         "fallbackQuery": "Big Bear Lake cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Big Bear Lake, CA — bars"
-      },
-      {
-        "key": "bestman/cities/big-bear-lake-ca/activities",
-        "query": "Big Bear Lake outdoor adventure",
-        "fallbackQuery": "Big Bear Lake outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Big Bear Lake, CA — activities"
       },
       {
         "key": "bestman/cities/gulfport-ms/lodging",
@@ -5896,13 +5112,6 @@
         "label": "bestman/Gulfport, MS — bars"
       },
       {
-        "key": "bestman/cities/gulfport-ms/activities",
-        "query": "Gulfport Mississippi outdoor adventure",
-        "fallbackQuery": "Gulfport outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Gulfport, MS — activities"
-      },
-      {
         "key": "bestman/cities/branson-mo/lodging",
         "query": "Branson Missouri vacation rental",
         "fallbackQuery": "Branson downtown architecture",
@@ -5922,13 +5131,6 @@
         "fallbackQuery": "Branson cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Branson, MO — bars"
-      },
-      {
-        "key": "bestman/cities/branson-mo/activities",
-        "query": "Branson Missouri outdoor adventure",
-        "fallbackQuery": "Branson outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Branson, MO — activities"
       },
       {
         "key": "bestman/cities/lexington-ky/lodging",
@@ -5952,13 +5154,6 @@
         "label": "bestman/Lexington, KY — bars"
       },
       {
-        "key": "bestman/cities/lexington-ky/activities",
-        "query": "Lexington Kentucky outdoor adventure",
-        "fallbackQuery": "Lexington outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lexington, KY — activities"
-      },
-      {
         "key": "bestman/cities/mendocino-ca/lodging",
         "query": "Mendocino California vacation rental",
         "fallbackQuery": "Mendocino downtown architecture",
@@ -5978,13 +5173,6 @@
         "fallbackQuery": "Mendocino cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Mendocino, CA — bars"
-      },
-      {
-        "key": "bestman/cities/mendocino-ca/activities",
-        "query": "Mendocino California outdoor adventure",
-        "fallbackQuery": "Mendocino outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mendocino, CA — activities"
       },
       {
         "key": "bestman/cities/nantucket-ma/lodging",
@@ -6008,13 +5196,6 @@
         "label": "bestman/Nantucket, MA — bars"
       },
       {
-        "key": "bestman/cities/nantucket-ma/activities",
-        "query": "Nantucket Massachusetts outdoor adventure",
-        "fallbackQuery": "Nantucket outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Nantucket, MA — activities"
-      },
-      {
         "key": "bestman/cities/marthas-vineyard-ma/lodging",
         "query": "Martha's Vineyard Massachusetts vacation rental",
         "fallbackQuery": "Martha's Vineyard downtown architecture",
@@ -6034,13 +5215,6 @@
         "fallbackQuery": "Martha's Vineyard cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Martha's Vineyard, MA — bars"
-      },
-      {
-        "key": "bestman/cities/marthas-vineyard-ma/activities",
-        "query": "Martha's Vineyard Massachusetts outdoor adventure",
-        "fallbackQuery": "Martha's Vineyard outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Martha's Vineyard, MA — activities"
       },
       {
         "key": "bestman/cities/newport-ri/lodging",
@@ -6064,13 +5238,6 @@
         "label": "bestman/Newport, RI — bars"
       },
       {
-        "key": "bestman/cities/newport-ri/activities",
-        "query": "Newport Rhode Island outdoor adventure",
-        "fallbackQuery": "Newport outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Newport, RI — activities"
-      },
-      {
         "key": "bestman/cities/kennebunkport-me/lodging",
         "query": "Kennebunkport Maine vacation rental",
         "fallbackQuery": "Kennebunkport downtown architecture",
@@ -6090,13 +5257,6 @@
         "fallbackQuery": "Kennebunkport cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Kennebunkport, ME — bars"
-      },
-      {
-        "key": "bestman/cities/kennebunkport-me/activities",
-        "query": "Kennebunkport Maine outdoor adventure",
-        "fallbackQuery": "Kennebunkport outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Kennebunkport, ME — activities"
       },
       {
         "key": "bestman/cities/cape-cod-ma/lodging",
@@ -6120,13 +5280,6 @@
         "label": "bestman/Cape Cod, MA — bars"
       },
       {
-        "key": "bestman/cities/cape-cod-ma/activities",
-        "query": "Cape Cod Massachusetts outdoor adventure",
-        "fallbackQuery": "Cape Cod outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cape Cod, MA — activities"
-      },
-      {
         "key": "bestman/cities/carmel-ca/lodging",
         "query": "Carmel-by-the-Sea California vacation rental",
         "fallbackQuery": "Carmel-by-the-Sea downtown architecture",
@@ -6146,13 +5299,6 @@
         "fallbackQuery": "Carmel-by-the-Sea cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Carmel-by-the-Sea, CA — bars"
-      },
-      {
-        "key": "bestman/cities/carmel-ca/activities",
-        "query": "Carmel-by-the-Sea California outdoor adventure",
-        "fallbackQuery": "Carmel-by-the-Sea outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Carmel-by-the-Sea, CA — activities"
       },
       {
         "key": "bestman/cities/finger-lakes-ny/lodging",
@@ -6176,13 +5322,6 @@
         "label": "bestman/Finger Lakes, NY — bars"
       },
       {
-        "key": "bestman/cities/finger-lakes-ny/activities",
-        "query": "Finger Lakes New York outdoor adventure",
-        "fallbackQuery": "Finger Lakes outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Finger Lakes, NY — activities"
-      },
-      {
         "key": "bestman/cities/fort-worth-tx/lodging",
         "query": "Fort Worth Texas vacation rental",
         "fallbackQuery": "Fort Worth downtown architecture",
@@ -6202,13 +5341,6 @@
         "fallbackQuery": "Fort Worth cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Fort Worth, TX — bars"
-      },
-      {
-        "key": "bestman/cities/fort-worth-tx/activities",
-        "query": "Fort Worth Texas outdoor adventure",
-        "fallbackQuery": "Fort Worth outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Fort Worth, TX — activities"
       },
       {
         "key": "bestman/cities/hamptons-ny/lodging",
@@ -6232,13 +5364,6 @@
         "label": "bestman/The Hamptons, NY — bars"
       },
       {
-        "key": "bestman/cities/hamptons-ny/activities",
-        "query": "The Hamptons New York outdoor adventure",
-        "fallbackQuery": "The Hamptons outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/The Hamptons, NY — activities"
-      },
-      {
         "key": "bestman/cities/hudson-valley-ny/lodging",
         "query": "Hudson Valley New York vacation rental",
         "fallbackQuery": "Hudson Valley downtown architecture",
@@ -6258,13 +5383,6 @@
         "fallbackQuery": "Hudson Valley cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Hudson Valley, NY — bars"
-      },
-      {
-        "key": "bestman/cities/hudson-valley-ny/activities",
-        "query": "Hudson Valley New York outdoor adventure",
-        "fallbackQuery": "Hudson Valley outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Hudson Valley, NY — activities"
       },
       {
         "key": "bestman/cities/kiawah-island-sc/lodging",
@@ -6288,13 +5406,6 @@
         "label": "bestman/Kiawah Island, SC — bars"
       },
       {
-        "key": "bestman/cities/kiawah-island-sc/activities",
-        "query": "Kiawah Island South Carolina outdoor adventure",
-        "fallbackQuery": "Kiawah Island outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Kiawah Island, SC — activities"
-      },
-      {
         "key": "bestman/cities/maui-hi/lodging",
         "query": "Maui Hawaii vacation rental",
         "fallbackQuery": "Maui downtown architecture",
@@ -6314,13 +5425,6 @@
         "fallbackQuery": "Maui cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Maui, HI — bars"
-      },
-      {
-        "key": "bestman/cities/maui-hi/activities",
-        "query": "Maui Hawaii outdoor adventure",
-        "fallbackQuery": "Maui outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Maui, HI — activities"
       },
       {
         "key": "bestman/cities/napa-valley-ca/lodging",
@@ -6344,13 +5448,6 @@
         "label": "bestman/Napa Valley, CA — bars"
       },
       {
-        "key": "bestman/cities/napa-valley-ca/activities",
-        "query": "Napa Valley California outdoor adventure",
-        "fallbackQuery": "Napa Valley outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Napa Valley, CA — activities"
-      },
-      {
         "key": "bestman/cities/oahu-hi/lodging",
         "query": "Oahu Hawaii vacation rental",
         "fallbackQuery": "Oahu downtown architecture",
@@ -6370,13 +5467,6 @@
         "fallbackQuery": "Oahu cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Oahu, HI — bars"
-      },
-      {
-        "key": "bestman/cities/oahu-hi/activities",
-        "query": "Oahu Hawaii outdoor adventure",
-        "fallbackQuery": "Oahu outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Oahu, HI — activities"
       },
       {
         "key": "bestman/cities/santa-fe-nm/lodging",
@@ -6400,13 +5490,6 @@
         "label": "bestman/Santa Fe, NM — bars"
       },
       {
-        "key": "bestman/cities/santa-fe-nm/activities",
-        "query": "Santa Fe New Mexico outdoor adventure",
-        "fallbackQuery": "Santa Fe outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Santa Fe, NM — activities"
-      },
-      {
         "key": "bestman/cities/sonoma-ca/lodging",
         "query": "Sonoma California vacation rental",
         "fallbackQuery": "Sonoma downtown architecture",
@@ -6426,13 +5509,6 @@
         "fallbackQuery": "Sonoma cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Sonoma, CA — bars"
-      },
-      {
-        "key": "bestman/cities/sonoma-ca/activities",
-        "query": "Sonoma California outdoor adventure",
-        "fallbackQuery": "Sonoma outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sonoma, CA — activities"
       },
       {
         "key": "bestman/cities/willamette-valley-or/lodging",
@@ -6456,13 +5532,6 @@
         "label": "bestman/Willamette Valley, OR — bars"
       },
       {
-        "key": "bestman/cities/willamette-valley-or/activities",
-        "query": "Willamette Valley Oregon outdoor adventure",
-        "fallbackQuery": "Willamette Valley outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Willamette Valley, OR — activities"
-      },
-      {
         "key": "bestman/cities/virginia-beach-va/lodging",
         "query": "Virginia Beach vacation rental",
         "fallbackQuery": "Virginia Beach downtown architecture",
@@ -6482,13 +5551,6 @@
         "fallbackQuery": "Virginia Beach cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Virginia Beach, VA — bars"
-      },
-      {
-        "key": "bestman/cities/virginia-beach-va/activities",
-        "query": "Virginia Beach outdoor adventure",
-        "fallbackQuery": "Virginia Beach outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Virginia Beach, VA — activities"
       },
       {
         "key": "bestman/cities/richmond-va/lodging",
@@ -6512,13 +5574,6 @@
         "label": "bestman/Richmond, VA — bars"
       },
       {
-        "key": "bestman/cities/richmond-va/activities",
-        "query": "Richmond Virginia outdoor adventure",
-        "fallbackQuery": "Richmond outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Richmond, VA — activities"
-      },
-      {
         "key": "bestman/cities/norfolk-va/lodging",
         "query": "Norfolk Virginia vacation rental",
         "fallbackQuery": "Norfolk downtown architecture",
@@ -6538,13 +5593,6 @@
         "fallbackQuery": "Norfolk cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Norfolk, VA — bars"
-      },
-      {
-        "key": "bestman/cities/norfolk-va/activities",
-        "query": "Norfolk Virginia outdoor adventure",
-        "fallbackQuery": "Norfolk outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Norfolk, VA — activities"
       },
       {
         "key": "bestman/cities/wilmington-nc/lodging",
@@ -6568,13 +5616,6 @@
         "label": "bestman/Wilmington, NC — bars"
       },
       {
-        "key": "bestman/cities/wilmington-nc/activities",
-        "query": "Wilmington North Carolina outdoor adventure",
-        "fallbackQuery": "Wilmington outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Wilmington, NC — activities"
-      },
-      {
         "key": "bestman/cities/chattanooga-tn/lodging",
         "query": "Chattanooga Tennessee vacation rental",
         "fallbackQuery": "Chattanooga downtown architecture",
@@ -6594,13 +5635,6 @@
         "fallbackQuery": "Chattanooga cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Chattanooga, TN — bars"
-      },
-      {
-        "key": "bestman/cities/chattanooga-tn/activities",
-        "query": "Chattanooga Tennessee outdoor adventure",
-        "fallbackQuery": "Chattanooga outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Chattanooga, TN — activities"
       },
       {
         "key": "bestman/cities/franklin-tn/lodging",
@@ -6624,13 +5658,6 @@
         "label": "bestman/Franklin, TN — bars"
       },
       {
-        "key": "bestman/cities/franklin-tn/activities",
-        "query": "Franklin Tennessee outdoor adventure",
-        "fallbackQuery": "Franklin outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Franklin, TN — activities"
-      },
-      {
         "key": "bestman/cities/birmingham-al/lodging",
         "query": "Birmingham Alabama vacation rental",
         "fallbackQuery": "Birmingham downtown architecture",
@@ -6650,13 +5677,6 @@
         "fallbackQuery": "Birmingham cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Birmingham, AL — bars"
-      },
-      {
-        "key": "bestman/cities/birmingham-al/activities",
-        "query": "Birmingham Alabama outdoor adventure",
-        "fallbackQuery": "Birmingham outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Birmingham, AL — activities"
       },
       {
         "key": "bestman/cities/mobile-al/lodging",
@@ -6680,13 +5700,6 @@
         "label": "bestman/Mobile, AL — bars"
       },
       {
-        "key": "bestman/cities/mobile-al/activities",
-        "query": "Mobile Alabama outdoor adventure",
-        "fallbackQuery": "Mobile outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mobile, AL — activities"
-      },
-      {
         "key": "bestman/cities/pensacola-fl/lodging",
         "query": "Pensacola Florida vacation rental",
         "fallbackQuery": "Pensacola downtown architecture",
@@ -6706,13 +5719,6 @@
         "fallbackQuery": "Pensacola cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Pensacola, FL — bars"
-      },
-      {
-        "key": "bestman/cities/pensacola-fl/activities",
-        "query": "Pensacola Florida outdoor adventure",
-        "fallbackQuery": "Pensacola outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Pensacola, FL — activities"
       },
       {
         "key": "bestman/cities/naples-fl/lodging",
@@ -6736,13 +5742,6 @@
         "label": "bestman/Naples, FL — bars"
       },
       {
-        "key": "bestman/cities/naples-fl/activities",
-        "query": "Naples Florida outdoor adventure",
-        "fallbackQuery": "Naples outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Naples, FL — activities"
-      },
-      {
         "key": "bestman/cities/amelia-island-fl/lodging",
         "query": "Amelia Island Florida vacation rental",
         "fallbackQuery": "Amelia Island downtown architecture",
@@ -6762,13 +5761,6 @@
         "fallbackQuery": "Amelia Island cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Amelia Island, FL — bars"
-      },
-      {
-        "key": "bestman/cities/amelia-island-fl/activities",
-        "query": "Amelia Island Florida outdoor adventure",
-        "fallbackQuery": "Amelia Island outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Amelia Island, FL — activities"
       },
       {
         "key": "bestman/cities/sanibel-fl/lodging",
@@ -6792,13 +5784,6 @@
         "label": "bestman/Sanibel, FL — bars"
       },
       {
-        "key": "bestman/cities/sanibel-fl/activities",
-        "query": "Sanibel Florida outdoor adventure",
-        "fallbackQuery": "Sanibel outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sanibel, FL — activities"
-      },
-      {
         "key": "bestman/cities/tunica-ms/lodging",
         "query": "Tunica Mississippi vacation rental",
         "fallbackQuery": "Tunica downtown architecture",
@@ -6818,13 +5803,6 @@
         "fallbackQuery": "Tunica cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Tunica, MS — bars"
-      },
-      {
-        "key": "bestman/cities/tunica-ms/activities",
-        "query": "Tunica Mississippi outdoor adventure",
-        "fallbackQuery": "Tunica outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tunica, MS — activities"
       },
       {
         "key": "bestman/cities/bentonville-ar/lodging",
@@ -6848,13 +5826,6 @@
         "label": "bestman/Bentonville, AR — bars"
       },
       {
-        "key": "bestman/cities/bentonville-ar/activities",
-        "query": "Bentonville Arkansas outdoor adventure",
-        "fallbackQuery": "Bentonville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Bentonville, AR — activities"
-      },
-      {
         "key": "bestman/cities/columbia-sc/lodging",
         "query": "Columbia South Carolina vacation rental",
         "fallbackQuery": "Columbia downtown architecture",
@@ -6874,13 +5845,6 @@
         "fallbackQuery": "Columbia cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Columbia, SC — bars"
-      },
-      {
-        "key": "bestman/cities/columbia-sc/activities",
-        "query": "Columbia South Carolina outdoor adventure",
-        "fallbackQuery": "Columbia outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Columbia, SC — activities"
       },
       {
         "key": "bestman/cities/shreveport-la/lodging",
@@ -6904,13 +5868,6 @@
         "label": "bestman/Shreveport, LA — bars"
       },
       {
-        "key": "bestman/cities/shreveport-la/activities",
-        "query": "Shreveport Louisiana outdoor adventure",
-        "fallbackQuery": "Shreveport outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Shreveport, LA — activities"
-      },
-      {
         "key": "bestman/cities/punta-cana-do/lodging",
         "query": "Punta Cana Dominican Republic vacation rental",
         "fallbackQuery": "Punta Cana downtown architecture",
@@ -6930,13 +5887,6 @@
         "fallbackQuery": "Punta Cana cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Punta Cana, Dominican Republic — bars"
-      },
-      {
-        "key": "bestman/cities/punta-cana-do/activities",
-        "query": "Punta Cana Dominican Republic outdoor adventure",
-        "fallbackQuery": "Punta Cana outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Punta Cana, Dominican Republic — activities"
       },
       {
         "key": "bestman/cities/nassau-bs/lodging",
@@ -6960,13 +5910,6 @@
         "label": "bestman/Nassau / Paradise Island, Bahamas — bars"
       },
       {
-        "key": "bestman/cities/nassau-bs/activities",
-        "query": "Nassau / Paradise Island outdoor adventure",
-        "fallbackQuery": "Nassau / Paradise Island outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Nassau / Paradise Island, Bahamas — activities"
-      },
-      {
         "key": "bestman/cities/montego-bay-jm/lodging",
         "query": "Montego Bay Jamaica vacation rental",
         "fallbackQuery": "Montego Bay downtown architecture",
@@ -6986,13 +5929,6 @@
         "fallbackQuery": "Montego Bay cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Montego Bay, Jamaica — bars"
-      },
-      {
-        "key": "bestman/cities/montego-bay-jm/activities",
-        "query": "Montego Bay Jamaica outdoor adventure",
-        "fallbackQuery": "Montego Bay outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Montego Bay, Jamaica — activities"
       },
       {
         "key": "bestman/cities/negril-jm/lodging",
@@ -7016,13 +5952,6 @@
         "label": "bestman/Negril, Jamaica — bars"
       },
       {
-        "key": "bestman/cities/negril-jm/activities",
-        "query": "Negril Jamaica outdoor adventure",
-        "fallbackQuery": "Negril outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Negril, Jamaica — activities"
-      },
-      {
         "key": "bestman/cities/playa-del-carmen-mx/lodging",
         "query": "Playa del Carmen vacation rental",
         "fallbackQuery": "Playa del Carmen downtown architecture",
@@ -7042,13 +5971,6 @@
         "fallbackQuery": "Playa del Carmen cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Playa del Carmen, Mexico — bars"
-      },
-      {
-        "key": "bestman/cities/playa-del-carmen-mx/activities",
-        "query": "Playa del Carmen outdoor adventure",
-        "fallbackQuery": "Playa del Carmen outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Playa del Carmen, Mexico — activities"
       },
       {
         "key": "bestman/cities/puerto-vallarta-mx/lodging",
@@ -7072,13 +5994,6 @@
         "label": "bestman/Puerto Vallarta, Mexico — bars"
       },
       {
-        "key": "bestman/cities/puerto-vallarta-mx/activities",
-        "query": "Puerto Vallarta Mexico outdoor adventure",
-        "fallbackQuery": "Puerto Vallarta outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Puerto Vallarta, Mexico — activities"
-      },
-      {
         "key": "bestman/cities/cozumel-mx/lodging",
         "query": "Cozumel Mexico vacation rental",
         "fallbackQuery": "Cozumel downtown architecture",
@@ -7098,13 +6013,6 @@
         "fallbackQuery": "Cozumel cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Cozumel, Mexico — bars"
-      },
-      {
-        "key": "bestman/cities/cozumel-mx/activities",
-        "query": "Cozumel Mexico outdoor adventure",
-        "fallbackQuery": "Cozumel outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cozumel, Mexico — activities"
       },
       {
         "key": "bestman/cities/aruba-aw/lodging",
@@ -7128,13 +6036,6 @@
         "label": "bestman/Aruba, Aruba — bars"
       },
       {
-        "key": "bestman/cities/aruba-aw/activities",
-        "query": "Aruba outdoor adventure",
-        "fallbackQuery": "Aruba outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Aruba, Aruba — activities"
-      },
-      {
         "key": "bestman/cities/providenciales-tc/lodging",
         "query": "Providenciales Turks & Caicos vacation rental",
         "fallbackQuery": "Providenciales downtown architecture",
@@ -7154,13 +6055,6 @@
         "fallbackQuery": "Providenciales cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Providenciales, Turks & Caicos — bars"
-      },
-      {
-        "key": "bestman/cities/providenciales-tc/activities",
-        "query": "Providenciales Turks & Caicos outdoor adventure",
-        "fallbackQuery": "Providenciales outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Providenciales, Turks & Caicos — activities"
       },
       {
         "key": "bestman/cities/bermuda-bm/lodging",
@@ -7184,13 +6078,6 @@
         "label": "bestman/Bermuda, Bermuda — bars"
       },
       {
-        "key": "bestman/cities/bermuda-bm/activities",
-        "query": "Bermuda outdoor adventure",
-        "fallbackQuery": "Bermuda outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Bermuda, Bermuda — activities"
-      },
-      {
         "key": "bestman/cities/tamarindo-cr/lodging",
         "query": "Tamarindo Costa Rica vacation rental",
         "fallbackQuery": "Tamarindo downtown architecture",
@@ -7210,13 +6097,6 @@
         "fallbackQuery": "Tamarindo cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Tamarindo, Costa Rica — bars"
-      },
-      {
-        "key": "bestman/cities/tamarindo-cr/activities",
-        "query": "Tamarindo Costa Rica outdoor adventure",
-        "fallbackQuery": "Tamarindo outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tamarindo, Costa Rica — activities"
       },
       {
         "key": "bestman/cities/medellin-co/lodging",
@@ -7240,13 +6120,6 @@
         "label": "bestman/Medellín, Colombia — bars"
       },
       {
-        "key": "bestman/cities/medellin-co/activities",
-        "query": "Medellín Colombia outdoor adventure",
-        "fallbackQuery": "Medellín outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Medellín, Colombia — activities"
-      },
-      {
         "key": "bestman/cities/panama-city-pa/lodging",
         "query": "Panama City vacation rental",
         "fallbackQuery": "Panama City downtown architecture",
@@ -7266,13 +6139,6 @@
         "fallbackQuery": "Panama City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Panama City, Panama — bars"
-      },
-      {
-        "key": "bestman/cities/panama-city-pa/activities",
-        "query": "Panama City outdoor adventure",
-        "fallbackQuery": "Panama City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Panama City, Panama — activities"
       },
       {
         "key": "bestman/cities/ambergris-caye-bz/lodging",
@@ -7296,13 +6162,6 @@
         "label": "bestman/Ambergris Caye, Belize — bars"
       },
       {
-        "key": "bestman/cities/ambergris-caye-bz/activities",
-        "query": "Ambergris Caye Belize outdoor adventure",
-        "fallbackQuery": "Ambergris Caye outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Ambergris Caye, Belize — activities"
-      },
-      {
         "key": "bestman/cities/mexico-city-mx/lodging",
         "query": "Mexico City vacation rental",
         "fallbackQuery": "Mexico City downtown architecture",
@@ -7322,13 +6181,6 @@
         "fallbackQuery": "Mexico City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Mexico City, Mexico — bars"
-      },
-      {
-        "key": "bestman/cities/mexico-city-mx/activities",
-        "query": "Mexico City outdoor adventure",
-        "fallbackQuery": "Mexico City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mexico City, Mexico — activities"
       },
       {
         "key": "bestman/cities/portsmouth-nh/lodging",
@@ -7352,13 +6204,6 @@
         "label": "bestman/Portsmouth, NH — bars"
       },
       {
-        "key": "bestman/cities/portsmouth-nh/activities",
-        "query": "Portsmouth New Hampshire outdoor adventure",
-        "fallbackQuery": "Portsmouth outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Portsmouth, NH — activities"
-      },
-      {
         "key": "bestman/cities/north-conway-nh/lodging",
         "query": "North Conway New Hampshire vacation rental",
         "fallbackQuery": "North Conway downtown architecture",
@@ -7378,13 +6223,6 @@
         "fallbackQuery": "North Conway cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/North Conway, NH — bars"
-      },
-      {
-        "key": "bestman/cities/north-conway-nh/activities",
-        "query": "North Conway New Hampshire outdoor adventure",
-        "fallbackQuery": "North Conway outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/North Conway, NH — activities"
       },
       {
         "key": "bestman/cities/mystic-ct/lodging",
@@ -7408,13 +6246,6 @@
         "label": "bestman/Mystic, CT — bars"
       },
       {
-        "key": "bestman/cities/mystic-ct/activities",
-        "query": "Mystic Connecticut outdoor adventure",
-        "fallbackQuery": "Mystic outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mystic, CT — activities"
-      },
-      {
         "key": "bestman/cities/new-haven-ct/lodging",
         "query": "New Haven Connecticut vacation rental",
         "fallbackQuery": "New Haven downtown architecture",
@@ -7434,13 +6265,6 @@
         "fallbackQuery": "New Haven cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/New Haven, CT — bars"
-      },
-      {
-        "key": "bestman/cities/new-haven-ct/activities",
-        "query": "New Haven Connecticut outdoor adventure",
-        "fallbackQuery": "New Haven outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/New Haven, CT — activities"
       },
       {
         "key": "bestman/cities/saratoga-springs-ny/lodging",
@@ -7464,13 +6288,6 @@
         "label": "bestman/Saratoga Springs, NY — bars"
       },
       {
-        "key": "bestman/cities/saratoga-springs-ny/activities",
-        "query": "Saratoga Springs New York outdoor adventure",
-        "fallbackQuery": "Saratoga Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Saratoga Springs, NY — activities"
-      },
-      {
         "key": "bestman/cities/lake-placid-ny/lodging",
         "query": "Lake Placid New York vacation rental",
         "fallbackQuery": "Lake Placid downtown architecture",
@@ -7490,13 +6307,6 @@
         "fallbackQuery": "Lake Placid cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Lake Placid, NY — bars"
-      },
-      {
-        "key": "bestman/cities/lake-placid-ny/activities",
-        "query": "Lake Placid New York outdoor adventure",
-        "fallbackQuery": "Lake Placid outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake Placid, NY — activities"
       },
       {
         "key": "bestman/cities/niagara-falls-ny/lodging",
@@ -7520,13 +6330,6 @@
         "label": "bestman/Niagara Falls, NY — bars"
       },
       {
-        "key": "bestman/cities/niagara-falls-ny/activities",
-        "query": "Niagara Falls New York outdoor adventure",
-        "fallbackQuery": "Niagara Falls outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Niagara Falls, NY — activities"
-      },
-      {
         "key": "bestman/cities/bar-harbor-me/lodging",
         "query": "Bar Harbor Maine vacation rental",
         "fallbackQuery": "Bar Harbor downtown architecture",
@@ -7546,13 +6349,6 @@
         "fallbackQuery": "Bar Harbor cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Bar Harbor, ME — bars"
-      },
-      {
-        "key": "bestman/cities/bar-harbor-me/activities",
-        "query": "Bar Harbor Maine outdoor adventure",
-        "fallbackQuery": "Bar Harbor outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Bar Harbor, ME — activities"
       },
       {
         "key": "bestman/cities/cape-may-nj/lodging",
@@ -7576,13 +6372,6 @@
         "label": "bestman/Cape May, NJ — bars"
       },
       {
-        "key": "bestman/cities/cape-may-nj/activities",
-        "query": "Cape May New Jersey outdoor adventure",
-        "fallbackQuery": "Cape May outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Cape May, NJ — activities"
-      },
-      {
         "key": "bestman/cities/annapolis-md/lodging",
         "query": "Annapolis Maryland vacation rental",
         "fallbackQuery": "Annapolis downtown architecture",
@@ -7602,13 +6391,6 @@
         "fallbackQuery": "Annapolis cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Annapolis, MD — bars"
-      },
-      {
-        "key": "bestman/cities/annapolis-md/activities",
-        "query": "Annapolis Maryland outdoor adventure",
-        "fallbackQuery": "Annapolis outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Annapolis, MD — activities"
       },
       {
         "key": "bestman/cities/berkshires-ma/lodging",
@@ -7632,13 +6414,6 @@
         "label": "bestman/Berkshires, MA — bars"
       },
       {
-        "key": "bestman/cities/berkshires-ma/activities",
-        "query": "Berkshires Massachusetts outdoor adventure",
-        "fallbackQuery": "Berkshires outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Berkshires, MA — activities"
-      },
-      {
         "key": "bestman/cities/salem-ma/lodging",
         "query": "Salem Massachusetts vacation rental",
         "fallbackQuery": "Salem downtown architecture",
@@ -7658,13 +6433,6 @@
         "fallbackQuery": "Salem cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Salem, MA — bars"
-      },
-      {
-        "key": "bestman/cities/salem-ma/activities",
-        "query": "Salem Massachusetts outdoor adventure",
-        "fallbackQuery": "Salem outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Salem, MA — activities"
       },
       {
         "key": "bestman/cities/lancaster-pa/lodging",
@@ -7688,13 +6456,6 @@
         "label": "bestman/Lancaster, PA — bars"
       },
       {
-        "key": "bestman/cities/lancaster-pa/activities",
-        "query": "Lancaster Pennsylvania outdoor adventure",
-        "fallbackQuery": "Lancaster outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lancaster, PA — activities"
-      },
-      {
         "key": "bestman/cities/gettysburg-pa/lodging",
         "query": "Gettysburg Pennsylvania vacation rental",
         "fallbackQuery": "Gettysburg downtown architecture",
@@ -7714,13 +6475,6 @@
         "fallbackQuery": "Gettysburg cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Gettysburg, PA — bars"
-      },
-      {
-        "key": "bestman/cities/gettysburg-pa/activities",
-        "query": "Gettysburg Pennsylvania outdoor adventure",
-        "fallbackQuery": "Gettysburg outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Gettysburg, PA — activities"
       },
       {
         "key": "bestman/cities/poconos-pa/lodging",
@@ -7744,13 +6498,6 @@
         "label": "bestman/Poconos, PA — bars"
       },
       {
-        "key": "bestman/cities/poconos-pa/activities",
-        "query": "Poconos Pennsylvania outdoor adventure",
-        "fallbackQuery": "Poconos outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Poconos, PA — activities"
-      },
-      {
         "key": "bestman/cities/killington-vt/lodging",
         "query": "Killington Vermont vacation rental",
         "fallbackQuery": "Killington downtown architecture",
@@ -7770,13 +6517,6 @@
         "fallbackQuery": "Killington cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Killington, VT — bars"
-      },
-      {
-        "key": "bestman/cities/killington-vt/activities",
-        "query": "Killington Vermont outdoor adventure",
-        "fallbackQuery": "Killington outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Killington, VT — activities"
       },
       {
         "key": "bestman/cities/des-moines-ia/lodging",
@@ -7800,13 +6540,6 @@
         "label": "bestman/Des Moines, IA — bars"
       },
       {
-        "key": "bestman/cities/des-moines-ia/activities",
-        "query": "Des Moines Iowa outdoor adventure",
-        "fallbackQuery": "Des Moines outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Des Moines, IA — activities"
-      },
-      {
         "key": "bestman/cities/iowa-city-ia/lodging",
         "query": "Iowa City vacation rental",
         "fallbackQuery": "Iowa City downtown architecture",
@@ -7826,13 +6559,6 @@
         "fallbackQuery": "Iowa City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Iowa City, IA — bars"
-      },
-      {
-        "key": "bestman/cities/iowa-city-ia/activities",
-        "query": "Iowa City outdoor adventure",
-        "fallbackQuery": "Iowa City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Iowa City, IA — activities"
       },
       {
         "key": "bestman/cities/omaha-ne/lodging",
@@ -7856,13 +6582,6 @@
         "label": "bestman/Omaha, NE — bars"
       },
       {
-        "key": "bestman/cities/omaha-ne/activities",
-        "query": "Omaha Nebraska outdoor adventure",
-        "fallbackQuery": "Omaha outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Omaha, NE — activities"
-      },
-      {
         "key": "bestman/cities/lincoln-ne/lodging",
         "query": "Lincoln Nebraska vacation rental",
         "fallbackQuery": "Lincoln downtown architecture",
@@ -7882,13 +6601,6 @@
         "fallbackQuery": "Lincoln cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Lincoln, NE — bars"
-      },
-      {
-        "key": "bestman/cities/lincoln-ne/activities",
-        "query": "Lincoln Nebraska outdoor adventure",
-        "fallbackQuery": "Lincoln outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lincoln, NE — activities"
       },
       {
         "key": "bestman/cities/wichita-ks/lodging",
@@ -7912,13 +6624,6 @@
         "label": "bestman/Wichita, KS — bars"
       },
       {
-        "key": "bestman/cities/wichita-ks/activities",
-        "query": "Wichita Kansas outdoor adventure",
-        "fallbackQuery": "Wichita outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Wichita, KS — activities"
-      },
-      {
         "key": "bestman/cities/overland-park-ks/lodging",
         "query": "Overland Park Kansas vacation rental",
         "fallbackQuery": "Overland Park downtown architecture",
@@ -7938,13 +6643,6 @@
         "fallbackQuery": "Overland Park cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Overland Park, KS — bars"
-      },
-      {
-        "key": "bestman/cities/overland-park-ks/activities",
-        "query": "Overland Park Kansas outdoor adventure",
-        "fallbackQuery": "Overland Park outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Overland Park, KS — activities"
       },
       {
         "key": "bestman/cities/fargo-nd/lodging",
@@ -7968,13 +6666,6 @@
         "label": "bestman/Fargo, ND — bars"
       },
       {
-        "key": "bestman/cities/fargo-nd/activities",
-        "query": "Fargo North Dakota outdoor adventure",
-        "fallbackQuery": "Fargo outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Fargo, ND — activities"
-      },
-      {
         "key": "bestman/cities/madison-wi/lodging",
         "query": "Madison Wisconsin vacation rental",
         "fallbackQuery": "Madison downtown architecture",
@@ -7994,13 +6685,6 @@
         "fallbackQuery": "Madison cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Madison, WI — bars"
-      },
-      {
-        "key": "bestman/cities/madison-wi/activities",
-        "query": "Madison Wisconsin outdoor adventure",
-        "fallbackQuery": "Madison outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Madison, WI — activities"
       },
       {
         "key": "bestman/cities/lake-geneva-wi/lodging",
@@ -8024,13 +6708,6 @@
         "label": "bestman/Lake Geneva, WI — bars"
       },
       {
-        "key": "bestman/cities/lake-geneva-wi/activities",
-        "query": "Lake Geneva Wisconsin outdoor adventure",
-        "fallbackQuery": "Lake Geneva outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake Geneva, WI — activities"
-      },
-      {
         "key": "bestman/cities/wisconsin-dells-wi/lodging",
         "query": "Wisconsin Dells vacation rental",
         "fallbackQuery": "Wisconsin Dells downtown architecture",
@@ -8050,13 +6727,6 @@
         "fallbackQuery": "Wisconsin Dells cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Wisconsin Dells, WI — bars"
-      },
-      {
-        "key": "bestman/cities/wisconsin-dells-wi/activities",
-        "query": "Wisconsin Dells outdoor adventure",
-        "fallbackQuery": "Wisconsin Dells outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Wisconsin Dells, WI — activities"
       },
       {
         "key": "bestman/cities/traverse-city-mi/lodging",
@@ -8080,13 +6750,6 @@
         "label": "bestman/Traverse City, MI — bars"
       },
       {
-        "key": "bestman/cities/traverse-city-mi/activities",
-        "query": "Traverse City Michigan outdoor adventure",
-        "fallbackQuery": "Traverse City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Traverse City, MI — activities"
-      },
-      {
         "key": "bestman/cities/grand-rapids-mi/lodging",
         "query": "Grand Rapids Michigan vacation rental",
         "fallbackQuery": "Grand Rapids downtown architecture",
@@ -8106,13 +6769,6 @@
         "fallbackQuery": "Grand Rapids cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Grand Rapids, MI — bars"
-      },
-      {
-        "key": "bestman/cities/grand-rapids-mi/activities",
-        "query": "Grand Rapids Michigan outdoor adventure",
-        "fallbackQuery": "Grand Rapids outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Grand Rapids, MI — activities"
       },
       {
         "key": "bestman/cities/sandusky-oh/lodging",
@@ -8136,13 +6792,6 @@
         "label": "bestman/Sandusky, OH — bars"
       },
       {
-        "key": "bestman/cities/sandusky-oh/activities",
-        "query": "Sandusky Ohio outdoor adventure",
-        "fallbackQuery": "Sandusky outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sandusky, OH — activities"
-      },
-      {
         "key": "bestman/cities/st-paul-mn/lodging",
         "query": "St. Paul Minnesota vacation rental",
         "fallbackQuery": "St. Paul downtown architecture",
@@ -8162,13 +6811,6 @@
         "fallbackQuery": "St. Paul cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/St. Paul, MN — bars"
-      },
-      {
-        "key": "bestman/cities/st-paul-mn/activities",
-        "query": "St. Paul Minnesota outdoor adventure",
-        "fallbackQuery": "St. Paul outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/St. Paul, MN — activities"
       },
       {
         "key": "bestman/cities/duluth-mn/lodging",
@@ -8192,13 +6834,6 @@
         "label": "bestman/Duluth, MN — bars"
       },
       {
-        "key": "bestman/cities/duluth-mn/activities",
-        "query": "Duluth Minnesota outdoor adventure",
-        "fallbackQuery": "Duluth outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Duluth, MN — activities"
-      },
-      {
         "key": "bestman/cities/sioux-falls-sd/lodging",
         "query": "Sioux Falls South Dakota vacation rental",
         "fallbackQuery": "Sioux Falls downtown architecture",
@@ -8218,13 +6853,6 @@
         "fallbackQuery": "Sioux Falls cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Sioux Falls, SD — bars"
-      },
-      {
-        "key": "bestman/cities/sioux-falls-sd/activities",
-        "query": "Sioux Falls South Dakota outdoor adventure",
-        "fallbackQuery": "Sioux Falls outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Sioux Falls, SD — activities"
       },
       {
         "key": "bestman/cities/nashville-in/lodging",
@@ -8248,13 +6876,6 @@
         "label": "bestman/Nashville, IN — bars"
       },
       {
-        "key": "bestman/cities/nashville-in/activities",
-        "query": "Nashville Indiana outdoor adventure",
-        "fallbackQuery": "Nashville outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Nashville, IN — activities"
-      },
-      {
         "key": "bestman/cities/phoenix-az/lodging",
         "query": "Phoenix Arizona vacation rental",
         "fallbackQuery": "Phoenix downtown architecture",
@@ -8274,13 +6895,6 @@
         "fallbackQuery": "Phoenix cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Phoenix, AZ — bars"
-      },
-      {
-        "key": "bestman/cities/phoenix-az/activities",
-        "query": "Phoenix Arizona outdoor adventure",
-        "fallbackQuery": "Phoenix outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Phoenix, AZ — activities"
       },
       {
         "key": "bestman/cities/tempe-az/lodging",
@@ -8304,13 +6918,6 @@
         "label": "bestman/Tempe, AZ — bars"
       },
       {
-        "key": "bestman/cities/tempe-az/activities",
-        "query": "Tempe Arizona outdoor adventure",
-        "fallbackQuery": "Tempe outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Tempe, AZ — activities"
-      },
-      {
         "key": "bestman/cities/lake-havasu-city-az/lodging",
         "query": "Lake Havasu City vacation rental",
         "fallbackQuery": "Lake Havasu City downtown architecture",
@@ -8330,13 +6937,6 @@
         "fallbackQuery": "Lake Havasu City cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Lake Havasu City, AZ — bars"
-      },
-      {
-        "key": "bestman/cities/lake-havasu-city-az/activities",
-        "query": "Lake Havasu City outdoor adventure",
-        "fallbackQuery": "Lake Havasu City outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Lake Havasu City, AZ — activities"
       },
       {
         "key": "bestman/cities/prescott-az/lodging",
@@ -8360,13 +6960,6 @@
         "label": "bestman/Prescott, AZ — bars"
       },
       {
-        "key": "bestman/cities/prescott-az/activities",
-        "query": "Prescott Arizona outdoor adventure",
-        "fallbackQuery": "Prescott outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Prescott, AZ — activities"
-      },
-      {
         "key": "bestman/cities/reno-nv/lodging",
         "query": "Reno Nevada vacation rental",
         "fallbackQuery": "Reno downtown architecture",
@@ -8386,13 +6979,6 @@
         "fallbackQuery": "Reno cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Reno, NV — bars"
-      },
-      {
-        "key": "bestman/cities/reno-nv/activities",
-        "query": "Reno Nevada outdoor adventure",
-        "fallbackQuery": "Reno outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Reno, NV — activities"
       },
       {
         "key": "bestman/cities/stateline-nv/lodging",
@@ -8416,13 +7002,6 @@
         "label": "bestman/Stateline, NV — bars"
       },
       {
-        "key": "bestman/cities/stateline-nv/activities",
-        "query": "Stateline Nevada outdoor adventure",
-        "fallbackQuery": "Stateline outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Stateline, NV — activities"
-      },
-      {
         "key": "bestman/cities/albuquerque-nm/lodging",
         "query": "Albuquerque New Mexico vacation rental",
         "fallbackQuery": "Albuquerque downtown architecture",
@@ -8442,13 +7021,6 @@
         "fallbackQuery": "Albuquerque cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Albuquerque, NM — bars"
-      },
-      {
-        "key": "bestman/cities/albuquerque-nm/activities",
-        "query": "Albuquerque New Mexico outdoor adventure",
-        "fallbackQuery": "Albuquerque outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Albuquerque, NM — activities"
       },
       {
         "key": "bestman/cities/taos-nm/lodging",
@@ -8472,13 +7044,6 @@
         "label": "bestman/Taos, NM — bars"
       },
       {
-        "key": "bestman/cities/taos-nm/activities",
-        "query": "Taos New Mexico outdoor adventure",
-        "fallbackQuery": "Taos outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Taos, NM — activities"
-      },
-      {
         "key": "bestman/cities/colorado-springs-co/lodging",
         "query": "Colorado Springs vacation rental",
         "fallbackQuery": "Colorado Springs downtown architecture",
@@ -8498,13 +7063,6 @@
         "fallbackQuery": "Colorado Springs cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Colorado Springs, CO — bars"
-      },
-      {
-        "key": "bestman/cities/colorado-springs-co/activities",
-        "query": "Colorado Springs outdoor adventure",
-        "fallbackQuery": "Colorado Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Colorado Springs, CO — activities"
       },
       {
         "key": "bestman/cities/vail-co/lodging",
@@ -8528,13 +7086,6 @@
         "label": "bestman/Vail, CO — bars"
       },
       {
-        "key": "bestman/cities/vail-co/activities",
-        "query": "Vail Colorado outdoor adventure",
-        "fallbackQuery": "Vail outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Vail, CO — activities"
-      },
-      {
         "key": "bestman/cities/crested-butte-co/lodging",
         "query": "Crested Butte Colorado vacation rental",
         "fallbackQuery": "Crested Butte downtown architecture",
@@ -8554,13 +7105,6 @@
         "fallbackQuery": "Crested Butte cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Crested Butte, CO — bars"
-      },
-      {
-        "key": "bestman/cities/crested-butte-co/activities",
-        "query": "Crested Butte Colorado outdoor adventure",
-        "fallbackQuery": "Crested Butte outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Crested Butte, CO — activities"
       },
       {
         "key": "bestman/cities/glenwood-springs-co/lodging",
@@ -8584,13 +7128,6 @@
         "label": "bestman/Glenwood Springs, CO — bars"
       },
       {
-        "key": "bestman/cities/glenwood-springs-co/activities",
-        "query": "Glenwood Springs Colorado outdoor adventure",
-        "fallbackQuery": "Glenwood Springs outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Glenwood Springs, CO — activities"
-      },
-      {
         "key": "bestman/cities/mammoth-lakes-ca/lodging",
         "query": "Mammoth Lakes California vacation rental",
         "fallbackQuery": "Mammoth Lakes downtown architecture",
@@ -8610,13 +7147,6 @@
         "fallbackQuery": "Mammoth Lakes cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/Mammoth Lakes, CA — bars"
-      },
-      {
-        "key": "bestman/cities/mammoth-lakes-ca/activities",
-        "query": "Mammoth Lakes California outdoor adventure",
-        "fallbackQuery": "Mammoth Lakes outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Mammoth Lakes, CA — activities"
       },
       {
         "key": "bestman/cities/joshua-tree-ca/lodging",
@@ -8640,13 +7170,6 @@
         "label": "bestman/Joshua Tree, CA — bars"
       },
       {
-        "key": "bestman/cities/joshua-tree-ca/activities",
-        "query": "Joshua Tree California outdoor adventure",
-        "fallbackQuery": "Joshua Tree outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Joshua Tree, CA — activities"
-      },
-      {
         "key": "bestman/cities/missoula-mt/lodging",
         "query": "Missoula Montana vacation rental",
         "fallbackQuery": "Missoula downtown architecture",
@@ -8668,13 +7191,6 @@
         "label": "bestman/Missoula, MT — bars"
       },
       {
-        "key": "bestman/cities/missoula-mt/activities",
-        "query": "Missoula Montana outdoor adventure",
-        "fallbackQuery": "Missoula outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/Missoula, MT — activities"
-      },
-      {
         "key": "bestman/cities/mccall-id/lodging",
         "query": "McCall Idaho vacation rental",
         "fallbackQuery": "McCall downtown architecture",
@@ -8694,13 +7210,6 @@
         "fallbackQuery": "McCall cocktail lounge",
         "addedBy": "bestman",
         "label": "bestman/McCall, ID — bars"
-      },
-      {
-        "key": "bestman/cities/mccall-id/activities",
-        "query": "McCall Idaho outdoor adventure",
-        "fallbackQuery": "McCall outdoor recreation",
-        "addedBy": "bestman",
-        "label": "bestman/McCall, ID — activities"
       }
     ],
     "moh": [
@@ -21694,34 +20203,34 @@
   "sources": {
     "tdf": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T03:03:58.220Z",
       "count": 424
     },
     "bestman": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
-      "count": 852
+      "generatedAt": "2026-08-24T03:03:58.220Z",
+      "count": 639
     },
     "moh": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T03:03:58.220Z",
       "count": 960
     },
     "offsite": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T03:03:58.220Z",
       "count": 619
     },
     "friendsmoon": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T03:03:58.220Z",
       "count": 248
     },
     "engagedmoon": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T03:03:58.220Z",
       "count": 24
     }
   },
-  "totalQueries": 3127
+  "totalQueries": 2914
 }
