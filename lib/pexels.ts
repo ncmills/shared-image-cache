@@ -42,7 +42,14 @@ interface PexelsApiResponse {
 }
 
 export interface PexelsSearchResult {
-  entry: Omit<CacheEntry, "addedBy"> | null;
+  /**
+   * ALL landscape candidates the request paid for, best-first — not just the
+   * top one. The request has always asked for `per_page=5`; returning only
+   * `photos[0]` threw four already-purchased candidates away and left the
+   * caller unable to walk past a photo that is already at the fan-out ceiling.
+   * See the note on `searchPexels` below.
+   */
+  entries: Omit<CacheEntry, "addedBy">[];
   ratelimitRemaining: number;
 }
 
@@ -54,10 +61,29 @@ export class PexelsRateLimitError extends Error {
 }
 
 /**
- * Search Pexels and return the top landscape result, mapped to the
+ * Search Pexels and return the landscape candidates, best-first, mapped to the
  * shared CacheEntry shape. The `unsplashUrl` field is repurposed as
  * the source page URL — same shape regardless of provider so existing
  * consumers don't need branching.
+ *
+ * ── WHY THIS RETURNS A LIST (2026-08-23) ────────────────────────────────────
+ * This is the SAME bug the 2026-08-20 dedupe fixed on the Unsplash side and
+ * never fixed here. Unsplash's `results[0]`-unconditionally was the root cause
+ * of one lake photo backing 24 named venues; `fetch.ts` was taught to walk all
+ * 5 candidates and take the first that would not become a fan-out violation.
+ * Pexels kept returning exactly one, so `pickNonViolating([pex.entry])` had a
+ * single-element array to walk: if that one photo was at ceiling, the key was
+ * tombstoned for 30 days.
+ *
+ * The run log said so verbatim —
+ *   `moh/Omaha, NE — dining — MISS: all 1 candidate(s) already at fan-out
+ *    ceiling` (run 32533721921, Pexels live with 24,998 requests left)
+ * — "all 1 candidate(s)" being the tell.
+ *
+ * Measured over the 39 ceiling-rejected TILE keys tombstoned on 2026-08-21:
+ * 38 had a clean candidate waiting at photos[1..4] of the very same response,
+ * and 0 were genuinely blocked. The candidates were already fetched and already
+ * paid for; only the return type was throwing them away.
  */
 export async function searchPexels(
   query: string,
@@ -87,24 +113,21 @@ export async function searchPexels(
   }
 
   const data = (await res.json()) as PexelsApiResponse;
-  const photo = data.photos[0];
+  const fetchedAt = new Date().toISOString();
 
-  if (!photo) return { entry: null, ratelimitRemaining };
+  const entries = (data.photos ?? []).map((photo) => ({
+    // Pexels `large` is ~940px wide — comparable to Unsplash `regular`.
+    url: photo.src.large,
+    alt: photo.alt || query,
+    photographerName: photo.photographer,
+    photographerUrl: photo.photographer_url,
+    // Repurpose the `unsplashUrl` slot as the photo page URL across
+    // providers. Existing consumers that read it still work; new ones
+    // can branch on the URL host if they need provider-specific links.
+    unsplashUrl: photo.url,
+    query,
+    fetchedAt,
+  }));
 
-  return {
-    entry: {
-      // Pexels `large` is ~940px wide — comparable to Unsplash `regular`.
-      url: photo.src.large,
-      alt: photo.alt || query,
-      photographerName: photo.photographer,
-      photographerUrl: photo.photographer_url,
-      // Repurpose the `unsplashUrl` slot as the photo page URL across
-      // providers. Existing consumers that read it still work; new ones
-      // can branch on the URL host if they need provider-specific links.
-      unsplashUrl: photo.url,
-      query,
-      fetchedAt: new Date().toISOString(),
-    },
-    ratelimitRemaining,
-  };
+  return { entries, ratelimitRemaining };
 }
