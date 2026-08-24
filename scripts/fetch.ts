@@ -30,7 +30,7 @@ import {
   PexelsRateLimitError,
 } from "../lib/pexels";
 import type { Cache, CacheEntry, QueryItem } from "../lib/types";
-import { wouldViolate } from "../lib/fanout";
+import { wouldViolate, isNamedVenueKey } from "../lib/fanout";
 import { stripVenueFallbacks } from "../lib/query-policy";
 import { buildQueue } from "../lib/queue";
 import {
@@ -201,9 +201,9 @@ async function probeSources(
       probes.push({
         name: "pexels",
         configured: true,
-        ok: res.entry !== null,
-        detail: res.entry
-          ? `answered, ${res.ratelimitRemaining} requests left`
+        ok: res.entries.length > 0,
+        detail: res.entries.length
+          ? `${res.entries.length} results, ${res.ratelimitRemaining} requests left`
           : `answered but returned 0 results for "${PROBE_QUERY}"`,
       });
     } catch (err) {
@@ -492,10 +492,25 @@ async function main() {
           await sleep(SLEEP_MS);
           try {
             const pex = await searchPexels(pq, pexelsKey);
-            if (pex.entry) {
-              // Pexels entry already matches Omit<CacheEntry, "addedBy">; it
-              // faces the same ceiling check as every Unsplash candidate.
-              const pexChosen = pickNonViolating([pex.entry]);
+            if (pex.entries.length) {
+              // Pexels entries already match Omit<CacheEntry, "addedBy">; they
+              // face the same ceiling check as every Unsplash candidate.
+              //
+              // NAMED VENUES DELIBERATELY GET ONLY THE TOP CANDIDATE. For a
+              // tile, a deeper candidate is another equally-valid mood photo,
+              // so walking the list is pure upside. For `<project>/venues/<x>`
+              // the photo is an IDENTITY claim, and photos[3] is no more likely
+              // to actually BE that property than photos[0] — walking would
+              // only find a generic photo nobody else had used yet, i.e. the
+              // "same lie, deduplicated" that check-venue-identity.ts exists to
+              // stop (30 venues re-filled that way within 6h of the 2026-08-20
+              // cut, every one of them passing the fan-out gate). For a venue,
+              // a MISS is the correct answer, and Offsite already renders
+              // photo-less venues as text rows rather than empty tiles.
+              const pexCandidates = isNamedVenueKey(item.key)
+                ? pex.entries.slice(0, 1)
+                : pex.entries;
+              const pexChosen = pickNonViolating(pexCandidates);
               if (pexChosen) {
                 chosen = pexChosen;
                 usedPexels = true;
