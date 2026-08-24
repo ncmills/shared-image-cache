@@ -24,7 +24,7 @@
  */
 import { readFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
-import { isNamedVenueKey } from "../lib/fanout";
+import { isIdentityKey } from "../lib/fanout";
 import type { Cache } from "../lib/types";
 
 const REPO_ROOT = resolve(__dirname, "..");
@@ -42,6 +42,14 @@ const CACHE_PATH = resolve(REPO_ROOT, "cache.json");
  */
 export const RETIRED_GENERIC_VENUE_PATTERNS: RegExp[] = [
   /\bcorporate retreat venue landscape$/i,
+  // The experiences sibling, retired 2026-08-23. Same shape, same lie: the
+  // Offsite loader paired every hand-authored per-experience query with the
+  // fallback `"${e.kind} corporate team experience outdoor"`, so whenever the
+  // specific query missed, a CATEGORY photo was filed under a named, priced
+  // product. That is how one pond-hockey photo came to wear four winter
+  // experiences on the live /experiences grid. The loader line is deleted; this
+  // is the tripwire proving it stays deleted.
+  /\bcorporate team experience outdoor$/i,
 ];
 
 /**
@@ -72,7 +80,7 @@ export interface VenueIdentityFinding {
 
 export function checkVenueIdentity(cache: Cache): VenueIdentityFinding[] {
   const findings: VenueIdentityFinding[] = [];
-  const venueKeys = Object.keys(cache).filter(isNamedVenueKey).sort();
+  const venueKeys = Object.keys(cache).filter(isIdentityKey).sort();
 
   // ── A. one query string, several DIFFERENT named properties ──────────────
   // Grouped by the venue SLUG (everything after `<project>/venues/`), not by
@@ -85,7 +93,7 @@ export function checkVenueIdentity(cache: Cache): VenueIdentityFinding[] {
   for (const key of venueKeys) {
     const q = (cache[key].query || "").trim();
     if (!q) continue;
-    const slug = key.replace(/^[^/]+\/venues\//, "");
+    const slug = key.replace(/^[^/]+\/(?:venues|experiences)\//, "");
     let bySlug = byQuery.get(q);
     if (!bySlug) byQuery.set(q, (bySlug = new Map()));
     const list = bySlug.get(slug);
@@ -128,7 +136,7 @@ function main() {
     process.exit(1);
   }
   const cache = JSON.parse(readFileSync(CACHE_PATH, "utf8")) as Cache;
-  const venueCount = Object.keys(cache).filter(isNamedVenueKey).length;
+  const venueCount = Object.keys(cache).filter(isIdentityKey).length;
   const findings = checkVenueIdentity(cache);
 
   console.log(

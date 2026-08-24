@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:00:10.356Z",
+  "generatedAt": "2026-08-24T02:57:50.581Z",
   "projects": {
     "tdf": [
       {
@@ -17802,7 +17802,6 @@
       {
         "key": "offsite/experiences/corporate-golf-day",
         "query": "luxury corporate golf outing foursome course",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Corporate Golf Day",
         "curated": true
@@ -17810,7 +17809,6 @@
       {
         "key": "offsite/experiences/vineyard-tasting",
         "query": "private vineyard wine tasting corporate group lunch vines",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Vineyard Day",
         "curated": true
@@ -17818,7 +17816,6 @@
       {
         "key": "offsite/experiences/sailing-regatta",
         "query": "corporate sailing regatta matched yachts harbor",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Corporate Regatta",
         "curated": true
@@ -17826,7 +17823,6 @@
       {
         "key": "offsite/experiences/cattle-drive",
         "query": "corporate group cattle drive horseback Montana Wyoming",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Cattle Drive",
         "curated": true
@@ -17834,7 +17830,6 @@
       {
         "key": "offsite/experiences/hog-hunt",
         "query": "sporting clays wingshooting Texas ranch group instruction",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Texas Hog Hunt & Wing Day",
         "curated": true
@@ -17842,7 +17837,6 @@
       {
         "key": "offsite/experiences/highland-games",
         "query": "highland games estate clay shooting falconry corporate team",
-        "fallbackQuery": "highland-games corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Company Highland Games",
         "curated": true
@@ -17850,7 +17844,6 @@
       {
         "key": "offsite/experiences/billfish-armada",
         "query": "sport fishing fleet billfish marlin tournament dock",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Billfish Cup",
         "curated": true
@@ -17858,7 +17851,6 @@
       {
         "key": "offsite/experiences/vintage-rally",
         "query": "vintage car rally Tuscany wine country convoy",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Vintage Rally",
         "curated": true
@@ -17866,7 +17858,6 @@
       {
         "key": "offsite/experiences/fly-fishing-expedition",
         "query": "fly fishing drift boat Montana river guide",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Backcountry Fly-Fishing",
         "curated": true
@@ -17874,7 +17865,6 @@
       {
         "key": "offsite/experiences/desert-offroad",
         "query": "Sedona jeep off-road red rock hot air balloon dawn",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Canyon Off-Road & Balloon Dawn",
         "curated": true
@@ -17882,7 +17872,6 @@
       {
         "key": "offsite/experiences/culinary-olympics",
         "query": "corporate team cooking competition chef long table feast",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Culinary Olympics",
         "curated": true
@@ -17890,7 +17879,6 @@
       {
         "key": "offsite/experiences/whitewater-survival",
         "query": "whitewater rafting team wilderness skills bonfire",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Whitewater & Wild Skills",
         "curated": true
@@ -17898,7 +17886,6 @@
       {
         "key": "offsite/experiences/service-expedition",
         "query": "corporate volunteer build trail community service group",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Build (Give-Back Expedition)",
         "curated": true
@@ -17906,7 +17893,6 @@
       {
         "key": "offsite/experiences/corporate-invitational-tournament",
         "query": "corporate golf tournament shotgun start foursome",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Corporate Invitational",
         "curated": true
@@ -17914,7 +17900,6 @@
       {
         "key": "offsite/experiences/ryder-cup-team-matchplay",
         "query": "ryder cup style team golf competition flags",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Ryder Cup Matchplay",
         "curated": true
@@ -17922,7 +17907,6 @@
       {
         "key": "offsite/experiences/par-three-scramble-social",
         "query": "par 3 short course golf social team scramble",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Par-3 Scramble Social",
         "curated": true
@@ -17930,7 +17914,6 @@
       {
         "key": "offsite/experiences/urban-golf-bay-social",
         "query": "topgolf driving range bays corporate group night",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Urban Golf Social",
         "curated": true
@@ -17938,7 +17921,6 @@
       {
         "key": "offsite/experiences/caddie-academy-skills-clinic",
         "query": "golf skills clinic instructor group driving range lesson",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Caddie Academy & Skills Clinic",
         "curated": true
@@ -17946,7 +17928,6 @@
       {
         "key": "offsite/experiences/play-the-majors-marquee-round",
         "query": "championship golf course major venue clubhouse ocean",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Play the Majors",
         "curated": true
@@ -17954,7 +17935,6 @@
       {
         "key": "offsite/experiences/night-golf-glow-scramble",
         "query": "night golf glowing balls LED course evening",
-        "fallbackQuery": "golf corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Night-Golf Glow Scramble",
         "curated": true
@@ -17962,7 +17942,6 @@
       {
         "key": "offsite/experiences/chef-battle-iron-cookoff",
         "query": "corporate team cooking competition chef battle stations",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Chef Battle",
         "curated": true
@@ -17970,7 +17949,6 @@
       {
         "key": "offsite/experiences/market-to-table-foraging-cook",
         "query": "farmers market to table cooking team foraging",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Market-to-Table Foraging & Cook",
         "curated": true
@@ -17978,7 +17956,6 @@
       {
         "key": "offsite/experiences/pasta-regional-masterclass",
         "query": "fresh pasta making class team hands flour station",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Pasta Masterclass",
         "curated": true
@@ -17986,7 +17963,6 @@
       {
         "key": "offsite/experiences/pitmaster-asado-competition",
         "query": "bbq pitmaster asado competition team smoker fire",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Pitmaster Competition",
         "curated": true
@@ -17994,7 +17970,6 @@
       {
         "key": "offsite/experiences/mixology-lab-throwdown",
         "query": "cocktail mixology class team competition bar station",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Mixology Lab Throwdown",
         "curated": true
@@ -18002,7 +17977,6 @@
       {
         "key": "offsite/experiences/coffee-chocolate-craft-lab",
         "query": "coffee cupping chocolate tempering craft workshop team",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Coffee & Chocolate Craft Lab",
         "curated": true
@@ -18010,7 +17984,6 @@
       {
         "key": "offsite/experiences/cheese-charcuterie-blind-tasting",
         "query": "cheese charcuterie board building blind tasting team",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Cheese & Charcuterie Build-Off",
         "curated": true
@@ -18018,7 +17991,6 @@
       {
         "key": "offsite/experiences/coastal-seafood-boil-shuck",
         "query": "coastal seafood boil oyster shucking beach communal table",
-        "fallbackQuery": "culinary corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Coastal Seafood Boil & Shuck",
         "curated": true
@@ -18026,7 +17998,6 @@
       {
         "key": "offsite/experiences/whisky-blend-your-own-lab",
         "query": "whisky blending class samples team distillery lab",
-        "fallbackQuery": "spirits corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Blend Your Own Whisky",
         "curated": true
@@ -18034,7 +18005,6 @@
       {
         "key": "offsite/experiences/agave-to-glass-tequila-mezcal",
         "query": "tequila mezcal tasting flight agave team pairing",
-        "fallbackQuery": "spirits corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Agave to Glass",
         "curated": true
@@ -18042,7 +18012,6 @@
       {
         "key": "offsite/experiences/wine-blending-label-competition",
         "query": "wine blending class barrel samples team cellar",
-        "fallbackQuery": "spirits corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Wine Blending Competition",
         "curated": true
@@ -18050,7 +18019,6 @@
       {
         "key": "offsite/experiences/craft-beer-brew-day",
         "query": "craft brewery brew day team mash tun tasting",
-        "fallbackQuery": "spirits corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Craft Brew Day",
         "curated": true
@@ -18058,7 +18026,6 @@
       {
         "key": "offsite/experiences/botanical-gin-distilling-lab",
         "query": "gin distilling copper still botanicals team lab",
-        "fallbackQuery": "spirits corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Botanical Distilling Lab",
         "curated": true
@@ -18066,7 +18033,6 @@
       {
         "key": "offsite/experiences/circuit-track-day-gt-school",
         "query": "corporate group racing school GT cars on track",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Circuit Track Day",
         "curated": true
@@ -18074,7 +18040,6 @@
       {
         "key": "offsite/experiences/rally-stage-driving-school",
         "query": "rally car sliding on gravel stage with co-driver",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Rally Stage School",
         "curated": true
@@ -18082,7 +18047,6 @@
       {
         "key": "offsite/experiences/offroad-4x4-utv-time-trial",
         "query": "off-road 4x4 and UTV vehicles on desert trail course",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Overland Time Trial",
         "curated": true
@@ -18090,7 +18054,6 @@
       {
         "key": "offsite/experiences/karting-grand-prix-league",
         "query": "corporate karting grand prix race pit board",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Grand Prix League",
         "curated": true
@@ -18098,7 +18061,6 @@
       {
         "key": "offsite/experiences/drift-precision-driving-academy",
         "query": "car drifting on skid pad driving academy smoke",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Drift & Precision Academy",
         "curated": true
@@ -18106,7 +18068,6 @@
       {
         "key": "offsite/experiences/classic-car-road-rally",
         "query": "classic collector cars on scenic road rally countryside",
-        "fallbackQuery": "motorsport corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Classic Road Rally",
         "curated": true
@@ -18114,7 +18075,6 @@
       {
         "key": "offsite/experiences/fly-casting-spey-clinic-cup",
         "query": "fly fishing spey casting clinic on river",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Spey Casting Cup",
         "curated": true
@@ -18122,7 +18082,6 @@
       {
         "key": "offsite/experiences/simulated-game-clay-drive-day",
         "query": "simulated driven game clay shooting field day loaders",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Driven Game Day",
         "curated": true
@@ -18130,7 +18089,6 @@
       {
         "key": "offsite/experiences/tomahawk-knife-longbow-frontier",
         "query": "tomahawk throwing and longbow archery frontier range",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Frontier Stations",
         "curated": true
@@ -18138,7 +18096,6 @@
       {
         "key": "offsite/experiences/ranch-rodeo-team-cup",
         "query": "ranch rodeo team cattle work arena cowboys",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Ranch Rodeo Cup",
         "curated": true
@@ -18146,7 +18103,6 @@
       {
         "key": "offsite/experiences/horsemanship-roping-academy",
         "query": "cowboy roping academy horsemanship ranch arena",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Horsemanship & Roping Academy",
         "curated": true
@@ -18154,7 +18110,6 @@
       {
         "key": "offsite/experiences/team-penning-sorting-cup",
         "query": "team penning cattle sorting western arena riders",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Penning & Sorting Cup",
         "curated": true
@@ -18162,7 +18117,6 @@
       {
         "key": "offsite/experiences/wagon-train-chuckwagon-overnight",
         "query": "chuckwagon campfire wagon train ranch overnight",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Chuckwagon Overnight",
         "curated": true
@@ -18170,7 +18124,6 @@
       {
         "key": "offsite/experiences/gaucho-heritage-ranch-day",
         "query": "gaucho estancia asado horsemanship heritage day",
-        "fallbackQuery": "wrangling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Gaucho Heritage Day",
         "curated": true
@@ -18178,7 +18131,6 @@
       {
         "key": "offsite/experiences/charity-bike-build-donate",
         "query": "corporate team building bicycles charity donation",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Build-a-Bike Drive",
         "curated": true
@@ -18186,7 +18138,6 @@
       {
         "key": "offsite/experiences/habitat-build-day",
         "query": "corporate volunteers building house construction hard hats",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Build Day",
         "curated": true
@@ -18194,7 +18145,6 @@
       {
         "key": "offsite/experiences/pack-a-meal-relief-kit-build",
         "query": "corporate volunteers packing meal boxes assembly line charity",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Relief Line",
         "curated": true
@@ -18202,7 +18152,6 @@
       {
         "key": "offsite/experiences/conservation-trail-corps-day",
         "query": "corporate volunteers trail restoration conservation outdoors",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Conservation Corps",
         "curated": true
@@ -18210,7 +18159,6 @@
       {
         "key": "offsite/experiences/stem-mentorship-kit-build",
         "query": "corporate volunteers mentoring students STEM robotics kit",
-        "fallbackQuery": "service corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Mentor Lab",
         "curated": true
@@ -18218,7 +18166,6 @@
       {
         "key": "offsite/experiences/citywide-gps-grand-prix",
         "query": "corporate team scavenger hunt city smartphone race",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Grand Prix Scavenger",
         "curated": true
@@ -18226,7 +18173,6 @@
       {
         "key": "offsite/experiences/heist-puzzle-lock-competition",
         "query": "corporate team heist escape room puzzle competition",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Heist",
         "curated": true
@@ -18234,7 +18180,6 @@
       {
         "key": "offsite/experiences/build-and-launch-engineering-race",
         "query": "corporate team raft building race lake competition",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Launch Trials",
         "curated": true
@@ -18242,7 +18187,6 @@
       {
         "key": "offsite/experiences/sunrise-sauna-cold-plunge-circuit",
         "query": "sauna cold plunge wellness retreat outdoor lake",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Sunrise Circuit",
         "curated": true
@@ -18250,7 +18194,6 @@
       {
         "key": "offsite/experiences/forest-bathing-mindfulness-reset",
         "query": "forest bathing mindfulness walk group wellness woods",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Forest Reset",
         "curated": true
@@ -18258,7 +18201,6 @@
       {
         "key": "offsite/experiences/adventure-wellness-triathlon",
         "query": "outdoor yoga hiking ice bath wellness retreat mountains",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Wellness Triathlon",
         "curated": true
@@ -18266,7 +18208,6 @@
       {
         "key": "offsite/experiences/breath-movement-performance-workshop",
         "query": "corporate breathwork movement workshop wellness studio",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Breath & Movement Lab",
         "curated": true
@@ -18274,7 +18215,6 @@
       {
         "key": "offsite/experiences/spa-sound-recovery-day",
         "query": "spa sound bath wellness recovery day resort",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Recovery Day",
         "curated": true
@@ -18282,7 +18222,6 @@
       {
         "key": "offsite/experiences/clan-games-decathlon",
         "query": "highland games caber toss tug of war team competition",
-        "fallbackQuery": "highland-games corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Clan Games",
         "curated": true
@@ -18290,7 +18229,6 @@
       {
         "key": "offsite/experiences/lumberjack-timbersports-cup",
         "query": "lumberjack timbersports crosscut saw axe throwing competition",
-        "fallbackQuery": "highland-games corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Timbersports Cup",
         "curated": true
@@ -18298,7 +18236,6 @@
       {
         "key": "offsite/experiences/strongman-stations-challenge",
         "query": "strongman tire flip keg carry team fitness competition",
-        "fallbackQuery": "highland-games corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Strongman Stations",
         "curated": true
@@ -18306,7 +18243,6 @@
       {
         "key": "offsite/experiences/welly-wanging-country-fair-games",
         "query": "corporate country fair field day games tug of war sack race",
-        "fallbackQuery": "highland-games corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Country Fair Games",
         "curated": true
@@ -18314,7 +18250,6 @@
       {
         "key": "offsite/experiences/learn-polo-clinic-match",
         "query": "corporate group polo lesson clinic on grass field",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Learn-to-Play Polo",
         "curated": true
@@ -18322,7 +18257,6 @@
       {
         "key": "offsite/experiences/ranch-trail-horsemanship-day",
         "query": "corporate group trail ride horses mountain ranch",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Horsemanship Day",
         "curated": true
@@ -18330,7 +18264,6 @@
       {
         "key": "offsite/experiences/carriage-heritage-riding-day",
         "query": "horse drawn carriage driving country estate group",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Carriage & Country Ride",
         "curated": true
@@ -18338,7 +18271,6 @@
       {
         "key": "offsite/experiences/gravel-adventure-picnic-ride",
         "query": "group gravel cycling ride countryside dirt road",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Gravel Adventure Ride",
         "curated": true
@@ -18346,7 +18278,6 @@
       {
         "key": "offsite/experiences/ebike-city-to-vineyard-tour",
         "query": "group e-bike tour city to vineyard wine country",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:City-to-Vineyard E-Bike Tour",
         "curated": true
@@ -18354,7 +18285,6 @@
       {
         "key": "offsite/experiences/team-time-trial-criterium-day",
         "query": "team time trial criterium bike race closed circuit",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Criterium & Team Time Trial",
         "curated": true
@@ -18362,7 +18292,6 @@
       {
         "key": "offsite/experiences/via-ferrata-summit-ascent",
         "query": "group via ferrata cliff climb steel cable alpine summit",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Via Ferrata Summit Ascent",
         "curated": true
@@ -18370,7 +18299,6 @@
       {
         "key": "offsite/experiences/wild-camp-navigation-expedition",
         "query": "group wilderness expedition map navigation wild camp tents",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Navigation Expedition",
         "curated": true
@@ -18378,7 +18306,6 @@
       {
         "key": "offsite/experiences/glacier-icefield-trek-challenge",
         "query": "group glacier trek crampons ice field roped team",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Glacier Trek Challenge",
         "curated": true
@@ -18386,7 +18313,6 @@
       {
         "key": "offsite/experiences/marine-conservation-research-day",
         "query": "marine biologist research boat turtle whale conservation group",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Marine Conservation Day",
         "curated": true
@@ -18394,7 +18320,6 @@
       {
         "key": "offsite/experiences/birding-photo-big-day-cup",
         "query": "group birdwatching wildlife photography binoculars field competition",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Big-Day Bird & Photo Cup",
         "curated": true
@@ -18402,7 +18327,6 @@
       {
         "key": "offsite/experiences/f1-grand-prix-suite-day",
         "query": "Formula 1 paddock club hospitality suite grid corporate",
-        "fallbackQuery": "hospitality corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Grand Prix Paddock Day",
         "curated": true
@@ -18410,7 +18334,6 @@
       {
         "key": "offsite/experiences/golf-major-suite-day",
         "query": "golf championship hospitality suite corporate on course grandstand",
-        "fallbackQuery": "hospitality corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Golf Major Hospitality",
         "curated": true
@@ -18418,7 +18341,6 @@
       {
         "key": "offsite/experiences/tennis-major-box-day",
         "query": "tennis grand slam corporate hospitality box show court",
-        "fallbackQuery": "hospitality corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Tennis Major Box",
         "curated": true
@@ -18426,7 +18348,6 @@
       {
         "key": "offsite/experiences/horse-racing-enclosure-day",
         "query": "horse racing corporate enclosure box grandstand hospitality",
-        "fallbackQuery": "hospitality corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Race Day Enclosure",
         "curated": true
@@ -18434,7 +18355,6 @@
       {
         "key": "offsite/experiences/championship-final-suite-day",
         "query": "stadium championship final corporate suite premium seats",
-        "fallbackQuery": "hospitality corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Championship Final Suite",
         "curated": true
@@ -18442,7 +18362,6 @@
       {
         "key": "offsite/experiences/private-headliner-concert",
         "query": "private corporate concert headliner stage crowd event",
-        "fallbackQuery": "nightlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Private Headliner Set",
         "curated": true
@@ -18450,7 +18369,6 @@
       {
         "key": "offsite/experiences/comedy-club-buyout-night",
         "query": "comedy club private event corporate audience stage",
-        "fallbackQuery": "nightlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Comedy Club Buyout",
         "curated": true
@@ -18458,7 +18376,6 @@
       {
         "key": "offsite/experiences/casino-night-charity-social",
         "query": "corporate casino night charity gala dealers tables event",
-        "fallbackQuery": "nightlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Casino Night for Charity",
         "curated": true
@@ -18466,7 +18383,6 @@
       {
         "key": "offsite/experiences/rooftop-reception-dj-night",
         "query": "rooftop corporate cocktail reception skyline DJ evening",
-        "fallbackQuery": "nightlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Rooftop Reception & DJ",
         "curated": true
@@ -18474,7 +18390,6 @@
       {
         "key": "offsite/experiences/theater-private-box-night",
         "query": "theater private box corporate evening stage audience",
-        "fallbackQuery": "nightlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Private Box Theater Night",
         "curated": true
@@ -18482,7 +18397,6 @@
       {
         "key": "offsite/experiences/winter-company-cup-gs",
         "query": "NASTAR giant slalom race course dual gates skier bib resort",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Company Cup — Giant Slalom Race",
         "curated": true
@@ -18490,7 +18404,6 @@
       {
         "key": "offsite/experiences/winter-heli-cat-powder-drop",
         "query": "heli-skiing helicopter powder snow British Columbia group skiers",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Powder Drop — Heli & Cat Skiing Day",
         "curated": true
@@ -18498,7 +18411,6 @@
       {
         "key": "offsite/experiences/winter-biathlon-relay",
         "query": "biathlon laser rifle shooting mat cross country ski targets winter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Winter Biathlon — Ski & Shoot Relay",
         "curated": true
@@ -18506,7 +18418,6 @@
       {
         "key": "offsite/experiences/winter-arctic-ice-drive",
         "query": "supercar ice driving frozen lake Lapland studded tires drift snow",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Arctic Ice Drive — Cars & Karts on Ice",
         "curated": true
@@ -18514,7 +18425,6 @@
       {
         "key": "offsite/experiences/winter-husky-expedition",
         "query": "dog sledding husky team driver runners snow Lapland convoy",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Husky Expedition — Drive Your Own Sled",
         "curated": true
@@ -18522,7 +18432,6 @@
       {
         "key": "offsite/experiences/dawn-fleet-balloon",
         "query": "mass ascension dozens of hot air balloons sunrise desert corporate",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Dawn Fleet — Hot-Air Balloon Mass Ascension",
         "curated": true
@@ -18530,7 +18439,6 @@
       {
         "key": "offsite/experiences/chukker-day-polo",
         "query": "corporate polo clinic guests mounted lesson and field side match marquee",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Chukker Day — Polo Clinic + Exhibition Match",
         "curated": true
@@ -18538,7 +18446,6 @@
       {
         "key": "offsite/experiences/estate-drive-pheasant",
         "query": "driven pheasant shoot peg line guns English estate autumn beaters",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Estate Drive — Driven-Pheasant Sporting Day",
         "curated": true
@@ -18546,7 +18453,6 @@
       {
         "key": "offsite/experiences/outpost-games-gps-race",
         "query": "corporate teams running outdoor GPS scavenger race estate grounds leaderboard",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Outpost Games — Estate-Wide GPS Race",
         "curated": true
@@ -18554,7 +18460,6 @@
       {
         "key": "offsite/experiences/grand-fondo-ride",
         "query": "corporate gran fondo cyclists paceline gravel road feed station finish festival",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Grand Fondo — Staged Gravel & Road Ride",
         "curated": true
@@ -18562,7 +18467,6 @@
       {
         "key": "offsite/experiences/heli-high-picnic",
         "query": "corporate group helicopter glacier landing alpine gourmet picnic mountains",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Heli & High Picnic — Alpine Helicopter Day",
         "curated": true
@@ -18570,7 +18474,6 @@
       {
         "key": "offsite/experiences/surf-clinic-heats",
         "query": "corporate group beginner surf lesson lineup beach instructors tropical",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Learn-to-Surf Clinic & Sunset Heats",
         "curated": true
@@ -18578,7 +18481,6 @@
       {
         "key": "offsite/experiences/discover-dive-reef-conservation",
         "query": "scuba divers coral restoration reef planting group tropical clear water",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Discover Diving & Reef Conservation Day",
         "curated": true
@@ -18586,7 +18488,6 @@
       {
         "key": "offsite/experiences/photo-safari-spotlist-cup",
         "query": "open safari vehicle convoy guests photographing elephants golden hour African reserve",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Photographic Safari — The Spot List Cup",
         "curated": true
@@ -18594,7 +18495,6 @@
       {
         "key": "offsite/experiences/catamaran-island-flotilla",
         "query": "fleet of catamarans anchored turquoise cove guests swimming island day",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Catamaran Island Day — The Flotilla",
         "curated": true
@@ -18602,7 +18502,6 @@
       {
         "key": "offsite/experiences/canopy-waterfall-rappel",
         "query": "group ziplining over rainforest waterfall canopy Costa Rica harness",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Jungle Canopy & Waterfall Rappel Circuit",
         "curated": true
@@ -18610,7 +18509,6 @@
       {
         "key": "offsite/experiences/surf-yoga-sunrise",
         "query": "beach sunrise yoga group on sand surfboards ocean tropical",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Surf & Yoga Sunrise Block",
         "curated": true
@@ -18618,7 +18516,6 @@
       {
         "key": "offsite/experiences/winter-snowmobile-poker-run",
         "query": "snowmobile fleet guided backcountry trail Jackson Hole winter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Snowmobile Poker Run & Expedition",
         "curated": true
@@ -18626,7 +18523,6 @@
       {
         "key": "offsite/experiences/winter-curling-bonspiel",
         "query": "curling sheet stones brooms team bonspiel ice",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Curling Bonspiel",
         "curated": true
@@ -18634,7 +18530,6 @@
       {
         "key": "offsite/experiences/winter-ice-climbing-gorge",
         "query": "ice climbing frozen waterfall gorge climber crampons Ouray",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Ice Climbing — Frozen Gorge",
         "curated": true
@@ -18642,7 +18537,6 @@
       {
         "key": "offsite/experiences/winter-snowshoe-summit-trek",
         "query": "snowshoe group guided summit trek snow mountain viewpoint",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Snowshoe Summit Trek",
         "curated": true
@@ -18650,7 +18544,6 @@
       {
         "key": "offsite/experiences/winter-apres-ski-fondue-feast",
         "query": "alpine fondue cheese cauldron torch-lit mountain restaurant apres ski",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Après-Ski Fondue Feast",
         "curated": true
@@ -18658,7 +18551,6 @@
       {
         "key": "offsite/experiences/winter-snowcat-mountaintop-dinner",
         "query": "snowcat mountaintop lodge chef dinner valley lights night ski resort",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Snowcat Mountaintop Dinner",
         "curated": true
@@ -18666,7 +18558,6 @@
       {
         "key": "offsite/experiences/winter-polar-plunge-challenge",
         "query": "polar plunge ice hole frozen lake sauna Nordic winter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Polar Plunge Challenge",
         "curated": true
@@ -18674,7 +18565,6 @@
       {
         "key": "offsite/experiences/winter-ski-snowboard-clinic-day",
         "query": "ski lesson instructor group resort slope clinic snowboard",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Ski & Snowboard Clinic Day",
         "curated": true
@@ -18682,7 +18572,6 @@
       {
         "key": "offsite/experiences/winter-niseko-powder-day",
         "query": "Niseko Hokkaido champagne powder skiers trees Japan",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Luxury Niseko Powder Day",
         "curated": true
@@ -18690,7 +18579,6 @@
       {
         "key": "offsite/experiences/winter-nz-southern-heli-ski",
         "query": "heli-skiing New Zealand Southern Alps Queenstown powder helicopter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Southern-Winter Heli-Ski (NZ)",
         "curated": true
@@ -18698,7 +18586,6 @@
       {
         "key": "offsite/experiences/winter-ice-karting-grand-prix",
         "query": "ice karting studded karts frozen lake circuit timed heats winter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Ice Karting Grand Prix",
         "curated": true
@@ -18706,7 +18593,6 @@
       {
         "key": "offsite/experiences/winter-nordic-xc-hut-lunch",
         "query": "cross country skiing groomed track backcountry hut Nordic snow",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Nordic Cross-Country Tour & Hut Lunch",
         "curated": true
@@ -18714,7 +18600,6 @@
       {
         "key": "offsite/experiences/winter-reindeer-sled-sami-camp",
         "query": "reindeer sled Sami lavvu fireside Lapland snow camp",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Reindeer Sled & Sámi Camp",
         "curated": true
@@ -18722,7 +18607,6 @@
       {
         "key": "offsite/experiences/winter-snowmobile-glacier-heli-combo",
         "query": "snowmobile glacier helicopter landing champagne toast snow mountains",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Snowmobile-to-Glacier Heli Combo",
         "curated": true
@@ -18730,7 +18614,6 @@
       {
         "key": "offsite/experiences/winter-ice-fishing-sauna",
         "query": "ice fishing frozen lake auger wood-fired sauna Nordic winter",
-        "fallbackQuery": "winter corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Frozen-Lake Ice Fishing & Sauna",
         "curated": true
@@ -18738,7 +18621,6 @@
       {
         "key": "offsite/experiences/gliding-soaring-day",
         "query": "tandem glider sailplane soaring alpine ridge",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Gliding & Soaring Day",
         "curated": true
@@ -18746,7 +18628,6 @@
       {
         "key": "offsite/experiences/ifly-indoor-skydiving",
         "query": "iFLY indoor skydiving wind tunnel corporate group",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:iFLY Indoor Skydiving Takeover",
         "curated": true
@@ -18754,7 +18635,6 @@
       {
         "key": "offsite/experiences/tandem-skydive-day",
         "query": "tandem skydive freefall corporate group dropzone",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Tandem Skydive Day",
         "curated": true
@@ -18762,7 +18642,6 @@
       {
         "key": "offsite/experiences/tandem-paragliding-flights",
         "query": "tandem paraglider launch alpine ridge soaring",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Tandem Paragliding Flights",
         "curated": true
@@ -18770,7 +18649,6 @@
       {
         "key": "offsite/experiences/tethered-balloon-glow",
         "query": "tethered hot air balloon evening glow party field crowd",
-        "fallbackQuery": "air corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Tethered Balloon + Branded Glow",
         "curated": true
@@ -18778,7 +18656,6 @@
       {
         "key": "offsite/experiences/wilderness-horse-pack-trip",
         "query": "wilderness horse pack trip mules mountain trail riders",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Wilderness Horse Pack Trip",
         "curated": true
@@ -18786,7 +18663,6 @@
       {
         "key": "offsite/experiences/ranch-rodeo-skills",
         "query": "ranch rodeo skills competition cattle penning roping arena",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Ranch Rodeo Skills Competition",
         "curated": true
@@ -18794,7 +18670,6 @@
       {
         "key": "offsite/experiences/arena-polo-scrimmage-league",
         "query": "arena polo scrimmage corporate clinic riders mallets",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Arena Polo Scrimmage League",
         "curated": true
@@ -18802,7 +18677,6 @@
       {
         "key": "offsite/experiences/dressage-carriage-heritage-day",
         "query": "dressage demonstration driven carriage estate heritage horses",
-        "fallbackQuery": "equestrian corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Dressage & Carriage Heritage Day",
         "curated": true
@@ -18810,7 +18684,6 @@
       {
         "key": "offsite/experiences/mountain-bike-enduro-day",
         "query": "mountain bike enduro shuttle trail riders mountain",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Mountain-Bike Enduro Day",
         "curated": true
@@ -18818,7 +18691,6 @@
       {
         "key": "offsite/experiences/ebike-vineyard-coastal-tour",
         "query": "e-bike group vineyard coastal tour tasting stop",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:E-Bike Vineyard & Coastal Tour",
         "curated": true
@@ -18826,7 +18698,6 @@
       {
         "key": "offsite/experiences/coffee-ride-city-to-estate",
         "query": "corporate coffee ride cyclists café paceline countryside",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Coffee-Ride City-to-Estate Loop",
         "curated": true
@@ -18834,7 +18705,6 @@
       {
         "key": "offsite/experiences/velodrome-track-day",
         "query": "velodrome track cycling coaching team pursuit indoor",
-        "fallbackQuery": "cycling corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Track Day at the Velodrome",
         "curated": true
@@ -18842,7 +18712,6 @@
       {
         "key": "offsite/experiences/sporting-clays-championship",
         "query": "sporting clays course squad shotgun station leaderboard",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Sporting-Clays Championship",
         "curated": true
@@ -18850,7 +18719,6 @@
       {
         "key": "offsite/experiences/falconry-hawk-walk",
         "query": "falconry hawk walk guest glove estate countryside",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Falconry & Hawk Walk",
         "curated": true
@@ -18858,7 +18726,6 @@
       {
         "key": "offsite/experiences/archery-axe-air-rifle-stations",
         "query": "archery axe throwing air rifle target stations group outdoor",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Archery & Axe + Air-Rifle Stations",
         "curated": true
@@ -18866,7 +18733,6 @@
       {
         "key": "offsite/experiences/english-country-pursuits-day",
         "query": "english country pursuits estate clays falconry gundog stations",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:English Country-Pursuits Day",
         "curated": true
@@ -18874,7 +18740,6 @@
       {
         "key": "offsite/experiences/compak-fitasc-team-shootoff",
         "query": "FITASC compak shotgun team tournament shooting stand",
-        "fallbackQuery": "field-sports corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Compak/FITASC Team Shoot-Off",
         "curated": true
@@ -18882,7 +18747,6 @@
       {
         "key": "offsite/experiences/escape-the-estate",
         "query": "escape room estate manor teams puzzle grounds challenge",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Escape-the-Estate",
         "curated": true
@@ -18890,7 +18754,6 @@
       {
         "key": "offsite/experiences/outpost-decathlon",
         "query": "corporate field day decathlon station games lawn leaderboard",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:The Outpost Decathlon",
         "curated": true
@@ -18898,7 +18761,6 @@
       {
         "key": "offsite/experiences/soapbox-build-and-race-derby",
         "query": "soapbox derby build and race cart teams slope finish line",
-        "fallbackQuery": "amazing-race corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Soapbox / Build-&-Race Derby",
         "curated": true
@@ -18906,7 +18768,6 @@
       {
         "key": "offsite/experiences/snorkel-island-hop-flotilla",
         "query": "snorkel boat fleet turquoise sandbar group island hopping",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Snorkel-and-Island-Hop Flotilla",
         "curated": true
@@ -18914,7 +18775,6 @@
       {
         "key": "offsite/experiences/sup-kayak-mangrove-expedition",
         "query": "group kayak sup paddle mangrove tunnel tropical clear water",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:SUP/Kayak Mangrove Expedition",
         "curated": true
@@ -18922,7 +18782,6 @@
       {
         "key": "offsite/experiences/kite-wing-foil-intro-clinic",
         "query": "wing foil kitesurf beginner clinic beach group bright sails",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Kite/Wing-Foil Intro Clinic",
         "curated": true
@@ -18930,7 +18789,6 @@
       {
         "key": "offsite/experiences/catamaran-sunset-raftup",
         "query": "catamaran fleet rafted together sunset guests drinks tropical",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Catamaran Sunset Cruise + Raft-Up",
         "curated": true
@@ -18938,7 +18796,6 @@
       {
         "key": "offsite/experiences/coral-snorkel-citizen-science",
         "query": "snorkelers fish survey card coral reef clear tropical water group",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Coral Snorkel Safari + Citizen Science",
         "curated": true
@@ -18946,7 +18803,6 @@
       {
         "key": "offsite/experiences/jet-ski-island-rally",
         "query": "jet ski convoy turquoise water beach stop group rally",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Jet-Ski Island Rally",
         "curated": true
@@ -18954,7 +18810,6 @@
       {
         "key": "offsite/experiences/outrigger-canoe-race",
         "query": "outrigger canoe crew race paddling sync tropical ocean teams",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Outrigger Canoe Paddle Race",
         "curated": true
@@ -18962,7 +18817,6 @@
       {
         "key": "offsite/experiences/bush-walk-anti-poaching",
         "query": "guided bush walk armed ranger group tracking African reserve",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Guided Bush Walk + Anti-Poaching Experience",
         "curated": true
@@ -18970,7 +18824,6 @@
       {
         "key": "offsite/experiences/marine-wildlife-day",
         "query": "whale watching charter boat group naturalist breaching whale ocean",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Whale / Marine-Wildlife Day",
         "curated": true
@@ -18978,7 +18831,6 @@
       {
         "key": "offsite/experiences/horseback-safari-big-five",
         "query": "guests on horseback riding among giraffe African reserve savanna",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Horseback Safari (Big Five reserve)",
         "curated": true
@@ -18986,7 +18838,6 @@
       {
         "key": "offsite/experiences/canoe-safari-river-biggame",
         "query": "canoe safari paddling past elephants river African big game",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Canoe Safari (river big-game)",
         "curated": true
@@ -18994,7 +18845,6 @@
       {
         "key": "offsite/experiences/night-game-drive-tracker-challenge",
         "query": "night game drive spotlight safari vehicle convoy leopard dark",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Night Game Drive + Tracker Challenge",
         "curated": true
@@ -19002,7 +18852,6 @@
       {
         "key": "offsite/experiences/gorilla-primate-trek",
         "query": "gorilla trek small group jungle Rwanda Volcanoes mountain mist",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Gorilla / Primate Trek",
         "curated": true
@@ -19010,7 +18859,6 @@
       {
         "key": "offsite/experiences/elephant-rhino-conservation-tracking",
         "query": "researchers tracking collared rhino elephant conservation team African",
-        "fallbackQuery": "wildlife corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Elephant / Rhino Conservation Tracking",
         "curated": true
@@ -19018,7 +18866,6 @@
       {
         "key": "offsite/experiences/volcano-hike-crater-summit",
         "query": "group hiking volcano crater summit sunrise steam tropical",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Volcano Hike + Crater Summit",
         "curated": true
@@ -19026,7 +18873,6 @@
       {
         "key": "offsite/experiences/rainforest-night-expedition",
         "query": "headlamp night rainforest walk group jungle frogs Costa Rica dark",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Rainforest Night Expedition",
         "curated": true
@@ -19034,7 +18880,6 @@
       {
         "key": "offsite/experiences/jungle-river-tubing-cave-float",
         "query": "group river tubing float cave system jungle Belize headlamps",
-        "fallbackQuery": "water corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Jungle River Tubing + Cave Float",
         "curated": true
@@ -19042,7 +18887,6 @@
       {
         "key": "offsite/experiences/canyoning-waterfall-descent",
         "query": "canyoning waterfall descent rappel jump river canyon group helmets",
-        "fallbackQuery": "wilderness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Canyoning / Waterfall Descent",
         "curated": true
@@ -19050,7 +18894,6 @@
       {
         "key": "offsite/experiences/sunrise-summit-breathwork",
         "query": "group sunrise summit breathwork mountain top reflection golden light",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Sunrise Summit + Breathwork",
         "curated": true
@@ -19058,7 +18901,6 @@
       {
         "key": "offsite/experiences/ocean-swim-coastal-trail-challenge",
         "query": "open water swimmers coastal cliff trail run group ocean challenge",
-        "fallbackQuery": "wellness corporate team experience outdoor",
         "addedBy": "offsite",
         "label": "exp:Ocean Swim + Coastal Trail Challenge",
         "curated": true
@@ -21694,32 +21536,32 @@
   "sources": {
     "tdf": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 424
     },
     "bestman": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 852
     },
     "moh": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 960
     },
     "offsite": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 619
     },
     "friendsmoon": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 248
     },
     "engagedmoon": {
       "from": "live",
-      "generatedAt": "2026-08-21T15:00:10.356Z",
+      "generatedAt": "2026-08-24T02:57:50.581Z",
       "count": 24
     }
   },

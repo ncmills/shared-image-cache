@@ -57,7 +57,7 @@
  */
 
 import type { QueryItem } from "./types";
-import { isNamedVenueKey } from "./fanout";
+import { isIdentityKey } from "./fanout";
 import { STATE_NAMES } from "./state-names";
 
 /**
@@ -167,14 +167,14 @@ export function checkQueryItem(item: QueryItem): PolicyViolation[] {
   if (item.fallbackQuery) texts.push(["fallbackQuery", item.fallbackQuery]);
 
   // ── 1. named venue: no fallback, ever ────────────────────────────────────
-  if (isNamedVenueKey(item.key) && item.fallbackQuery) {
+  if (isIdentityKey(item.key) && item.fallbackQuery) {
     out.push({
       key: item.key,
       rule: "venue-no-fallback",
       detail:
-        `named-venue key carries fallbackQuery "${item.fallbackQuery}". A generic photo under a ` +
-        `real property's name is an identity claim we cannot make — a venue miss must stay a miss ` +
-        `and render the branded fallback.`,
+        `identity key carries fallbackQuery "${item.fallbackQuery}". A generic photo under a ` +
+        `real property's or product's name is an identity claim we cannot make — an identity miss ` +
+        `must stay a miss and render the branded fallback.`,
     });
   }
 
@@ -263,10 +263,16 @@ export function checkQueries(items: QueryItem[]): PolicyViolation[] {
 
 /**
  * Belt-and-braces for rule 1 on the WRITE path: whatever a loader (or a stale
- * snapshot generated before this policy existed) hands the fetcher, a named
- * venue never gets a generic second query. A rule enforced only in the six
+ * snapshot generated before this policy existed) hands the fetcher, an IDENTITY
+ * key never gets a generic second query. A rule enforced only in the six
  * loaders is a rule that a seventh loader — or a June snapshot — quietly
  * escapes.
+ *
+ * Scope widened from venues to `isIdentityKey` on 2026-08-23 when experiences
+ * joined; the name is kept for import stability. This is the load-bearing half
+ * of that change: the snapshot in `queries.snapshot.json` was generated while
+ * the experiences fallback still existed, so without the write-path strip a CI
+ * run would keep asking the retired generic question from the frozen snapshot.
  */
 export function stripVenueFallbacks(items: QueryItem[]): {
   items: QueryItem[];
@@ -274,7 +280,7 @@ export function stripVenueFallbacks(items: QueryItem[]): {
 } {
   const stripped: string[] = [];
   const out = items.map((item) => {
-    if (isNamedVenueKey(item.key) && item.fallbackQuery) {
+    if (isIdentityKey(item.key) && item.fallbackQuery) {
       stripped.push(item.key);
       const { fallbackQuery: _drop, ...rest } = item;
       return rest;
