@@ -44,6 +44,11 @@
     "bestman/cities/steamboat-springs-co/lodging",
     "bestman/cities/sun-valley-id/lodging"
   ],
+  "surface-ceiling|unsplash:1668232295546-c8bd49625f4b|tdf|bachelorParty": [
+    "tdf/bachelorParty/door-county-wi",
+    "tdf/bachelorParty/madison-wi",
+    "tdf/bachelorParty/milwaukee-wi"
+  ],
   "surface-ceiling|unsplash:1488345979593-09db0f85545f|moh|activities": [
     "moh/cities/cape-cod-ma/activities",
     "moh/cities/carmel-ca/activities",
@@ -60,35 +65,6 @@
     "moh/cities/san-juan-pr/dining",
     "moh/cities/sedona-az/dining",
     "moh/cities/sonoma-ca/dining"
-  ],
-  "surface-ceiling|unsplash:1593739742226-5e5e2fdb1f1c|offsite|experiences": [
-    "offsite/experiences/canopy-waterfall-rappel",
-    "offsite/experiences/volcano-hike-crater-summit",
-    "offsite/experiences/whitewater-survival"
-  ],
-  "surface-ceiling|unsplash:1598881034666-6d3443d4b1bc|offsite|experiences": [
-    "offsite/experiences/compak-fitasc-team-shootoff",
-    "offsite/experiences/estate-drive-pheasant",
-    "offsite/experiences/falconry-hawk-walk"
-  ],
-  "surface-ceiling|unsplash:1760447700770-5793661666c3|offsite|experiences": [
-    "offsite/experiences/dawn-fleet-balloon",
-    "offsite/experiences/heli-high-picnic",
-    "offsite/experiences/ifly-indoor-skydiving",
-    "offsite/experiences/tandem-paragliding-flights",
-    "offsite/experiences/tandem-skydive-day"
-  ],
-  "surface-ceiling|unsplash:1774599731019-c41b34f97b57|offsite|experiences": [
-    "offsite/experiences/fly-fishing-expedition",
-    "offsite/experiences/jungle-river-tubing-cave-float",
-    "offsite/experiences/kite-wing-foil-intro-clinic",
-    "offsite/experiences/sup-kayak-mangrove-expedition"
-  ],
-  "surface-ceiling|unsplash:1706310072149-9b10acfae2dc|offsite|experiences": [
-    "offsite/experiences/winter-company-cup-gs",
-    "offsite/experiences/winter-husky-expedition",
-    "offsite/experiences/winter-reindeer-sled-sami-camp",
-    "offsite/experiences/winter-snowcat-mountaintop-dinner"
   ],
   "surface-ceiling|unsplash:1694480462467-f66c7c835f93|tdf|bachelorParty": [
     "tdf/bachelorParty/akron-oh",
@@ -169,11 +145,6 @@
     "tdf/bachelorParty/dallas-fort-worth-tx",
     "tdf/bachelorParty/fredericksburg-tx",
     "tdf/bachelorParty/san-antonio-tx"
-  ],
-  "surface-ceiling|unsplash:1668232295546-c8bd49625f4b|tdf|bachelorParty": [
-    "tdf/bachelorParty/door-county-wi",
-    "tdf/bachelorParty/madison-wi",
-    "tdf/bachelorParty/milwaukee-wi"
   ],
   "surface-ceiling|unsplash:1619856699906-09e1f58c98b1|tdf|bachelorParty": [
     "tdf/bachelorParty/durango-co",
