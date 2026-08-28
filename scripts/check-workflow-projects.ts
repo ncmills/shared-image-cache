@@ -15,11 +15,12 @@
  */
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
-import { PROJECTS, HOOK_SECRET } from "./loaders";
+import { PROJECTS, HOOK_SECRET, CONSUMER_REPO, CONSUMER_SYNC } from "./loaders";
 
 const REPO_ROOT = resolve(__dirname, "..");
 const DAILY = resolve(REPO_ROOT, ".github/workflows/daily-maxout.yml");
 const FETCH = resolve(REPO_ROOT, ".github/workflows/fetch-images.yml");
+const PROPAGATE = resolve(REPO_ROOT, ".github/workflows/propagate-to-consumers.yml");
 
 const problems: string[] = [];
 
@@ -70,6 +71,61 @@ for (const p of PROJECTS) {
 //      a project cannot be omitted; adding one to loaders.ts is sufficient.
 //   2. One `--project=<p>` step per project, the original shape. Still valid,
 //      still checked per project, since that shape CAN silently omit one.
+// ── propagate-to-consumers: the FIFTH layer of the same list ───────────────
+//
+// D85, 2026-08-28. This workflow carries a matrix of six `repo:` / `sync:`
+// pairs, and YAML cannot import TypeScript, so it is the same
+// two-lists-that-must-agree hazard that hid friendsmoon and engagedmoon in four
+// places at once. It fails the same quiet way: a project with no matrix entry
+// is simply never propagated, and a run that propagated five of six reports
+// success.
+//
+// The repo string is compared too, not just the project token. `tdf`'s consumer
+// is handicap-hq, not tour-de-fore — a personal site that consumes nothing from
+// this cache — and the pair coming apart is the exact conflation HOOK_SECRET
+// documents one map above. A matrix naming the wrong repo would open a pull
+// request against a site that has no business receiving one.
+const propagate = readFileSync(PROPAGATE, "utf8");
+for (const p of PROJECTS) {
+  if (!new RegExp(`- project: ${p}\\b`).test(propagate)) {
+    problems.push(
+      `propagate-to-consumers.yml has no matrix entry for \`${p}\` — that consumer is never ` +
+        `offered a propagation PR, and the run still reports success.`,
+    );
+    continue;
+  }
+  if (!propagate.includes(`repo: ${CONSUMER_REPO[p]}`)) {
+    problems.push(
+      `propagate-to-consumers.yml does not name ${CONSUMER_REPO[p]} as \`${p}\`'s consumer repo ` +
+        `(loaders.ts CONSUMER_REPO says it is). A wrong repo here opens a PR against a site ` +
+        `that does not consume this cache.`,
+    );
+  }
+  if (!propagate.includes(`sync: ${CONSUMER_SYNC[p]}`)) {
+    problems.push(
+      `propagate-to-consumers.yml does not run \`${CONSUMER_SYNC[p]}\` for \`${p}\` ` +
+        `(loaders.ts CONSUMER_SYNC says it should). friendsmoon's is \`node\`, not tsx — a ` +
+        `command that does not match means that consumer's projection never runs.`,
+    );
+  }
+}
+
+// The workflow must not be wired to the 2-hourly fetch tick. Each PR it opens
+// wakes a PRIVATE repo's CI, and private Actions minutes are hard-capped at $20
+// per budget after the account exhausted its 2,000 included minutes on
+// 2026-08-25. A schedule tighter than daily here is a budget incident, and the
+// cheapest place to catch it is before it merges.
+const propCron = [...propagate.matchAll(/cron:\s*'([^']+)'/g)].map((m) => m[1]!);
+for (const c of propCron) {
+  if (/^\S+\s+\S*\*\/\d/.test(c) || /^\S+\s+\*\s/.test(c)) {
+    problems.push(
+      `propagate-to-consumers.yml has an hourly-or-tighter schedule (\`${c}\`). Every run of ` +
+        `this workflow can open six pull requests against PRIVATE repos, each waking that ` +
+        `repo's CI. Keep it daily or looser.`,
+    );
+  }
+}
+
 const fetchYml = readFileSync(FETCH, "utf8");
 const fetchInvocations = [...fetchYml.matchAll(/npx tsx scripts\/fetch\.ts([^\n]*)/g)].map(
   (m) => m[1]!,
@@ -100,5 +156,5 @@ if (problems.length > 0) {
 }
 
 console.log(
-  `✓ workflow-projects: both workflows cover all ${PROJECTS.length} projects (${PROJECTS.join(", ")})`,
+  `✓ workflow-projects: all three workflows (fetch, daily-maxout, propagate) cover all ${PROJECTS.length} projects (${PROJECTS.join(", ")})`,
 );
