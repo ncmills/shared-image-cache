@@ -246,12 +246,15 @@ jobs:
           git config user.name "shared-image-cache bot"
           git config user.email "actions@github.com"
           while IFS= read -r f; do [ -n "$f" ] && git add -- "$f"; done <<< "$CHANGED_FILES"
-          git commit -m "chore(images): project shared-image-cache into ${{ matrix.project }}
-
-Opened by shared-image-cache's propagate-to-consumers workflow (D85). The
-projection this repo's prebuild computes at build time, committed — so the
-image set the live site serves exists in a commit and its EVICTIONS are
-reviewable instead of silent."
+          # SUBJECT AND BODY AS TWO `-m` FLAGS, NOT ONE MESSAGE WITH EMBEDDED NEWLINES.
+          # The body used to continue at COLUMN 0, and a line indented less than a block
+          # scalar's content ENDS it: YAML closed `run:` at the subject line and read
+          # "Opened by shared-image-cache's…" as a mapping key. The whole file failed to
+          # load, so GitHub created ZERO jobs on every run this workflow has ever had,
+          # named each run by its file path, and failed it in under a second (D136).
+          # `git` joins successive -m values with a blank line, so the commit message is
+          # the same subject and the same body paragraph.
+          git commit -m "chore(images): project shared-image-cache into ${{ matrix.project }}" -m "Opened by shared-image-cache's propagate-to-consumers workflow (D85). The projection this repo's prebuild computes at build time, committed — so the image set the live site serves exists in a commit and its EVICTIONS are reviewable instead of silent."
           # --force-with-lease, not --force: another run (or a person) may have
           # pushed this branch, and overwriting that blind is how work is lost.
           # In Actions a lease can read "stale info" when the ref was never
