@@ -72,9 +72,11 @@ jobs:
           UNSPLASH_ACCESS_KEY_2: ${{ secrets.UNSPLASH_ACCESS_KEY_2 }}
           UNSPLASH_ACCESS_KEY_3: ${{ secrets.UNSPLASH_ACCESS_KEY_3 }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          # As env, not spliced into the script — see the note in fetch-images.yml.
+          INPUT_LIMIT: ${{ inputs.limit || '150' }}
         run: |
           before=$(git rev-parse HEAD)
-          npx tsx scripts/fetch.ts --limit=${{ inputs.limit || '150' }} --commit
+          npx tsx scripts/fetch.ts --limit="$INPUT_LIMIT" --commit
           after=$(git rev-parse HEAD)
           if [ "$before" != "$after" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -125,9 +127,14 @@ jobs:
           HOOK_OFFSITE: ${{ secrets.HOOK_OFFSITE }}
           HOOK_FRIENDSMOON: ${{ secrets.HOOK_FRIENDSMOON }}
           HOOK_ENGAGEDMOON: ${{ secrets.HOOK_ENGAGEDMOON }}
+          # A step OUTPUT is derived from repo content (here, project tokens
+          # grepped out of a cache.json diff). Constrained today by the grep's
+          # own alternation, but the shape is the injectable one and this step
+          # holds six deploy-hook URLs — so it arrives as env like everything else.
+          FETCH_PROJECTS: ${{ steps.fetch.outputs.projects }}
         run: |
           set -u
-          projects="${{ steps.fetch.outputs.projects }}"
+          projects="$FETCH_PROJECTS"
           echo "Projects with new images this run: ${projects:-none}"
           echo "### Consumer refresh" >> "$GITHUB_STEP_SUMMARY"
           fail=0

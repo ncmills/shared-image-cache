@@ -13,7 +13,7 @@
  * source of truth; the YAML is compared against it as TEXT, because that is
  * the only thing the runner will actually execute.
  */
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
 import { PROJECTS, HOOK_SECRET, CONSUMER_REPO, CONSUMER_SYNC } from "./loaders";
 
@@ -71,6 +71,51 @@ for (const p of PROJECTS) {
 //      a project cannot be omitted; adding one to loaders.ts is sufficient.
 //   2. One `--project=<p>` step per project, the original shape. Still valid,
 //      still checked per project, since that shape CAN silently omit one.
+// ── no untrusted expression may be spliced into a shell script ─────────────
+//
+// 2026-08-28. `${{ ... }}` inside a `run:` block is substituted by the RUNNER,
+// as text, before bash ever sees the line. So a value carrying a quote or a `;`
+// stops being an argument and becomes script — and every one of these jobs runs
+// beside credentials: three Unsplash keys, a Pexels key, six deploy-hook URLs,
+// and (in propagate-to-consumers) a PAT with write access to six private repos.
+//
+// `steps.*` outputs and `github.event.*` are built from repo or consumer
+// content, which is the untrusted half. `inputs.*` is typed by a human with
+// write access, so it is lower risk — but it is the same shape, and a rule with
+// an exception is a rule nobody can check mechanically.
+//
+// The fix everywhere is the same: pass the value through `env:` and reference
+// `"$VAR"`, which makes it data bash reads rather than text the runner splices.
+// Five pre-existing sites were fixed in the commit that added this check, so it
+// starts at zero rather than carrying a grandfathered list — a gate with
+// exemptions is a gate that gets widened rather than obeyed.
+const WF_DIR = resolve(REPO_ROOT, ".github/workflows");
+for (const name of readdirSync(WF_DIR).filter((f) => f.endsWith(".yml"))) {
+  const lines = readFileSync(resolve(WF_DIR, name), "utf8").split("\n");
+  let inRun = false;
+  let indent = 0;
+  lines.forEach((line, i) => {
+    const open = /^(\s*)run: \|/.exec(line);
+    if (open) {
+      inRun = true;
+      indent = open[1]!.length;
+      return;
+    }
+    // A `run: |` block ends at the first non-blank line indented no further
+    // than the `run:` key itself.
+    if (inRun && line.trim() && line.length - line.trimStart().length <= indent) inRun = false;
+    if (inRun && /\$\{\{\s*(steps|inputs|github\.event)\./.test(line)) {
+      problems.push(
+        `${name}:${i + 1} splices an untrusted expression into a shell script: ` +
+          `${line.trim().slice(0, 80)} — pass it through \`env:\` and reference "$VAR". ` +
+          `\`\${{ }}\` in a \`run:\` block is substituted as TEXT before bash parses it, so a ` +
+          `value containing a quote becomes script, and these jobs hold API keys, deploy hooks ` +
+          `and a cross-repo PAT.`,
+      );
+    }
+  });
+}
+
 // ── propagate-to-consumers: the FIFTH layer of the same list ───────────────
 //
 // D85, 2026-08-28. This workflow carries a matrix of six `repo:` / `sync:`
@@ -150,7 +195,11 @@ if (fetchInvocations.length === 0) {
 }
 
 if (problems.length > 0) {
-  console.error(`✗ workflow-projects: ${problems.length} disagreement(s) with scripts/loaders.ts:`);
+  // Not "disagreement(s) with scripts/loaders.ts" any more: this check now also
+  // reports shell-injection sites, which have nothing to do with the loader
+  // registry. A header that names the wrong cause sends the reader to the wrong
+  // file, and that costs more than a vague one.
+  console.error(`✗ workflow-projects: ${problems.length} problem(s) in .github/workflows:`);
   for (const p of problems) console.error(`  ${p}`);
   process.exit(1);
 }
