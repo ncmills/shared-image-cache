@@ -1,0 +1,270 @@
+name: Propagate cache to consumers
+
+# D85 — the COMMITTING half of propagation.
+#
+# `daily-maxout.yml` already pings each site's Vercel deploy hook when it gains
+# images, so a cache change does reach production. It reaches it as a REBUILD:
+# the consumer's `prebuild` step projects this cache into its own tracked JSON
+# on a build machine that then throws the result away. The file in the repo is
+# never updated. So the image set a site actually serves exists in NO COMMIT —
+# it cannot be reviewed, diffed, reverted, or reproduced, and an eviction here
+# silently removes a photo from a live site with no record anywhere.
+#
+# Measured 2026-08-28: offsite-outpost ships 218 committed entries where this
+# cache projects 572, and plan-my-party 106 cities where it projects 213.
+# Nobody chose either number.
+#
+# This opens ONE reviewed pull request per consumer carrying that projection,
+# so the delta is a thing a person looks at before it ships — EVICTIONS
+# ESPECIALLY, which is the direction that removes a photo rather than adding
+# one. offsite-outpost's first PR is expected to carry the 7 evicted
+# wrong-subject venue heroes as removals; they must be read, not swept.
+#
+# ── WHY THE TRIGGERS ARE WHAT THEY ARE ──────────────────────────────────────
+# NOT on the 2-hourly fetch tick. Each PR here wakes a PRIVATE repo's CI, and
+# private Actions minutes are capped at $20 per budget (hard rule, 2026-08-27)
+# after the account exhausted its 2,000 included minutes on 08-25. So:
+#
+#   push to main touching cache.json  — the real signal. Measured: cache.json
+#                                       has not changed since 2026-08-21, and
+#                                       the fetcher reports "3127 total
+#                                       queries, 0 pending" — the cache is
+#                                       SATURATED, so this fires rarely.
+#   schedule, weekly                  — the backstop, and today the only thing
+#                                       that would fire at all. Drift exists
+#                                       even while cache.json is static,
+#                                       because nothing has ever propagated.
+#   workflow_dispatch                 — with a `project` input, so one consumer
+#                                       can be re-run without waking the other
+#                                       five.
+#
+# A job that finds no delta opens nothing and pushes nothing, so a quiet week
+# costs six short public-runner jobs and zero private minutes.
+#
+# ── THE CREDENTIAL ──────────────────────────────────────────────────────────
+# The six consumers are PRIVATE repos. This repo's `GITHUB_TOKEN` cannot read
+# or write them, so the checkout and the push use `SHARED_IMAGE_CACHE_CONSUMER_TOKEN`, a PAT (or
+# App installation token) with `contents: write` + `pull-requests: write` on
+# those six repos and nothing else.
+#
+# WITHOUT THAT SECRET THIS WORKFLOW DOES NOTHING AND SAYS SO. It does not fail
+# the run and it does not quietly succeed: it writes a warning naming the secret
+# and the consequence, the same shape daily-maxout uses for a missing deploy
+# hook. A propagation pipeline that reports success while propagating nothing is
+# the failure this whole file exists to end.
+#
+# Note also that "Allow GitHub Actions to create and approve pull requests" must
+# be enabled on each consumer repo, or the PR step 403s.
+
+on:
+  push:
+    branches: [main]
+    paths: ['cache.json']
+  schedule:
+    # Weekly, Monday 06:40 UTC. Off the hour: the :00 window is where most cron
+    # jobs fire and GitHub delays scheduled runs by 10+ minutes.
+    - cron: '40 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      project:
+        description: 'One project token (tdf, bestman, moh, offsite, friendsmoon, engagedmoon), or blank for all'
+        required: false
+        default: ''
+
+# One propagation at a time. Two runs racing would push the same branch in each
+# consumer and the second would lose to a non-fast-forward — or worse, win.
+concurrency:
+  group: propagate-to-consumers
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  propagate:
+    runs-on: ubuntu-latest
+    # A consumer whose sync fails must not stop the other five from being
+    # proposed: they are independent repos and one broken script is one
+    # finding, not a pipeline outage.
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # MUST agree with CONSUMER_REPO / CONSUMER_SYNC in scripts/loaders.ts.
+          # `scripts/check-workflow-projects.ts` fails the build when it does not
+          # — this is the fifth layer of the same list, and the first four each
+          # went wrong silently before that check existed.
+          - project: tdf
+            repo: ncmills/handicap-hq
+            sync: npx -y tsx scripts/sync-image-cache.ts
+          - project: bestman
+            repo: ncmills/plan-my-party
+            sync: npx -y tsx scripts/sync-image-cache.ts
+          - project: moh
+            repo: ncmills/maid-of-honor-hq
+            sync: npx -y tsx scripts/sync-image-cache.ts
+          - project: offsite
+            repo: ncmills/offsite-outpost
+            sync: npx -y tsx scripts/sync-image-cache.ts
+          - project: friendsmoon
+            repo: ncmills/friendsmoon
+            sync: node scripts/sync-image-cache.js
+          - project: engagedmoon
+            repo: ncmills/engagedmoon
+            sync: npx -y tsx scripts/sync-image-cache.ts
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+      BRANCH: chore/image-cache-sync
+    steps:
+      - name: Skip consumers this run was not asked for
+        id: scope
+        env:
+          WANT: ${{ inputs.project }}
+          THIS: ${{ matrix.project }}
+        run: |
+          if [ -n "$WANT" ] && [ "$WANT" != "$THIS" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "· ${{ matrix.project }} not requested this run"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Refuse to run blind when the token is absent
+        if: steps.scope.outputs.run == 'true'
+        id: token
+        env:
+          SHARED_IMAGE_CACHE_CONSUMER_TOKEN: ${{ secrets.SHARED_IMAGE_CACHE_CONSUMER_TOKEN }}
+        run: |
+          if [ -z "$SHARED_IMAGE_CACHE_CONSUMER_TOKEN" ]; then
+            echo "have=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::${{ matrix.repo }} was NOT checked for image drift — the repo secret SHARED_IMAGE_CACHE_CONSUMER_TOKEN is not set, so this workflow cannot read a private consumer. No PR was opened and NOTHING was verified. This is not a clean result."
+            echo "- ⚠️ **${{ matrix.project }}** — \`SHARED_IMAGE_CACHE_CONSUMER_TOKEN\` not set. **Nothing was checked.**" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "have=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout shared-image-cache (for the delta reporter)
+        if: steps.token.outputs.have == 'true'
+        uses: actions/checkout@v4
+        with:
+          path: .shared-image-cache
+
+      - name: Checkout ${{ matrix.repo }}
+        if: steps.token.outputs.have == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.repo }}
+          token: ${{ secrets.SHARED_IMAGE_CACHE_CONSUMER_TOKEN }}
+          path: consumer
+          # Full history: we push a branch and rebase it onto main each run.
+          fetch-depth: 0
+
+      - name: Setup Node
+        if: steps.token.outputs.have == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No `npm ci` in the consumer. Every consumer's sync script imports node
+      # builtins only, so `npx -y tsx` runs it standalone — which also means this
+      # job never needs an SSH deploy key for the private `shared-data` git
+      # dependency. Verified 2026-08-28 against offsite-outpost and
+      # plan-my-party in a checkout with no node_modules at all.
+      - name: Project the shared cache into ${{ matrix.repo }}
+        if: steps.token.outputs.have == 'true'
+        working-directory: consumer
+        run: |
+          set -euo pipefail
+          # Start from main every run, so a stale sync branch never accumulates
+          # a delta against a base that moved.
+          git checkout -B "$BRANCH" origin/main
+          ${{ matrix.sync }}
+
+      - name: Refuse to commit anything that is not projected data
+        if: steps.token.outputs.have == 'true'
+        id: changed
+        working-directory: consumer
+        run: |
+          set -euo pipefail
+          mapfile -t files < <(git status --porcelain | awk '{print $2}')
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "any=false" >> "$GITHUB_OUTPUT"
+            echo "· ${{ matrix.project }}: already in sync — nothing to propose"
+            echo "- ✅ **${{ matrix.project }}** — already in sync" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          # The sync script is the ONLY thing that has run in this checkout, so
+          # anything changed is its output. `git add -A` would still be wrong:
+          # a sync that starts writing a .ts file is a finding, and sweeping it
+          # into a data PR is how 3,626 lines reached offsite-outpost#69. Every
+          # changed path must be JSON, or the job stops and says which was not.
+          bad=0
+          for f in "${files[@]}"; do
+            case "$f" in
+              *.json) ;;
+              *) echo "::error::${{ matrix.project }}: the sync script modified a NON-JSON file: $f. Refusing to commit — a data propagation must only move data."; bad=1 ;;
+            esac
+          done
+          [ "$bad" = 0 ] || exit 1
+          printf '%s\n' "${files[@]}"
+          echo "any=true" >> "$GITHUB_OUTPUT"
+          { echo 'files<<EOF'; printf '%s\n' "${files[@]}"; echo 'EOF'; } >> "$GITHUB_OUTPUT"
+
+      - name: Describe the delta (additions, changes, and every removal by name)
+        if: steps.token.outputs.have == 'true' && steps.changed.outputs.any == 'true'
+        id: delta
+        env:
+          PROJECT: ${{ matrix.project }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          set -euo pipefail
+          {
+            echo 'body<<DELTA_EOF'
+            npx -y tsx .shared-image-cache/scripts/projection-delta.ts \
+              --repo consumer --project "$PROJECT" --files "$CHANGED_FILES"
+            echo 'DELTA_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the one PR for this consumer
+        if: steps.token.outputs.have == 'true' && steps.changed.outputs.any == 'true'
+        working-directory: consumer
+        env:
+          GH_TOKEN: ${{ secrets.SHARED_IMAGE_CACHE_CONSUMER_TOKEN }}
+          # EVERY value below crosses into shell TEXT, so none of them is
+          # interpolated with `${{ }}` inside the script. `DELTA_BODY` and
+          # `CHANGED_FILES` are built from CONSUMER-repo content — cache keys and
+          # file paths — which this repo does not control. A key containing a
+          # quote would break the quoting, and a crafted one would execute with
+          # the PAT above in scope. Passing them through `env:` makes them data
+          # the shell reads, never text the runner splices in.
+          DELTA_BODY: ${{ steps.delta.outputs.body }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+          REPO: ${{ matrix.repo }}
+          PROJECT: ${{ matrix.project }}
+        run: |
+          set -euo pipefail
+          git config user.name "shared-image-cache bot"
+          git config user.email "actions@github.com"
+          while IFS= read -r f; do [ -n "$f" ] && git add -- "$f"; done <<< "$CHANGED_FILES"
+          git commit -m "chore(images): project shared-image-cache into ${{ matrix.project }}
+
+Opened by shared-image-cache's propagate-to-consumers workflow (D85). The
+projection this repo's prebuild computes at build time, committed — so the
+image set the live site serves exists in a commit and its EVICTIONS are
+reviewable instead of silent."
+          # --force-with-lease, not --force: another run (or a person) may have
+          # pushed this branch, and overwriting that blind is how work is lost.
+          # In Actions a lease can read "stale info" when the ref was never
+          # fetched, which is why the checkout above is fetch-depth 0.
+          git push --force-with-lease origin "$BRANCH"
+          # ONE PR per consumer, updated in place. A new PR per run would mean
+          # six every time the cache moves, and six sets of private CI minutes.
+          if gh pr view "$BRANCH" --repo "$REPO" >/dev/null 2>&1; then
+            gh pr edit "$BRANCH" --repo "$REPO" --body "$DELTA_BODY"
+            echo "- 🔄 **$PROJECT** — updated existing PR" >> "$GITHUB_STEP_SUMMARY"
+          else
+            gh pr create --repo "$REPO" --base main --head "$BRANCH" \
+              --title 'chore(images): commit the shared-image-cache projection' \
+              --body "$DELTA_BODY"
+            echo "- 🆕 **$PROJECT** — opened PR" >> "$GITHUB_STEP_SUMMARY"
+          fi
