@@ -27,9 +27,9 @@
 # non-zero with the reason rather than pushing.
 set -euo pipefail
 
-REPO="$HOME/shared-image-cache"
-LOG="$HOME/work/logs/image-snapshot-refresh.log"
-mkdir -p "$HOME/work/logs"
+REPO="${REPO:-$HOME/shared-image-cache}"
+LOG="${LOG:-$HOME/work/logs/image-snapshot-refresh.log}"
+mkdir -p "$(dirname "$LOG")"
 
 say() { echo "$(date +%FT%T) $*" >> "$LOG"; }
 
@@ -69,11 +69,35 @@ a change. Most nights it finds nothing — which is also what a dead scheduler
 looks like, so the two facts cannot share a signal.
 
 Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>" || return 0
+  # Catch up first so a remote that moved since the top-of-script pull
+  # doesn't reject this push outright; --ff-only refuses to do anything
+  # cleverer than that, so a real divergence still falls through to the WARN.
+  git pull --quiet --ff-only origin main || true
   git push --quiet origin main || say "WARN — heartbeat commit is local (push failed)"
   say "heartbeat committed (was ${age_days}d old)"
 }
 
 cd "$REPO"
+
+# ── branch guard ─────────────────────────────────────────────────────────
+# 2026-09-02: the live checkout sat on a PR branch
+# (fix/evict-stale-state-template-heroes) for 10 days. Every run committed
+# the heartbeat there, then `git push origin main` pushed the stale LOCAL
+# main ref — `! [rejected] non-fast-forward` every single time, silently,
+# because the push failure only ever produced a WARN. Committing is a
+# main-branch-only action: a laptop left on a PR branch must skip, not
+# write to whatever happens to be checked out.
+CURRENT_BRANCH="$(git branch --show-current)"
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  say "SKIP — checkout is on $CURRENT_BRANCH, not main; heartbeat not written"
+  exit 0
+fi
+
+# Test-only seam: stop here, right after the guard above and before any
+# network/build work (dirty-tree check, pull, npx tsx, gate, commit, push).
+# Lets scripts/test-refresh-snapshot-branch-guard.sh exercise the guard
+# against a throwaway repo without touching the real one or the network.
+[ -z "${REFRESH_SNAPSHOT_GUARD_ONLY:-}" ] || exit 0
 
 # Never regenerate on top of local work. A dirty tree means a human or another
 # session is mid-change; committing over it would be theft, and `git pull
