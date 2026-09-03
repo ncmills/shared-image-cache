@@ -85,4 +85,65 @@ fi
 
 pass "positive control: on main the guard does not fire"
 
+# ── Cases 3-6: a pull that cannot resolve the host is categorised BY THE HOST'S STATE ────────
+# (2026-09-03). The guard-only seam is left unset so the script reaches the pull; the origin
+# URL is a name that cannot resolve, so `git pull` fails with `Could not resolve host` before
+# any build work. REFRESH_SNAPSHOT_PMSET_LOG feeds a pmset fixture.
+DARK_LOG="$WORKDIR/pmset-dark.log"
+AWAKE_LOG="$WORKDIR/pmset-awake.log"
+EMPTY_LOG="$WORKDIR/pmset-empty.log"
+# Real column shapes from `pmset -g log` on this Mac. The trailing `Wake Requests` line is a
+# forecast, not a wake — it must NOT flip a dark host to awake.
+cat > "$DARK_LOG" <<'EOF'
+2026-09-03 03:57:19 -0700 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:73%) 900 secs
+2026-09-03 04:12:19 -0700 DarkWake            	DarkWake from Deep Idle [CDNPB] : due to NUB.SPMI0.SW3 nub-spmi0.0x02 rtc/Maintenance Using AC (Charge:73%)
+2026-09-03 04:12:20 -0700 Wake Requests       	[*process=powerd request=Maintenance deltaSecs=900 wakeAt=2026-09-03 04:27:20]
+EOF
+cat > "$AWAKE_LOG" <<'EOF'
+2026-09-03 08:29:28 -0700 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:100%) 340 secs
+2026-09-03 08:35:08 -0700 DarkWake            	DarkWake from Deep Idle [CDNPB] : due to smc.sysState.Wake(0x70070000) USB-C_plug Using AC (Charge:100%) 3 secs
+2026-09-03 08:35:11 -0700 Wake                	DarkWake to FullWake from Deep Idle [CDNVA] : due to UserActivity Assertion Using BATT (Charge:100%)
+EOF
+: > "$EMPTY_LOG"
+
+git -C "$REPO" checkout --quiet main
+git -C "$REPO" remote set-url origin https://nonexistent.invalid/refresh-snapshot-test.git
+
+run_pull_case () {  # $1 = pmset fixture path
+  : > "$LOG"
+  set +e
+  REPO="$REPO" LOG="$LOG" REFRESH_SNAPSHOT_PMSET_LOG="$1" bash "$REFRESHER" 2>/dev/null
+  EXIT_CODE=$?
+  set -e
+}
+
+# Case 3: DNS failure on a DARK host -> exit 69, NOT MEASURED, names the pmset line.
+run_pull_case "$DARK_LOG"
+[ "$EXIT_CODE" -eq 69 ] || fail "dark-host DNS failure exited $EXIT_CODE, expected 69: $(cat "$LOG")"
+grep -q "NOT MEASURED" "$LOG" || fail "dark-host log missing NOT MEASURED: $(cat "$LOG")"
+grep -q "DarkWake" "$LOG" || fail "dark-host log did not name the pmset transition: $(cat "$LOG")"
+pass "dark host + no DNS → exit 69, NOT MEASURED, pmset line named"
+
+# Case 4 (positive control): the SAME failure on an AWAKE host stays exit 1 — a real failure.
+run_pull_case "$AWAKE_LOG"
+[ "$EXIT_CODE" -eq 1 ] || fail "awake-host DNS failure exited $EXIT_CODE, expected 1: $(cat "$LOG")"
+grep -q "FAIL — git pull" "$LOG" || fail "awake-host log missing FAIL line: $(cat "$LOG")"
+grep -q "awake" "$LOG" || fail "awake-host log did not say the host was awake: $(cat "$LOG")"
+pass "positive control: awake host + no DNS → exit 1 (RED), says awake"
+
+# Case 5: pmset unreadable -> a dark verdict cannot be affirmed -> exit 1, never downgraded.
+run_pull_case "$EMPTY_LOG"
+[ "$EXIT_CODE" -eq 1 ] || fail "unknown-host DNS failure exited $EXIT_CODE, expected 1: $(cat "$LOG")"
+grep -q "unknown" "$LOG" || fail "unknown-host log did not say unknown: $(cat "$LOG")"
+pass "pmset unreadable + no DNS → exit 1 (could-not-tell never downgrades)"
+
+# Case 6: a NON-network pull failure on a dark host is still exit 1 — dark excuses only DNS.
+git -C "$REPO" remote set-url origin "$WORKDIR/does-not-exist.git"
+run_pull_case "$DARK_LOG"
+[ "$EXIT_CODE" -eq 1 ] || fail "non-DNS pull failure on a dark host exited $EXIT_CODE, expected 1: $(cat "$LOG")"
+if grep -q "NOT MEASURED" "$LOG"; then
+  fail "a non-network failure was excused as NOT MEASURED: $(cat "$LOG")"
+fi
+pass "dark host + non-network pull failure → exit 1 (only DNS is host-attributable)"
+
 echo "ALL PASS"
