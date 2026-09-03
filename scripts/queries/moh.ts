@@ -72,7 +72,7 @@ export async function getMohQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `moh/cities/${dest.id}`,
       query: `${place} skyline`,
-      fallbackQuery: `${dest.city} downtown`,
+      fallbackQuery: `${place} downtown`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state}`,
     });
@@ -81,28 +81,28 @@ export async function getMohQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `moh/cities/${dest.id}/lodging`,
       query: `${place} boutique hotel`,
-      fallbackQuery: `${dest.city} hotel`,
+      fallbackQuery: `${place} hotel`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — lodging`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/dining`,
       query: `${place} restaurant interior`,
-      fallbackQuery: `${dest.city} restaurant`,
+      fallbackQuery: `${place} restaurant`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — dining`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/bars`,
       query: `${place} cocktail bar`,
-      fallbackQuery: `${dest.city} bar`,
+      fallbackQuery: `${place} bar`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — bars`,
     });
     queries.push({
       key: `moh/cities/${dest.id}/activities`,
       query: `${place} spa`,
-      fallbackQuery: `${dest.city} wellness`,
+      fallbackQuery: `${place} wellness`,
       addedBy: "moh",
       label: `moh/${dest.city}, ${dest.state} — activities`,
     });

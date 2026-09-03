@@ -70,7 +70,7 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/lodging`,
       query: `${place} vacation rental`,
-      fallbackQuery: `${dest.city} downtown architecture`,
+      fallbackQuery: `${place} downtown architecture`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — lodging`,
     });
@@ -79,7 +79,7 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/dining`,
       query: `${place} steakhouse`,
-      fallbackQuery: `${dest.city} restaurant`,
+      fallbackQuery: `${place} restaurant`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — dining`,
     });
@@ -88,7 +88,7 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/bars`,
       query: `${place} rooftop bar`,
-      fallbackQuery: `${dest.city} cocktail lounge`,
+      fallbackQuery: `${place} cocktail lounge`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — bars`,
     });
@@ -97,7 +97,7 @@ export async function getBestmanQueries(): Promise<QueryItem[]> {
     queries.push({
       key: `bestman/cities/${dest.id}/activities`,
       query: `${place} outdoor adventure`,
-      fallbackQuery: `${dest.city} outdoor recreation`,
+      fallbackQuery: `${place} outdoor recreation`,
       addedBy: "bestman",
       label: `bestman/${dest.city}, ${dest.state} — activities`,
     });
