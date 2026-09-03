@@ -16,11 +16,41 @@
  *   npx tsx scripts/check-query-hygiene.ts --list   # print every violation
  */
 import type { QueryItem } from "../lib/types";
-import { checkQueries, type PolicyViolation } from "../lib/query-policy";
+import { checkQueries, checkFallbackGeoParity, type PolicyViolation } from "../lib/query-policy";
 import { LOADERS } from "./loaders";
+
+/**
+ * POSITIVE CONTROL for rule 7 (fallback_drops_state).
+ *
+ * A gate that only ever reports "0 violations" is indistinguishable from a gate
+ * whose rule stopped matching. This asserts, on every run, that the rule still
+ * FIRES on the exact shape that shipped a Tucson photograph under Aiken SC on
+ * 2026-09-03 — and still stays quiet on the corrected shape and on an
+ * international destination that carries a country instead of a state.
+ */
+function selfTest(): void {
+  const aiken = { addedBy: "selftest", label: "control" };
+  const cases: Array<[string, Record<string, unknown>, boolean]> = [
+    ["the 2026-09-03 defect", { ...aiken, key: "tdf/bachelorParty/aiken-sc", query: "Aiken South Carolina nightlife", fallbackQuery: "Aiken downtown" }, true],
+    ["the corrected shape", { ...aiken, key: "tdf/bachelorParty/aiken-sc", query: "Aiken South Carolina nightlife", fallbackQuery: "Aiken South Carolina downtown" }, false],
+    ["international, country not state", { ...aiken, key: "friendsmoon/destinations/ambergris-caye-bz", query: "Ambergris Caye Belize pier turquoise water", fallbackQuery: "Belize barrier reef caye palm dock" }, false],
+  ];
+  for (const [name, item, shouldFire] of cases) {
+    const fired = checkFallbackGeoParity(item as never).length > 0;
+    if (fired !== shouldFire) {
+      console.error(
+        `✗ query-hygiene SELF-TEST failed: "${name}" expected ${shouldFire ? "a violation" : "no violation"} and got ${fired ? "one" : "none"}.\n` +
+          "  The rule is not measuring what it claims; a clean run below would mean nothing.",
+      );
+      process.exit(1);
+    }
+  }
+  console.log("  self-test: fallback_drops_state fires on the Aiken defect, quiet on the fix and on international ✓");
+}
 
 async function main() {
   const listAll = process.argv.includes("--list");
+  selfTest();
   let total = 0;
   const all: PolicyViolation[] = [];
 
