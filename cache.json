@@ -2369,6 +2369,16 @@
     "fetchedAt": "2026-08-21T15:06:26.575Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/finger-lakes-ny/bars": {
+    "url": "https://images.unsplash.com/photo-1589810105627-fbb205da71d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjBjb2NrdGFpbCUyMGxvdW5nZXxlbnwxfDB8fHwxNzg4NDgwNTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "people sitting on bench near trees during daytime",
+    "photographerName": "Atlas Obscura",
+    "photographerUrl": "https://unsplash.com/@atlasobscura?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-bench-near-trees-during-daytime-dz7v_8FqqhY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Finger Lakes New York cocktail lounge",
+    "fetchedAt": "2026-09-04T00:08:54.473Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/finger-lakes-ny/dining": {
     "url": "https://images.unsplash.com/photo-1765741836925-5363bbaa6507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGaW5nZXIlMjBMYWtlcyUyME5ldyUyMFlvcmslMjBzdGVha2hvdXNlfGVufDF8MHx8fDE3ODczMjQ3NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Dimly lit restaurant interior with diners at tables",
@@ -2757,6 +2767,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/serene-waterfall-cascading-in-colorado-landscape-31703921/",
     "query": "Glenwood Springs Colorado outdoor adventure",
     "fetchedAt": "2026-08-21T20:47:09.784Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/glenwood-springs-co/bars": {
+    "url": "https://images.unsplash.com/photo-1602038187822-3099c5dbac9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxHbGVud29vZCUyMFNwcmluZ3MlMjBDb2xvcmFkbyUyMHJvb2Z0b3AlMjBiYXJ8ZW58MXwwfHx8MTc4ODQ4MDU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "yellow and black road sign near green mountain during daytime",
+    "photographerName": "Sebastian Kurpiel",
+    "photographerUrl": "https://unsplash.com/@sebbykurps?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/yellow-and-black-road-sign-near-green-mountain-during-daytime-d3QFlqofHqI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Glenwood Springs Colorado rooftop bar",
+    "fetchedAt": "2026-09-04T00:09:41.481Z",
     "addedBy": "bestman"
   },
   "bestman/cities/glenwood-springs-co/dining": {
@@ -4229,6 +4249,16 @@
     "fetchedAt": "2026-08-21T20:37:16.883Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/madison-wi/bars": {
+    "url": "https://images.pexels.com/photos/9566153/pexels-photo-9566153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A woman with curly hair enjoys a martini in a cozy, dimly lit bar with a companion.",
+    "photographerName": "MART  PRODUCTION",
+    "photographerUrl": "https://www.pexels.com/@mart-production",
+    "unsplashUrl": "https://www.pexels.com/photo/a-woman-sipping-martini-with-green-olives-9566153/",
+    "query": "Madison Wisconsin cocktail lounge",
+    "fetchedAt": "2026-09-04T00:09:30.693Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/madison-wi/dining": {
     "url": "https://images.unsplash.com/photo-1631804653059-6ff8fa6e68ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYWRpc29uJTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg3MzQ0NjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a red neon sign in front of a window",
@@ -4707,6 +4737,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/clouds-over-the-roofs-of-the-city-buildings-9683353/",
     "query": "Missoula Montana rooftop bar",
     "fetchedAt": "2026-08-21T20:48:04.747Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/missoula-mt/dining": {
+    "url": "https://images.unsplash.com/photo-1661177408829-d773b1dd5b4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNaXNzb3VsYSUyME1vbnRhbmElMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODg0ODA1ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a landscape with hills and a town",
+    "photographerName": "Yohan Marion",
+    "photographerUrl": "https://unsplash.com/@yohanmarion?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-landscape-with-hills-and-a-town-tJYiJ4vGX_g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Missoula Montana restaurant",
+    "fetchedAt": "2026-09-04T00:09:45.558Z",
     "addedBy": "bestman"
   },
   "bestman/cities/missoula-mt/lodging": {
@@ -5539,6 +5579,16 @@
     "fetchedAt": "2026-08-21T16:48:21.778Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/norfolk-va/bars": {
+    "url": "https://images.unsplash.com/photo-1733776721069-661f8b446adf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxOb3Jmb2xrJTIwVmlyZ2luaWElMjByb29mdG9wJTIwYmFyfGVufDF8MHx8fDE3ODg0ODA1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A view of a building from a rooftop",
+    "photographerName": "Meg von Haartman",
+    "photographerUrl": "https://unsplash.com/@traveleroohlala?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-building-from-a-rooftop-5byiiIqMlCU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Norfolk Virginia rooftop bar",
+    "fetchedAt": "2026-09-04T00:08:58.540Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/norfolk-va/dining": {
     "url": "https://images.pexels.com/photos/36145046/pexels-photo-36145046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Indulge in a luxurious surf and turf meal featuring lobster tail, steak, and asparagus.",
@@ -5567,6 +5617,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-group-of-houses-next-to-a-body-of-water-5XkmFJ9wuXE?utm_source=shared_image_cache&utm_medium=referral",
     "query": "North Conway New Hampshire outdoor adventure",
     "fetchedAt": "2026-08-21T18:54:08.091Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/north-conway-nh/bars": {
+    "url": "https://images.pexels.com/photos/12600147/pexels-photo-12600147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Retro cocktail lounge sign on a building exterior with a rustic, urban atmosphere.",
+    "photographerName": "Blake Moulton",
+    "photographerUrl": "https://www.pexels.com/@blake-moulton-254414544",
+    "unsplashUrl": "https://www.pexels.com/photo/close-up-photo-of-yellow-rustic-signage-12600147/",
+    "query": "North Conway New Hampshire cocktail lounge",
+    "fetchedAt": "2026-09-04T00:09:05.420Z",
     "addedBy": "bestman"
   },
   "bestman/cities/north-conway-nh/dining": {
@@ -5727,6 +5787,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/boy-in-white-crew-neck-t-shirt-looking-on-building-1246131/",
     "query": "Omaha Nebraska rooftop bar",
     "fetchedAt": "2026-08-21T19:02:03.739Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/omaha-ne/dining": {
+    "url": "https://images.pexels.com/photos/5471011/pexels-photo-5471011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A music studio setup featuring a firearm on a desk with audio and tech equipment.",
+    "photographerName": "WoodysMedia",
+    "photographerUrl": "https://www.pexels.com/@woodysmedia-2858691",
+    "unsplashUrl": "https://www.pexels.com/photo/black-firearm-on-black-table-5471011/",
+    "query": "Omaha Nebraska restaurant",
+    "fetchedAt": "2026-09-04T00:09:22.647Z",
     "addedBy": "bestman"
   },
   "bestman/cities/omaha-ne/lodging": {
@@ -6147,6 +6217,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/trees-by-the-road-1563354/",
     "query": "Poconos Pennsylvania rooftop bar",
     "fetchedAt": "2026-08-21T18:59:57.450Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/poconos-pa/dining": {
+    "url": "https://images.unsplash.com/photo-1646340591891-6f3da6312602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQb2Nvbm9zJTIwUGVubnN5bHZhbmlhJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg4NDgwNTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a green building with a red sign on it",
+    "photographerName": "Brad Killen",
+    "photographerUrl": "https://unsplash.com/@bradkillen?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-green-building-with-a-red-sign-on-it-j2ZieOae7k8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Poconos Pennsylvania steakhouse",
+    "fetchedAt": "2026-09-04T00:09:16.049Z",
     "addedBy": "bestman"
   },
   "bestman/cities/poconos-pa/lodging": {
@@ -7089,6 +7169,16 @@
     "fetchedAt": "2026-08-21T18:55:22.479Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/saratoga-springs-ny/bars": {
+    "url": "https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the lively atmosphere of a bustling New York City bar with patrons enjoying nightlife within a stylish indoor setting.",
+    "photographerName": "Marcus Herzberg",
+    "photographerUrl": "https://www.pexels.com/@evonics",
+    "unsplashUrl": "https://www.pexels.com/photo/group-of-people-gathering-inside-bar-1058277/",
+    "query": "Saratoga Springs New York cocktail lounge",
+    "fetchedAt": "2026-09-04T00:09:11.991Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/saratoga-springs-ny/dining": {
     "url": "https://images.unsplash.com/photo-1765741836925-5363bbaa6507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTYXJhdG9nYSUyMFNwcmluZ3MlMjBOZXclMjBZb3JrJTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg3MzM4NTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "Dimly lit restaurant interior with diners at tables",
@@ -7567,6 +7657,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-virginia-city-nevada-mountains-32567911/",
     "query": "Stateline Nevada rooftop bar",
     "fetchedAt": "2026-08-21T20:44:05.502Z",
+    "addedBy": "bestman"
+  },
+  "bestman/cities/stateline-nv/dining": {
+    "url": "https://images.unsplash.com/photo-1758259138375-b961257d846f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdGF0ZWxpbmUlMjBOZXZhZGElMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODg0ODA1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Old wooden buildings with a \"star restaurant\" sign",
+    "photographerName": "Judy Beth Morris",
+    "photographerUrl": "https://unsplash.com/@judy_beth_morris_idaho?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/old-wooden-buildings-with-a-star-restaurant-sign-gxkRJ4L9orQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stateline Nevada restaurant",
+    "fetchedAt": "2026-09-04T00:09:36.002Z",
     "addedBy": "bestman"
   },
   "bestman/cities/stateline-nv/lodging": {
@@ -11949,6 +12049,16 @@
     "fetchedAt": "2026-08-21T22:43:31.624Z",
     "addedBy": "moh"
   },
+  "moh/cities/albuquerque-nm/activities": {
+    "url": "https://images.unsplash.com/photo-1704721405667-a5842173c0b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBbGJ1cXVlcnF1ZSUyME5ldyUyME1leGljbyUyMHNwYXxlbnwxfDB8fHwxNzg4NDgwNjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a sign that reads albuqueroque with a waterfall in the background",
+    "photographerName": "Atoosa Ryanne",
+    "photographerUrl": "https://unsplash.com/@atoosaryanne?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-that-reads-albuqueroque-with-a-waterfall-in-the-background-H4ZQLOJ50h4?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Albuquerque New Mexico spa",
+    "fetchedAt": "2026-09-04T00:10:37.405Z",
+    "addedBy": "moh"
+  },
   "moh/cities/albuquerque-nm/bars": {
     "url": "https://images.pexels.com/photos/30242758/pexels-photo-30242758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Lively Mexican bar scene with patrons enjoying drinks in a traditional setting.",
@@ -12559,6 +12669,16 @@
     "fetchedAt": "2026-08-21T20:41:21.021Z",
     "addedBy": "moh"
   },
+  "moh/cities/bentonville-ar/dining": {
+    "url": "https://images.unsplash.com/photo-1586025081697-18fa13f48a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZW50b252aWxsZSUyMEFya2Fuc2FzJTIwcmVzdGF1cmFudHxlbnwxfDB8fHwxNzg4NDgwNTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "cars parked in front of white concrete building during daytime",
+    "photographerName": "Brad",
+    "photographerUrl": "https://unsplash.com/@minimdesignco?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/cars-parked-in-front-of-white-concrete-building-during-daytime-jwaZvSKsrR8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Bentonville Arkansas restaurant",
+    "fetchedAt": "2026-09-04T00:09:33.359Z",
+    "addedBy": "moh"
+  },
   "moh/cities/bentonville-ar/lodging": {
     "url": "https://images.pexels.com/photos/18117650/pexels-photo-18117650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Front view of the Bottleworks Hotel, a historic landmark in Indianapolis, Indiana.",
@@ -12597,6 +12717,26 @@
     "unsplashUrl": "https://unsplash.com/photos/bar-shelves-are-filled-with-various-liquor-bottles-9NAfPJDzTrs?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Berkshires Massachusetts cocktail bar",
     "fetchedAt": "2026-08-21T22:37:41.001Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/berkshires-ma/dining": {
+    "url": "https://images.unsplash.com/photo-1630284844859-ca0bd006c867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCZXJrc2hpcmVzJTIwTWFzc2FjaHVzZXR0cyUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4ODQ4MDU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red and white chairs on green grass field during daytime",
+    "photographerName": "Bonnie Kittle",
+    "photographerUrl": "https://unsplash.com/@bonniekdesign?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-and-white-chairs-on-green-grass-field-during-daytime-sPLTLIej22o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Berkshires Massachusetts restaurant",
+    "fetchedAt": "2026-09-04T00:09:50.898Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/berkshires-ma/lodging": {
+    "url": "https://images.unsplash.com/photo-1630284844859-ca0bd006c867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCZXJrc2hpcmVzJTIwTWFzc2FjaHVzZXR0cyUyMGJvdXRpcXVlJTIwaG90ZWx8ZW58MXwwfHx8MTc4ODQ4MDU4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "red and white chairs on green grass field during daytime",
+    "photographerName": "Bonnie Kittle",
+    "photographerUrl": "https://unsplash.com/@bonniekdesign?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/red-and-white-chairs-on-green-grass-field-during-daytime-sPLTLIej22o?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Berkshires Massachusetts boutique hotel",
+    "fetchedAt": "2026-09-04T00:09:48.242Z",
     "addedBy": "moh"
   },
   "moh/cities/big-bear-lake-ca": {
@@ -14059,6 +14199,16 @@
     "fetchedAt": "2026-08-21T22:38:42.903Z",
     "addedBy": "moh"
   },
+  "moh/cities/des-moines-ia/activities": {
+    "url": "https://images.unsplash.com/photo-1767350510090-137a6ce252c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZXMlMjBNb2luZXMlMjBJb3dhJTIwd2VsbG5lc3N8ZW58MXwwfHx8MTc4ODQ4MDU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Spa and wellness services including pool, massage, yoga, and dining",
+    "photographerName": "shravan bliss",
+    "photographerUrl": "https://unsplash.com/@shravanbliss?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/spa-and-wellness-services-including-pool-massage-yoga-and-dining-m1_EiyaGch0?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Des Moines Iowa wellness",
+    "fetchedAt": "2026-09-04T00:09:57.538Z",
+    "addedBy": "moh"
+  },
   "moh/cities/des-moines-ia/bars": {
     "url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZXMlMjBNb2luZXMlMjBJb3dhJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzM1MTkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "three clear glass cups with juice",
@@ -14469,6 +14619,16 @@
     "fetchedAt": "2026-08-21T22:39:57.153Z",
     "addedBy": "moh"
   },
+  "moh/cities/fargo-nd/dining": {
+    "url": "https://images.pexels.com/photos/13674041/pexels-photo-13674041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Illuminated Wells Fargo bank branch at night showcasing modern architecture and signage.",
+    "photographerName": "Deane Bayas",
+    "photographerUrl": "https://www.pexels.com/@dbaler",
+    "unsplashUrl": "https://www.pexels.com/photo/wells-fargo-at-night-13674041/",
+    "query": "Fargo North Dakota restaurant",
+    "fetchedAt": "2026-09-04T00:10:13.042Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fargo-nd/lodging": {
     "url": "https://images.unsplash.com/photo-1579126651289-6e9fd0a7bd18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxGYXJnbyUyME5vcnRoJTIwRGFrb3RhJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzUxOTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "panoramic photography of a brown concrete building front",
@@ -14749,6 +14909,16 @@
     "fetchedAt": "2026-08-21T16:49:08.054Z",
     "addedBy": "moh"
   },
+  "moh/cities/fredericksburg-tx/bars": {
+    "url": "https://images.unsplash.com/photo-1590385547262-2e33b0785dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxGcmVkZXJpY2tzYnVyZyUyMFRleGFzJTIwYmFyfGVufDF8MHx8fDE3ODg0ODA1NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green tree near brown house during daytime",
+    "photographerName": "Mark König",
+    "photographerUrl": "https://unsplash.com/@markkoenig?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-tree-near-brown-house-during-daytime-uMRlCQChrTM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Fredericksburg Texas bar",
+    "fetchedAt": "2026-09-04T00:09:08.050Z",
+    "addedBy": "moh"
+  },
   "moh/cities/fredericksburg-tx/dining": {
     "url": "https://images.pexels.com/photos/12735490/pexels-photo-12735490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "A bustling urban nightlife scene at a restaurant and oyster bar, with people dining outside.",
@@ -14937,6 +15107,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/majestic-pennsylvania-memorial-in-gettysburg-33883320/",
     "query": "Gettysburg wellness",
     "fetchedAt": "2026-08-21T22:38:23.771Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/gettysburg-pa/bars": {
+    "url": "https://images.pexels.com/photos/39050551/pexels-photo-39050551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Civil War era cannon and monument at Gettysburg Battlefield with a historic barn in the background.",
+    "photographerName": "Michael S",
+    "photographerUrl": "https://www.pexels.com/@michael-s-2150441079",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-gettysburg-battlefield-cannon-monument-39050551/",
+    "query": "Gettysburg Pennsylvania bar",
+    "fetchedAt": "2026-09-04T00:09:54.830Z",
     "addedBy": "moh"
   },
   "moh/cities/gettysburg-pa/dining": {
@@ -16319,6 +16499,16 @@
     "fetchedAt": "2026-08-21T20:46:12.096Z",
     "addedBy": "moh"
   },
+  "moh/cities/lake-placid-ny/activities": {
+    "url": "https://images.unsplash.com/photo-1777994808483-76b0048ef19e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwUGxhY2lkJTIwTmV3JTIwWW9yayUyMHNwYXxlbnwxfDB8fHwxNzg4NDgwNTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Two adirondack chairs on a dock by a lake",
+    "photographerName": "Quincy Rose",
+    "photographerUrl": "https://unsplash.com/@quincyrose?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/two-adirondack-chairs-on-a-dock-by-a-lake-UCb-3JIhgbU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Placid New York spa",
+    "fetchedAt": "2026-09-04T00:09:46.892Z",
+    "addedBy": "moh"
+  },
   "moh/cities/lake-placid-ny/bars": {
     "url": "https://images.pexels.com/photos/37195908/pexels-photo-37195908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "A neon-lit entrance of Juniors Cafe in NYC showcasing a vibrant nightlife scene with festive decorations.",
@@ -16337,6 +16527,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/trees-along-mountains-near-body-of-water-5668641/",
     "query": "Lake Placid New York restaurant interior",
     "fetchedAt": "2026-08-21T20:46:27.474Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lake-placid-ny/lodging": {
+    "url": "https://images.unsplash.com/photo-1531002609535-8fba6156eecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxMYWtlJTIwUGxhY2lkJTIwTmV3JTIwWW9yayUyMGJvdXRpcXVlJTIwaG90ZWx8ZW58MXwwfHx8MTc4ODQ4MDU4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green wooden bench beside green wooden framed glass window",
+    "photographerName": "John Fornander",
+    "photographerUrl": "https://unsplash.com/@johnfo?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-wooden-bench-beside-green-wooden-framed-glass-window-pdFMPBbpYgI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lake Placid New York boutique hotel",
+    "fetchedAt": "2026-09-04T00:09:42.873Z",
     "addedBy": "moh"
   },
   "moh/cities/lake-tahoe-ca": {
@@ -16579,6 +16779,16 @@
     "fetchedAt": "2026-08-21T14:54:27.947Z",
     "addedBy": "moh"
   },
+  "moh/cities/lexington-ky/lodging": {
+    "url": "https://images.unsplash.com/photo-1607829856286-8eb35ecc1e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMZXhpbmd0b24lMjBLZW50dWNreSUyMGhvdGVsfGVufDF8MHx8fDE3ODg0ODA1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "black flat screen tv turned on showing time at 12 00",
+    "photographerName": "Iain Feeney",
+    "photographerUrl": "https://unsplash.com/@lockefeener?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/black-flat-screen-tv-turned-on-showing-time-at-12-00-NCGWGLLX0RU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Lexington Kentucky hotel",
+    "fetchedAt": "2026-09-04T00:08:57.190Z",
+    "addedBy": "moh"
+  },
   "moh/cities/lincoln-ne": {
     "url": "https://images.unsplash.com/photo-1604705528492-52352f50b600?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwyfHxMaW5jb2xuJTIwTmVicmFza2ElMjBza3lsaW5lfGVufDF8MHx8fDE3ODczNTE5NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white porsche 911 parked on parking lot during daytime",
@@ -16587,6 +16797,16 @@
     "unsplashUrl": "https://unsplash.com/photos/white-porsche-911-parked-on-parking-lot-during-daytime-cdxeytNTsZo?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Lincoln Nebraska skyline",
     "fetchedAt": "2026-08-21T22:39:14.476Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/lincoln-ne/activities": {
+    "url": "https://images.pexels.com/photos/6539834/pexels-photo-6539834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Three women in a gym setting focus on fitness and wellness after midlife.",
+    "photographerName": "RDNE Stock project",
+    "photographerUrl": "https://www.pexels.com/@rdne",
+    "unsplashUrl": "https://www.pexels.com/photo/healthy-people-woman-women-6539834/",
+    "query": "Lincoln Nebraska wellness",
+    "fetchedAt": "2026-09-04T00:10:08.940Z",
     "addedBy": "moh"
   },
   "moh/cities/lincoln-ne/bars": {
@@ -16989,6 +17209,16 @@
     "fetchedAt": "2026-08-21T22:45:42.698Z",
     "addedBy": "moh"
   },
+  "moh/cities/mccall-id/bars": {
+    "url": "https://images.unsplash.com/photo-1601564921647-b446839a013f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNY0NhbGwlMjBJZGFobyUyMGJhcnxlbnwxfDB8fHwxNzg4NDgwNjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "green trees beside body of water during daytime",
+    "photographerName": "Backroad Packers",
+    "photographerUrl": "https://unsplash.com/@backroadpackers?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/green-trees-beside-body-of-water-during-daytime--yVlg2VWKTs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "McCall Idaho bar",
+    "fetchedAt": "2026-09-04T00:10:45.183Z",
+    "addedBy": "moh"
+  },
   "moh/cities/mccall-id/dining": {
     "url": "https://images.pexels.com/photos/1125759/pexels-photo-1125759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Elegant archway of Fork restaurant in Boise, Idaho with lights and flowers.",
@@ -17077,6 +17307,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-cliff-zqWxoo-OgcY?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Mendocino California spa",
     "fetchedAt": "2026-08-21T15:02:46.506Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/mendocino-ca/bars": {
+    "url": "https://images.unsplash.com/photo-1671211519387-70be38761e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNZW5kb2Npbm8lMjBDYWxpZm9ybmlhJTIwYmFyfGVufDF8MHx8fDE3ODg0ODA1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a view of the ocean from a cliff",
+    "photographerName": "Rachel Faller",
+    "photographerUrl": "https://unsplash.com/@rachelcfaller?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-cliff-zqWxoo-OgcY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mendocino California bar",
+    "fetchedAt": "2026-09-04T00:09:01.165Z",
     "addedBy": "moh"
   },
   "moh/cities/mendocino-ca/dining": {
@@ -17267,6 +17507,26 @@
     "unsplashUrl": "https://www.pexels.com/photo/selective-focus-photography-of-smiling-woman-wearing-white-bathrobe-lying-on-pool-chair-1462543/",
     "query": "Missoula Montana spa",
     "fetchedAt": "2026-08-21T22:45:30.024Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/missoula-mt/bars": {
+    "url": "https://images.unsplash.com/photo-1697983239782-d509e9df1232?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNaXNzb3VsYSUyME1vbnRhbmElMjBiYXJ8ZW58MXwwfHx8MTc4ODQ4MDY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a grassy field with mountains in the distance",
+    "photographerName": "Daniel Wyatt",
+    "photographerUrl": "https://unsplash.com/@sorrenxiri?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-grassy-field-with-mountains-in-the-distance-dWM0HMv9NyE?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Missoula Montana bar",
+    "fetchedAt": "2026-09-04T00:10:42.489Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/missoula-mt/dining": {
+    "url": "https://images.unsplash.com/photo-1661177408829-d773b1dd5b4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNaXNzb3VsYSUyME1vbnRhbmElMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODg0ODA2Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a landscape with hills and a town",
+    "photographerName": "Yohan Marion",
+    "photographerUrl": "https://unsplash.com/@yohanmarion?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-landscape-with-hills-and-a-town-tJYiJ4vGX_g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Missoula Montana restaurant",
+    "fetchedAt": "2026-09-04T00:10:39.878Z",
     "addedBy": "moh"
   },
   "moh/cities/missoula-mt/lodging": {
@@ -18299,6 +18559,16 @@
     "fetchedAt": "2026-08-21T22:39:09.228Z",
     "addedBy": "moh"
   },
+  "moh/cities/omaha-ne/dining": {
+    "url": "https://images.pexels.com/photos/5471011/pexels-photo-5471011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A music studio setup featuring a firearm on a desk with audio and tech equipment.",
+    "photographerName": "WoodysMedia",
+    "photographerUrl": "https://www.pexels.com/@woodysmedia-2858691",
+    "unsplashUrl": "https://www.pexels.com/photo/black-firearm-on-black-table-5471011/",
+    "query": "Omaha Nebraska restaurant",
+    "fetchedAt": "2026-09-04T00:10:00.872Z",
+    "addedBy": "moh"
+  },
   "moh/cities/omaha-ne/lodging": {
     "url": "https://images.unsplash.com/photo-1739939960957-665651daf917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPbWFoYSUyME5lYnJhc2thJTIwYm91dGlxdWUlMjBob3RlbHxlbnwxfDB8fHwxNzg3MzUxOTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A picture of a city street with a stop sign",
@@ -18919,6 +19189,26 @@
     "fetchedAt": "2026-08-21T22:42:49.665Z",
     "addedBy": "moh"
   },
+  "moh/cities/prescott-az/activities": {
+    "url": "https://images.unsplash.com/photo-1718541833597-b1b88e271a78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQcmVzY290dCUyMEFyaXpvbmElMjB3ZWxsbmVzc3xlbnwxfDB8fHwxNzg4NDgwNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A sign that says prescot arizona with a guitar on it",
+    "photographerName": "Donald Teel",
+    "photographerUrl": "https://unsplash.com/@epartner?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-that-says-prescot-arizona-with-a-guitar-on-it-nkY3iSqqEFs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Prescott Arizona wellness",
+    "fetchedAt": "2026-09-04T00:10:30.944Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/prescott-az/bars": {
+    "url": "https://images.unsplash.com/photo-1718541833597-b1b88e271a78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxQcmVzY290dCUyMEFyaXpvbmElMjBjb2NrdGFpbCUyMGJhcnxlbnwxfDB8fHwxNzg4NDgwNjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A sign that says prescot arizona with a guitar on it",
+    "photographerName": "Donald Teel",
+    "photographerUrl": "https://unsplash.com/@epartner?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-sign-that-says-prescot-arizona-with-a-guitar-on-it-nkY3iSqqEFs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Prescott Arizona cocktail bar",
+    "fetchedAt": "2026-09-04T00:10:28.078Z",
+    "addedBy": "moh"
+  },
   "moh/cities/prescott-az/dining": {
     "url": "https://images.pexels.com/photos/25012010/pexels-photo-25012010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "View of the Bunker Hill Monument with the Colonel William Prescott statue in Boston, Massachusetts.",
@@ -19157,6 +19447,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-reno-with-sierra-mountains-36773728/",
     "query": "Reno Nevada spa",
     "fetchedAt": "2026-08-21T22:43:15.555Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/reno-nv/bars": {
+    "url": "https://images.unsplash.com/photo-1547406683-88dd1d03c425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxSZW5vJTIwTmV2YWRhJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4ODQ4MDYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "high-rise building during nighttime",
+    "photographerName": "Victor Hughes",
+    "photographerUrl": "https://unsplash.com/@bigvicmedia?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/high-rise-building-during-nighttime-k9VDr7F3nGU?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Reno Nevada cocktail bar",
+    "fetchedAt": "2026-09-04T00:10:32.336Z",
     "addedBy": "moh"
   },
   "moh/cities/reno-nv/dining": {
@@ -19547,6 +19847,26 @@
     "unsplashUrl": "https://www.pexels.com/photo/a-couple-in-an-orange-sauna-7365508/",
     "query": "Sandusky wellness",
     "fetchedAt": "2026-08-21T22:41:15.327Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sandusky-oh/bars": {
+    "url": "https://images.pexels.com/photos/16847903/pexels-photo-16847903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A neon bar sign on a yellow brick wall with urban power lines in Chattanooga.",
+    "photographerName": "K",
+    "photographerUrl": "https://www.pexels.com/@kelly",
+    "unsplashUrl": "https://www.pexels.com/photo/bar-sign-on-a-yellow-brick-building-16847903/",
+    "query": "Sandusky Ohio bar",
+    "fetchedAt": "2026-09-04T00:10:24.134Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/sandusky-oh/dining": {
+    "url": "https://images.pexels.com/photos/30848993/pexels-photo-30848993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Street view of a pizza shop with a classic brick facade and vibrant signage.",
+    "photographerName": "Jay Brand",
+    "photographerUrl": "https://www.pexels.com/@jay-brand-1763356224",
+    "unsplashUrl": "https://www.pexels.com/photo/urban-pizza-restaurant-street-view-30848993/",
+    "query": "Sandusky Ohio restaurant",
+    "fetchedAt": "2026-09-04T00:10:19.930Z",
     "addedBy": "moh"
   },
   "moh/cities/sandusky-oh/lodging": {
@@ -19989,6 +20309,16 @@
     "fetchedAt": "2026-08-21T20:42:41.956Z",
     "addedBy": "moh"
   },
+  "moh/cities/shreveport-la/dining": {
+    "url": "https://images.pexels.com/photos/37037268/pexels-photo-37037268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Lively street scene in New Orleans' French Quarter with flags and people.",
+    "photographerName": "Ayoub Benamor",
+    "photographerUrl": "https://www.pexels.com/@ayoub-benamor-2160847105",
+    "unsplashUrl": "https://www.pexels.com/photo/vibrant-new-orleans-french-quarter-street-scene-37037268/",
+    "query": "Shreveport Louisiana restaurant",
+    "fetchedAt": "2026-09-04T00:09:39.941Z",
+    "addedBy": "moh"
+  },
   "moh/cities/shreveport-la/lodging": {
     "url": "https://images.pexels.com/photos/12968569/pexels-photo-12968569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "The iconic Sheraton Hotel in Ankara, Türkiye captured during sunset.",
@@ -20317,6 +20647,26 @@
     "unsplashUrl": "https://www.pexels.com/photo/rocks-and-trees-on-lake-tahoe-lakeshore-20763060/",
     "query": "Stateline Nevada spa",
     "fetchedAt": "2026-08-21T22:43:29.383Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/stateline-nv/bars": {
+    "url": "https://images.unsplash.com/photo-1559072928-518a63eeb1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTdGF0ZWxpbmUlMjBOZXZhZGElMjBjb2NrdGFpbCUyMGJhcnxlbnwxfDB8fHwxNzg4NDgwNjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "man sitting on black wooden chair",
+    "photographerName": "Greg Howard",
+    "photographerUrl": "https://unsplash.com/@ledbelly?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/man-sitting-on-black-wooden-chair-F5xt3dtGm2I?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stateline Nevada cocktail bar",
+    "fetchedAt": "2026-09-04T00:10:35.978Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/stateline-nv/dining": {
+    "url": "https://images.unsplash.com/photo-1758259138375-b961257d846f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxTdGF0ZWxpbmUlMjBOZXZhZGElMjByZXN0YXVyYW50fGVufDF8MHx8fDE3ODg0ODA1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Old wooden buildings with a \"star restaurant\" sign",
+    "photographerName": "Judy Beth Morris",
+    "photographerUrl": "https://unsplash.com/@judy_beth_morris_idaho?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/old-wooden-buildings-with-a-star-restaurant-sign-gxkRJ4L9orQ?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Stateline Nevada restaurant",
+    "fetchedAt": "2026-09-04T00:10:34.662Z",
     "addedBy": "moh"
   },
   "moh/cities/stateline-nv/lodging": {
@@ -20649,6 +20999,16 @@
     "fetchedAt": "2026-08-21T22:42:36.058Z",
     "addedBy": "moh"
   },
+  "moh/cities/tempe-az/bars": {
+    "url": "https://images.unsplash.com/photo-1750379819415-b036c6ff3c2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUZW1wZSUyMEFyaXpvbmElMjBiYXJ8ZW58MXwwfHx8MTc4ODQ4MDYyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "Desert landscape with buildings in the background",
+    "photographerName": "Abhinav Gorantla",
+    "photographerUrl": "https://unsplash.com/@abhinavgorantla?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/desert-landscape-with-buildings-in-the-background-ME-6TupwMLw?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Tempe Arizona bar",
+    "fetchedAt": "2026-09-04T00:10:26.765Z",
+    "addedBy": "moh"
+  },
   "moh/cities/tempe-az/dining": {
     "url": "https://images.pexels.com/photos/1267265/pexels-photo-1267265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Group of friends enjoying drinks at a cozy bar with an American flag backdrop.",
@@ -20697,6 +21057,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-building-jSTFFD_MBVc?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Traverse City bar",
     "fetchedAt": "2026-08-21T22:40:46.566Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/traverse-city-mi/dining": {
+    "url": "https://images.unsplash.com/photo-1782612920864-30b1004aadd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUcmF2ZXJzZSUyMENpdHklMjBNaWNoaWdhbiUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4ODQ4MDYxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A record store with a yellow awning under a clear blue sky",
+    "photographerName": "Bruno Guerrero",
+    "photographerUrl": "https://unsplash.com/@pray4bokeh?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/record-store-with-yellow-awning-NNCRD1EBiWA?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Traverse City Michigan restaurant",
+    "fetchedAt": "2026-09-04T00:10:15.706Z",
     "addedBy": "moh"
   },
   "moh/cities/traverse-city-mi/lodging": {
@@ -20777,6 +21147,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/modern-architecture-of-lmrc-building-in-vicksburg-38069881/",
     "query": "Tunica Mississippi spa",
     "fetchedAt": "2026-08-21T20:40:48.132Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/tunica-ms/bars": {
+    "url": "https://images.pexels.com/photos/34561871/pexels-photo-34561871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning urban view of Mississippi River bridge from downtown area with cloudy sky.",
+    "photographerName": "Kevin  Early",
+    "photographerUrl": "https://www.pexels.com/@kevin-early-492318467",
+    "unsplashUrl": "https://www.pexels.com/photo/panoramic-view-of-mississippi-river-bridge-34561871/",
+    "query": "Tunica Mississippi bar",
+    "fetchedAt": "2026-09-04T00:09:26.730Z",
     "addedBy": "moh"
   },
   "moh/cities/tunica-ms/dining": {
@@ -21167,6 +21547,26 @@
     "unsplashUrl": "https://www.pexels.com/photo/underneath-the-pier-at-north-myrtle-beach-38325208/",
     "query": "Wilmington North Carolina spa",
     "fetchedAt": "2026-08-21T19:03:24.685Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/wilmington-nc/bars": {
+    "url": "https://images.unsplash.com/photo-1657074293425-ad3af9057825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaWxtaW5ndG9uJTIwTm9ydGglMjBDYXJvbGluYSUyMGJhcnxlbnwxfDB8fHwxNzg4NDgwNTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a beach with houses and water",
+    "photographerName": "Samuel Cruz",
+    "photographerUrl": "https://unsplash.com/@samuelcruz?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-beach-with-houses-and-water-danWxMtwW_g?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wilmington North Carolina bar",
+    "fetchedAt": "2026-09-04T00:09:18.637Z",
+    "addedBy": "moh"
+  },
+  "moh/cities/wilmington-nc/dining": {
+    "url": "https://images.unsplash.com/photo-1735231178682-76e0c138d509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxXaWxtaW5ndG9uJTIwTm9ydGglMjBDYXJvbGluYSUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4ODQ4MDU1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A large bridge over a large body of water",
+    "photographerName": "Josh Austin",
+    "photographerUrl": "https://unsplash.com/@nextjoshaustin?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-bridge-over-a-large-body-of-water-i7l4xhET16c?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Wilmington North Carolina restaurant",
+    "fetchedAt": "2026-09-04T00:09:14.640Z",
     "addedBy": "moh"
   },
   "moh/cities/wilmington-nc/lodging": {
