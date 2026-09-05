@@ -112,7 +112,9 @@ git -C "$REPO" remote set-url origin https://nonexistent.invalid/refresh-snapsho
 run_pull_case () {  # $1 = pmset fixture path
   : > "$LOG"
   set +e
-  REPO="$REPO" LOG="$LOG" REFRESH_SNAPSHOT_PMSET_LOG="$1" bash "$REFRESHER" 2>/dev/null
+  # WAIT_MAX=0: the dark-host wait is the production behaviour; the test asserts the terminal
+  # categories, so it closes the window at once (a real run polls for up to 6 h).
+  REPO="$REPO" LOG="$LOG" REFRESH_SNAPSHOT_PMSET_LOG="$1" REFRESH_SNAPSHOT_WAIT_MAX=0 bash "$REFRESHER" 2>/dev/null
   EXIT_CODE=$?
   set -e
 }
