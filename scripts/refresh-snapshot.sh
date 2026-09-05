@@ -170,18 +170,41 @@ host_power_state() {  # sets HOST_STATE (awake | dark | unknown) and PMSET_LAST_
   esac
 }
 
-set +e
-PULL_ERR="$(git pull --quiet --rebase origin main 2>&1)"
-PULL_RC=$?
-set -e
+# WAIT FOR THE NETWORK, THEN DO THE WORK (2026-09-05). Exit 69 was honest but it happened every
+# morning: the 07:20 slot fires inside a closed-lid DarkWake, DNS is down, and health's streak
+# rule (correctly) turned three dark mornings into a RED. The lane does not need to run at 07:20;
+# it needs to run once a day when the machine has a network. So on a dark-host DNS failure the
+# script now WAITS — polling every 5 minutes for up to REFRESH_SNAPSHOT_WAIT_MAX seconds (default
+# 6 h) — and does the pull when the network is back, which is the first full wake. Only if the
+# window closes with no network does it exit 69. An AWAKE DNS failure still exits 1 at once.
+WAIT_MAX="${REFRESH_SNAPSHOT_WAIT_MAX:-21600}"
+waited=0
+while :; do
+  set +e
+  PULL_ERR="$(git pull --quiet --rebase origin main 2>&1)"
+  PULL_RC=$?
+  set -e
+  [ "$PULL_RC" -eq 0 ] && break
+  if ! printf '%s' "$PULL_ERR" | grep -q 'Could not resolve host'; then
+    break                                  # a non-network failure: fall through to the FAIL below
+  fi
+  host_power_state
+  if [ "$HOST_STATE" != "dark" ]; then
+    break                                  # awake and no DNS: a real failure, reported below
+  fi
+  if [ "$waited" -ge "$WAIT_MAX" ]; then
+    printf '%s\n' "$PULL_ERR" >&2
+    say "NOT MEASURED — no network for ${waited}s: the host stayed in a maintenance/dark wake (pmset: ${PMSET_LAST_TRANSITION}); nothing refreshed, retries on schedule (exit 69)"
+    exit 69
+  fi
+  [ "$waited" -eq 0 ] && say "WAITING — no network in a dark wake (pmset: ${PMSET_LAST_TRANSITION}); polling every 5 min for up to ${WAIT_MAX}s"
+  sleep 300
+  waited=$((waited + 300))
+done
 if [ "$PULL_RC" -ne 0 ]; then
   printf '%s\n' "$PULL_ERR" >&2            # launchd's .err keeps the raw git message, as before
   if printf '%s' "$PULL_ERR" | grep -q 'Could not resolve host'; then
     host_power_state
-    if [ "$HOST_STATE" = "dark" ]; then
-      say "NOT MEASURED — no network: the host was in a maintenance/dark wake (pmset: ${PMSET_LAST_TRANSITION}); nothing refreshed, retries on schedule (exit 69)"
-      exit 69
-    fi
     say "FAIL — git pull: could not resolve host while the host was ${HOST_STATE} (pmset: ${PMSET_LAST_TRANSITION:-no transition read})"
     exit 1
   fi
