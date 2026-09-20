@@ -5949,6 +5949,16 @@
     "fetchedAt": "2026-08-21T18:52:15.128Z",
     "addedBy": "bestman"
   },
+  "bestman/cities/panama-city-pa/dining": {
+    "url": "https://images.unsplash.com/photo-1641176912780-3fa33fd20a15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYW5hbWElMjBDaXR5JTIwc3RlYWtob3VzZXxlbnwxfDB8fHwxNzg5OTI1MTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a large sign that says panama with a tree in the background",
+    "photographerName": "Rikin Katyal",
+    "photographerUrl": "https://unsplash.com/@sirvar?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-large-sign-that-says-panama-with-a-tree-in-the-background-wTqTEzZ5EtM?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Panama City steakhouse",
+    "fetchedAt": "2026-09-20T17:26:32.606Z",
+    "addedBy": "bestman"
+  },
   "bestman/cities/panama-city-pa/lodging": {
     "url": "https://images.pexels.com/photos/18145153/pexels-photo-18145153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning aerial shot of a beachfront resort in Panama City Beach, FL with pools and coastline.",
@@ -24909,6 +24919,16 @@
     "fetchedAt": "2026-08-21T15:09:52.118Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/aman-le-melezin-courchevel": {
+    "url": "https://images.unsplash.com/photo-1789414297773-fff501706cfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBbWFuJTIwTGUlMjBNZWxlemluJTIwQ291cmNoZXZlbCUyMGV4dGVyaW9yJTIwYWxwaW5lfGVufDF8MHx8fDE3ODk5MjUyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "A rustic house with wooden beams and stucco walls beneath a large mountain",
+    "photographerName": "Christopher Politano",
+    "photographerUrl": "https://unsplash.com/@poli_graphy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/rustic-house-beneath-large-mountain-YXu-_qpKsMY?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Aman Le Melezin Courchevel exterior alpine",
+    "fetchedAt": "2026-09-20T17:26:58.163Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/amangiri": {
     "url": "https://images.pexels.com/photos/34553122/pexels-photo-34553122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning view of Utah's badlands featuring a unique rock formation under a clear blue sky.",
@@ -26647,6 +26667,16 @@
     "unsplashUrl": "https://unsplash.com/photos/a-grand-castle-sits-beside-a-reflective-lake-56DVa2SlwH8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Mohonk Mountain House New Paltz Victorian castle lake",
     "fetchedAt": "2026-06-29T17:35:02.903Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/mombo-camp-okavango": {
+    "url": "https://images.unsplash.com/photo-1655981653211-339daa50e4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNb21ibyUyMENhbXAlMjBPa2F2YW5nbyUyMERlbHRhJTIwQm90c3dhbmElMjBzYWZhcml8ZW58MXwwfHx8MTc4OTkyNTIyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a group of tires in a field",
+    "photographerName": "Ajeet Panesar",
+    "photographerUrl": "https://unsplash.com/@ajeetpanesarphotography?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-group-of-tires-in-a-field-5zOC4SYq2EI?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Mombo Camp Okavango Delta Botswana safari",
+    "fetchedAt": "2026-09-20T17:27:02.450Z",
     "addedBy": "offsite"
   },
   "offsite/venues/montage-deer-valley": {
