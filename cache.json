@@ -25029,6 +25029,16 @@
     "fetchedAt": "2026-08-21T14:51:40.503Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/ashford-castle": {
+    "url": "https://images.pexels.com/photos/18549116/pexels-photo-18549116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Kylemore Abbey and its reflection in a tranquil lake, Connemara, Ireland.",
+    "photographerName": "Rick Johns",
+    "photographerUrl": "https://www.pexels.com/@rickjohnsrj",
+    "unsplashUrl": "https://www.pexels.com/photo/kylemore-abbey-in-connemara-18549116/",
+    "query": "Ashford Castle Ireland lake falconry forest",
+    "fetchedAt": "2026-09-20T13:35:11.267Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/ashford-lough-corrib": {
     "url": "https://images.unsplash.com/photo-1568226757964-381fba0d3814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBc2hmb3JkJTIwQ2FzdGxlJTIwTG91Z2glMjBDb3JyaWIlMjBsYWtlJTIwZXN0YXRlJTIwQ29uZyUyMElyZWxhbmR8ZW58MXwwfHx8MTc4NzMwMjYyNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "white concrete castle surrounded by trees",
@@ -25047,6 +25057,16 @@
     "unsplashUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-sNGImLlEZB8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Atlantis — The Cove / The Reef towers (block) Paradise Island, Nassau",
     "fetchedAt": "2026-06-26T18:02:06.351Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/atlantis-paradise-island": {
+    "url": "https://images.pexels.com/photos/12359638/pexels-photo-12359638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience thrilling leisure at Atlantis waterpark, Bahamas with lush tropical scenery.",
+    "photographerName": "Rick Josey",
+    "photographerUrl": "https://www.pexels.com/@rick-josey-130171209",
+    "unsplashUrl": "https://www.pexels.com/photo/double-waterslide-at-the-atlantis-bahamas-12359638/",
+    "query": "Atlantis Paradise Island Bahamas aerial Royal Towers Aquaventure marina",
+    "fetchedAt": "2026-09-20T13:35:27.834Z",
     "addedBy": "offsite"
   },
   "offsite/venues/bab-al-shams-dubai": {
@@ -25149,6 +25169,16 @@
     "fetchedAt": "2026-08-21T15:09:00.885Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/beau-rivage-palace-lausanne": {
+    "url": "https://images.pexels.com/photos/6318902/pexels-photo-6318902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking sunset view of Lausanne cityscape with Alps and Lake Geneva in the backdrop.",
+    "photographerName": "Neil Bates",
+    "photographerUrl": "https://www.pexels.com/@neil-bates-10561",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-city-of-lausanne-switzerland-6318902/",
+    "query": "Beau-Rivage Palace Lausanne Lake Geneva Switzerland",
+    "fetchedAt": "2026-09-20T13:36:11.453Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/black-urchin-grand-cayman": {
     "url": "https://images.unsplash.com/photo-1694059243963-6086b1497b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCbGFjayUyMFVyY2hpbiUyMCUyOHJlc29ydCUyMGJ1eW91dCUyOSUyMEdyYW5kJTIwQ2F5bWFufGVufDF8MHx8fDE3ODI0OTY5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an aerial view of a beach and a body of water",
@@ -25247,6 +25277,26 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-smith-rock-state-park-oregon-34751452/",
     "query": "Brasada Ranch Central Oregon cabins Cascade views",
     "fetchedAt": "2026-08-21T15:12:19.230Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/brush-creek-ranch": {
+    "url": "https://images.pexels.com/photos/7600493/pexels-photo-7600493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of a rustic barn against the Teton Mountains in Wyoming.",
+    "photographerName": "Mariana Bobina",
+    "photographerUrl": "https://www.pexels.com/@mariana-bobina-39044757",
+    "unsplashUrl": "https://www.pexels.com/photo/a-barn-on-a-green-field-7600493/",
+    "query": "Brush Creek Ranch Wyoming lodge mountains",
+    "fetchedAt": "2026-09-20T13:34:57.422Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/burgenstock-resort": {
+    "url": "https://images.pexels.com/photos/39343857/pexels-photo-39343857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial photograph of Lake Lucerne surrounded by Swiss Alps, captured on a sunny day.",
+    "photographerName": "Princess ara Versabal",
+    "photographerUrl": "https://www.pexels.com/@princess-ara-versabal-3110140",
+    "unsplashUrl": "https://www.pexels.com/photo/breathtaking-aerial-view-of-lake-lucerne-switzerland-39343857/",
+    "query": "Bürgenstock Resort Lake Lucerne clifftop infinity pool",
+    "fetchedAt": "2026-09-20T13:35:19.430Z",
     "addedBy": "offsite"
   },
   "offsite/venues/bushmans-kloof-cederberg": {
@@ -25499,6 +25549,16 @@
     "fetchedAt": "2026-08-21T16:50:24.175Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/costa-navarino": {
+    "url": "https://images.pexels.com/photos/32600256/pexels-photo-32600256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of a horseshoe-shaped bay with turquoise waters and sandy beach.",
+    "photographerName": "Ejov Igor",
+    "photographerUrl": "https://www.pexels.com/@igorejov",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-scenic-horseshoe-bay-beach-32600256/",
+    "query": "Costa Navarino Romanos resort beach golf aerial Messinia",
+    "fetchedAt": "2026-09-20T13:35:22.147Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/cottars-1920s-safari-camp": {
     "url": "https://images.pexels.com/photos/10822350/pexels-photo-10822350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Group of giraffes in the African savannah showcasing wildlife beauty and natural habitat.",
@@ -25637,6 +25697,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/emirates-palace-mandarin-oriental-hotel-in-abu-dhabi-19580352/",
     "query": "Emirates Palace Abu Dhabi exterior",
     "fetchedAt": "2026-08-21T16:52:57.294Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/enchantment-sedona": {
+    "url": "https://images.pexels.com/photos/36988537/pexels-photo-36988537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Scenic view of Sedona's famous red rock formations against a clear blue sky.",
+    "photographerName": "Jacqueline Larson",
+    "photographerUrl": "https://www.pexels.com/@jacqueline-larson-2158453901",
+    "unsplashUrl": "https://www.pexels.com/photo/majestic-red-rock-formations-in-sedona-36988537/",
+    "query": "Enchantment Resort Sedona Boynton Canyon red rock",
+    "fetchedAt": "2026-09-20T13:35:05.953Z",
     "addedBy": "offsite"
   },
   "offsite/venues/estancia-cerro-guido-patagonia": {
@@ -25819,6 +25889,16 @@
     "fetchedAt": "2026-06-26T17:58:41.525Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/fs-hualalai-hawaii": {
+    "url": "https://images.pexels.com/photos/16598629/pexels-photo-16598629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of the lush coastline and blue waters of Honaunau-Napoopoo, Hawaii.",
+    "photographerName": "Josh Withers",
+    "photographerUrl": "https://www.pexels.com/@hellojoshwithers",
+    "unsplashUrl": "https://www.pexels.com/photo/a-seaside-by-the-forest-16598629/",
+    "query": "Four Seasons Hualalai Big Island Hawaii Kings Pond oceanfront aerial Kona coast",
+    "fetchedAt": "2026-09-20T13:35:30.783Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/fs-punta-mita-mexico": {
     "url": "https://images.unsplash.com/photo-1638042662717-24abfa735f6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxGb3VyJTIwU2Vhc29ucyUyMFB1bnRhJTIwTWl0YSUyMFRhaWwlMjBvZiUyMHRoZSUyMFdoYWxlJTIwaXNsYW5kJTIwZ3JlZW4lMjBvY2VhbiUyMGxhd24lMjBhZXJpYWx8ZW58MXwwfHx8MTc4MjQ5NjczNHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "an aerial view of a beach and a body of water",
@@ -25869,6 +25949,16 @@
     "fetchedAt": "2026-08-21T15:05:16.652Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/grand-geneva-wisconsin": {
+    "url": "https://images.pexels.com/photos/3140186/pexels-photo-3140186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of a golf course with vibrant greenery and a pond in Banten, Indonesia.",
+    "photographerName": "Tom Fisk",
+    "photographerUrl": "https://www.pexels.com/@tomfisk",
+    "unsplashUrl": "https://www.pexels.com/photo/top-view-photo-of-pond-3140186/",
+    "query": "Grand Geneva Resort Lake Geneva Wisconsin aerial golf",
+    "fetchedAt": "2026-09-20T13:35:16.668Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/grand-hotel-toplice-bled": {
     "url": "https://images.pexels.com/photos/38957561/pexels-photo-38957561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Picturesque Lake Bled with its iconic island church surrounded by mountains in Slovenia.",
@@ -25877,6 +25967,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-lake-bled-with-island-church-38957561/",
     "query": "Grand Hotel Toplice Lake Bled island church view",
     "fetchedAt": "2026-08-21T18:53:11.422Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/grand-hotel-tremezzo-como": {
+    "url": "https://images.pexels.com/photos/32633004/pexels-photo-32633004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming waterfront buildings in Bellagio, Lake Como, Italy's picturesque landscape.",
+    "photographerName": "Mr Alex Photography",
+    "photographerUrl": "https://www.pexels.com/@mralexphotography",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-bellagio-waterfront-lake-como-32633004/",
+    "query": "Grand Hotel Tremezzo floating pool Lake Como Bellagio",
+    "fetchedAt": "2026-09-20T13:36:03.017Z",
     "addedBy": "offsite"
   },
   "offsite/venues/grand-hotel-zermatterhof": {
@@ -26189,6 +26289,16 @@
     "fetchedAt": "2026-08-21T16:52:13.059Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/joshua-creek": {
+    "url": "https://images.pexels.com/photos/19310571/pexels-photo-19310571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Hereford bull resting peacefully in a Stonewall, TX pasture.",
+    "photographerName": "A. G. Rosales",
+    "photographerUrl": "https://www.pexels.com/@agrosales",
+    "unsplashUrl": "https://www.pexels.com/photo/hereford-bull-with-marked-horns-lying-in-the-pasture-19310571/",
+    "query": "Joshua Creek Ranch Texas Hill Country sporting clays lodge",
+    "fetchedAt": "2026-09-20T13:35:03.169Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/jw-marriott-san-antonio-hill-country": {
     "url": "https://images.pexels.com/photos/12389370/pexels-photo-12389370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Aerial shot capturing the lush greenery and tranquil landscape of a scenic golf course.",
@@ -26197,6 +26307,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/aerial-footage-of-golf-course-12389370/",
     "query": "JW Marriott San Antonio Hill Country resort golf aerial",
     "fetchedAt": "2026-08-21T16:48:38.781Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/jw-rosseau-muskoka": {
+    "url": "https://images.pexels.com/photos/987968/pexels-photo-987968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Empty wooden chairs left on pier with amazing view on calm lake on misty day",
+    "photographerName": "Sam Forson",
+    "photographerUrl": "https://www.pexels.com/@samforson",
+    "unsplashUrl": "https://www.pexels.com/photo/empty-chairs-on-pier-on-foggy-day-987968/",
+    "query": "JW Marriott Rosseau Muskoka infinity pool Lake Rosseau Ontario",
+    "fetchedAt": "2026-09-20T13:35:13.918Z",
     "addedBy": "offsite"
   },
   "offsite/venues/kasbah-du-toubkal-imlil": {
@@ -26269,6 +26389,16 @@
     "fetchedAt": "2026-06-26T18:00:38.099Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/lake-como-edition": {
+    "url": "https://images.pexels.com/photos/20412787/pexels-photo-20412787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning lakefront view of historic architecture in Como, Lombardy, Italy with lush hills.",
+    "photographerName": "Alejandro Aznar",
+    "photographerUrl": "https://www.pexels.com/@alejandro-aznar-155337093",
+    "unsplashUrl": "https://www.pexels.com/photo/buildings-in-town-over-como-lake-in-italy-20412787/",
+    "query": "Lake Como EDITION hotel lakefront Italy",
+    "fetchedAt": "2026-09-20T13:36:05.686Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/lake-placid-lodge": {
     "url": "https://images.pexels.com/photos/34418177/pexels-photo-34418177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Tranquil morning view of Lake Placid with misty reflections and distant Adirondacks.",
@@ -26327,6 +26457,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/infrastructure-beside-body-of-water-1719173/",
     "query": "The Leela Palace Udaipur Lake Pichola facade",
     "fetchedAt": "2026-08-21T15:10:06.522Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/lefay-lago-di-garda": {
+    "url": "https://images.pexels.com/photos/34162143/pexels-photo-34162143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Sunset over Lake Garda with olive trees and mountain backdrop, Italy.",
+    "photographerName": "Moritz Feldmann",
+    "photographerUrl": "https://www.pexels.com/@moritz-feldmann-3362914",
+    "unsplashUrl": "https://www.pexels.com/photo/scenic-view-of-lake-garda-at-sunset-34162143/",
+    "query": "Lefay Resort SPA Lago di Garda lake view Italy",
+    "fetchedAt": "2026-09-20T13:36:08.718Z",
     "addedBy": "offsite"
   },
   "offsite/venues/les-airelles-courchevel": {
@@ -26409,6 +26549,16 @@
     "fetchedAt": "2026-08-21T16:51:11.712Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/low-wood-bay-windermere": {
+    "url": "https://images.pexels.com/photos/36501450/pexels-photo-36501450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Black and white aerial view of a scenic village near Lake District, UK, featuring lush landscapes and water.",
+    "photographerName": "Altaf Shah",
+    "photographerUrl": "https://www.pexels.com/@altaf-shah-3143825",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-scenic-village-near-lake-district-36501450/",
+    "query": "Low Wood Bay Resort Windermere Lake District marina",
+    "fetchedAt": "2026-09-20T13:36:14.048Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/madeline-telluride-auberge": {
     "url": "https://images.pexels.com/photos/10196535/pexels-photo-10196535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Scenic view of snow-covered mountains and trees in Telluride, Colorado during winter.",
@@ -26467,6 +26617,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/marques-de-riscal-hotel-in-spain-19772195/",
     "query": "Marqués de Riscal Gehry titanium winery hotel Rioja",
     "fetchedAt": "2026-08-21T15:03:51.530Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/millbrook-resort-queenstown": {
+    "url": "https://images.pexels.com/photos/31567591/pexels-photo-31567591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating view of the Remarkables mountain range under dramatic clouds in Queenstown, New Zealand.",
+    "photographerName": "Madison Paiement",
+    "photographerUrl": "https://www.pexels.com/@madison-paiement-2151230417",
+    "unsplashUrl": "https://www.pexels.com/photo/dramatic-clouds-over-remarkables-in-new-zealand-31567591/",
+    "query": "Millbrook Resort Arrowtown golf Remarkables mountains",
+    "fetchedAt": "2026-09-20T13:35:49.524Z",
     "addedBy": "offsite"
   },
   "offsite/venues/minaret-station-alpine-lodge": {
@@ -26669,6 +26829,16 @@
     "fetchedAt": "2026-08-21T15:04:42.724Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/park-hyatt-niseko-hanazono": {
+    "url": "https://images.pexels.com/photos/16122915/pexels-photo-16122915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of snowcapped Mount Yotei in Niseko, Hokkaido with a clear blue sky.",
+    "photographerName": "Morten H. Hansen",
+    "photographerUrl": "https://www.pexels.com/@m-h-hansen",
+    "unsplashUrl": "https://www.pexels.com/photo/mount-yotei-in-the-shikotsu-toya-national-park-japan-16122915/",
+    "query": "Park Hyatt Niseko Hanazono Mt Yotei snow ski village",
+    "fetchedAt": "2026-09-20T13:35:46.842Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/passalacqua-como": {
     "url": "https://images.pexels.com/photos/13777755/pexels-photo-13777755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Beautiful view of Lake Como with mountains and clear blue sky, featuring an elegant terrace.",
@@ -26677,6 +26847,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/bay-view-from-park-13777755/",
     "query": "Passalacqua hotel Lake Como terraced gardens",
     "fetchedAt": "2026-08-21T18:52:51.554Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/paws-up": {
+    "url": "https://images.pexels.com/photos/8967785/pexels-photo-8967785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A couple enjoys a relaxing moment inside a luxurious glamping tent with stunning outdoor views.",
+    "photographerName": "Yaroslav Shuraev",
+    "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+    "unsplashUrl": "https://www.pexels.com/photo/couple-sitting-on-a-sofa-8967785/",
+    "query": "Paws Up Montana luxury glamping tents Blackfoot River",
+    "fetchedAt": "2026-09-20T13:35:00.072Z",
     "addedBy": "offsite"
   },
   "offsite/venues/pebble-beach": {
@@ -26839,6 +27019,16 @@
     "fetchedAt": "2026-08-21T15:04:31.850Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/ritz-carlton-al-wadi-desert": {
+    "url": "https://images.pexels.com/photos/5727017/pexels-photo-5727017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating sunset over the sand dunes in Al Wahat Al Dakhla Desert, Egypt.",
+    "photographerName": "G J",
+    "photographerUrl": "https://www.pexels.com/@g-j-3579382",
+    "unsplashUrl": "https://www.pexels.com/photo/golden-sunset-over-a-silhouetted-desert-land-5727017/",
+    "query": "Ritz-Carlton Al Wadi Desert villa dunes falconry tent UAE sunset",
+    "fetchedAt": "2026-09-20T13:35:41.458Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/ritz-carlton-grande-lakes-orlando": {
     "url": "https://images.pexels.com/photos/20755938/pexels-photo-20755938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "View of the Ritz-Carlton hotel in Jeddah surrounded by lush greenery and blue skies.",
@@ -26929,6 +27119,16 @@
     "fetchedAt": "2026-06-26T17:59:52.021Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/royal-livingstone-victoria-falls": {
+    "url": "https://images.pexels.com/photos/39470499/pexels-photo-39470499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A giraffe and zebra drink from a waterhole in the African savanna during sunset.",
+    "photographerName": "Rino Adamo",
+    "photographerUrl": "https://www.pexels.com/@rinoadamo",
+    "unsplashUrl": "https://www.pexels.com/photo/giraffe-and-zebra-at-waterhole-in-african-savanna-39470499/",
+    "query": "Royal Livingstone hotel Victoria Falls Zambezi lawn giraffe sunset",
+    "fetchedAt": "2026-09-20T13:35:36.054Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/royal-malewane-thornybush": {
     "url": "https://images.pexels.com/photos/13934687/pexels-photo-13934687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Close-up side view of a lion in natural habitat, showcasing its majestic mane and sharp features.",
@@ -26947,6 +27147,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/white-and-black-concrete-column-and-building-412049/",
     "query": "Royal Mansour Marrakech Marrakech, Morocco",
     "fetchedAt": "2026-08-21T15:07:42.951Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sabi-sabi-private-reserve": {
+    "url": "https://images.pexels.com/photos/16448674/pexels-photo-16448674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A safari jeep with people observing wildlife at dusk in Pilanesberg National Park, South Africa.",
+    "photographerName": "Theo Topolevsky",
+    "photographerUrl": "https://www.pexels.com/@theo-topolevsky-299518155",
+    "unsplashUrl": "https://www.pexels.com/photo/people-and-car-on-grassland-at-dusk-16448674/",
+    "query": "Sabi Sabi Bush Lodge South Africa safari deck leopard game drive",
+    "fetchedAt": "2026-09-20T13:35:33.424Z",
     "addedBy": "offsite"
   },
   "offsite/venues/sabi-sand-neighbours-overflow": {
@@ -27089,6 +27299,16 @@
     "fetchedAt": "2026-08-21T16:51:53.458Z",
     "addedBy": "offsite"
   },
+  "offsite/venues/sea-island": {
+    "url": "https://images.pexels.com/photos/1034804/pexels-photo-1034804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial shot of beachfront homes adjacent to a serene ocean shore.",
+    "photographerName": "Josh Sorenson",
+    "photographerUrl": "https://www.pexels.com/@joshsorenson",
+    "unsplashUrl": "https://www.pexels.com/photo/high-angle-view-of-beach-and-houses-1034804/",
+    "query": "Sea Island Cloister resort Georgia private island golf beach aerial",
+    "fetchedAt": "2026-09-20T13:35:57.735Z",
+    "addedBy": "offsite"
+  },
   "offsite/venues/segera-retreat-laikipia": {
     "url": "https://images.pexels.com/photos/28977882/pexels-photo-28977882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Impala antelope in the vast savannah of Nanyuki, Kenya, with distant hills.",
@@ -27167,6 +27387,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/desert-trees-28170223/",
     "query": "Six Senses Southern Dunes, The Red Sea Umluj / Red Sea, Saudi Arabia",
     "fetchedAt": "2026-08-21T15:08:25.952Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/six-senses-uluwatu": {
+    "url": "https://images.pexels.com/photos/33279910/pexels-photo-33279910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial view of ocean waves crashing on rocks from a cliff in Bali, Indonesia.",
+    "photographerName": "Mikhaël Noury",
+    "photographerUrl": "https://www.pexels.com/@mikhaelnoury",
+    "unsplashUrl": "https://www.pexels.com/photo/cliffside-view-of-ocean-waves-in-bali-33279910/",
+    "query": "Six Senses Uluwatu Bali clifftop ocean lawn sunset",
+    "fetchedAt": "2026-09-20T13:35:44.188Z",
     "addedBy": "offsite"
   },
   "offsite/venues/six-senses-yao-noi": {
@@ -27317,6 +27547,16 @@
     "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-golf-course-and-a-lake-9o2JbojMdJ8?utm_source=shared_image_cache&utm_medium=referral",
     "query": "Streamsong Resort Florida reclaimed mine links golf aerial",
     "fetchedAt": "2026-06-29T18:24:57.455Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/sublime-comporta": {
+    "url": "https://images.pexels.com/photos/29276528/pexels-photo-29276528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Aerial shot of a golf course with clubhouse in Setúbal, Portugal, surrounded by lush greenery.",
+    "photographerName": "Vivek Tedla",
+    "photographerUrl": "https://www.pexels.com/@vivek-tedla-2076460171",
+    "unsplashUrl": "https://www.pexels.com/photo/aerial-view-of-golf-course-in-setubal-portugal-29276528/",
+    "query": "Sublime Comporta beach estate pine forest Alentejo Portugal",
+    "fetchedAt": "2026-09-20T13:35:25.088Z",
     "addedBy": "offsite"
   },
   "offsite/venues/sugar-beach-viceroy-st-lucia": {
