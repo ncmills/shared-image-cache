@@ -6,18 +6,11 @@
     "reason": "all-candidates-at-ceiling",
     "attempts": 1
   },
-  "offsite/experiences/ebike-city-to-vineyard-tour": {
-    "query": "group e-bike tour city to vineyard wine country",
-    "fallbackQuery": "cycling corporate team experience outdoor",
-    "at": "2026-08-21T19:04:11.359Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
   "offsite/venues/allison-inn-willamette": {
     "query": "Allison Inn Willamette Valley vineyard Oregon",
-    "at": "2026-08-21T18:53:27.499Z",
+    "at": "2026-09-20T20:45:00.493Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/alvear-palace-hotel-buenos-aires": {
     "query": "Alvear Palace Hotel Buenos Aires exterior",
@@ -57,27 +50,21 @@
   },
   "offsite/venues/hotel-castillo-santa-cecilia-guanajuato": {
     "query": "Hotel Castillo Santa Cecilia Latin America & Caribbean",
-    "at": "2026-08-21T18:56:53.897Z",
+    "at": "2026-09-20T20:45:07.204Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/kokomo-private-island-fiji": {
     "query": "Kokomo Private Island Fiji Great Astrolabe Reef villas aerial",
-    "at": "2026-08-21T18:52:30.990Z",
+    "at": "2026-09-20T20:44:57.953Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/la-mamounia-marrakech": {
     "query": "La Mamounia Marrakech palace gardens courtyard Moorish arches",
     "at": "2026-09-20T13:35:38.774Z",
     "reason": "all-candidates-at-ceiling",
     "attempts": 2
-  },
-  "offsite/venues/maliba-mountain-lodge-tsehlanyane": {
-    "query": "Maliba Mountain Lodge Africa",
-    "at": "2026-08-21T18:55:57.867Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
   },
   "offsite/venues/our-habitas-alula": {
     "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
@@ -105,9 +92,9 @@
   },
   "offsite/venues/stanly-ranch-napa": {
     "query": "Stanly Ranch Auberge Napa vineyard cottages",
-    "at": "2026-08-21T18:53:43.953Z",
+    "at": "2026-09-20T20:45:03.384Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/suncadia": {
     "query": "Suncadia Resort lodge Cascade mountains aerial Washington",

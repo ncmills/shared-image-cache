@@ -22499,6 +22499,16 @@
     "fetchedAt": "2026-08-21T19:00:10.854Z",
     "addedBy": "offsite"
   },
+  "offsite/experiences/ebike-city-to-vineyard-tour": {
+    "url": "https://images.unsplash.com/photo-1675332057791-3f559042c0ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxncm91cCUyMGUtYmlrZSUyMHRvdXIlMjBjaXR5JTIwdG8lMjB2aW5leWFyZCUyMHdpbmUlMjBjb3VudHJ5fGVufDF8MHx8fDE3ODk5MzcxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a couple of men riding bikes across a bridge",
+    "photographerName": "pony",
+    "photographerUrl": "https://unsplash.com/@getapony?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-couple-of-men-riding-bikes-across-a-bridge-1BH4_lb2-M8?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "group e-bike tour city to vineyard wine country",
+    "fetchedAt": "2026-09-20T20:45:08.585Z",
+    "addedBy": "offsite"
+  },
   "offsite/experiences/ebike-vineyard-coastal-tour": {
     "url": "https://images.unsplash.com/photo-1579437505601-7ffbd3db0612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxlLWJpa2UlMjBncm91cCUyMHZpbmV5YXJkJTIwY29hc3RhbCUyMHRvdXIlMjB0YXN0aW5nJTIwc3RvcHxlbnwxfDB8fHwxNzgyNzc0OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green trees beside gray asphalt road during daytime",
@@ -26607,6 +26617,16 @@
     "unsplashUrl": "https://www.pexels.com/photo/young-lion-cub-in-african-wilderness-36713703/",
     "query": "MalaMala Game Reserve Sabi Sand safari lodge",
     "fetchedAt": "2026-08-21T16:57:26.274Z",
+    "addedBy": "offsite"
+  },
+  "offsite/venues/maliba-mountain-lodge-tsehlanyane": {
+    "url": "https://images.unsplash.com/photo-1656159625990-8cd23231c218?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxNYWxpYmElMjBNb3VudGFpbiUyMExvZGdlJTIwQWZyaWNhfGVufDF8MHx8fDE3ODk5MzcxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "alt": "a body of water with trees and a mountain in the background",
+    "photographerName": "Natasha Yurova",
+    "photographerUrl": "https://unsplash.com/@befandy?utm_source=shared_image_cache&utm_medium=referral",
+    "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-with-trees-and-a-mountain-in-the-background-HK8-s14KYWs?utm_source=shared_image_cache&utm_medium=referral",
+    "query": "Maliba Mountain Lodge Africa",
+    "fetchedAt": "2026-09-20T20:45:04.671Z",
     "addedBy": "offsite"
   },
   "offsite/venues/marcus-whitman-walla-walla": {
