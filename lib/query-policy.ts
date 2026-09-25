@@ -69,6 +69,10 @@ import { STATE_NAMES } from "./state-names";
  * products, and "Ring of Kerry" is a real place. Condemning those would be a
  * guard failing correct output.
  */
+
+/** Lowercased full state names — the qualifier vocabulary the parity rule reads. */
+const STATE_NAME_LIST: string[] = Object.values(STATE_NAMES).map((s) => String(s).toLowerCase());
+
 export const LIGHTING_WORDS = [
   "golden hour",
   "blue hour",
@@ -141,6 +145,34 @@ export function placePhrase(city: string, stateName: string): string {
   if (c.toLowerCase().includes(stateName.toLowerCase())) return c;
   if (c.split(/\s+/).length >= 3) return c;
   return `${c} ${stateName}`;
+}
+
+
+/**
+ * RULE — a templated place query's FALLBACK must carry the same geo qualifier
+ * its primary carries.
+ *
+ * Measured 2026-09-03, by viewing pixels: of ten freshly-fetched
+ * `tdf/bachelorParty` images, the only two showing the WRONG CITY were the only
+ * two whose query carried no state — `"Aiken downtown"` returned Tucson
+ * (Rialto Theatre, Hotel Congress, Sun Link streetcar) and `"Montrose downtown"`
+ * returned an anonymous main street. Every query carrying a state stayed in the
+ * right place.
+ *
+ * Both were FALLBACKS. The primaries were built with `placePhrase()` and read
+ * `"Aiken South Carolina nightlife"`; the fallback beside them was
+ * `${dest.city} downtown`, dropping the one token that disambiguates. So the
+ * fallback did not merely widen the query — it widened it to a DIFFERENT PLACE,
+ * which is the failure `scripts/queries/engagedmoon.ts` already states as law
+ * ("Conservatory Garden, Central Park" → a Victorian glasshouse in Bangalore).
+ *
+ * The rule is PARITY rather than "must contain a US state" on purpose: parity
+ * is exactly true for international destinations too ("Ambergris Caye Belize"),
+ * where a state-name list would fire falsely, and it needs no world gazetteer.
+ */
+function geoQualifiers(text: string): string[] {
+  const t = text.toLowerCase();
+  return STATE_NAME_LIST.filter((s) => t.includes(s));
 }
 
 export interface PolicyViolation {
@@ -254,7 +286,34 @@ export function checkQueryItem(item: QueryItem): PolicyViolation[] {
     });
   }
 
+  // ── 7. the fallback must keep the state the primary carries ──────────────
+  // Rule 6 above compares only the FIRST TOKEN, so "Aiken South Carolina
+  // nightlife" → "Aiken downtown" passed it cleanly while resolving to Tucson.
+  out.push(...checkFallbackGeoParity(item));
+
   return out;
+}
+
+/**
+ * Parity check, exported so the gate's positive control can call it directly.
+ * Returns a violation when the primary names a state and the fallback does not.
+ */
+export function checkFallbackGeoParity(item: QueryItem): PolicyViolation[] {
+  const cat = categoryOf(item.key);
+  if (!TEMPLATED_PLACE_CATEGORIES.has(cat)) return [];
+  if (!item.fallbackQuery) return [];
+  const primary = geoQualifiers(item.query);
+  if (primary.length === 0) return [];
+  const fallback = geoQualifiers(item.fallbackQuery);
+  const dropped = primary.filter((q) => !fallback.includes(q));
+  if (dropped.length === 0) return [];
+  return [{
+    key: item.key,
+    rule: "fallback_drops_state",
+    detail:
+      `primary names "${dropped.join('", "')}" but fallbackQuery "${item.fallbackQuery}" does not — ` +
+      `a stateless fallback resolves to a different city (Aiken → Tucson, 2026-09-03)`,
+  }];
 }
 
 export function checkQueries(items: QueryItem[]): PolicyViolation[] {

@@ -1,579 +1,123 @@
 {
-  "bestman/cities/finger-lakes-ny/bars": {
-    "query": "Finger Lakes New York rooftop bar",
-    "fallbackQuery": "Finger Lakes cocktail lounge",
-    "at": "2026-08-21T15:06:20.730Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/glenwood-springs-co/bars": {
-    "query": "Glenwood Springs Colorado rooftop bar",
-    "fallbackQuery": "Glenwood Springs cocktail lounge",
-    "at": "2026-08-21T20:47:04.972Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/madison-wi/bars": {
-    "query": "Madison Wisconsin rooftop bar",
-    "fallbackQuery": "Madison cocktail lounge",
-    "at": "2026-08-21T20:37:09.636Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/missoula-mt/dining": {
-    "query": "Missoula Montana steakhouse",
-    "fallbackQuery": "Missoula restaurant",
-    "at": "2026-08-21T20:48:00.020Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/norfolk-va/bars": {
-    "query": "Norfolk Virginia rooftop bar",
-    "fallbackQuery": "Norfolk cocktail lounge",
-    "at": "2026-08-21T15:12:43.736Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "bestman/cities/north-conway-nh/bars": {
-    "query": "North Conway New Hampshire rooftop bar",
-    "fallbackQuery": "North Conway cocktail lounge",
-    "at": "2026-08-21T18:54:02.502Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/omaha-ne/dining": {
-    "query": "Omaha Nebraska steakhouse",
-    "fallbackQuery": "Omaha restaurant",
-    "at": "2026-08-21T19:01:56.558Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/panama-city-pa/dining": {
-    "query": "Panama City steakhouse",
-    "fallbackQuery": "Panama City restaurant",
-    "at": "2026-08-21T17:00:10.820Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "bestman/cities/poconos-pa/dining": {
-    "query": "Poconos Pennsylvania steakhouse",
-    "fallbackQuery": "Poconos restaurant",
-    "at": "2026-08-21T18:59:50.140Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/saratoga-springs-ny/bars": {
-    "query": "Saratoga Springs New York rooftop bar",
-    "fallbackQuery": "Saratoga Springs cocktail lounge",
-    "at": "2026-08-21T18:55:16.196Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "bestman/cities/stateline-nv/dining": {
-    "query": "Stateline Nevada steakhouse",
-    "fallbackQuery": "Stateline restaurant",
-    "at": "2026-08-21T20:43:56.978Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/albuquerque-nm/activities": {
-    "query": "Albuquerque New Mexico spa",
-    "fallbackQuery": "Albuquerque wellness",
-    "at": "2026-08-21T22:43:41.954Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/bentonville-ar/dining": {
-    "query": "Bentonville Arkansas restaurant interior",
-    "fallbackQuery": "Bentonville restaurant",
-    "at": "2026-08-21T20:41:12.542Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/berkshires-ma/dining": {
-    "query": "Berkshires Massachusetts restaurant interior",
-    "fallbackQuery": "Berkshires restaurant",
-    "at": "2026-08-21T20:48:38.324Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "moh/cities/berkshires-ma/lodging": {
-    "query": "Berkshires Massachusetts boutique hotel",
-    "fallbackQuery": "Berkshires hotel",
-    "at": "2026-08-21T20:48:36.185Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/des-moines-ia/activities": {
-    "query": "Des Moines Iowa spa",
-    "fallbackQuery": "Des Moines wellness",
-    "at": "2026-08-21T22:38:51.022Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/fargo-nd/dining": {
-    "query": "Fargo North Dakota restaurant interior",
-    "fallbackQuery": "Fargo restaurant",
-    "at": "2026-08-21T22:39:53.152Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/fredericksburg-tx/bars": {
-    "query": "Fredericksburg Texas cocktail bar",
-    "fallbackQuery": "Fredericksburg bar",
-    "at": "2026-08-21T16:48:58.517Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/gettysburg-pa/bars": {
-    "query": "Gettysburg Pennsylvania cocktail bar",
-    "fallbackQuery": "Gettysburg bar",
-    "at": "2026-08-21T22:38:19.883Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/lake-placid-ny/activities": {
-    "query": "Lake Placid New York spa",
-    "fallbackQuery": "Lake Placid wellness",
-    "at": "2026-08-21T20:46:43.181Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/lake-placid-ny/lodging": {
-    "query": "Lake Placid New York boutique hotel",
-    "fallbackQuery": "Lake Placid hotel",
-    "at": "2026-08-21T20:46:20.402Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/lexington-ky/lodging": {
-    "query": "Lexington Kentucky boutique hotel",
-    "fallbackQuery": "Lexington hotel",
-    "at": "2026-08-21T14:54:25.537Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/lincoln-ne/activities": {
-    "query": "Lincoln Nebraska spa",
-    "fallbackQuery": "Lincoln wellness",
-    "at": "2026-08-21T22:39:23.103Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/mccall-id/bars": {
-    "query": "McCall Idaho cocktail bar",
-    "fallbackQuery": "McCall bar",
-    "at": "2026-08-21T22:45:40.420Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/mendocino-ca/bars": {
-    "query": "Mendocino California cocktail bar",
-    "fallbackQuery": "Mendocino bar",
-    "at": "2026-08-21T15:02:40.669Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/missoula-mt/bars": {
-    "query": "Missoula Montana cocktail bar",
-    "fallbackQuery": "Missoula bar",
-    "at": "2026-08-21T22:45:27.647Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/missoula-mt/dining": {
-    "query": "Missoula Montana restaurant interior",
-    "fallbackQuery": "Missoula restaurant",
-    "at": "2026-08-21T22:45:24.151Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
   "moh/cities/omaha-ne/activities": {
     "query": "Omaha Nebraska spa",
-    "fallbackQuery": "Omaha wellness",
-    "at": "2026-08-21T22:39:13.143Z",
+    "fallbackQuery": "Omaha Nebraska wellness",
+    "at": "2026-09-04T00:10:04.901Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/omaha-ne/dining": {
-    "query": "Omaha Nebraska restaurant interior",
-    "fallbackQuery": "Omaha restaurant",
-    "at": "2026-08-21T22:39:07.720Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/prescott-az/activities": {
-    "query": "Prescott Arizona spa",
-    "fallbackQuery": "Prescott wellness",
-    "at": "2026-08-21T22:43:02.873Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/prescott-az/bars": {
-    "query": "Prescott Arizona cocktail bar",
-    "fallbackQuery": "Prescott bar",
-    "at": "2026-08-21T22:42:59.196Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/reno-nv/bars": {
-    "query": "Reno Nevada cocktail bar",
-    "fallbackQuery": "Reno bar",
-    "at": "2026-08-21T22:43:13.245Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/sandusky-oh/bars": {
-    "query": "Sandusky Ohio cocktail bar",
-    "fallbackQuery": "Sandusky bar",
-    "at": "2026-08-21T22:41:12.593Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/sandusky-oh/dining": {
-    "query": "Sandusky Ohio restaurant interior",
-    "fallbackQuery": "Sandusky restaurant",
-    "at": "2026-08-21T22:41:09.842Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/shreveport-la/dining": {
-    "query": "Shreveport Louisiana restaurant interior",
-    "fallbackQuery": "Shreveport restaurant",
-    "at": "2026-08-21T20:42:34.810Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/stateline-nv/bars": {
-    "query": "Stateline Nevada cocktail bar",
-    "fallbackQuery": "Stateline bar",
-    "at": "2026-08-21T22:43:27.036Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/stateline-nv/dining": {
-    "query": "Stateline Nevada restaurant interior",
-    "fallbackQuery": "Stateline restaurant",
-    "at": "2026-08-21T22:43:23.386Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/tempe-az/bars": {
-    "query": "Tempe Arizona cocktail bar",
-    "fallbackQuery": "Tempe bar",
-    "at": "2026-08-21T22:42:32.236Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/traverse-city-mi/dining": {
-    "query": "Traverse City Michigan restaurant interior",
-    "fallbackQuery": "Traverse City restaurant",
-    "at": "2026-08-21T22:40:43.877Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/tunica-ms/bars": {
-    "query": "Tunica Mississippi cocktail bar",
-    "fallbackQuery": "Tunica bar",
-    "at": "2026-08-21T20:40:39.706Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/wilmington-nc/bars": {
-    "query": "Wilmington North Carolina cocktail bar",
-    "fallbackQuery": "Wilmington bar",
-    "at": "2026-08-21T19:03:17.679Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "moh/cities/wilmington-nc/dining": {
-    "query": "Wilmington North Carolina restaurant interior",
-    "fallbackQuery": "Wilmington restaurant",
-    "at": "2026-08-21T19:03:08.722Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/experiences/ebike-city-to-vineyard-tour": {
-    "query": "group e-bike tour city to vineyard wine country",
-    "fallbackQuery": "cycling corporate team experience outdoor",
-    "at": "2026-08-21T19:04:11.359Z",
-    "reason": "no-results",
     "attempts": 1
   },
   "offsite/venues/allison-inn-willamette": {
     "query": "Allison Inn Willamette Valley vineyard Oregon",
-    "at": "2026-08-21T18:53:27.499Z",
+    "at": "2026-09-20T20:45:00.493Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/alvear-palace-hotel-buenos-aires": {
     "query": "Alvear Palace Hotel Buenos Aires exterior",
-    "at": "2026-08-21T16:53:05.806Z",
+    "at": "2026-09-20T17:26:56.793Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/aman-le-melezin-courchevel": {
-    "query": "Aman Le Melezin Courchevel exterior alpine",
-    "at": "2026-08-21T16:56:43.674Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/ashford-castle": {
-    "query": "Ashford Castle Ireland lake falconry forest",
-    "at": "2026-08-21T13:09:26.187Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/atlantis-paradise-island": {
-    "query": "Atlantis Paradise Island Bahamas aerial Royal Towers Aquaventure marina",
-    "at": "2026-08-21T13:09:34.539Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/awasi-mendoza": {
     "query": "Awasi Mendoza Luján de Cuyo, Mendoza",
-    "at": "2026-08-21T15:06:30.763Z",
+    "at": "2026-09-20T17:26:40.797Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/beau-rivage-palace-lausanne": {
-    "query": "Beau-Rivage Palace Lausanne Lake Geneva Switzerland",
-    "at": "2026-08-21T13:09:55.587Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/brush-creek-ranch": {
-    "query": "Brush Creek Ranch Wyoming lodge mountains",
-    "at": "2026-08-21T13:09:16.910Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/burgenstock-resort": {
-    "query": "Bürgenstock Resort Lake Lucerne clifftop infinity pool",
-    "at": "2026-08-21T13:09:30.315Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/carneros-resort": {
     "query": "Carneros Resort Napa Valley cottages vineyard hilltop pool",
-    "at": "2026-08-21T13:09:50.499Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/costa-navarino": {
-    "query": "Costa Navarino Romanos resort beach golf aerial Messinia",
-    "at": "2026-08-21T13:09:31.663Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/enchantment-sedona": {
-    "query": "Enchantment Resort Sedona Boynton Canyon red rock",
-    "at": "2026-08-21T13:09:23.504Z",
-    "reason": "no-results",
-    "attempts": 1
+    "at": "2026-09-20T13:36:00.444Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 2
   },
   "offsite/venues/four-seasons-maui": {
     "query": "Four Seasons Resort Maui Wailea oceanfront infinity pool aerial",
-    "at": "2026-08-21T13:09:48.089Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/fs-hualalai-hawaii": {
-    "query": "Four Seasons Hualalai Big Island Hawaii Kings Pond oceanfront aerial Kona coast",
-    "at": "2026-08-21T13:09:35.957Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/grand-geneva-wisconsin": {
-    "query": "Grand Geneva Resort Lake Geneva Wisconsin aerial golf",
-    "at": "2026-08-21T13:09:28.961Z",
-    "reason": "no-results",
-    "attempts": 1
+    "at": "2026-09-20T13:35:55.022Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 2
   },
   "offsite/venues/grand-hotel-mackinac": {
     "query": "Grand Hotel Mackinac Island Lake Huron porch",
-    "at": "2026-08-21T15:03:03.440Z",
+    "at": "2026-09-20T17:26:35.321Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/grand-hotel-tremezzo-como": {
-    "query": "Grand Hotel Tremezzo floating pool Lake Como Bellagio",
-    "at": "2026-08-21T13:09:51.904Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/grand-wailea": {
     "query": "Grand Wailea Waldorf Astoria Maui mega resort oceanfront",
-    "at": "2026-08-21T15:12:34.698Z",
+    "at": "2026-09-20T17:26:54.201Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/hotel-castillo-santa-cecilia-guanajuato": {
     "query": "Hotel Castillo Santa Cecilia Latin America & Caribbean",
-    "at": "2026-08-21T18:56:53.897Z",
+    "at": "2026-09-20T20:45:07.204Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/joshua-creek": {
-    "query": "Joshua Creek Ranch Texas Hill Country sporting clays lodge",
-    "at": "2026-08-21T13:09:22.105Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/jw-rosseau-muskoka": {
-    "query": "JW Marriott Rosseau Muskoka infinity pool Lake Rosseau Ontario",
-    "at": "2026-08-21T13:09:27.544Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/kokomo-private-island-fiji": {
     "query": "Kokomo Private Island Fiji Great Astrolabe Reef villas aerial",
-    "at": "2026-08-21T18:52:30.990Z",
+    "at": "2026-09-20T20:44:57.953Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/la-mamounia-marrakech": {
     "query": "La Mamounia Marrakech palace gardens courtyard Moorish arches",
-    "at": "2026-08-21T13:09:40.151Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/lake-como-edition": {
-    "query": "Lake Como EDITION hotel lakefront Italy",
-    "at": "2026-08-21T13:09:53.254Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/lefay-lago-di-garda": {
-    "query": "Lefay Resort SPA Lago di Garda lake view Italy",
-    "at": "2026-08-21T13:09:54.574Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/low-wood-bay-windermere": {
-    "query": "Low Wood Bay Resort Windermere Lake District marina",
-    "at": "2026-08-21T13:09:56.958Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/maliba-mountain-lodge-tsehlanyane": {
-    "query": "Maliba Mountain Lodge Africa",
-    "at": "2026-08-21T18:55:57.867Z",
+    "at": "2026-09-20T13:35:38.774Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/millbrook-resort-queenstown": {
-    "query": "Millbrook Resort Arrowtown golf Remarkables mountains",
-    "at": "2026-08-21T13:09:45.658Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/mombo-camp-okavango": {
-    "query": "Mombo Camp Okavango Delta Botswana safari",
-    "at": "2026-08-21T16:57:41.565Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/our-habitas-alula": {
     "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
-    "at": "2026-08-21T15:08:18.579Z",
+    "at": "2026-09-20T17:26:46.511Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/park-hyatt-niseko-hanazono": {
-    "query": "Park Hyatt Niseko Hanazono Mt Yotei snow ski village",
-    "at": "2026-08-21T13:09:44.270Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/paws-up": {
-    "query": "Paws Up Montana luxury glamping tents Blackfoot River",
-    "at": "2026-08-21T13:09:18.288Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/pinehurst": {
     "query": "Pinehurst resort golf course Carolina pines clubhouse",
-    "at": "2026-08-21T13:09:24.834Z",
-    "reason": "no-results",
-    "attempts": 1
+    "at": "2026-09-20T13:35:08.548Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 2
   },
   "offsite/venues/qasr-al-sarab-liwa": {
     "query": "Qasr Al Sarab Desert Resort by Anantara Liwa / Empty Quarter (Rub' al Khali), Abu Dhabi, UAE",
-    "at": "2026-08-21T15:08:47.120Z",
+    "at": "2026-09-20T17:26:48.905Z",
     "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/ritz-carlton-al-wadi-desert": {
-    "query": "Ritz-Carlton Al Wadi Desert villa dunes falconry tent UAE sunset",
-    "at": "2026-08-21T13:09:41.580Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/royal-livingstone-victoria-falls": {
-    "query": "Royal Livingstone hotel Victoria Falls Zambezi lawn giraffe sunset",
-    "at": "2026-08-21T13:09:38.742Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/sabi-sabi-private-reserve": {
-    "query": "Sabi Sabi Bush Lodge South Africa safari deck leopard game drive",
-    "at": "2026-08-21T13:09:37.339Z",
-    "reason": "no-results",
-    "attempts": 1
-  },
-  "offsite/venues/sea-island": {
-    "query": "Sea Island Cloister resort Georgia private island golf beach aerial",
-    "at": "2026-08-21T13:09:49.107Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/singita-sabi-sand": {
     "query": "Singita Boulders Lodge Sabi Sand safari",
-    "at": "2026-08-21T16:57:34.653Z",
+    "at": "2026-09-20T17:27:00.892Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/six-senses-uluwatu": {
-    "query": "Six Senses Uluwatu Bali clifftop ocean lawn sunset",
-    "at": "2026-08-21T13:09:42.916Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/stanly-ranch-napa": {
     "query": "Stanly Ranch Auberge Napa vineyard cottages",
-    "at": "2026-08-21T18:53:43.953Z",
+    "at": "2026-09-20T20:45:03.384Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
-  "offsite/venues/sublime-comporta": {
-    "query": "Sublime Comporta beach estate pine forest Alentejo Portugal",
-    "at": "2026-08-21T13:09:33.000Z",
-    "reason": "no-results",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/suncadia": {
     "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
-    "at": "2026-08-21T13:09:46.671Z",
-    "reason": "no-results",
-    "attempts": 1
+    "at": "2026-09-20T13:35:52.274Z",
+    "reason": "all-candidates-at-ceiling",
+    "attempts": 2
   },
   "offsite/venues/the-sagamore-lake-george": {
     "query": "Sagamore Resort Lake George island aerial New York",
-    "at": "2026-08-21T15:11:04.928Z",
+    "at": "2026-09-20T17:26:51.531Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/vista-flores-estancia-mendoza": {
     "query": "Vista Flores / Estancia-style buyout, Uco Valley Uco Valley, Mendoza",
-    "at": "2026-08-21T15:06:25.181Z",
+    "at": "2026-09-20T17:26:37.989Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   },
   "offsite/venues/wilderness-botswana-cluster": {
     "query": "Wilderness Mombo / DumaTau / Vumbura Cluster Okavango & Linyanti, Botswana",
-    "at": "2026-08-21T15:07:16.431Z",
+    "at": "2026-09-20T17:26:43.725Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 1
+    "attempts": 2
   }
 }
