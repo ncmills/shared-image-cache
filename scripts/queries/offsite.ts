@@ -102,8 +102,14 @@ export async function getOffsiteQueries(): Promise<QueryItem[]> {
   for (const e of experiences) {
     queries.push({
       key: `offsite/experiences/${e.id}`,
+      // NO fallbackQuery — an experience is a named, priced product, so a
+      // category photo under its name is an identity claim we cannot make.
+      // `"${e.kind} corporate team experience outdoor"` lived here until
+      // 2026-08-23 and put one pond-hockey photo on four winter experiences.
+      // A miss must stay a miss and render the branded fallback, exactly as
+      // for venues above. Enforced by query-policy rule 1 (`venue-no-fallback`)
+      // and stripped on the write path by `stripVenueFallbacks`.
       query: e.imageQuery || e.name,
-      fallbackQuery: `${e.kind} corporate team experience outdoor`,
       addedBy: "offsite",
       label: `exp:${e.name}`,
       curated: true,
