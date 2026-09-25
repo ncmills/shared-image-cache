@@ -6,11 +6,6 @@
     "bestman/cities/galena-il/bars",
     "bestman/cities/stowe-vt/bars"
   ],
-  "surface-ceiling|unsplash:1689841667551-eeaee48f2247|bestman|activities": [
-    "bestman/cities/beaufort-sc/activities",
-    "bestman/cities/eureka-springs-ar/activities",
-    "bestman/cities/steamboat-springs-co/activities"
-  ],
   "surface-ceiling|unsplash:1600891964092-4316c288032e|bestman|dining": [
     "bestman/cities/beaufort-sc/dining",
     "bestman/cities/bozeman-mt/dining",
@@ -27,11 +22,6 @@
     "bestman/cities/eureka-springs-ar/lodging",
     "bestman/cities/hot-springs-ar/lodging",
     "bestman/cities/walla-walla-wa/lodging"
-  ],
-  "surface-ceiling|unsplash:1699959560616-aa17ace76879|bestman|activities": [
-    "bestman/cities/boise-id/activities",
-    "bestman/cities/st-augustine-fl/activities",
-    "bestman/cities/stowe-vt/activities"
   ],
   "surface-ceiling|unsplash:1615937657715-bc7b4b7962c1|bestman|dining": [
     "bestman/cities/galena-il/dining",
