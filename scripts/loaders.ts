@@ -57,6 +57,50 @@ const HOOK_SECRET_OVERRIDES: Record<string, string> = {
   tdf: "HOOK_HANDICAP",
 };
 
+/**
+ * The GitHub repo that CONSUMES each project's slice, and the command that
+ * projects the shared cache into that repo's own tracked data file.
+ *
+ * D85, 2026-08-28. Propagation already exists — `daily-maxout.yml` pings each
+ * site's Vercel deploy hook when it gains images — but it propagates as a
+ * REBUILD, never as a commit. The consumer's tracked JSON is only ever written
+ * during a build, on a machine that then throws the result away, so the image
+ * set a site actually serves exists in NO COMMIT and cannot be reproduced or
+ * reviewed. Measured 2026-08-28: offsite-outpost ships 218 committed entries
+ * where this cache projects 572, and plan-my-party 106 cities where it
+ * projects 213. Nobody chose either number.
+ *
+ * `propagate-to-consumers.yml` is the committing half, and this is the list it
+ * must agree with — the FIFTH layer, checked by check-workflow-projects.ts for
+ * the same reason as the other four.
+ *
+ * THE COMMAND IS THE CONSUMER'S OWN SCRIPT, deliberately. Reimplementing six
+ * projections here would create a second definition of each one, and two
+ * definitions of the same projection drift — which is the whole failure this
+ * repo keeps meeting. The consumer owns the shape of its own data file; this
+ * pipeline only decides when to ask.
+ *
+ * friendsmoon's is `.js` run by `node`, not tsx. That is not an oversight to
+ * normalise from here: it is that repo's choice, and the command names it.
+ */
+export const CONSUMER_REPO: Record<string, string> = {
+  tdf: "ncmills/handicap-hq",   // NOT tour-de-fore — see HOOK_SECRET_OVERRIDES above
+  bestman: "ncmills/plan-my-party",
+  moh: "ncmills/maid-of-honor-hq",
+  offsite: "ncmills/offsite-outpost",
+  friendsmoon: "ncmills/friendsmoon",
+  engagedmoon: "ncmills/engagedmoon",
+};
+
+export const CONSUMER_SYNC: Record<string, string> = {
+  tdf: "npx -y tsx scripts/sync-image-cache.ts",
+  bestman: "npx -y tsx scripts/sync-image-cache.ts",
+  moh: "npx -y tsx scripts/sync-image-cache.ts",
+  offsite: "npx -y tsx scripts/sync-image-cache.ts",
+  friendsmoon: "node scripts/sync-image-cache.js",
+  engagedmoon: "npx -y tsx scripts/sync-image-cache.ts",
+};
+
 export const HOOK_SECRET: Record<string, string> = Object.fromEntries(
   PROJECTS.map((p) => [p, HOOK_SECRET_OVERRIDES[p] ?? `HOOK_${p.toUpperCase()}`]),
 );

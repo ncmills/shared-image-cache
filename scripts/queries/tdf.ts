@@ -84,7 +84,7 @@ export async function getTdfQueries(): Promise<QueryItem[]> {
       queries.push({
         key: `tdf/bachelorParty/${dest.id}`,
         query: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} nightlife`,
-        fallbackQuery: `${dest.city} downtown`,
+        fallbackQuery: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} downtown`,
         addedBy: "tdf",
         label: `${dest.city} bachelor`,
       });

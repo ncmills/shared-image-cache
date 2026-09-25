@@ -27,9 +27,9 @@
 # non-zero with the reason rather than pushing.
 set -euo pipefail
 
-REPO="$HOME/shared-image-cache"
-LOG="$HOME/work/logs/image-snapshot-refresh.log"
-mkdir -p "$HOME/work/logs"
+REPO="${REPO:-$HOME/shared-image-cache}"
+LOG="${LOG:-$HOME/work/logs/image-snapshot-refresh.log}"
+mkdir -p "$(dirname "$LOG")"
 
 say() { echo "$(date +%FT%T) $*" >> "$LOG"; }
 
@@ -69,11 +69,35 @@ a change. Most nights it finds nothing — which is also what a dead scheduler
 looks like, so the two facts cannot share a signal.
 
 Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>" || return 0
+  # Catch up first so a remote that moved since the top-of-script pull
+  # doesn't reject this push outright; --ff-only refuses to do anything
+  # cleverer than that, so a real divergence still falls through to the WARN.
+  git pull --quiet --ff-only origin main || true
   git push --quiet origin main || say "WARN — heartbeat commit is local (push failed)"
   say "heartbeat committed (was ${age_days}d old)"
 }
 
 cd "$REPO"
+
+# ── branch guard ─────────────────────────────────────────────────────────
+# 2026-09-02: the live checkout sat on a PR branch
+# (fix/evict-stale-state-template-heroes) for 10 days. Every run committed
+# the heartbeat there, then `git push origin main` pushed the stale LOCAL
+# main ref — `! [rejected] non-fast-forward` every single time, silently,
+# because the push failure only ever produced a WARN. Committing is a
+# main-branch-only action: a laptop left on a PR branch must skip, not
+# write to whatever happens to be checked out.
+CURRENT_BRANCH="$(git branch --show-current)"
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  say "SKIP — checkout is on $CURRENT_BRANCH, not main; heartbeat not written"
+  exit 0
+fi
+
+# Test-only seam: stop here, right after the guard above and before any
+# network/build work (dirty-tree check, pull, npx tsx, gate, commit, push).
+# Lets scripts/test-refresh-snapshot-branch-guard.sh exercise the guard
+# against a throwaway repo without touching the real one or the network.
+[ -z "${REFRESH_SNAPSHOT_GUARD_ONLY:-}" ] || exit 0
 
 # Never regenerate on top of local work. A dirty tree means a human or another
 # session is mid-change; committing over it would be theft, and `git pull
@@ -89,7 +113,104 @@ if [ -n "$(git status --porcelain)" ]; then
   exit 0
 fi
 
-git pull --quiet --rebase origin main || { say "FAIL — git pull"; exit 1; }
+# ── pull, and when it fails, read the HOST before naming the category ────────
+# 2026-09-03 04:20 PDT: the pull failed `Could not resolve host: github.com`, launchd read
+# exit 1, and `sn health` reported this lane RED. pmset for that minute: the Mac had been in
+# a maintenance DarkWake since 04:12:19 — lid closed, TCPKeepAlive, no DNS. That is the host,
+# dark, at the lane's hour; RED is the category for "a lane is broken, go look", and a RED that
+# fires every dark morning is a RED that gets muted, which costs the real ones. But it is not
+# nothing either: NOTHING WAS REFRESHED, and a run that could not ask its question must not
+# exit 0 like a run that asked and found no change (N/A is not PASS).
+#
+# So a DNS failure is split by the host's OWN record, never by the error text alone:
+#   host awake (last pmset power transition is a full `Wake`)  -> exit 1, RED. A network
+#                                                                 failure on an awake machine
+#                                                                 is exactly what RED is for.
+#   host dark (last transition is `DarkWake` or `Sleep`)        -> exit 69 (EX_UNAVAILABLE)
+#                                                                 + a NOT MEASURED line.
+#                                                                 second-nick's health reads 69
+#                                                                 as YELLOW "could not reach
+#                                                                 the network", with the same
+#                                                                 spaced-streak escalation to
+#                                                                 RED that exit 75 has — a lane
+#                                                                 dark at its hour EVERY day
+#                                                                 still surfaces as a fault.
+#   pmset unreadable / no transition found                       -> exit 1, RED. A dark verdict
+#                                                                 must be affirmative; "could
+#                                                                 not tell" never downgrades.
+#   any other pull failure (non-ff, auth, conflict)              -> exit 1, RED, as before.
+#
+# Exit 75 was considered and rejected: the fleet spells 75 as "quota/shed", and a network
+# outage recorded as quota is both invisible and unattributable (second-nick
+# tests/test_limit_shape.py pins that for claude_run; the same rule holds one layer up).
+#
+# `pmset -g log` is the fleet's primary evidence for sleep (source-order rule 5); ~1.8 s to
+# read, paid only on the failure path. REFRESH_SNAPSHOT_PMSET_LOG feeds a fixture file so
+# scripts/test-refresh-snapshot-branch-guard.sh can drive every arm without a real DarkWake.
+PMSET_LAST_TRANSITION=""
+HOST_STATE="unknown"
+host_power_state() {  # sets HOST_STATE (awake | dark | unknown) and PMSET_LAST_TRANSITION.
+  # Sets globals rather than printing: a `$(...)` caller runs it in a subshell and the pmset
+  # line it read would be lost — which is exactly how the first version logged `(pmset: )`.
+  local text last
+  if [ -n "${REFRESH_SNAPSHOT_PMSET_LOG:-}" ]; then
+    text="$(cat "$REFRESH_SNAPSHOT_PMSET_LOG" 2>/dev/null || true)"
+  else
+    text="$(pmset -g log 2>/dev/null || true)"
+  fi
+  # Column 4 is the transition. `Wake Requests` (column 5 = Requests) is a FORECAST of future
+  # wakes, not a record of one, and is the line that makes a naive `grep Wake` wrong.
+  last="$(printf '%s\n' "$text" \
+    | awk '$4=="Sleep"||$4=="DarkWake"||($4=="Wake"&&$5!="Requests"){l=$0} END{print l}')"
+  PMSET_LAST_TRANSITION="${last:0:60}"
+  case "$(printf '%s\n' "$last" | awk '{print $4}')" in
+    Wake) HOST_STATE=awake ;;
+    Sleep|DarkWake) HOST_STATE=dark ;;
+    *) HOST_STATE=unknown ;;
+  esac
+}
+
+# WAIT FOR THE NETWORK, THEN DO THE WORK (2026-09-05). Exit 69 was honest but it happened every
+# morning: the 07:20 slot fires inside a closed-lid DarkWake, DNS is down, and health's streak
+# rule (correctly) turned three dark mornings into a RED. The lane does not need to run at 07:20;
+# it needs to run once a day when the machine has a network. So on a dark-host DNS failure the
+# script now WAITS — polling every 5 minutes for up to REFRESH_SNAPSHOT_WAIT_MAX seconds (default
+# 6 h) — and does the pull when the network is back, which is the first full wake. Only if the
+# window closes with no network does it exit 69. An AWAKE DNS failure still exits 1 at once.
+WAIT_MAX="${REFRESH_SNAPSHOT_WAIT_MAX:-21600}"
+waited=0
+while :; do
+  set +e
+  PULL_ERR="$(git pull --quiet --rebase origin main 2>&1)"
+  PULL_RC=$?
+  set -e
+  [ "$PULL_RC" -eq 0 ] && break
+  if ! printf '%s' "$PULL_ERR" | grep -q 'Could not resolve host'; then
+    break                                  # a non-network failure: fall through to the FAIL below
+  fi
+  host_power_state
+  if [ "$HOST_STATE" != "dark" ]; then
+    break                                  # awake and no DNS: a real failure, reported below
+  fi
+  if [ "$waited" -ge "$WAIT_MAX" ]; then
+    printf '%s\n' "$PULL_ERR" >&2
+    say "NOT MEASURED — no network for ${waited}s: the host stayed in a maintenance/dark wake (pmset: ${PMSET_LAST_TRANSITION}); nothing refreshed, retries on schedule (exit 69)"
+    exit 69
+  fi
+  [ "$waited" -eq 0 ] && say "WAITING — no network in a dark wake (pmset: ${PMSET_LAST_TRANSITION}); polling every 5 min for up to ${WAIT_MAX}s"
+  sleep 300
+  waited=$((waited + 300))
+done
+if [ "$PULL_RC" -ne 0 ]; then
+  printf '%s\n' "$PULL_ERR" >&2            # launchd's .err keeps the raw git message, as before
+  if printf '%s' "$PULL_ERR" | grep -q 'Could not resolve host'; then
+    host_power_state
+    say "FAIL — git pull: could not resolve host while the host was ${HOST_STATE} (pmset: ${PMSET_LAST_TRANSITION:-no transition read})"
+    exit 1
+  fi
+  say "FAIL — git pull"
+  exit 1
+fi
 
 npx tsx scripts/snapshot-queries.ts >> "$LOG" 2>&1 || { say "FAIL — snapshot generation"; exit 1; }
 

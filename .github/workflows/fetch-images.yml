@@ -90,12 +90,20 @@ jobs:
           # silently disabled while daily-maxout had it on — the two crons were
           # not fetching from the same set of sources.
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          # Dispatch inputs reach the shell as ENV, never spliced into the script
+          # text. `${{ }}` inside a `run:` block is substituted by the runner
+          # BEFORE bash sees the line, so an input carrying a quote or a `;`
+          # becomes script rather than an argument — in this job, script running
+          # beside three Unsplash keys and a Pexels key. Values arriving as env
+          # are data bash reads, and cannot become syntax.
+          INPUT_PROJECT: ${{ inputs.project }}
+          INPUT_LIMIT: ${{ inputs.limit || '350' }}
         run: |
           PROJECT_ARG=""
-          if [ -n "${{ inputs.project }}" ]; then
-            PROJECT_ARG="--project=${{ inputs.project }}"
+          if [ -n "$INPUT_PROJECT" ]; then
+            PROJECT_ARG="--project=$INPUT_PROJECT"
           fi
-          npx tsx scripts/fetch.ts $PROJECT_ARG --limit=${{ inputs.limit || '350' }} --commit
+          npx tsx scripts/fetch.ts $PROJECT_ARG --limit="$INPUT_LIMIT" --commit
 
       - name: Print stats
         run: npm run stats

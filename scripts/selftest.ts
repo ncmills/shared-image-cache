@@ -190,7 +190,14 @@ suite("query hygiene rules");
   ok(rules(q("moh/cities/austin-tx", "Austin Texas bachelorette glam")).includes("staged-emotion-word"), "staged-emotion words fail");
   ok(rules(q("moh/cities/austin-tx", "Austin Texas cocktail bar pink neon sunset")).includes("too-many-terms"), "a 7-term city query fails — it returns zero and falls through");
   ok(rules(q("moh/cities/austin-tx", "Austin Texas cocktail bar", "Texas bar")).includes("widening-fallback"), "a fallback that widens past the city fails");
-  ok(rules(q("moh/cities/austin-tx", "Austin Texas cocktail bar", "Austin bar")).length === 0, "a city-scoped fallback passes");
+  // Re-subjected 2026-09-03 with rule 7 (fallback_drops_state). The old fixture
+  // asserted that `"Austin bar"` PASSES — it encoded the contract that a
+  // fallback need only stay scoped to the city. That contract is what shipped a
+  // Tucson photograph under Aiken SC: `"Aiken downtown"` is city-scoped too.
+  // The intent survives, stated correctly — a fallback must stay on the city
+  // AND keep the state.
+  ok(rules(q("moh/cities/austin-tx", "Austin Texas cocktail bar", "Austin Texas bar")).length === 0, "a city-scoped fallback that keeps the state passes");
+  ok(rules(q("moh/cities/austin-tx", "Austin Texas cocktail bar", "Austin bar")).includes("fallback_drops_state"), "a city-scoped fallback that DROPS the state fails — the positive control for rule 7");
 
   const curated: QueryItem = {
     ...q("engagedmoon/destinations/new-york-ny", "New York City skyline dusk golden hour", "Manhattan New York evening light"),
