@@ -21,11 +21,12 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import { execSync } from "node:child_process";
 import type { Cache, CacheEntry } from "../lib/types";
+import { toM6Entry } from "../lib/m6";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const CACHE_PATH = resolve(__dirname, "..", "cache.json");
 
-interface OverrideEntry {
+export interface OverrideEntry {
   url: string;
   credit?: string;
   alt?: string;
@@ -55,6 +56,51 @@ function saveCache(cache: Cache): void {
   writeFileSync(CACHE_PATH, JSON.stringify(sorted, null, 2) + "\n", "utf8");
 }
 
+/**
+ * Mirror one project's overrides into `cache` (pure: no fs, no git). Exported
+ * so the selftest can run the real writer on fixtures.
+ */
+export function mirrorProject(
+  cache: Cache,
+  project: string,
+  overrides: Record<string, OverrideEntry>,
+  now: () => string = () => new Date().toISOString(),
+): { added: number; updated: number; skipped: string[] } {
+  let added = 0;
+  let updated = 0;
+  const skipped: string[] = [];
+  for (const [key, val] of Object.entries(overrides)) {
+    // key shape: "<destId>::<category>::<index>"
+    const parts = key.split("::");
+    if (parts.length !== 3) {
+      skipped.push(key);
+      continue;
+    }
+    const [destId, category, index] = parts;
+    const cacheKey = `${project}/venues/${destId}/${category}/${index}`;
+    const author = parseAuthor(val.credit);
+
+    const existing = cache[cacheKey];
+    const entry: CacheEntry = {
+      url: val.url,
+      alt: val.alt ?? "Curated venue photo",
+      photographerName: author.name,
+      photographerUrl: author.url ?? `https://unsplash.com/?utm_source=shared_image_cache&utm_medium=referral`,
+      unsplashUrl: val.url.split("?")[0] ?? val.url,
+      query: `marquee venue override (${destId} / ${category} / ${index})`,
+      fetchedAt: val.addedAt ? new Date(val.addedAt).toISOString() : now(),
+      addedBy: project,
+    };
+
+    // Mirrored overrides carry no photo page and no profile, so they land
+    // `credit.complete: false` — the derivation never invents a credit.
+    cache[cacheKey] = toM6Entry(entry);
+    if (existing) updated++;
+    else added++;
+  }
+  return { added, updated, skipped };
+}
+
 function main() {
   const cache = loadCache();
   let added = 0;
@@ -66,38 +112,11 @@ function main() {
       continue;
     }
     const overrides = JSON.parse(readFileSync(path, "utf8")) as Record<string, OverrideEntry>;
-    const entries = Object.entries(overrides);
-    console.log(`  ${project}: ${entries.length} overrides`);
-
-    for (const [key, val] of entries) {
-      // key shape: "<destId>::<category>::<index>"
-      const parts = key.split("::");
-      if (parts.length !== 3) {
-        console.warn(`    skip malformed key: ${key}`);
-        continue;
-      }
-      const [destId, category, index] = parts;
-      const cacheKey = `${project}/venues/${destId}/${category}/${index}`;
-      const author = parseAuthor(val.credit);
-
-      const existing = cache[cacheKey];
-      const entry: CacheEntry = {
-        url: val.url,
-        alt: val.alt ?? "Curated venue photo",
-        photographerName: author.name,
-        photographerUrl: author.url ?? `https://unsplash.com/?utm_source=shared_image_cache&utm_medium=referral`,
-        unsplashUrl: val.url.split("?")[0] ?? val.url,
-        query: `marquee venue override (${destId} / ${category} / ${index})`,
-        fetchedAt: val.addedAt
-          ? new Date(val.addedAt).toISOString()
-          : new Date().toISOString(),
-        addedBy: project,
-      };
-
-      cache[cacheKey] = entry;
-      if (existing) updated++;
-      else added++;
-    }
+    console.log(`  ${project}: ${Object.keys(overrides).length} overrides`);
+    const r = mirrorProject(cache, project, overrides);
+    for (const k of r.skipped) console.warn(`    skip malformed key: ${k}`);
+    added += r.added;
+    updated += r.updated;
   }
 
   saveCache(cache);
@@ -118,4 +137,4 @@ function main() {
   }
 }
 
-main();
+if (require.main === module) main();

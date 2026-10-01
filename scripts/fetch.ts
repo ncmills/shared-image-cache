@@ -29,8 +29,11 @@ import {
   searchPexels,
   PexelsRateLimitError,
 } from "../lib/pexels";
-import type { Cache, CacheEntry, QueryItem } from "../lib/types";
-import { wouldViolate, isNamedVenueKey } from "../lib/fanout";
+import type { Cache, CacheEntryM6, QueryItem } from "../lib/types";
+import { isNamedVenueKey } from "../lib/fanout";
+import { pickCandidate } from "../lib/select";
+import { toM6Entry } from "../lib/m6";
+import { loadVerdicts } from "../lib/verdicts";
 import { stripVenueFallbacks } from "../lib/query-policy";
 import { buildQueue } from "../lib/queue";
 import {
@@ -262,6 +265,8 @@ async function main() {
 
   const args = parseArgs();
   const cache = loadCache();
+  // Human verdicts (verdicts.json) — read-only here. The fetcher never writes them.
+  const verdicts = loadVerdicts();
   const misses = loadMisses();
 
   // Gather queries from every project loader (scripts/loaders.ts is the ONE
@@ -408,25 +413,30 @@ async function main() {
       // 24 "different" venues. A miss beats a duplicate: if every candidate
       // is at ceiling, no entry is written and the key stays pending for a
       // better source (Pexels below, an override, or a human).
+      //
+      // It also skips any candidate a human has judged WRONG for this key
+      // (a `mismatch` in verdicts.json, spec §2b) — lib/select.ts. Without
+      // that, deleting a wrong-subject row re-fetches the same wrong photo on
+      // the next drain, because the query has not changed.
       let skippedAtCeiling = 0;
+      let skippedDenied = 0;
       const pickNonViolating = (
-        entries: Omit<CacheEntry, "addedBy">[],
-      ): Omit<CacheEntry, "addedBy"> | null => {
-        for (const e of entries) {
-          if (!wouldViolate(cache, item.key, e.url)) return e;
-          skippedAtCeiling++;
-        }
-        return null;
+        entries: Omit<CacheEntryM6, "addedBy">[],
+      ): Omit<CacheEntryM6, "addedBy"> | null => {
+        const pick = pickCandidate(cache, item.key, entries, verdicts);
+        skippedAtCeiling += pick.skippedAtCeiling;
+        skippedDenied += pick.skippedDenied;
+        return pick.chosen;
       };
 
       // Tiers 1-2: Unsplash primary, then the fallback phrasing. Skipped
       // wholesale once Unsplash is out of budget — a request we know will 403
       // is a second of sleep and a log line, not a photograph.
-      let result: { entries: Omit<CacheEntry, "addedBy">[]; ratelimitRemaining: number } = {
+      let result: { entries: Omit<CacheEntryM6, "addedBy">[]; ratelimitRemaining: number } = {
         entries: [],
         ratelimitRemaining: NaN,
       };
-      let chosen: Omit<CacheEntry, "addedBy"> | null = null;
+      let chosen: Omit<CacheEntryM6, "addedBy"> | null = null;
       let usedFallback = false;
 
       if (!unsplashExhausted) {
@@ -531,8 +541,9 @@ async function main() {
       }
 
       if (chosen) {
-        const entry: CacheEntry = { ...chosen, addedBy: item.addedBy };
-        cache[item.key] = entry;
+        // Through the one M6 derivation (lib/m6.ts) at the write site too, so
+        // the stored row is M6 whatever path produced the candidate.
+        cache[item.key] = toM6Entry({ ...chosen, addedBy: item.addedBy });
         added++;
         // A key that now HAS a photo has no business carrying a tombstone.
         if (clearMiss(misses, item.key)) missesChanged = true;
@@ -542,16 +553,26 @@ async function main() {
           `  [${processed}/${batch.length}] ${item.label || item.key} ${tag} (${sourceLabel})` +
             (usedFallback && !usedPexels ? `  fallback: "${item.fallbackQuery}"` : "") +
             (usedPexels ? `  via Pexels` : "") +
-            (skippedAtCeiling > 0 ? `  (${skippedAtCeiling} candidate(s) skipped at fan-out ceiling)` : ""),
+            (skippedAtCeiling > 0 ? `  (${skippedAtCeiling} candidate(s) skipped at fan-out ceiling)` : "") +
+            (skippedDenied > 0 ? `  (${skippedDenied} candidate(s) skipped: human mismatch verdict)` : ""),
         );
-      } else if (skippedAtCeiling > 0) {
+      } else if (skippedDenied > 0 && skippedAtCeiling === 0) {
+        // Every candidate was a photo a human already judged wrong for this
+        // key. A MISS is the right answer; say so, never "no results".
+        ceilingRejectedKeys++;
+        const rec = recordMiss(misses, item, "all-candidates-denied");
+        missesChanged = true;
+        console.log(
+          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedDenied} candidate(s) carry a mismatch verdict for this key (tombstoned, attempt ${rec.attempts}, retry in ${MISS_TTL_DAYS}d)`,
+        );
+      } else if (skippedAtCeiling > 0 || skippedDenied > 0) {
         // A miss beats a duplicate — say so explicitly so a run's output
         // never reads as "the query found nothing".
         ceilingRejectedKeys++;
         const rec = recordMiss(misses, item, "all-candidates-at-ceiling");
         missesChanged = true;
         console.log(
-          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedAtCeiling} candidate(s) already at fan-out ceiling for "${item.query}" (tombstoned, attempt ${rec.attempts}, retry in ${MISS_TTL_DAYS}d)`,
+          `  [${processed}/${batch.length}] ${item.label || item.key} — MISS: all ${skippedAtCeiling + skippedDenied} candidate(s) already at fan-out ceiling${skippedDenied ? ` or denied by a verdict (${skippedDenied})` : ""} for "${item.query}" (tombstoned, attempt ${rec.attempts}, retry in ${MISS_TTL_DAYS}d)`,
         );
       } else {
         zeroResultKeys++;

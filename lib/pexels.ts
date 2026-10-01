@@ -15,7 +15,8 @@
  * Get a key at https://www.pexels.com/api/ (free, no credit card).
  */
 
-import type { CacheEntry } from "./types";
+import type { CacheEntryM6 } from "./types";
+import { toM6Entry } from "./m6";
 
 interface PexelsApiPhoto {
   id: number;
@@ -49,7 +50,7 @@ export interface PexelsSearchResult {
    * caller unable to walk past a photo that is already at the fan-out ceiling.
    * See the note on `searchPexels` below.
    */
-  entries: Omit<CacheEntry, "addedBy">[];
+  entries: Omit<CacheEntryM6, "addedBy">[];
   ratelimitRemaining: number;
 }
 
@@ -115,7 +116,9 @@ export async function searchPexels(
   const data = (await res.json()) as PexelsApiResponse;
   const fetchedAt = new Date().toISOString();
 
-  const entries = (data.photos ?? []).map((photo) => ({
+  // `unsplashUrl` keeps the pexels.com page for old consumers; new ones read
+  // `sourceUrl` / `credit`, which say Pexels (lib/m6.ts).
+  const entries = (data.photos ?? []).map((photo) => toM6Entry({
     // Pexels `large` is ~940px wide — comparable to Unsplash `regular`.
     url: photo.src.large,
     alt: photo.alt || query,

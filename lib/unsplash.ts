@@ -12,7 +12,8 @@
  *   - Both links must use ?utm_source=<project>&utm_medium=referral.
  */
 
-import type { CacheEntry } from "./types";
+import type { CacheEntryM6 } from "./types";
+import { toM6Entry } from "./m6";
 
 const UTM = "utm_source=shared_image_cache&utm_medium=referral";
 
@@ -37,7 +38,7 @@ interface UnsplashApiResponse {
 
 export interface SearchResult {
   /** Top candidate — kept for back-compat; always `entries[0] ?? null`. */
-  entry: Omit<CacheEntry, "addedBy"> | null;
+  entry: Omit<CacheEntryM6, "addedBy"> | null;
   /**
    * ALL returned candidates, best-first. The fetcher walks these and takes
    * the first one that doesn't violate the duplicate-fanout ceilings
@@ -45,7 +46,7 @@ export interface SearchResult {
    * photo came to back 24 named venues: obscure-venue queries collapse to
    * the same popular top result, and only the alternates differ.
    */
-  entries: Omit<CacheEntry, "addedBy">[];
+  entries: Omit<CacheEntryM6, "addedBy">[];
   ratelimitRemaining: number;
 }
 
@@ -88,7 +89,9 @@ export async function searchUnsplash(
   }
 
   const data = (await res.json()) as UnsplashApiResponse;
-  const entries = data.results.map((photo) => ({
+  // M6 fields (provider, photoId, licence, id-only sourceUrl, credit) come from
+  // the one derivation every writer shares — lib/m6.ts.
+  const entries = data.results.map((photo) => toM6Entry({
     url: photo.urls.regular,
     alt: photo.alt_description || photo.description || query,
     photographerName: photo.user.name,

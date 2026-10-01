@@ -17,6 +17,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { Cache, CacheEntry } from "../lib/types";
+import { toM6Entry } from "../lib/m6";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const REPO_ROOT = resolve(__dirname, "..");
@@ -35,39 +36,37 @@ function loadJson<T>(path: string): T | null {
   }
 }
 
-interface TdfCache {
+export interface TdfCache {
   destinations: Record<string, Omit<CacheEntry, "addedBy">>;
   bachelorParty: Record<string, Omit<CacheEntry, "addedBy">>;
   guides: Record<string, Omit<CacheEntry, "addedBy">>;
 }
 
-type ShowcaseImagesFile = Record<string, Record<string, string>>;
+export type ShowcaseImagesFile = Record<string, Record<string, string>>;
 
-function migrateTdf(cache: Cache): number {
-  const tdf = loadJson<TdfCache>(TDF_CACHE);
+export function migrateTdf(cache: Cache, tdf: TdfCache | null = loadJson<TdfCache>(TDF_CACHE)): number {
   if (!tdf) return 0;
   let count = 0;
   for (const [id, entry] of Object.entries(tdf.destinations || {})) {
-    cache[`tdf/destinations/${id}`] = { ...entry, addedBy: "tdf" };
+    cache[`tdf/destinations/${id}`] = toM6Entry({ ...entry, addedBy: "tdf" });
     count++;
   }
   for (const [id, entry] of Object.entries(tdf.bachelorParty || {})) {
-    cache[`tdf/bachelorParty/${id}`] = { ...entry, addedBy: "tdf" };
+    cache[`tdf/bachelorParty/${id}`] = toM6Entry({ ...entry, addedBy: "tdf" });
     count++;
   }
   for (const [slug, entry] of Object.entries(tdf.guides || {})) {
-    cache[`tdf/guides/${slug}`] = { ...entry, addedBy: "tdf" };
+    cache[`tdf/guides/${slug}`] = toM6Entry({ ...entry, addedBy: "tdf" });
     count++;
   }
   return count;
 }
 
-function migrateShowcases(
+export function migrateShowcases(
   cache: Cache,
-  path: string,
+  data: ShowcaseImagesFile | null,
   project: string,
 ): number {
-  const data = loadJson<ShowcaseImagesFile>(path);
   if (!data) return 0;
   let count = 0;
   for (const [showcaseSlug, images] of Object.entries(data)) {
@@ -77,7 +76,7 @@ function migrateShowcases(
       // synthesized from the slug). Re-fetching later will populate the
       // photographer credit.
       const key = `${project}/showcases/${showcaseSlug}/${imageType}`;
-      cache[key] = {
+      cache[key] = toM6Entry({
         url,
         alt: `${imageType} for ${showcaseSlug}`,
         photographerName: "",
@@ -86,7 +85,7 @@ function migrateShowcases(
         query: `${showcaseSlug} ${imageType}`,
         fetchedAt: new Date(0).toISOString(),
         addedBy: project,
-      };
+      });
       count++;
     }
   }
@@ -108,18 +107,23 @@ function saveCache(cache: Cache): void {
   writeFileSync(CACHE_PATH, JSON.stringify(sorted, null, 2) + "\n", "utf8");
 }
 
-const cache = loadExistingSharedCache();
-const before = Object.keys(cache).length;
+function main() {
+  const cache = loadExistingSharedCache();
+  const before = Object.keys(cache).length;
 
-const tdfCount = migrateTdf(cache);
-const bestmanCount = migrateShowcases(cache, BESTMAN_CACHE, "bestman");
-const mohCount = migrateShowcases(cache, MOH_CACHE, "moh");
+  const tdfCount = migrateTdf(cache);
+  const bestmanCount = migrateShowcases(cache, loadJson<ShowcaseImagesFile>(BESTMAN_CACHE), "bestman");
+  const mohCount = migrateShowcases(cache, loadJson<ShowcaseImagesFile>(MOH_CACHE), "moh");
 
-saveCache(cache);
-const after = Object.keys(cache).length;
+  saveCache(cache);
+  const after = Object.keys(cache).length;
 
-console.log(`Seed complete:`);
-console.log(`  tdf:     ${tdfCount} entries migrated`);
-console.log(`  bestman: ${bestmanCount} entries migrated`);
-console.log(`  moh:     ${mohCount} entries migrated`);
-console.log(`  total:   ${before} → ${after} entries in shared cache`);
+  console.log(`Seed complete:`);
+  console.log(`  tdf:     ${tdfCount} entries migrated`);
+  console.log(`  bestman: ${bestmanCount} entries migrated`);
+  console.log(`  moh:     ${mohCount} entries migrated`);
+  console.log(`  total:   ${before} → ${after} entries in shared cache`);
+}
+
+// Guarded so the selftest can import the writers without running the migration.
+if (require.main === module) main();

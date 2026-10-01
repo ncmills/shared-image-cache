@@ -10,14 +10,16 @@
     "fetch": "npx tsx scripts/fetch.ts",
     "stats": "node -e \"const c=require('./cache.json');const s={};for(const k of Object.keys(c))s[k.split('/')[0]]=(s[k.split('/')[0]]||0)+1;console.log('Total:',Object.keys(c).length);console.table(s)\"",
     "typecheck": "tsc -p tsconfig.json --noEmit",
-    "test": "tsx scripts/selftest.ts",
-    "gate": "npm run gate:fanout && npm run gate:venues && npm run gate:queries && npm run gate:snapshot && npm run gate:workflows",
+    "test": "tsx scripts/selftest.ts && tsx scripts/selftest-m6.ts",
+    "gate": "npm run gate:fanout && npm run gate:venues && npm run gate:queries && npm run gate:snapshot && npm run gate:workflows && npm run gate:m6",
     "gate:fanout": "tsx scripts/check-duplicate-fanout.ts",
     "gate:venues": "tsx scripts/check-venue-identity.ts",
     "gate:queries": "tsx scripts/check-query-hygiene.ts",
     "gate:snapshot": "tsx scripts/check-snapshot-drift.ts",
     "gate:workflows": "tsx scripts/check-workflow-projects.ts",
-    "snapshot:check": "npx tsx scripts/snapshot-queries.ts --check"
+    "gate:m6": "tsx scripts/check-m6.ts",
+    "snapshot:check": "npx tsx scripts/snapshot-queries.ts --check",
+    "backfill:m6": "tsx scripts/backfill-m6.ts"
   },
   "license": "UNLICENSED",
   "devDependencies": {
