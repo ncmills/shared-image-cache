@@ -99,3 +99,72 @@ export interface QueryItem {
    */
   curated?: boolean;
 }
+
+// ── M6 fields (CORPUS-M6 spec §2a/§2b, 2026-09-25) ─────────────────────────
+//
+// Additive: the 8 fields above are kept verbatim. `unsplashUrl` stays as a
+// deprecated alias (it holds a pexels.com page on Pexels rows — the misname
+// that credited Pexels photos "on Unsplash"); new consumers read `sourceUrl`
+// and `credit` instead. Every writer produces these through ONE function,
+// `toM6Entry` (lib/m6.ts), and `npm run gate:m6` fails a row that lacks them.
+
+/** Only these two. Google Places, the runtime Unsplash pool and scraped venue
+ * photos are fenced out on purpose (spec §1d) — none can enter by accident. */
+export type Provider = "unsplash" | "pexels";
+export type Licence = "unsplash-api" | "pexels-api";
+
+export interface M6Credit {
+  /**
+   * true only if photographerName is non-empty AND photographerUrl is a
+   * profile page (`unsplash.com/@user` | `www.pexels.com/@user`) AND
+   * sourceUrl is an id-only photo page. Derived, never asserted by hand.
+   */
+  complete: boolean;
+  /** "Photo by {name} on {Unsplash|Pexels}" when complete; "" when not — never a fallback string. */
+  text: string;
+  photographerName: string;
+  /** Profile URL with NO query (utm is added by the consumer); "" if the row has no profile. */
+  photographerUrl: string;
+  /** "https://unsplash.com" | "https://www.pexels.com", no query. */
+  providerUrl: string;
+}
+
+export interface M6Fields {
+  /** From the CDN host; always equals the `photoIdFromUrl(url)` prefix. */
+  provider: Provider;
+  /** `photoIdFromUrl(url)`, e.g. "pexels:6944344". */
+  photoId: string;
+  licence: Licence;
+  /**
+   * ID-ONLY photo page, no slug, no query:
+   *   pexels:   https://www.pexels.com/photo/<id>/   (<id> = the CDN id)
+   *   unsplash: https://unsplash.com/photos/<shortId> (last 11 chars of the page path)
+   * "" when no photo page is known.
+   */
+  sourceUrl: string;
+  credit: M6Credit;
+}
+
+export type CacheEntryM6 = CacheEntry & M6Fields;
+
+/** A human-viewed judgment (verdicts.json). Append-only; never written by the fetcher. */
+export interface ImageVerdict {
+  /** Full cache key, or "offsite-override/<name>" for OO's site-local overrides. */
+  key: string;
+  /** The photo that was VIEWED (`photoIdFromUrl` form). */
+  photoId: string;
+  verdict: "match" | "mismatch";
+  /** What the viewed frame shows. */
+  shows: string;
+  /** The production crop it was viewed at. `surface` is from the closed list in lib/verdicts.ts. */
+  crop: { surface: string; w: number; h: number; fit: "cover" | "contain" };
+  /** Session / PR ref; never a script name. */
+  verifiedBy: string;
+  /** ISO date. */
+  verifiedAt: string;
+  evidence?: string;
+  /** "<repo>@<sha>:<path>" for lifted rows. */
+  liftedFrom?: string;
+}
+
+export type VerdictStatus = "denied" | "verified" | "stale" | "unverified";

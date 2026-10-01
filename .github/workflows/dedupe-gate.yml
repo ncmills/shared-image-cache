@@ -4,12 +4,15 @@ name: gates
 #
 #   typecheck            the code compiles
 #   test                 offline assertions — queue advance, health matrix,
-#                        query policy, venue identity (no network, no budget)
+#                        query policy, venue identity, M6 writers + verdicts
+#                        (no network, no budget)
 #   gate:fanout          duplicate-fanout ceilings (lib/fanout.ts)
 #   gate:venues          no generic photo under a real property's name
 #   gate:queries         query hygiene across all six loaders
 #   gate:snapshot        queries.snapshot.json is not older than its loaders
 #   gate:workflows       the YAML knows the same six projects the code does
+#   gate:m6              every row has valid M6 fields (provider, licence,
+#                        credit); verdicts.json valid and append-only
 #
 # The fetch workflows also run `npm run gate` inside fetch.ts before their
 # auto-commit, so a violating cache cannot land from either path.

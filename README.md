@@ -46,6 +46,63 @@ moh/cities/nashville-tn
 }
 ```
 
+## M6 fields (provider, licence, credit) and verdicts
+
+CORPUS-M6 spec §2 (`~/ops/canon/status/corpus-m6-spec-2026-09-25.md`). **Additive:**
+the 8 fields above stay verbatim; every row gains five more.
+
+```typescript
+{
+  provider: "unsplash" | "pexels";   // from the CDN host — only these two can enter
+  photoId: string;                   // photoIdFromUrl(url), e.g. "pexels:6944344"
+  licence: "unsplash-api" | "pexels-api";
+  sourceUrl: string;                 // ID-ONLY photo page, no slug, no query; "" if none known
+                                     //   https://www.pexels.com/photo/<cdn id>/
+                                     //   https://unsplash.com/photos/<11-char id>
+  credit: {
+    complete: boolean;               // name + profile page + sourceUrl all present
+    text: string;                    // "Photo by {name} on {Unsplash|Pexels}", or "" — never a fallback
+    photographerName: string;
+    photographerUrl: string;         // profile page, no query ("" if the row has none)
+    providerUrl: string;             // https://unsplash.com | https://www.pexels.com
+  };
+}
+```
+
+- **One derivation.** Every writer stores rows through `toM6Entry()` (`lib/m6.ts`):
+  `lib/unsplash.ts`, `lib/pexels.ts`, the write site in `scripts/fetch.ts`,
+  `scripts/mirror-overrides.ts`, `scripts/seed-from-projects.ts`, and the rewriter
+  `scripts/evict-duplicates.ts`. It is pure and idempotent and derives only from the
+  8 legacy fields, so a hand edit to an M6 field is caught (`not-derived`).
+- **`unsplashUrl` is deprecated.** On Pexels rows it holds a pexels.com page — the
+  misname that credited Pexels photos "on Unsplash". Read `sourceUrl` and `credit`.
+  Links in the new fields carry no utm: the consumer sets `utm_source=<app>` and
+  `utm_medium=referral` on unsplash.com links (set, not append) and none on pexels.com.
+- **Never invented.** A row with no photographer, profile page or photo page is
+  `credit.complete: false` with `text: ""`. 122 rows are like that today (BMHQ/MOH
+  showcases and mirrored venue overrides, all Unsplash).
+- **Pre-M6 rows.** `m6-legacy-ledger.json` lists the keys allowed to lack the fields
+  until the backfill lands. It only shrinks (`gate:m6` fails a key added to it).
+  `npm run backfill:m6` is a dry run; `-- --write` rewrites `cache.json` and empties
+  the ledger.
+
+### `verdicts.json` — human judgments, append-only
+
+A verdict records that a person VIEWED a photo at a production crop and judged it
+`match` or `mismatch` for a key. It binds to the `photoId`, never just the key, and
+names its surface from the closed list in `lib/verdicts.ts`. Nothing in this repo
+writes the file; a verdict lands only in a reviewed PR. `verdictStatus(key, photoId,
+surface)` resolves in this order: **denied** (any mismatch on this photo, any surface,
+any date) → **verified** (a match at exactly this surface) → **stale** (verdicts
+only for other photos) → **unverified**. The fetcher skips any candidate with a
+`mismatch` on that key (`lib/select.ts`), so a wrong photo that is deleted does not
+come back on the next fetch.
+
+`gate:m6` (`scripts/check-m6.ts`) fails on a row missing the fields outside the
+ledger, any broken invariant above, a malformed verdict, or a verdict edited or
+removed versus the base ref. `npm test` runs `scripts/selftest-m6.ts`, which runs
+each writer offline on fixtures and has a failing control for every rule.
+
 ## How a project consumes the cache
 
 **At build time**, fetch the latest `cache.json` from the jsDelivr CDN and write it to a local file the project's pages import:
@@ -207,7 +264,7 @@ path (`stripVenueFallbacks`), and against the cache by
 
 ## Gates
 
-`npm run gate` runs all five, and `fetch.ts` runs it before every auto-commit, so
+`npm run gate` runs all six, and `fetch.ts` runs it before every auto-commit, so
 nothing lands from either path without passing:
 
 | command | what it refuses |
@@ -217,6 +274,7 @@ nothing lands from either path without passing:
 | `gate:queries` | a query shape already known to return the wrong subject |
 | `gate:snapshot` | a snapshot older than its loaders, or missing a project |
 | `gate:workflows` | workflow YAML that does not know all six projects |
+| `gate:m6` | a row without valid M6 fields, a credit that names the wrong provider, a bad or rewritten verdict |
 
 `npm test` (`scripts/selftest.ts`) asserts the same rules offline — no network, no
 API budget — including that a simulated miss advances the queue head.
