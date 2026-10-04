@@ -34502,6 +34502,27 @@
       "providerUrl": "https://unsplash.com"
     }
   },
+  "moh/cities/omaha-ne/activities": {
+    "url": "https://images.pexels.com/photos/39975592/pexels-photo-39975592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A happy woman with open arms embracing the snowfall in a wintery outdoor setting.",
+    "photographerName": "Sharuk Shaik",
+    "photographerUrl": "https://www.pexels.com/@mahabub1144",
+    "unsplashUrl": "https://www.pexels.com/photo/joyful-woman-embracing-snowy-winter-outdoors-39975592/",
+    "query": "Omaha Nebraska wellness",
+    "fetchedAt": "2026-10-04T00:33:41.041Z",
+    "provider": "pexels",
+    "photoId": "pexels:39975592",
+    "licence": "pexels-api",
+    "sourceUrl": "https://www.pexels.com/photo/39975592/",
+    "credit": {
+      "complete": true,
+      "text": "Photo by Sharuk Shaik on Pexels",
+      "photographerName": "Sharuk Shaik",
+      "photographerUrl": "https://www.pexels.com/@mahabub1144",
+      "providerUrl": "https://www.pexels.com"
+    },
+    "addedBy": "moh"
+  },
   "moh/cities/omaha-ne/bars": {
     "url": "https://images.unsplash.com/photo-1534390909446-dce38dbec04e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxPbWFoYSUyME5lYnJhc2thJTIwY29ja3RhaWwlMjBiYXJ8ZW58MXwwfHx8MTc4NzM1MTk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "selective focus photography of two clear footed glasses placed near votive candle on table",

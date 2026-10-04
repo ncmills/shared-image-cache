@@ -1,11 +1,4 @@
 {
-  "moh/cities/omaha-ne/activities": {
-    "query": "Omaha Nebraska spa",
-    "fallbackQuery": "Omaha Nebraska wellness",
-    "at": "2026-09-04T00:10:04.901Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 1
-  },
   "offsite/venues/allison-inn-willamette": {
     "query": "Allison Inn Willamette Valley vineyard Oregon",
     "at": "2026-09-20T20:45:00.493Z",
