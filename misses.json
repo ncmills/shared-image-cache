@@ -19,15 +19,15 @@
   },
   "offsite/venues/carneros-resort": {
     "query": "Carneros Resort Napa Valley cottages vineyard hilltop pool",
-    "at": "2026-09-20T13:36:00.444Z",
+    "at": "2026-10-20T14:18:40.378Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/four-seasons-maui": {
     "query": "Four Seasons Resort Maui Wailea oceanfront infinity pool aerial",
-    "at": "2026-09-20T13:35:55.022Z",
+    "at": "2026-10-20T14:18:37.652Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/grand-hotel-mackinac": {
     "query": "Grand Hotel Mackinac Island Lake Huron porch",
@@ -55,9 +55,9 @@
   },
   "offsite/venues/la-mamounia-marrakech": {
     "query": "La Mamounia Marrakech palace gardens courtyard Moorish arches",
-    "at": "2026-09-20T13:35:38.774Z",
+    "at": "2026-10-20T14:18:31.745Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/our-habitas-alula": {
     "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
@@ -67,9 +67,9 @@
   },
   "offsite/venues/pinehurst": {
     "query": "Pinehurst resort golf course Carolina pines clubhouse",
-    "at": "2026-09-20T13:35:08.548Z",
+    "at": "2026-10-20T14:18:28.372Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/qasr-al-sarab-liwa": {
     "query": "Qasr Al Sarab Desert Resort by Anantara Liwa / Empty Quarter (Rub' al Khali), Abu Dhabi, UAE",
@@ -91,9 +91,9 @@
   },
   "offsite/venues/suncadia": {
     "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
-    "at": "2026-09-20T13:35:52.274Z",
+    "at": "2026-10-20T14:18:34.575Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/the-sagamore-lake-george": {
     "query": "Sagamore Resort Lake George island aerial New York",
