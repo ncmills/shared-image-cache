@@ -47879,6 +47879,27 @@
       "providerUrl": "https://www.pexels.com"
     }
   },
+  "offsite/venues/alvear-palace-hotel-buenos-aires": {
+    "url": "https://images.pexels.com/photos/19026489/pexels-photo-19026489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Front view of the iconic Pera Palace Hotel facade in Istanbul with red awnings and ornate entrance.",
+    "photographerName": "R. Yasin Asil",
+    "photographerUrl": "https://www.pexels.com/@asil",
+    "unsplashUrl": "https://www.pexels.com/photo/facade-of-pera-palace-hotel-in-istanbul-turkey-19026489/",
+    "query": "Alvear Palace Hotel Buenos Aires exterior",
+    "fetchedAt": "2026-10-20T21:33:37.702Z",
+    "provider": "pexels",
+    "photoId": "pexels:19026489",
+    "licence": "pexels-api",
+    "sourceUrl": "https://www.pexels.com/photo/19026489/",
+    "credit": {
+      "complete": true,
+      "text": "Photo by R. Yasin Asil on Pexels",
+      "photographerName": "R. Yasin Asil",
+      "photographerUrl": "https://www.pexels.com/@asil",
+      "providerUrl": "https://www.pexels.com"
+    },
+    "addedBy": "offsite"
+  },
   "offsite/venues/aman-kyoto-cultural-circuit": {
     "url": "https://images.pexels.com/photos/31033133/pexels-photo-31033133.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning view of the Kinkaku-ji Temple surrounded by lush greenery in Kyoto, Japan.",

@@ -1,21 +1,15 @@
 {
   "offsite/venues/allison-inn-willamette": {
     "query": "Allison Inn Willamette Valley vineyard Oregon",
-    "at": "2026-09-20T20:45:00.493Z",
+    "at": "2026-10-20T21:33:46.103Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
-  },
-  "offsite/venues/alvear-palace-hotel-buenos-aires": {
-    "query": "Alvear Palace Hotel Buenos Aires exterior",
-    "at": "2026-09-20T17:26:56.793Z",
-    "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/awasi-mendoza": {
     "query": "Awasi Mendoza Luján de Cuyo, Mendoza",
-    "at": "2026-09-20T17:26:40.797Z",
+    "at": "2026-10-20T21:33:21.243Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/carneros-resort": {
     "query": "Carneros Resort Napa Valley cottages vineyard hilltop pool",
@@ -31,27 +25,27 @@
   },
   "offsite/venues/grand-hotel-mackinac": {
     "query": "Grand Hotel Mackinac Island Lake Huron porch",
-    "at": "2026-09-20T17:26:35.321Z",
+    "at": "2026-10-20T21:33:15.752Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/grand-wailea": {
     "query": "Grand Wailea Waldorf Astoria Maui mega resort oceanfront",
-    "at": "2026-09-20T17:26:54.201Z",
+    "at": "2026-10-20T21:33:34.775Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/hotel-castillo-santa-cecilia-guanajuato": {
     "query": "Hotel Castillo Santa Cecilia Latin America & Caribbean",
-    "at": "2026-09-20T20:45:07.204Z",
+    "at": "2026-10-20T21:33:51.493Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/kokomo-private-island-fiji": {
     "query": "Kokomo Private Island Fiji Great Astrolabe Reef villas aerial",
-    "at": "2026-09-20T20:44:57.953Z",
+    "at": "2026-10-20T21:33:43.348Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/la-mamounia-marrakech": {
     "query": "La Mamounia Marrakech palace gardens courtyard Moorish arches",
@@ -61,9 +55,9 @@
   },
   "offsite/venues/our-habitas-alula": {
     "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
-    "at": "2026-09-20T17:26:46.511Z",
+    "at": "2026-10-20T21:33:26.895Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/pinehurst": {
     "query": "Pinehurst resort golf course Carolina pines clubhouse",
@@ -73,21 +67,21 @@
   },
   "offsite/venues/qasr-al-sarab-liwa": {
     "query": "Qasr Al Sarab Desert Resort by Anantara Liwa / Empty Quarter (Rub' al Khali), Abu Dhabi, UAE",
-    "at": "2026-09-20T17:26:48.905Z",
+    "at": "2026-10-20T21:33:29.272Z",
     "reason": "no-results",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/singita-sabi-sand": {
     "query": "Singita Boulders Lodge Sabi Sand safari",
-    "at": "2026-09-20T17:27:00.892Z",
+    "at": "2026-10-20T21:33:40.556Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/stanly-ranch-napa": {
     "query": "Stanly Ranch Auberge Napa vineyard cottages",
-    "at": "2026-09-20T20:45:03.384Z",
+    "at": "2026-10-20T21:33:48.807Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/suncadia": {
     "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
@@ -97,20 +91,20 @@
   },
   "offsite/venues/the-sagamore-lake-george": {
     "query": "Sagamore Resort Lake George island aerial New York",
-    "at": "2026-09-20T17:26:51.531Z",
+    "at": "2026-10-20T21:33:32.001Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/vista-flores-estancia-mendoza": {
     "query": "Vista Flores / Estancia-style buyout, Uco Valley Uco Valley, Mendoza",
-    "at": "2026-09-20T17:26:37.989Z",
+    "at": "2026-10-20T21:33:18.482Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   },
   "offsite/venues/wilderness-botswana-cluster": {
     "query": "Wilderness Mombo / DumaTau / Vumbura Cluster Okavango & Linyanti, Botswana",
-    "at": "2026-09-20T17:26:43.725Z",
+    "at": "2026-10-20T21:33:24.048Z",
     "reason": "all-candidates-at-ceiling",
-    "attempts": 2
+    "attempts": 3
   }
 }
