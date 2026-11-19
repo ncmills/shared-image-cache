@@ -53591,6 +53591,27 @@
       "providerUrl": "https://www.pexels.com"
     }
   },
+  "offsite/venues/suncadia": {
+    "url": "https://images.pexels.com/photos/28954801/pexels-photo-28954801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A scenic view of a historic lodge surrounded by trees in Mount Rainier National Park.",
+    "photographerName": "Alex Moliski",
+    "photographerUrl": "https://www.pexels.com/@alexmoliski",
+    "unsplashUrl": "https://www.pexels.com/photo/historic-lodge-in-mount-rainier-national-park-28954801/",
+    "query": "Suncadia Resort lodge Cascade mountains aerial Washington",
+    "fetchedAt": "2026-11-19T18:16:13.276Z",
+    "provider": "pexels",
+    "photoId": "pexels:28954801",
+    "licence": "pexels-api",
+    "sourceUrl": "https://www.pexels.com/photo/28954801/",
+    "credit": {
+      "complete": true,
+      "text": "Photo by Alex Moliski on Pexels",
+      "photographerName": "Alex Moliski",
+      "photographerUrl": "https://www.pexels.com/@alexmoliski",
+      "providerUrl": "https://www.pexels.com"
+    },
+    "addedBy": "offsite"
+  },
   "offsite/venues/sundance-mountain-resort-utah": {
     "url": "https://images.pexels.com/photos/25929095/pexels-photo-25929095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Stunning mountain landscape of the Wasatch Range with snow patches and lush greenery under cloudy skies.",
