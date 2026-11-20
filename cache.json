@@ -51932,6 +51932,27 @@
       "providerUrl": "https://www.pexels.com"
     }
   },
+  "offsite/venues/our-habitas-alula": {
+    "url": "https://images.pexels.com/photos/41009796/pexels-photo-41009796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning view of unique sandstone formations under a clear blue sky in AlUla, Saudi Arabia.",
+    "photographerName": "Hamza Gulzar",
+    "photographerUrl": "https://www.pexels.com/@hamza-gulzar-54058",
+    "unsplashUrl": "https://www.pexels.com/photo/majestic-sandstone-formations-in-alula-saudi-arabia-41009796/",
+    "query": "Our Habitas AlUla + Caravan by Habitas AlUla, Saudi Arabia",
+    "fetchedAt": "2026-11-20T03:05:18.945Z",
+    "provider": "pexels",
+    "photoId": "pexels:41009796",
+    "licence": "pexels-api",
+    "sourceUrl": "https://www.pexels.com/photo/41009796/",
+    "credit": {
+      "complete": true,
+      "text": "Photo by Hamza Gulzar on Pexels",
+      "photographerName": "Hamza Gulzar",
+      "photographerUrl": "https://www.pexels.com/@hamza-gulzar-54058",
+      "providerUrl": "https://www.pexels.com"
+    },
+    "addedBy": "offsite"
+  },
   "offsite/venues/palace-hotel-tokyo": {
     "url": "https://images.pexels.com/photos/7826977/pexels-photo-7826977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "alt": "Skyscrapers reflecting in the calm water near Tokyo's Imperial Palace, showcasing modern architecture and nature.",
