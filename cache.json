@@ -54557,27 +54557,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/akron-oh": {
-    "url": "https://images.unsplash.com/photo-1590778846913-de794a6bb4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBa3JvbiUyMGRvd250b3dufGVufDF8MHx8fDE3ODg0NjkyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "red bmw m 3 parked on sidewalk during daytime",
-    "photographerName": "Lance Anderson",
-    "photographerUrl": "https://unsplash.com/@lanceanderson?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/red-bmw-m-3-parked-on-sidewalk-during-daytime-rJQUf0B4eIk?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Akron downtown",
-    "fetchedAt": "2026-09-03T21:00:07.209Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1590778846913-de794a6bb4ef",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/rJQUf0B4eIk",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Lance Anderson on Unsplash",
-      "photographerName": "Lance Anderson",
-      "photographerUrl": "https://unsplash.com/@lanceanderson",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/albuquerque-nm": {
     "url": "https://images.unsplash.com/photo-1520050984229-709501d9c1ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBbGJ1cXVlcnF1ZSUyME5ldyUyME1leGljbyUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "city during night",
@@ -54617,27 +54596,6 @@
       "text": "Photo by Bodega on Unsplash",
       "photographerName": "Bodega",
       "photographerUrl": "https://unsplash.com/@bodegasupply",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/aptos-ca": {
-    "url": "https://images.unsplash.com/photo-1492205113810-34e1a283f4ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxBcHRvcyUyMGRvd250b3dufGVufDF8MHx8fDE3ODg0NjkyNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "red traffic light",
-    "photographerName": "Quilia",
-    "photographerUrl": "https://unsplash.com/@heyquilia?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/red-traffic-light-MMHR-Vnc7x8?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Aptos downtown",
-    "fetchedAt": "2026-09-03T21:01:04.086Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1492205113810-34e1a283f4ea",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/MMHR-Vnc7x8",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Quilia on Unsplash",
-      "photographerName": "Quilia",
-      "photographerUrl": "https://unsplash.com/@heyquilia",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -54704,27 +54662,6 @@
       "providerUrl": "https://www.pexels.com"
     }
   },
-  "tdf/bachelorParty/augusta-ga": {
-    "url": "https://images.unsplash.com/photo-1583784175827-19a1b7c31b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxBdWd1c3RhJTIwR2VvcmdpYSUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "people sitting on black and white drum set during daytime",
-    "photographerName": "Luis Morera",
-    "photographerUrl": "https://unsplash.com/@luismorerat?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-black-and-white-drum-set-during-daytime-dFrdcUufEyA?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Augusta Georgia nightlife",
-    "fetchedAt": "2026-09-03T20:59:57.655Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1583784175827-19a1b7c31b31",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/dFrdcUufEyA",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Luis Morera on Unsplash",
-      "photographerName": "Luis Morera",
-      "photographerUrl": "https://unsplash.com/@luismorerat",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/austin-tx": {
     "url": "https://images.unsplash.com/photo-1666310377545-665cdda762f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxBdXN0aW4lMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzcyMTM2ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city skyline at sunset",
@@ -54743,90 +54680,6 @@
       "text": "Photo by Lewis Guapo on Unsplash",
       "photographerName": "Lewis Guapo",
       "photographerUrl": "https://unsplash.com/@lewisguapo",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/bakersfield-ca": {
-    "url": "https://images.unsplash.com/photo-1650589135405-e946df7a40b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCYWtlcnNmaWVsZCUyMENhbGlmb3JuaWElMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4ODQ2OTI1OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a toilet paper roll on a toilet",
-    "photographerName": "Ruth Bourke",
-    "photographerUrl": "https://unsplash.com/@nocturnecapture?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-toilet-paper-roll-on-a-toilet-GhhalR0ep4s?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bakersfield California nightlife",
-    "fetchedAt": "2026-09-03T21:00:59.894Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1650589135405-e946df7a40b6",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/GhhalR0ep4s",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Ruth Bourke on Unsplash",
-      "photographerName": "Ruth Bourke",
-      "photographerUrl": "https://unsplash.com/@nocturnecapture",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/baton-rouge-la": {
-    "url": "https://images.unsplash.com/photo-1599580546799-0a769ea465cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxCYXRvbiUyMFJvdWdlJTIwTG91aXNpYW5hJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkxNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "blue and white building near green trees during night time",
-    "photographerName": "Elifin Realty",
-    "photographerUrl": "https://unsplash.com/@elifinrealty?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/blue-and-white-building-near-green-trees-during-night-time-YPZsIHtH44s?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Baton Rouge Louisiana nightlife",
-    "fetchedAt": "2026-09-03T20:59:20.930Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1599580546799-0a769ea465cd",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/YPZsIHtH44s",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Elifin Realty on Unsplash",
-      "photographerName": "Elifin Realty",
-      "photographerUrl": "https://unsplash.com/@elifinrealty",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/bay-harbor-mi": {
-    "url": "https://images.unsplash.com/photo-1774967594711-cc9ddff86d2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCYXklMjBIYXJib3IlMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3ODI3NTc0NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "City skyline with tall buildings reflected in water at night.",
-    "photographerName": "fiona zhang",
-    "photographerUrl": "https://unsplash.com/@fionazhang123?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/city-skyline-with-tall-buildings-reflected-in-water-at-night-_hp0LFcckEU?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bay Harbor nightlife skyline",
-    "fetchedAt": "2026-06-29T18:24:36.269Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1774967594711-cc9ddff86d2e",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/_hp0LFcckEU",
-    "credit": {
-      "complete": true,
-      "text": "Photo by fiona zhang on Unsplash",
-      "photographerName": "fiona zhang",
-      "photographerUrl": "https://unsplash.com/@fionazhang123",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/bend-or": {
-    "url": "https://images.unsplash.com/photo-1436505743955-a98c0d3eb1a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCZW5kJTIwT3JlZ29uJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "Portland Oregon Old Town neon signage during night time",
-    "photographerName": "Zack Spear",
-    "photographerUrl": "https://unsplash.com/@zackspear?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/portland-oregon-old-town-neon-signage-during-night-time-ZB_Ns0hVZNk?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bend Oregon nightlife",
-    "fetchedAt": "2026-09-03T20:58:01.154Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1436505743955-a98c0d3eb1a8",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/ZB_Ns0hVZNk",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Zack Spear on Unsplash",
-      "photographerName": "Zack Spear",
-      "photographerUrl": "https://unsplash.com/@zackspear",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -54911,48 +54764,6 @@
       "text": "Photo by Documerica on Unsplash",
       "photographerName": "Documerica",
       "photographerUrl": "https://unsplash.com/@documerica",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/bismarck-nd": {
-    "url": "https://images.unsplash.com/photo-1597328928630-8640bccd0351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxCaXNtYXJjayUyME5vcnRoJTIwRGFrb3RhJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "silhouette of man standing on the edge of building during night time",
-    "photographerName": "Denny Müller",
-    "photographerUrl": "https://unsplash.com/@redaquamedia?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/silhouette-of-man-standing-on-the-edge-of-building-during-night-time-BGhsyWwyXcw?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bismarck North Dakota nightlife",
-    "fetchedAt": "2026-09-03T21:00:19.496Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1597328928630-8640bccd0351",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/BGhsyWwyXcw",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Denny Müller on Unsplash",
-      "photographerName": "Denny Müller",
-      "photographerUrl": "https://unsplash.com/@redaquamedia",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/bloomington-in": {
-    "url": "https://images.unsplash.com/photo-1527125218795-3fc804b70f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxCbG9vbWluZ3RvbiUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4Mjc2OTQ0MHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "car on road during night",
-    "photographerName": "Ben Lockwood, PhD",
-    "photographerUrl": "https://unsplash.com/@brlockwood?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/car-on-road-during-night-_pXO0RH94k4?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Bloomington nightlife skyline",
-    "fetchedAt": "2026-06-29T21:44:00.184Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1527125218795-3fc804b70f26",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/_pXO0RH94k4",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Ben Lockwood, PhD on Unsplash",
-      "photographerName": "Ben Lockwood, PhD",
-      "photographerUrl": "https://unsplash.com/@brlockwood",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -55121,27 +54932,6 @@
       "text": "Photo by KADM Creations on Unsplash",
       "photographerName": "KADM Creations",
       "photographerUrl": "https://unsplash.com/@kadm_creations",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/cannon-beach-or": {
-    "url": "https://images.unsplash.com/photo-1680016790224-e33e79acc093?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxDYW5ub24lMjBCZWFjaCUyMCUyRiUyMFNlYXNpZGUlMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzU4NzcwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a large rock in the middle of a beach",
-    "photographerName": "Alex Haney",
-    "photographerUrl": "https://unsplash.com/@alexhaney?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-large-rock-in-the-middle-of-a-beach-7D8NzDgbWxA?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Cannon Beach / Seaside nightlife skyline",
-    "fetchedAt": "2026-04-11T03:10:35.742Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1680016790224-e33e79acc093",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/7D8NzDgbWxA",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Alex Haney on Unsplash",
-      "photographerName": "Alex Haney",
-      "photographerUrl": "https://unsplash.com/@alexhaney",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -55397,27 +55187,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/costa-del-sol-spain": {
-    "url": "https://images.unsplash.com/photo-1514939775307-d44e7f10cabd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxDb3N0YSUyMGRlbCUyMFNvbCUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4Mjc1NzQzMnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "city near body of water during nighttime",
-    "photographerName": "Lucas Davies",
-    "photographerUrl": "https://unsplash.com/@lucas_davies?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/city-near-body-of-water-during-nighttime-uxIU0kYGu-k?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Costa del Sol nightlife skyline",
-    "fetchedAt": "2026-06-29T18:23:52.619Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1514939775307-d44e7f10cabd",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/uxIU0kYGu-k",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Lucas Davies on Unsplash",
-      "photographerName": "Lucas Davies",
-      "photographerUrl": "https://unsplash.com/@lucas_davies",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/dallas-fort-worth-tx": {
     "url": "https://images.unsplash.com/photo-1678837048957-ae23c938a997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxEYWxsYXMtRm9ydCUyMFdvcnRoJTIwVGV4YXMlMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4ODQ2OTE1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a city street with cars parked on the side of the road",
@@ -55478,27 +55247,6 @@
       "text": "Photo by Drew Dau on Unsplash",
       "photographerName": "Drew Dau",
       "photographerUrl": "https://unsplash.com/@daunation",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/destin-30a-fl": {
-    "url": "https://images.unsplash.com/photo-1696943444991-def9485f89f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxEZXN0aW4lMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzcyMTM2MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a view of a city at night from across the water",
-    "photographerName": "Venti Views",
-    "photographerUrl": "https://unsplash.com/@ventiviews?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-at-night-from-across-the-water-n4D4OcrNdr8?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Destin nightlife skyline",
-    "fetchedAt": "2026-04-26T14:27:02.103Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1696943444991-def9485f89f8",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/n4D4OcrNdr8",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Venti Views on Unsplash",
-      "photographerName": "Venti Views",
-      "photographerUrl": "https://unsplash.com/@ventiviews",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -55604,27 +55352,6 @@
       "text": "Photo by Matt Noble on Unsplash",
       "photographerName": "Matt Noble",
       "photographerUrl": "https://unsplash.com/@mcnoble",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/eugene-or": {
-    "url": "https://images.unsplash.com/photo-1436505743955-a98c0d3eb1a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxFdWdlbmUlMjBPcmVnb24lMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4ODQ2OTA4OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "Portland Oregon Old Town neon signage during night time",
-    "photographerName": "Zack Spear",
-    "photographerUrl": "https://unsplash.com/@zackspear?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/portland-oregon-old-town-neon-signage-during-night-time-ZB_Ns0hVZNk?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Eugene Oregon nightlife",
-    "fetchedAt": "2026-09-03T20:58:09.271Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1436505743955-a98c0d3eb1a8",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/ZB_Ns0hVZNk",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Zack Spear on Unsplash",
-      "photographerName": "Zack Spear",
-      "photographerUrl": "https://unsplash.com/@zackspear",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -55943,27 +55670,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/half-moon-bay-ca": {
-    "url": "https://images.unsplash.com/photo-1766083639098-4897ba9cdb21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxIYWxmJTIwTW9vbiUyMEJheSUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4Mjc1NDU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "City lights reflecting on the ocean at night",
-    "photographerName": "Fabio Sasso",
-    "photographerUrl": "https://unsplash.com/@abduzeedo?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/city-lights-reflecting-on-the-ocean-at-night-o5Cm4PEdJmI?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Half Moon Bay nightlife skyline",
-    "fetchedAt": "2026-06-29T17:36:37.842Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1766083639098-4897ba9cdb21",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/o5Cm4PEdJmI",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Fabio Sasso on Unsplash",
-      "photographerName": "Fabio Sasso",
-      "photographerUrl": "https://unsplash.com/@abduzeedo",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/harbor-springs-petoskey-mi": {
     "url": "https://images.unsplash.com/photo-1704452609133-372e7009b017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxIYXJib3IlMjBTcHJpbmdzJTIwJTJGJTIwUGV0b3NrZXklMjBkb3dudG93bnxlbnwxfDB8fHwxNzg4NDY5MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a black car parked in front of a building",
@@ -56214,27 +55920,6 @@
       "photographerName": "Betty Krachey",
       "photographerUrl": "https://www.pexels.com/@szora",
       "providerUrl": "https://www.pexels.com"
-    }
-  },
-  "tdf/bachelorParty/lake-geneva-wi": {
-    "url": "https://images.unsplash.com/photo-1701152990868-145b35f45dae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxMYWtlJTIwR2VuZXZhJTIwbmlnaHRsaWZlJTIwc2t5bGluZXxlbnwxfDB8fHwxNzc3MjEzNTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a large body of water surrounded by trees",
-    "photographerName": "Olive Sun",
-    "photographerUrl": "https://unsplash.com/@theolivesun?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-trees-f60sR7JWE04?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Lake Geneva nightlife skyline",
-    "fetchedAt": "2026-04-26T14:26:12.183Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1701152990868-145b35f45dae",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/f60sR7JWE04",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Olive Sun on Unsplash",
-      "photographerName": "Olive Sun",
-      "photographerUrl": "https://unsplash.com/@theolivesun",
-      "providerUrl": "https://unsplash.com"
     }
   },
   "tdf/bachelorParty/lake-havasu-city-az": {
@@ -56489,27 +56174,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/madison-wi": {
-    "url": "https://images.unsplash.com/photo-1506699311528-5be252edc26a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxNYWRpc29uJTIwV2lzY29uc2luJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "people standing near building",
-    "photographerName": "Frida Aguilar Estrada",
-    "photographerUrl": "https://unsplash.com/@fridaae29?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/people-standing-near-building-4g0XOeKt5ns?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Madison Wisconsin nightlife",
-    "fetchedAt": "2026-09-03T20:58:24.234Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1506699311528-5be252edc26a",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/4g0XOeKt5ns",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Frida Aguilar Estrada on Unsplash",
-      "photographerName": "Frida Aguilar Estrada",
-      "photographerUrl": "https://unsplash.com/@fridaae29",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/marana-az": {
     "url": "https://images.unsplash.com/photo-1727072258729-2e23be04fb67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxNYXJhbmElMjBBcml6b25hJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "A desert landscape with cactus trees and mountains in the background",
@@ -56741,27 +56405,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/napa-ca": {
-    "url": "https://images.unsplash.com/photo-1786206570618-0e9dbf4aac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBhJTIwQ2FsaWZvcm5pYSUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "A man in sunglasses playing a bass guitar on a stage with purple lighting",
-    "photographerName": "Peter Muniz",
-    "photographerUrl": "https://unsplash.com/@petepxl?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/man-playing-bass-guitar-on-stage-AdBwx2bALdQ?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Napa California nightlife",
-    "fetchedAt": "2026-09-03T20:59:26.835Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1786206570618-0e9dbf4aac1e",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/AdBwx2bALdQ",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Peter Muniz on Unsplash",
-      "photographerName": "Peter Muniz",
-      "photographerUrl": "https://unsplash.com/@petepxl",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/naples-fl": {
     "url": "https://images.unsplash.com/photo-1609545402407-399eb6968a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxOYXBsZXMlMjBGbG9yaWRhJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkxMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a boat in the water near a pier at sunset",
@@ -56909,27 +56552,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/ocean-city-md": {
-    "url": "https://images.unsplash.com/photo-1768060689238-f580dbcae732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxPY2VhbiUyMENpdHklMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzcyMTM2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "Cityscape overlooking the ocean at dusk",
-    "photographerName": "Edson Junior",
-    "photographerUrl": "https://unsplash.com/@roinuj16?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/cityscape-overlooking-the-ocean-at-dusk-KaXbzIQlfKk?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Ocean City nightlife skyline",
-    "fetchedAt": "2026-04-26T14:27:47.424Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1768060689238-f580dbcae732",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/KaXbzIQlfKk",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Edson Junior on Unsplash",
-      "photographerName": "Edson Junior",
-      "photographerUrl": "https://unsplash.com/@roinuj16",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/oklahoma-city-ok": {
     "url": "https://images.unsplash.com/photo-1529611221488-adc11fe4f912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxPa2xhaG9tYSUyMENpdHklMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4ODQ2OTE1NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "person holding black DSLR camera capturing photo of streets with bokeh lights",
@@ -57053,27 +56675,6 @@
       "text": "Photo by Cody Board on Unsplash",
       "photographerName": "Cody Board",
       "photographerUrl": "https://unsplash.com/@codypboard",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/park-city-ut": {
-    "url": "https://images.unsplash.com/photo-1665399321797-f714ac148457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxQYXJrJTIwQ2l0eSUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc3NzIxMzU1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a city skyline at night",
-    "photographerName": "Diane Picchiottino",
-    "photographerUrl": "https://unsplash.com/@diane_soko?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-at-night-TCjxx9NyONs?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Park City nightlife skyline",
-    "fetchedAt": "2026-04-26T14:25:53.990Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1665399321797-f714ac148457",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/TCjxx9NyONs",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Diane Picchiottino on Unsplash",
-      "photographerName": "Diane Picchiottino",
-      "photographerUrl": "https://unsplash.com/@diane_soko",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -57392,27 +56993,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/ruidoso-nm": {
-    "url": "https://images.unsplash.com/photo-1541423408854-5df732b6f6d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxSdWlkb3NvJTIwbmlnaHRsaWZlJTIwc2t5bGluZXxlbnwxfDB8fHwxNzgyNzY5NDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "panoramic photography of tall concrete buildings",
-    "photographerName": "Pang Yuhao",
-    "photographerUrl": "https://unsplash.com/@yuhao?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/panoramic-photography-of-tall-concrete-buildings-efJTdhsmzPI?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Ruidoso nightlife skyline",
-    "fetchedAt": "2026-06-29T21:44:43.959Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1541423408854-5df732b6f6d1",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/efJTdhsmzPI",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Pang Yuhao on Unsplash",
-      "photographerName": "Pang Yuhao",
-      "photographerUrl": "https://unsplash.com/@yuhao",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/sacramento-ca": {
     "url": "https://images.unsplash.com/photo-1656026081770-c4f56a8d6cbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxTYWNyYW1lbnRvJTIwQ2FsaWZvcm5pYSUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "a sign with a word on it",
@@ -57662,27 +57242,6 @@
       "text": "Photo by Darryl Brian on Unsplash",
       "photographerName": "Darryl Brian",
       "photographerUrl": "https://unsplash.com/@darrylbrian",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/sheridan-wy": {
-    "url": "https://images.unsplash.com/photo-1589692714678-02e748ccaea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxTaGVyaWRhbiUyMFd5b21pbmclMjBuaWdodGxpZmV8ZW58MXwwfHx8MTc4ODQ2OTIyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "brown grass field during daytime",
-    "photographerName": "Jason Dent",
-    "photographerUrl": "https://unsplash.com/@jdent?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/brown-grass-field-during-daytime--vDtPbfMTEo?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Sheridan Wyoming nightlife",
-    "fetchedAt": "2026-09-03T21:00:27.638Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1589692714678-02e748ccaea3",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/-vDtPbfMTEo",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Jason Dent on Unsplash",
-      "photographerName": "Jason Dent",
-      "photographerUrl": "https://unsplash.com/@jdent",
       "providerUrl": "https://unsplash.com"
     }
   },
@@ -57980,90 +57539,6 @@
       "providerUrl": "https://unsplash.com"
     }
   },
-  "tdf/bachelorParty/traverse-city-mi": {
-    "url": "https://images.unsplash.com/photo-1628539947076-7cde8894e529?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUcmF2ZXJzZSUyMENpdHklMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzcyMTM1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "city skyline during night time",
-    "photographerName": "Mateusz D",
-    "photographerUrl": "https://unsplash.com/@mat7451?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-h_MQFSapOUg?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Traverse City nightlife skyline",
-    "fetchedAt": "2026-04-26T14:26:10.968Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1628539947076-7cde8894e529",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/h_MQFSapOUg",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Mateusz D on Unsplash",
-      "photographerName": "Mateusz D",
-      "photographerUrl": "https://unsplash.com/@mat7451",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/tri-cities-wa": {
-    "url": "https://images.unsplash.com/photo-1543372654-b45dd90eeee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUcmktQ2l0aWVzJTIwV2FzaGluZ3RvbiUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "U.S. capitol Hill during nighttime",
-    "photographerName": "Pretty Pink",
-    "photographerUrl": "https://unsplash.com/@infinitexplorer?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/us-capitol-hill-during-nighttime-L_U4jhwZ6hY?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Tri-Cities Washington nightlife",
-    "fetchedAt": "2026-09-03T21:01:09.402Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1543372654-b45dd90eeee5",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/L_U4jhwZ6hY",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Pretty Pink on Unsplash",
-      "photographerName": "Pretty Pink",
-      "photographerUrl": "https://unsplash.com/@infinitexplorer",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/troon-ayrshire-scotland": {
-    "url": "https://images.unsplash.com/photo-1664353655151-9d94a9170eb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjEyODl8MHwxfHNlYXJjaHwxfHxUcm9vbiUyMG5pZ2h0bGlmZSUyMHNreWxpbmV8ZW58MXwwfHx8MTc4NTQ0NjU2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a city skyline at night",
-    "photographerName": "Diane Picchiottino",
-    "photographerUrl": "https://unsplash.com/@diane_soko?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-city-skyline-at-night-EZ_SHxykcgw?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Troon nightlife skyline",
-    "fetchedAt": "2026-07-30T21:22:47.906Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1664353655151-9d94a9170eb0",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/EZ_SHxykcgw",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Diane Picchiottino on Unsplash",
-      "photographerName": "Diane Picchiottino",
-      "photographerUrl": "https://unsplash.com/@diane_soko",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/truckee-ca": {
-    "url": "https://images.unsplash.com/photo-1676834318238-7375b0c0dcc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxUcnVja2VlJTIwQ2FsaWZvcm5pYSUyMG5pZ2h0bGlmZXxlbnwxfDB8fHwxNzg4NDY5MTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "cars are driving down a busy street at night",
-    "photographerName": "Samantha Fortney",
-    "photographerUrl": "https://unsplash.com/@goldencoastlife?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/cars-are-driving-down-a-busy-street-at-night-09fG0erub1U?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Truckee California nightlife",
-    "fetchedAt": "2026-09-03T20:59:33.481Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1676834318238-7375b0c0dcc1",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/09fG0erub1U",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Samantha Fortney on Unsplash",
-      "photographerName": "Samantha Fortney",
-      "photographerUrl": "https://unsplash.com/@goldencoastlife",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
   "tdf/bachelorParty/tucson-az": {
     "url": "https://images.unsplash.com/photo-1563422156334-1aacef5e2f43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODF8MHwxfHNlYXJjaHwxfHxUdWNzb24lMjBBcml6b25hJTIwbmlnaHRsaWZlfGVufDF8MHx8fDE3ODg0NjkwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "alt": "green-leafed plants during daytime",
@@ -58229,27 +57704,6 @@
       "text": "Photo by Megan Clark on Unsplash",
       "photographerName": "Megan Clark",
       "photographerUrl": "https://unsplash.com/@megmakesme",
-      "providerUrl": "https://unsplash.com"
-    }
-  },
-  "tdf/bachelorParty/williamsburg-va": {
-    "url": "https://images.unsplash.com/photo-1664353656930-799c9a7a6dcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjI5ODB8MHwxfHNlYXJjaHwxfHxXaWxsaWFtc2J1cmclMjBuaWdodGxpZmUlMjBza3lsaW5lfGVufDF8MHx8fDE3NzcyMTM2NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "alt": "a city at night",
-    "photographerName": "Diane Picchiottino",
-    "photographerUrl": "https://unsplash.com/@diane_soko?utm_source=shared_image_cache&utm_medium=referral",
-    "unsplashUrl": "https://unsplash.com/photos/a-city-at-night-1vtRHSgAStQ?utm_source=shared_image_cache&utm_medium=referral",
-    "query": "Williamsburg nightlife skyline",
-    "fetchedAt": "2026-04-26T14:27:27.259Z",
-    "addedBy": "tdf",
-    "provider": "unsplash",
-    "photoId": "unsplash:1664353656930-799c9a7a6dcf",
-    "licence": "unsplash-api",
-    "sourceUrl": "https://unsplash.com/photos/1vtRHSgAStQ",
-    "credit": {
-      "complete": true,
-      "text": "Photo by Diane Picchiottino on Unsplash",
-      "photographerName": "Diane Picchiottino",
-      "photographerUrl": "https://unsplash.com/@diane_soko",
       "providerUrl": "https://unsplash.com"
     }
   },

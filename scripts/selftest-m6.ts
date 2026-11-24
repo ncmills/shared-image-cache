@@ -9,7 +9,7 @@
  */
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { resolve, join } from "node:path";
-import type { Cache, CacheEntry, CacheEntryM6, ImageVerdict } from "../lib/types";
+import type { Cache, CacheEntry, CacheEntryM6, ImageVerdict, QueryItem } from "../lib/types";
 import { toM6Entry, checkM6Entry, checkM6, hasM6Fields } from "../lib/m6";
 import {
   verdictStatus,
@@ -20,6 +20,10 @@ import {
   SURFACES,
 } from "../lib/verdicts";
 import { pickCandidate } from "../lib/select";
+import { photoIdFromUrl } from "../lib/fanout";
+import { checkQueryItem } from "../lib/query-policy";
+import { buildQueue } from "../lib/queue";
+import type { Misses } from "../lib/misses";
 import { searchUnsplash } from "../lib/unsplash";
 import { searchPexels } from "../lib/pexels";
 import { mirrorProject } from "./mirror-overrides";
@@ -398,6 +402,77 @@ try {
   ok(none.chosen === null && none.skippedDenied === 1, "every candidate denied → MISS (never the denied photo)");
   const fetchSrc = readFileSync(resolve(__dirname, "fetch.ts"), "utf8");
   ok(/pickCandidate\(/.test(fetchSrc) && /loadVerdicts\(/.test(fetchSrc), "fetch.ts selects through pickCandidate with the loaded verdicts");
+} catch (e) {
+  failures++;
+  console.error(`  ✗ ${currentSuite}: threw ${e instanceof Error ? e.message : e}`);
+}
+
+// ══ 5c. HHQ bachelor-hero misfits (G223/G370, 2026-11-24) ═════════════════
+// The 26 tdf/bachelorParty heroes G370 viewed live and judged MISFIT (19
+// wrong place/subject + 7 too dark at the hero crop). PINNED here, not read
+// from verdicts.json: the claim is "these photos are condemned on these keys",
+// so deleting a verdict must turn this red.
+suite("hhq bachelor misfits (G370)");
+try {
+  const CONDEMNED: Array<[string, string]> = [
+    ["aptos-ca", "1492205113810-34e1a283f4ea"],
+    ["costa-del-sol-spain", "1514939775307-d44e7f10cabd"],
+    ["destin-30a-fl", "1696943444991-def9485f89f8"],
+    ["ocean-city-md", "1768060689238-f580dbcae732"],
+    ["ruidoso-nm", "1541423408854-5df732b6f6d1"],
+    ["troon-ayrshire-scotland", "1664353655151-9d94a9170eb0"],
+    ["park-city-ut", "1665399321797-f714ac148457"],
+    ["williamsburg-va", "1664353656930-799c9a7a6dcf"],
+    ["traverse-city-mi", "1628539947076-7cde8894e529"],
+    ["tri-cities-wa", "1543372654-b45dd90eeee5"],
+    ["truckee-ca", "1676834318238-7375b0c0dcc1"],
+    ["bend-or", "1436505743955-a98c0d3eb1a8"],
+    ["eugene-or", "1436505743955-a98c0d3eb1a8"],
+    ["lake-geneva-wi", "1701152990868-145b35f45dae"],
+    ["akron-oh", "1590778846913-de794a6bb4ef"],
+    ["bakersfield-ca", "1650589135405-e946df7a40b6"],
+    ["augusta-ga", "1583784175827-19a1b7c31b31"],
+    ["napa-ca", "1786206570618-0e9dbf4aac1e"],
+    ["madison-wi", "1506699311528-5be252edc26a"],
+    ["baton-rouge-la", "1599580546799-0a769ea465cd"],
+    ["bloomington-in", "1527125218795-3fc804b70f26"],
+    ["cannon-beach-or", "1680016790224-e33e79acc093"],
+    ["half-moon-bay-ca", "1766083639098-4897ba9cdb21"],
+    ["sheridan-wy", "1589692714678-02e748ccaea3"],
+    ["bay-harbor-mi", "1774967594711-cc9ddff86d2e"],
+    ["bismarck-nd", "1597328928630-8640bccd0351"],
+  ];
+  const committed = loadVerdicts();
+  const missingVerdicts = CONDEMNED.filter(([slug, id]) => !isDenied(committed, `tdf/bachelorParty/${slug}`, `unsplash:${id}`));
+  eq(missingVerdicts, [], `all ${CONDEMNED.length} condemned key+photo pairs carry a mismatch verdict`);
+  const offSurface = committed.filter((v) => v.key.startsWith("tdf/bachelorParty/") && v.crop.surface !== "hhq/bachelor-hero");
+  eq(offSurface.length, 0, "every tdf/bachelorParty verdict names the hhq/bachelor-hero surface");
+
+  const cache = JSON.parse(readFileSync(resolve(__dirname, "..", "cache.json"), "utf8")) as Cache;
+  const stillOn = CONDEMNED.filter(([slug, id]) => photoIdFromUrl(cache[`tdf/bachelorParty/${slug}`]?.url ?? "") === `unsplash:${id}`);
+  eq(stillOn, [], "no condemned photoId remains on its key in cache.json");
+  ok(CONDEMNED.every(([slug]) => !cache[`tdf/bachelorParty/${slug}`]), "every condemned key is evicted (absent → queued by the next fetch run)");
+
+  // select.ts, on the REAL committed verdicts: the condemned photo is skipped.
+  const [s0, id0] = CONDEMNED[0];
+  const wrong = { url: `https://images.unsplash.com/photo-${id0}?fit=max&w=1080` };
+  const right = { url: "https://images.unsplash.com/photo-0000000000000-aaaaaaaaaaaa?fit=max&w=1080" };
+  const pick = pickCandidate({}, `tdf/bachelorParty/${s0}`, [wrong, right], committed);
+  ok(pick.chosen === right && pick.skippedDenied === 1, "pickCandidate skips the condemned photo for its key and takes the next");
+  eq(pickCandidate({}, `tdf/bachelorParty/${s0}`, [wrong], committed).chosen, null, "…and with only the condemned photo it is a MISS, never the photo");
+
+  // The new template, as CI will read it (queries.snapshot.json).
+  const snap = JSON.parse(readFileSync(resolve(__dirname, "..", "queries.snapshot.json"), "utf8"));
+  const bp = (snap.projects.tdf as QueryItem[]).filter((q) => q.key.startsWith("tdf/bachelorParty/"));
+  ok(bp.length >= 178, `snapshot carries the tdf bachelor slice (${bp.length} keys)`);
+  eq(bp.flatMap((q) => checkQueryItem(q).map((v) => `${q.key}: ${v.rule}`)), [], "every tdf bachelor query passes query-policy");
+  eq(bp.filter((q) => !/ main street$/.test(q.query) || !/ bar sign$/.test(q.fallbackQuery ?? "")).map((q) => q.key), [], "every tdf bachelor query is place-first: \"<place> main street\" / \"<place> bar sign\"");
+  ok(checkQueryItem({ key: "tdf/bachelorParty/x", query: "Bend Oregon downtown night", addedBy: "tdf" }).some((v) => v.rule === "lighting-word"), "CONTROL: G223's \"downtown night\" candidate is blocked by the lighting-word rule");
+
+  // Re-fetch scope: of the bachelor keys, the queue holds EXACTLY the condemned ones.
+  const misses = JSON.parse(readFileSync(resolve(__dirname, "..", "misses.json"), "utf8")) as Misses;
+  const queued = buildQueue(bp, cache, misses).queue.map((q) => q.key).sort();
+  eq(queued, CONDEMNED.map(([slug]) => `tdf/bachelorParty/${slug}`).sort(), "the next fetch run queues exactly the 26 condemned bachelor keys (a query change alone does not re-fetch a cached key)");
 } catch (e) {
   failures++;
   console.error(`  ✗ ${currentSuite}: threw ${e instanceof Error ? e.message : e}`);

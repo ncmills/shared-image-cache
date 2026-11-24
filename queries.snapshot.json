@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T12:32:06.196Z",
+  "generatedAt": "2026-11-24T16:33:11.473Z",
   "projects": {
     "tdf": [
       {
@@ -1408,1247 +1408,1247 @@
       },
       {
         "key": "tdf/bachelorParty/scottsdale-az",
-        "query": "Scottsdale Arizona nightlife",
-        "fallbackQuery": "Scottsdale Arizona downtown",
+        "query": "Scottsdale Arizona main street",
+        "fallbackQuery": "Scottsdale Arizona bar sign",
         "addedBy": "tdf",
         "label": "Scottsdale bachelor"
       },
       {
         "key": "tdf/bachelorParty/sedona-az",
-        "query": "Sedona Arizona nightlife",
-        "fallbackQuery": "Sedona Arizona downtown",
+        "query": "Sedona Arizona main street",
+        "fallbackQuery": "Sedona Arizona bar sign",
         "addedBy": "tdf",
         "label": "Sedona bachelor"
       },
       {
         "key": "tdf/bachelorParty/tucson-az",
-        "query": "Tucson Arizona nightlife",
-        "fallbackQuery": "Tucson Arizona downtown",
+        "query": "Tucson Arizona main street",
+        "fallbackQuery": "Tucson Arizona bar sign",
         "addedBy": "tdf",
         "label": "Tucson bachelor"
       },
       {
         "key": "tdf/bachelorParty/st-george-ut",
-        "query": "St. George Utah nightlife",
-        "fallbackQuery": "St. George Utah downtown",
+        "query": "St. George Utah main street",
+        "fallbackQuery": "St. George Utah bar sign",
         "addedBy": "tdf",
         "label": "St. George bachelor"
       },
       {
         "key": "tdf/bachelorParty/mesquite-nv",
-        "query": "Mesquite Nevada nightlife",
-        "fallbackQuery": "Mesquite Nevada downtown",
+        "query": "Mesquite Nevada main street",
+        "fallbackQuery": "Mesquite Nevada bar sign",
         "addedBy": "tdf",
         "label": "Mesquite bachelor"
       },
       {
         "key": "tdf/bachelorParty/santa-fe-nm",
-        "query": "Santa Fe New Mexico nightlife",
-        "fallbackQuery": "Santa Fe New Mexico downtown",
+        "query": "Santa Fe New Mexico main street",
+        "fallbackQuery": "Santa Fe New Mexico bar sign",
         "addedBy": "tdf",
         "label": "Santa Fe bachelor"
       },
       {
         "key": "tdf/bachelorParty/flagstaff-az",
-        "query": "Flagstaff Arizona nightlife",
-        "fallbackQuery": "Flagstaff Arizona downtown",
+        "query": "Flagstaff Arizona main street",
+        "fallbackQuery": "Flagstaff Arizona bar sign",
         "addedBy": "tdf",
         "label": "Flagstaff bachelor"
       },
       {
         "key": "tdf/bachelorParty/las-vegas-nv",
-        "query": "Las Vegas Nevada nightlife",
-        "fallbackQuery": "Las Vegas Nevada downtown",
+        "query": "Las Vegas Nevada main street",
+        "fallbackQuery": "Las Vegas Nevada bar sign",
         "addedBy": "tdf",
         "label": "Las Vegas bachelor"
       },
       {
         "key": "tdf/bachelorParty/reno-nv",
-        "query": "Reno Nevada nightlife",
-        "fallbackQuery": "Reno Nevada downtown",
+        "query": "Reno Nevada main street",
+        "fallbackQuery": "Reno Nevada bar sign",
         "addedBy": "tdf",
         "label": "Reno bachelor"
       },
       {
         "key": "tdf/bachelorParty/phoenix-mesa-az",
-        "query": "Phoenix / Mesa nightlife",
-        "fallbackQuery": "Phoenix / Mesa downtown",
+        "query": "Phoenix / Mesa main street",
+        "fallbackQuery": "Phoenix / Mesa bar sign",
         "addedBy": "tdf",
         "label": "Phoenix / Mesa bachelor"
       },
       {
         "key": "tdf/bachelorParty/albuquerque-nm",
-        "query": "Albuquerque New Mexico nightlife",
-        "fallbackQuery": "Albuquerque New Mexico downtown",
+        "query": "Albuquerque New Mexico main street",
+        "fallbackQuery": "Albuquerque New Mexico bar sign",
         "addedBy": "tdf",
         "label": "Albuquerque bachelor"
       },
       {
         "key": "tdf/bachelorParty/lake-havasu-city-az",
-        "query": "Lake Havasu City nightlife",
-        "fallbackQuery": "Lake Havasu City downtown",
+        "query": "Lake Havasu City main street",
+        "fallbackQuery": "Lake Havasu City bar sign",
         "addedBy": "tdf",
         "label": "Lake Havasu City bachelor"
       },
       {
         "key": "tdf/bachelorParty/laughlin-nv",
-        "query": "Laughlin Nevada nightlife",
-        "fallbackQuery": "Laughlin Nevada downtown",
+        "query": "Laughlin Nevada main street",
+        "fallbackQuery": "Laughlin Nevada bar sign",
         "addedBy": "tdf",
         "label": "Laughlin bachelor"
       },
       {
         "key": "tdf/bachelorParty/payson-az",
-        "query": "Payson Arizona nightlife",
-        "fallbackQuery": "Payson Arizona downtown",
+        "query": "Payson Arizona main street",
+        "fallbackQuery": "Payson Arizona bar sign",
         "addedBy": "tdf",
         "label": "Payson bachelor"
       },
       {
         "key": "tdf/bachelorParty/bend-or",
-        "query": "Bend Oregon nightlife",
-        "fallbackQuery": "Bend Oregon downtown",
+        "query": "Bend Oregon main street",
+        "fallbackQuery": "Bend Oregon bar sign",
         "addedBy": "tdf",
         "label": "Bend bachelor"
       },
       {
         "key": "tdf/bachelorParty/coeur-dalene-id",
-        "query": "Coeur d'Alene Idaho nightlife",
-        "fallbackQuery": "Coeur d'Alene Idaho downtown",
+        "query": "Coeur d'Alene Idaho main street",
+        "fallbackQuery": "Coeur d'Alene Idaho bar sign",
         "addedBy": "tdf",
         "label": "Coeur d'Alene bachelor"
       },
       {
         "key": "tdf/bachelorParty/boise-id",
-        "query": "Boise Idaho nightlife",
-        "fallbackQuery": "Boise Idaho downtown",
+        "query": "Boise Idaho main street",
+        "fallbackQuery": "Boise Idaho bar sign",
         "addedBy": "tdf",
         "label": "Boise bachelor"
       },
       {
         "key": "tdf/bachelorParty/hood-river-or",
-        "query": "Hood River Oregon nightlife",
-        "fallbackQuery": "Hood River Oregon downtown",
+        "query": "Hood River Oregon main street",
+        "fallbackQuery": "Hood River Oregon bar sign",
         "addedBy": "tdf",
         "label": "Hood River bachelor"
       },
       {
         "key": "tdf/bachelorParty/portland-or",
-        "query": "Portland Oregon nightlife",
-        "fallbackQuery": "Portland Oregon downtown",
+        "query": "Portland Oregon main street",
+        "fallbackQuery": "Portland Oregon bar sign",
         "addedBy": "tdf",
         "label": "Portland bachelor"
       },
       {
         "key": "tdf/bachelorParty/seattle-wa",
-        "query": "Seattle Washington nightlife",
-        "fallbackQuery": "Seattle Washington downtown",
+        "query": "Seattle Washington main street",
+        "fallbackQuery": "Seattle Washington bar sign",
         "addedBy": "tdf",
         "label": "Seattle bachelor"
       },
       {
         "key": "tdf/bachelorParty/spokane-wa",
-        "query": "Spokane Washington nightlife",
-        "fallbackQuery": "Spokane Washington downtown",
+        "query": "Spokane Washington main street",
+        "fallbackQuery": "Spokane Washington bar sign",
         "addedBy": "tdf",
         "label": "Spokane bachelor"
       },
       {
         "key": "tdf/bachelorParty/walla-walla-wa",
-        "query": "Walla Walla Washington nightlife",
-        "fallbackQuery": "Walla Walla Washington downtown",
+        "query": "Walla Walla Washington main street",
+        "fallbackQuery": "Walla Walla Washington bar sign",
         "addedBy": "tdf",
         "label": "Walla Walla bachelor"
       },
       {
         "key": "tdf/bachelorParty/eugene-or",
-        "query": "Eugene Oregon nightlife",
-        "fallbackQuery": "Eugene Oregon downtown",
+        "query": "Eugene Oregon main street",
+        "fallbackQuery": "Eugene Oregon bar sign",
         "addedBy": "tdf",
         "label": "Eugene bachelor"
       },
       {
         "key": "tdf/bachelorParty/cannon-beach-or",
-        "query": "Cannon Beach / Seaside nightlife",
-        "fallbackQuery": "Cannon Beach / Seaside downtown",
+        "query": "Cannon Beach / Seaside main street",
+        "fallbackQuery": "Cannon Beach / Seaside bar sign",
         "addedBy": "tdf",
         "label": "Cannon Beach / Seaside bachelor"
       },
       {
         "key": "tdf/bachelorParty/gig-harbor-wa",
-        "query": "Gig Harbor Washington nightlife",
-        "fallbackQuery": "Gig Harbor Washington downtown",
+        "query": "Gig Harbor Washington main street",
+        "fallbackQuery": "Gig Harbor Washington bar sign",
         "addedBy": "tdf",
         "label": "Gig Harbor bachelor"
       },
       {
         "key": "tdf/bachelorParty/whitefish-mt",
-        "query": "Whitefish Montana nightlife",
-        "fallbackQuery": "Whitefish Montana downtown",
+        "query": "Whitefish Montana main street",
+        "fallbackQuery": "Whitefish Montana bar sign",
         "addedBy": "tdf",
         "label": "Whitefish bachelor"
       },
       {
         "key": "tdf/bachelorParty/steamboat-springs-co",
-        "query": "Steamboat Springs Colorado nightlife",
-        "fallbackQuery": "Steamboat Springs Colorado downtown",
+        "query": "Steamboat Springs Colorado main street",
+        "fallbackQuery": "Steamboat Springs Colorado bar sign",
         "addedBy": "tdf",
         "label": "Steamboat Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/durango-co",
-        "query": "Durango Colorado nightlife",
-        "fallbackQuery": "Durango Colorado downtown",
+        "query": "Durango Colorado main street",
+        "fallbackQuery": "Durango Colorado bar sign",
         "addedBy": "tdf",
         "label": "Durango bachelor"
       },
       {
         "key": "tdf/bachelorParty/park-city-ut",
-        "query": "Park City Utah nightlife",
-        "fallbackQuery": "Park City Utah downtown",
+        "query": "Park City Utah main street",
+        "fallbackQuery": "Park City Utah bar sign",
         "addedBy": "tdf",
         "label": "Park City bachelor"
       },
       {
         "key": "tdf/bachelorParty/jackson-hole-wy",
-        "query": "Jackson Wyoming nightlife",
-        "fallbackQuery": "Jackson Wyoming downtown",
+        "query": "Jackson Wyoming main street",
+        "fallbackQuery": "Jackson Wyoming bar sign",
         "addedBy": "tdf",
         "label": "Jackson bachelor"
       },
       {
         "key": "tdf/bachelorParty/bozeman-mt",
-        "query": "Bozeman Montana nightlife",
-        "fallbackQuery": "Bozeman Montana downtown",
+        "query": "Bozeman Montana main street",
+        "fallbackQuery": "Bozeman Montana bar sign",
         "addedBy": "tdf",
         "label": "Bozeman bachelor"
       },
       {
         "key": "tdf/bachelorParty/missoula-mt",
-        "query": "Missoula Montana nightlife",
-        "fallbackQuery": "Missoula Montana downtown",
+        "query": "Missoula Montana main street",
+        "fallbackQuery": "Missoula Montana bar sign",
         "addedBy": "tdf",
         "label": "Missoula bachelor"
       },
       {
         "key": "tdf/bachelorParty/colorado-springs-co",
-        "query": "Colorado Springs nightlife",
-        "fallbackQuery": "Colorado Springs downtown",
+        "query": "Colorado Springs main street",
+        "fallbackQuery": "Colorado Springs bar sign",
         "addedBy": "tdf",
         "label": "Colorado Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/fort-collins-co",
-        "query": "Fort Collins Colorado nightlife",
-        "fallbackQuery": "Fort Collins Colorado downtown",
+        "query": "Fort Collins Colorado main street",
+        "fallbackQuery": "Fort Collins Colorado bar sign",
         "addedBy": "tdf",
         "label": "Fort Collins bachelor"
       },
       {
         "key": "tdf/bachelorParty/glenwood-springs-co",
-        "query": "Glenwood Springs Colorado nightlife",
-        "fallbackQuery": "Glenwood Springs Colorado downtown",
+        "query": "Glenwood Springs Colorado main street",
+        "fallbackQuery": "Glenwood Springs Colorado bar sign",
         "addedBy": "tdf",
         "label": "Glenwood Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/cody-wy",
-        "query": "Cody Wyoming nightlife",
-        "fallbackQuery": "Cody Wyoming downtown",
+        "query": "Cody Wyoming main street",
+        "fallbackQuery": "Cody Wyoming bar sign",
         "addedBy": "tdf",
         "label": "Cody bachelor"
       },
       {
         "key": "tdf/bachelorParty/rapid-city-sd",
-        "query": "Rapid City South Dakota nightlife",
-        "fallbackQuery": "Rapid City South Dakota downtown",
+        "query": "Rapid City South Dakota main street",
+        "fallbackQuery": "Rapid City South Dakota bar sign",
         "addedBy": "tdf",
         "label": "Rapid City bachelor"
       },
       {
         "key": "tdf/bachelorParty/traverse-city-mi",
-        "query": "Traverse City Michigan nightlife",
-        "fallbackQuery": "Traverse City Michigan downtown",
+        "query": "Traverse City Michigan main street",
+        "fallbackQuery": "Traverse City Michigan bar sign",
         "addedBy": "tdf",
         "label": "Traverse City bachelor"
       },
       {
         "key": "tdf/bachelorParty/lake-geneva-wi",
-        "query": "Lake Geneva Wisconsin nightlife",
-        "fallbackQuery": "Lake Geneva Wisconsin downtown",
+        "query": "Lake Geneva Wisconsin main street",
+        "fallbackQuery": "Lake Geneva Wisconsin bar sign",
         "addedBy": "tdf",
         "label": "Lake Geneva bachelor"
       },
       {
         "key": "tdf/bachelorParty/duluth-mn",
-        "query": "Duluth Minnesota nightlife",
-        "fallbackQuery": "Duluth Minnesota downtown",
+        "query": "Duluth Minnesota main street",
+        "fallbackQuery": "Duluth Minnesota bar sign",
         "addedBy": "tdf",
         "label": "Duluth bachelor"
       },
       {
         "key": "tdf/bachelorParty/harbor-springs-petoskey-mi",
-        "query": "Harbor Springs / Petoskey nightlife",
-        "fallbackQuery": "Harbor Springs / Petoskey downtown",
+        "query": "Harbor Springs / Petoskey main street",
+        "fallbackQuery": "Harbor Springs / Petoskey bar sign",
         "addedBy": "tdf",
         "label": "Harbor Springs / Petoskey bachelor"
       },
       {
         "key": "tdf/bachelorParty/grand-rapids-mi",
-        "query": "Grand Rapids Michigan nightlife",
-        "fallbackQuery": "Grand Rapids Michigan downtown",
+        "query": "Grand Rapids Michigan main street",
+        "fallbackQuery": "Grand Rapids Michigan bar sign",
         "addedBy": "tdf",
         "label": "Grand Rapids bachelor"
       },
       {
         "key": "tdf/bachelorParty/door-county-wi",
-        "query": "Door County Wisconsin nightlife",
-        "fallbackQuery": "Door County Wisconsin downtown",
+        "query": "Door County Wisconsin main street",
+        "fallbackQuery": "Door County Wisconsin bar sign",
         "addedBy": "tdf",
         "label": "Door County bachelor"
       },
       {
         "key": "tdf/bachelorParty/madison-wi",
-        "query": "Madison Wisconsin nightlife",
-        "fallbackQuery": "Madison Wisconsin downtown",
+        "query": "Madison Wisconsin main street",
+        "fallbackQuery": "Madison Wisconsin bar sign",
         "addedBy": "tdf",
         "label": "Madison bachelor"
       },
       {
         "key": "tdf/bachelorParty/brainerd-mn",
-        "query": "Brainerd Minnesota nightlife",
-        "fallbackQuery": "Brainerd Minnesota downtown",
+        "query": "Brainerd Minnesota main street",
+        "fallbackQuery": "Brainerd Minnesota bar sign",
         "addedBy": "tdf",
         "label": "Brainerd bachelor"
       },
       {
         "key": "tdf/bachelorParty/cincinnati-oh",
-        "query": "Cincinnati Ohio nightlife",
-        "fallbackQuery": "Cincinnati Ohio downtown",
+        "query": "Cincinnati Ohio main street",
+        "fallbackQuery": "Cincinnati Ohio bar sign",
         "addedBy": "tdf",
         "label": "Cincinnati bachelor"
       },
       {
         "key": "tdf/bachelorParty/columbus-oh",
-        "query": "Columbus Ohio nightlife",
-        "fallbackQuery": "Columbus Ohio downtown",
+        "query": "Columbus Ohio main street",
+        "fallbackQuery": "Columbus Ohio bar sign",
         "addedBy": "tdf",
         "label": "Columbus bachelor"
       },
       {
         "key": "tdf/bachelorParty/indianapolis-in",
-        "query": "Indianapolis nightlife",
-        "fallbackQuery": "Indianapolis downtown",
+        "query": "Indianapolis main street",
+        "fallbackQuery": "Indianapolis bar sign",
         "addedBy": "tdf",
         "label": "Indianapolis bachelor"
       },
       {
         "key": "tdf/bachelorParty/des-moines-ia",
-        "query": "Des Moines Iowa nightlife",
-        "fallbackQuery": "Des Moines Iowa downtown",
+        "query": "Des Moines Iowa main street",
+        "fallbackQuery": "Des Moines Iowa bar sign",
         "addedBy": "tdf",
         "label": "Des Moines bachelor"
       },
       {
         "key": "tdf/bachelorParty/marquette-mi",
-        "query": "Marquette Michigan nightlife",
-        "fallbackQuery": "Marquette Michigan downtown",
+        "query": "Marquette Michigan main street",
+        "fallbackQuery": "Marquette Michigan bar sign",
         "addedBy": "tdf",
         "label": "Marquette bachelor"
       },
       {
         "key": "tdf/bachelorParty/st-louis-mo",
-        "query": "St. Louis Missouri nightlife",
-        "fallbackQuery": "St. Louis Missouri downtown",
+        "query": "St. Louis Missouri main street",
+        "fallbackQuery": "St. Louis Missouri bar sign",
         "addedBy": "tdf",
         "label": "St. Louis bachelor"
       },
       {
         "key": "tdf/bachelorParty/kansas-city-mo",
-        "query": "Kansas City Missouri nightlife",
-        "fallbackQuery": "Kansas City Missouri downtown",
+        "query": "Kansas City Missouri main street",
+        "fallbackQuery": "Kansas City Missouri bar sign",
         "addedBy": "tdf",
         "label": "Kansas City bachelor"
       },
       {
         "key": "tdf/bachelorParty/milwaukee-wi",
-        "query": "Milwaukee Wisconsin nightlife",
-        "fallbackQuery": "Milwaukee Wisconsin downtown",
+        "query": "Milwaukee Wisconsin main street",
+        "fallbackQuery": "Milwaukee Wisconsin bar sign",
         "addedBy": "tdf",
         "label": "Milwaukee bachelor"
       },
       {
         "key": "tdf/bachelorParty/omaha-ne",
-        "query": "Omaha Nebraska nightlife",
-        "fallbackQuery": "Omaha Nebraska downtown",
+        "query": "Omaha Nebraska main street",
+        "fallbackQuery": "Omaha Nebraska bar sign",
         "addedBy": "tdf",
         "label": "Omaha bachelor"
       },
       {
         "key": "tdf/bachelorParty/pinehurst-nc",
-        "query": "Pinehurst North Carolina nightlife",
-        "fallbackQuery": "Pinehurst North Carolina downtown",
+        "query": "Pinehurst North Carolina main street",
+        "fallbackQuery": "Pinehurst North Carolina bar sign",
         "addedBy": "tdf",
         "label": "Pinehurst bachelor"
       },
       {
         "key": "tdf/bachelorParty/hilton-head-sc",
-        "query": "Hilton Head South Carolina nightlife",
-        "fallbackQuery": "Hilton Head South Carolina downtown",
+        "query": "Hilton Head South Carolina main street",
+        "fallbackQuery": "Hilton Head South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Hilton Head bachelor"
       },
       {
         "key": "tdf/bachelorParty/gulf-shores-al",
-        "query": "Gulf Shores Alabama nightlife",
-        "fallbackQuery": "Gulf Shores Alabama downtown",
+        "query": "Gulf Shores Alabama main street",
+        "fallbackQuery": "Gulf Shores Alabama bar sign",
         "addedBy": "tdf",
         "label": "Gulf Shores bachelor"
       },
       {
         "key": "tdf/bachelorParty/savannah-ga",
-        "query": "Savannah Georgia nightlife",
-        "fallbackQuery": "Savannah Georgia downtown",
+        "query": "Savannah Georgia main street",
+        "fallbackQuery": "Savannah Georgia bar sign",
         "addedBy": "tdf",
         "label": "Savannah bachelor"
       },
       {
         "key": "tdf/bachelorParty/lexington-ky",
-        "query": "Lexington Kentucky nightlife",
-        "fallbackQuery": "Lexington Kentucky downtown",
+        "query": "Lexington Kentucky main street",
+        "fallbackQuery": "Lexington Kentucky bar sign",
         "addedBy": "tdf",
         "label": "Lexington bachelor"
       },
       {
         "key": "tdf/bachelorParty/asheville-nc",
-        "query": "Asheville North Carolina nightlife",
-        "fallbackQuery": "Asheville North Carolina downtown",
+        "query": "Asheville North Carolina main street",
+        "fallbackQuery": "Asheville North Carolina bar sign",
         "addedBy": "tdf",
         "label": "Asheville bachelor"
       },
       {
         "key": "tdf/bachelorParty/destin-30a-fl",
-        "query": "Destin Florida nightlife",
-        "fallbackQuery": "Destin Florida downtown",
+        "query": "Destin Florida main street",
+        "fallbackQuery": "Destin Florida bar sign",
         "addedBy": "tdf",
         "label": "Destin bachelor"
       },
       {
         "key": "tdf/bachelorParty/charleston-sc",
-        "query": "Charleston South Carolina nightlife",
-        "fallbackQuery": "Charleston South Carolina downtown",
+        "query": "Charleston South Carolina main street",
+        "fallbackQuery": "Charleston South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Charleston bachelor"
       },
       {
         "key": "tdf/bachelorParty/myrtle-beach-sc",
-        "query": "Myrtle Beach South Carolina nightlife",
-        "fallbackQuery": "Myrtle Beach South Carolina downtown",
+        "query": "Myrtle Beach South Carolina main street",
+        "fallbackQuery": "Myrtle Beach South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Myrtle Beach bachelor"
       },
       {
         "key": "tdf/bachelorParty/nashville-tn",
-        "query": "Nashville Tennessee nightlife",
-        "fallbackQuery": "Nashville Tennessee downtown",
+        "query": "Nashville Tennessee main street",
+        "fallbackQuery": "Nashville Tennessee bar sign",
         "addedBy": "tdf",
         "label": "Nashville bachelor"
       },
       {
         "key": "tdf/bachelorParty/chattanooga-tn",
-        "query": "Chattanooga Tennessee nightlife",
-        "fallbackQuery": "Chattanooga Tennessee downtown",
+        "query": "Chattanooga Tennessee main street",
+        "fallbackQuery": "Chattanooga Tennessee bar sign",
         "addedBy": "tdf",
         "label": "Chattanooga bachelor"
       },
       {
         "key": "tdf/bachelorParty/st-augustine-fl",
-        "query": "St. Augustine Florida nightlife",
-        "fallbackQuery": "St. Augustine Florida downtown",
+        "query": "St. Augustine Florida main street",
+        "fallbackQuery": "St. Augustine Florida bar sign",
         "addedBy": "tdf",
         "label": "St. Augustine bachelor"
       },
       {
         "key": "tdf/bachelorParty/naples-fl",
-        "query": "Naples Florida nightlife",
-        "fallbackQuery": "Naples Florida downtown",
+        "query": "Naples Florida main street",
+        "fallbackQuery": "Naples Florida bar sign",
         "addedBy": "tdf",
         "label": "Naples bachelor"
       },
       {
         "key": "tdf/bachelorParty/sarasota-fl",
-        "query": "Sarasota Florida nightlife",
-        "fallbackQuery": "Sarasota Florida downtown",
+        "query": "Sarasota Florida main street",
+        "fallbackQuery": "Sarasota Florida bar sign",
         "addedBy": "tdf",
         "label": "Sarasota bachelor"
       },
       {
         "key": "tdf/bachelorParty/orlando-fl",
-        "query": "Orlando Florida nightlife",
-        "fallbackQuery": "Orlando Florida downtown",
+        "query": "Orlando Florida main street",
+        "fallbackQuery": "Orlando Florida bar sign",
         "addedBy": "tdf",
         "label": "Orlando bachelor"
       },
       {
         "key": "tdf/bachelorParty/biloxi-ms",
-        "query": "Biloxi Mississippi nightlife",
-        "fallbackQuery": "Biloxi Mississippi downtown",
+        "query": "Biloxi Mississippi main street",
+        "fallbackQuery": "Biloxi Mississippi bar sign",
         "addedBy": "tdf",
         "label": "Biloxi bachelor"
       },
       {
         "key": "tdf/bachelorParty/virginia-beach-va",
-        "query": "Virginia Beach nightlife",
-        "fallbackQuery": "Virginia Beach downtown",
+        "query": "Virginia Beach main street",
+        "fallbackQuery": "Virginia Beach bar sign",
         "addedBy": "tdf",
         "label": "Virginia Beach bachelor"
       },
       {
         "key": "tdf/bachelorParty/outer-banks-nc",
-        "query": "Outer Banks North Carolina nightlife",
-        "fallbackQuery": "Outer Banks North Carolina downtown",
+        "query": "Outer Banks North Carolina main street",
+        "fallbackQuery": "Outer Banks North Carolina bar sign",
         "addedBy": "tdf",
         "label": "Outer Banks bachelor"
       },
       {
         "key": "tdf/bachelorParty/cape-cod-ma",
-        "query": "Cape Cod Massachusetts nightlife",
-        "fallbackQuery": "Cape Cod Massachusetts downtown",
+        "query": "Cape Cod Massachusetts main street",
+        "fallbackQuery": "Cape Cod Massachusetts bar sign",
         "addedBy": "tdf",
         "label": "Cape Cod bachelor"
       },
       {
         "key": "tdf/bachelorParty/williamsburg-va",
-        "query": "Williamsburg Virginia nightlife",
-        "fallbackQuery": "Williamsburg Virginia downtown",
+        "query": "Williamsburg Virginia main street",
+        "fallbackQuery": "Williamsburg Virginia bar sign",
         "addedBy": "tdf",
         "label": "Williamsburg bachelor"
       },
       {
         "key": "tdf/bachelorParty/saratoga-springs-ny",
-        "query": "Saratoga Springs New York nightlife",
-        "fallbackQuery": "Saratoga Springs New York downtown",
+        "query": "Saratoga Springs New York main street",
+        "fallbackQuery": "Saratoga Springs New York bar sign",
         "addedBy": "tdf",
         "label": "Saratoga Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/finger-lakes-ny",
-        "query": "Finger Lakes New York nightlife",
-        "fallbackQuery": "Finger Lakes New York downtown",
+        "query": "Finger Lakes New York main street",
+        "fallbackQuery": "Finger Lakes New York bar sign",
         "addedBy": "tdf",
         "label": "Finger Lakes bachelor"
       },
       {
         "key": "tdf/bachelorParty/poconos-pa",
-        "query": "Poconos Pennsylvania nightlife",
-        "fallbackQuery": "Poconos Pennsylvania downtown",
+        "query": "Poconos Pennsylvania main street",
+        "fallbackQuery": "Poconos Pennsylvania bar sign",
         "addedBy": "tdf",
         "label": "Poconos bachelor"
       },
       {
         "key": "tdf/bachelorParty/berkshires-ma",
-        "query": "Berkshires Massachusetts nightlife",
-        "fallbackQuery": "Berkshires Massachusetts downtown",
+        "query": "Berkshires Massachusetts main street",
+        "fallbackQuery": "Berkshires Massachusetts bar sign",
         "addedBy": "tdf",
         "label": "Berkshires bachelor"
       },
       {
         "key": "tdf/bachelorParty/portland-me",
-        "query": "Portland Maine nightlife",
-        "fallbackQuery": "Portland Maine downtown",
+        "query": "Portland Maine main street",
+        "fallbackQuery": "Portland Maine bar sign",
         "addedBy": "tdf",
         "label": "Portland bachelor"
       },
       {
         "key": "tdf/bachelorParty/newport-ri",
-        "query": "Newport Rhode Island nightlife",
-        "fallbackQuery": "Newport Rhode Island downtown",
+        "query": "Newport Rhode Island main street",
+        "fallbackQuery": "Newport Rhode Island bar sign",
         "addedBy": "tdf",
         "label": "Newport bachelor"
       },
       {
         "key": "tdf/bachelorParty/atlantic-city-nj",
-        "query": "Atlantic City New Jersey nightlife",
-        "fallbackQuery": "Atlantic City New Jersey downtown",
+        "query": "Atlantic City New Jersey main street",
+        "fallbackQuery": "Atlantic City New Jersey bar sign",
         "addedBy": "tdf",
         "label": "Atlantic City bachelor"
       },
       {
         "key": "tdf/bachelorParty/hershey-pa",
-        "query": "Hershey Pennsylvania nightlife",
-        "fallbackQuery": "Hershey Pennsylvania downtown",
+        "query": "Hershey Pennsylvania main street",
+        "fallbackQuery": "Hershey Pennsylvania bar sign",
         "addedBy": "tdf",
         "label": "Hershey bachelor"
       },
       {
         "key": "tdf/bachelorParty/ocean-city-md",
-        "query": "Ocean City Maryland nightlife",
-        "fallbackQuery": "Ocean City Maryland downtown",
+        "query": "Ocean City Maryland main street",
+        "fallbackQuery": "Ocean City Maryland bar sign",
         "addedBy": "tdf",
         "label": "Ocean City bachelor"
       },
       {
         "key": "tdf/bachelorParty/burlington-vt",
-        "query": "Burlington Vermont nightlife",
-        "fallbackQuery": "Burlington Vermont downtown",
+        "query": "Burlington Vermont main street",
+        "fallbackQuery": "Burlington Vermont bar sign",
         "addedBy": "tdf",
         "label": "Burlington bachelor"
       },
       {
         "key": "tdf/bachelorParty/hudson-valley-ny",
-        "query": "Hudson Valley New York nightlife",
-        "fallbackQuery": "Hudson Valley New York downtown",
+        "query": "Hudson Valley New York main street",
+        "fallbackQuery": "Hudson Valley New York bar sign",
         "addedBy": "tdf",
         "label": "Hudson Valley bachelor"
       },
       {
         "key": "tdf/bachelorParty/fredericksburg-tx",
-        "query": "Fredericksburg Texas nightlife",
-        "fallbackQuery": "Fredericksburg Texas downtown",
+        "query": "Fredericksburg Texas main street",
+        "fallbackQuery": "Fredericksburg Texas bar sign",
         "addedBy": "tdf",
         "label": "Fredericksburg bachelor"
       },
       {
         "key": "tdf/bachelorParty/hot-springs-ar",
-        "query": "Hot Springs Arkansas nightlife",
-        "fallbackQuery": "Hot Springs Arkansas downtown",
+        "query": "Hot Springs Arkansas main street",
+        "fallbackQuery": "Hot Springs Arkansas bar sign",
         "addedBy": "tdf",
         "label": "Hot Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/branson-mo",
-        "query": "Branson Missouri nightlife",
-        "fallbackQuery": "Branson Missouri downtown",
+        "query": "Branson Missouri main street",
+        "fallbackQuery": "Branson Missouri bar sign",
         "addedBy": "tdf",
         "label": "Branson bachelor"
       },
       {
         "key": "tdf/bachelorParty/san-antonio-tx",
-        "query": "San Antonio Texas nightlife",
-        "fallbackQuery": "San Antonio Texas downtown",
+        "query": "San Antonio Texas main street",
+        "fallbackQuery": "San Antonio Texas bar sign",
         "addedBy": "tdf",
         "label": "San Antonio bachelor"
       },
       {
         "key": "tdf/bachelorParty/austin-tx",
-        "query": "Austin Texas nightlife",
-        "fallbackQuery": "Austin Texas downtown",
+        "query": "Austin Texas main street",
+        "fallbackQuery": "Austin Texas bar sign",
         "addedBy": "tdf",
         "label": "Austin bachelor"
       },
       {
         "key": "tdf/bachelorParty/dallas-fort-worth-tx",
-        "query": "Dallas-Fort Worth Texas nightlife",
-        "fallbackQuery": "Dallas-Fort Worth Texas downtown",
+        "query": "Dallas-Fort Worth Texas main street",
+        "fallbackQuery": "Dallas-Fort Worth Texas bar sign",
         "addedBy": "tdf",
         "label": "Dallas-Fort Worth bachelor"
       },
       {
         "key": "tdf/bachelorParty/houston-tx",
-        "query": "Houston Texas nightlife",
-        "fallbackQuery": "Houston Texas downtown",
+        "query": "Houston Texas main street",
+        "fallbackQuery": "Houston Texas bar sign",
         "addedBy": "tdf",
         "label": "Houston bachelor"
       },
       {
         "key": "tdf/bachelorParty/new-orleans-la",
-        "query": "New Orleans Louisiana nightlife",
-        "fallbackQuery": "New Orleans Louisiana downtown",
+        "query": "New Orleans Louisiana main street",
+        "fallbackQuery": "New Orleans Louisiana bar sign",
         "addedBy": "tdf",
         "label": "New Orleans bachelor"
       },
       {
         "key": "tdf/bachelorParty/louisville-ky",
-        "query": "Louisville Kentucky nightlife",
-        "fallbackQuery": "Louisville Kentucky downtown",
+        "query": "Louisville Kentucky main street",
+        "fallbackQuery": "Louisville Kentucky bar sign",
         "addedBy": "tdf",
         "label": "Louisville bachelor"
       },
       {
         "key": "tdf/bachelorParty/tulsa-ok",
-        "query": "Tulsa Oklahoma nightlife",
-        "fallbackQuery": "Tulsa Oklahoma downtown",
+        "query": "Tulsa Oklahoma main street",
+        "fallbackQuery": "Tulsa Oklahoma bar sign",
         "addedBy": "tdf",
         "label": "Tulsa bachelor"
       },
       {
         "key": "tdf/bachelorParty/oklahoma-city-ok",
-        "query": "Oklahoma City nightlife",
-        "fallbackQuery": "Oklahoma City downtown",
+        "query": "Oklahoma City main street",
+        "fallbackQuery": "Oklahoma City bar sign",
         "addedBy": "tdf",
         "label": "Oklahoma City bachelor"
       },
       {
         "key": "tdf/bachelorParty/shreveport-bossier-la",
-        "query": "Shreveport-Bossier City Louisiana nightlife",
-        "fallbackQuery": "Shreveport-Bossier City Louisiana downtown",
+        "query": "Shreveport-Bossier City Louisiana main street",
+        "fallbackQuery": "Shreveport-Bossier City Louisiana bar sign",
         "addedBy": "tdf",
         "label": "Shreveport-Bossier City bachelor"
       },
       {
         "key": "tdf/bachelorParty/little-rock-ar",
-        "query": "Little Rock Arkansas nightlife",
-        "fallbackQuery": "Little Rock Arkansas downtown",
+        "query": "Little Rock Arkansas main street",
+        "fallbackQuery": "Little Rock Arkansas bar sign",
         "addedBy": "tdf",
         "label": "Little Rock bachelor"
       },
       {
         "key": "tdf/bachelorParty/baton-rouge-la",
-        "query": "Baton Rouge Louisiana nightlife",
-        "fallbackQuery": "Baton Rouge Louisiana downtown",
+        "query": "Baton Rouge Louisiana main street",
+        "fallbackQuery": "Baton Rouge Louisiana bar sign",
         "addedBy": "tdf",
         "label": "Baton Rouge bachelor"
       },
       {
         "key": "tdf/bachelorParty/lake-of-the-ozarks-mo",
-        "query": "Lake of the Ozarks nightlife",
-        "fallbackQuery": "Lake of the Ozarks downtown",
+        "query": "Lake of the Ozarks main street",
+        "fallbackQuery": "Lake of the Ozarks bar sign",
         "addedBy": "tdf",
         "label": "Lake of the Ozarks bachelor"
       },
       {
         "key": "tdf/bachelorParty/galveston-tx",
-        "query": "Galveston Texas nightlife",
-        "fallbackQuery": "Galveston Texas downtown",
+        "query": "Galveston Texas main street",
+        "fallbackQuery": "Galveston Texas bar sign",
         "addedBy": "tdf",
         "label": "Galveston bachelor"
       },
       {
         "key": "tdf/bachelorParty/monterey-ca",
-        "query": "Monterey California nightlife",
-        "fallbackQuery": "Monterey California downtown",
+        "query": "Monterey California main street",
+        "fallbackQuery": "Monterey California bar sign",
         "addedBy": "tdf",
         "label": "Monterey bachelor"
       },
       {
         "key": "tdf/bachelorParty/palm-springs-ca",
-        "query": "Palm Springs California nightlife",
-        "fallbackQuery": "Palm Springs California downtown",
+        "query": "Palm Springs California main street",
+        "fallbackQuery": "Palm Springs California bar sign",
         "addedBy": "tdf",
         "label": "Palm Springs bachelor"
       },
       {
         "key": "tdf/bachelorParty/palm-desert-ca",
-        "query": "Palm Desert California nightlife",
-        "fallbackQuery": "Palm Desert California downtown",
+        "query": "Palm Desert California main street",
+        "fallbackQuery": "Palm Desert California bar sign",
         "addedBy": "tdf",
         "label": "Palm Desert bachelor"
       },
       {
         "key": "tdf/bachelorParty/napa-ca",
-        "query": "Napa California nightlife",
-        "fallbackQuery": "Napa California downtown",
+        "query": "Napa California main street",
+        "fallbackQuery": "Napa California bar sign",
         "addedBy": "tdf",
         "label": "Napa bachelor"
       },
       {
         "key": "tdf/bachelorParty/sonoma-ca",
-        "query": "Sonoma California nightlife",
-        "fallbackQuery": "Sonoma California downtown",
+        "query": "Sonoma California main street",
+        "fallbackQuery": "Sonoma California bar sign",
         "addedBy": "tdf",
         "label": "Sonoma bachelor"
       },
       {
         "key": "tdf/bachelorParty/san-diego-ca",
-        "query": "San Diego California nightlife",
-        "fallbackQuery": "San Diego California downtown",
+        "query": "San Diego California main street",
+        "fallbackQuery": "San Diego California bar sign",
         "addedBy": "tdf",
         "label": "San Diego bachelor"
       },
       {
         "key": "tdf/bachelorParty/los-angeles-ca",
-        "query": "Los Angeles California nightlife",
-        "fallbackQuery": "Los Angeles California downtown",
+        "query": "Los Angeles California main street",
+        "fallbackQuery": "Los Angeles California bar sign",
         "addedBy": "tdf",
         "label": "Los Angeles bachelor"
       },
       {
         "key": "tdf/bachelorParty/santa-barbara-ca",
-        "query": "Santa Barbara California nightlife",
-        "fallbackQuery": "Santa Barbara California downtown",
+        "query": "Santa Barbara California main street",
+        "fallbackQuery": "Santa Barbara California bar sign",
         "addedBy": "tdf",
         "label": "Santa Barbara bachelor"
       },
       {
         "key": "tdf/bachelorParty/temecula-ca",
-        "query": "Temecula California nightlife",
-        "fallbackQuery": "Temecula California downtown",
+        "query": "Temecula California main street",
+        "fallbackQuery": "Temecula California bar sign",
         "addedBy": "tdf",
         "label": "Temecula bachelor"
       },
       {
         "key": "tdf/bachelorParty/truckee-ca",
-        "query": "Truckee California nightlife",
-        "fallbackQuery": "Truckee California downtown",
+        "query": "Truckee California main street",
+        "fallbackQuery": "Truckee California bar sign",
         "addedBy": "tdf",
         "label": "Truckee bachelor"
       },
       {
         "key": "tdf/bachelorParty/half-moon-bay-ca",
-        "query": "Half Moon Bay nightlife",
-        "fallbackQuery": "Half Moon Bay downtown",
+        "query": "Half Moon Bay main street",
+        "fallbackQuery": "Half Moon Bay bar sign",
         "addedBy": "tdf",
         "label": "Half Moon Bay bachelor"
       },
       {
         "key": "tdf/bachelorParty/sacramento-ca",
-        "query": "Sacramento California nightlife",
-        "fallbackQuery": "Sacramento California downtown",
+        "query": "Sacramento California main street",
+        "fallbackQuery": "Sacramento California bar sign",
         "addedBy": "tdf",
         "label": "Sacramento bachelor"
       },
       {
         "key": "tdf/bachelorParty/carlsbad-ca",
-        "query": "Carlsbad California nightlife",
-        "fallbackQuery": "Carlsbad California downtown",
+        "query": "Carlsbad California main street",
+        "fallbackQuery": "Carlsbad California bar sign",
         "addedBy": "tdf",
         "label": "Carlsbad bachelor"
       },
       {
         "key": "tdf/bachelorParty/st-andrews-scotland",
-        "query": "St Andrews Scotland nightlife",
-        "fallbackQuery": "St Andrews Scotland downtown",
+        "query": "St Andrews Scotland main street",
+        "fallbackQuery": "St Andrews Scotland bar sign",
         "addedBy": "tdf",
         "label": "St Andrews bachelor"
       },
       {
         "key": "tdf/bachelorParty/troon-ayrshire-scotland",
-        "query": "Troon Scotland nightlife",
-        "fallbackQuery": "Troon Scotland downtown",
+        "query": "Troon Scotland main street",
+        "fallbackQuery": "Troon Scotland bar sign",
         "addedBy": "tdf",
         "label": "Troon bachelor"
       },
       {
         "key": "tdf/bachelorParty/portmarnock-dublin-ireland",
-        "query": "Portmarnock Ireland nightlife",
-        "fallbackQuery": "Portmarnock Ireland downtown",
+        "query": "Portmarnock Ireland main street",
+        "fallbackQuery": "Portmarnock Ireland bar sign",
         "addedBy": "tdf",
         "label": "Portmarnock bachelor"
       },
       {
         "key": "tdf/bachelorParty/newcastle-northern-ireland",
-        "query": "Newcastle Northern Ireland nightlife",
-        "fallbackQuery": "Newcastle Northern Ireland downtown",
+        "query": "Newcastle Northern Ireland main street",
+        "fallbackQuery": "Newcastle Northern Ireland bar sign",
         "addedBy": "tdf",
         "label": "Newcastle bachelor"
       },
       {
         "key": "tdf/bachelorParty/los-cabos-mexico",
-        "query": "Los Cabos Mexico nightlife",
-        "fallbackQuery": "Los Cabos Mexico downtown",
+        "query": "Los Cabos Mexico main street",
+        "fallbackQuery": "Los Cabos Mexico bar sign",
         "addedBy": "tdf",
         "label": "Los Cabos bachelor"
       },
       {
         "key": "tdf/bachelorParty/punta-cana-dominican-republic",
-        "query": "Punta Cana Dominican Republic nightlife",
-        "fallbackQuery": "Punta Cana Dominican Republic downtown",
+        "query": "Punta Cana Dominican Republic main street",
+        "fallbackQuery": "Punta Cana Dominican Republic bar sign",
         "addedBy": "tdf",
         "label": "Punta Cana bachelor"
       },
       {
         "key": "tdf/bachelorParty/algarve-portugal",
-        "query": "Algarve Portugal nightlife",
-        "fallbackQuery": "Algarve Portugal downtown",
+        "query": "Algarve Portugal main street",
+        "fallbackQuery": "Algarve Portugal bar sign",
         "addedBy": "tdf",
         "label": "Algarve bachelor"
       },
       {
         "key": "tdf/bachelorParty/costa-del-sol-spain",
-        "query": "Costa del Sol nightlife",
-        "fallbackQuery": "Costa del Sol downtown",
+        "query": "Costa del Sol main street",
+        "fallbackQuery": "Costa del Sol bar sign",
         "addedBy": "tdf",
         "label": "Costa del Sol bachelor"
       },
       {
         "key": "tdf/bachelorParty/nassau-bahamas",
-        "query": "Nassau Bahamas nightlife",
-        "fallbackQuery": "Nassau Bahamas downtown",
+        "query": "Nassau Bahamas main street",
+        "fallbackQuery": "Nassau Bahamas bar sign",
         "addedBy": "tdf",
         "label": "Nassau bachelor"
       },
       {
         "key": "tdf/bachelorParty/ponte-vedra-beach-fl",
-        "query": "Ponte Vedra Beach nightlife",
-        "fallbackQuery": "Ponte Vedra Beach downtown",
+        "query": "Ponte Vedra Beach main street",
+        "fallbackQuery": "Ponte Vedra Beach bar sign",
         "addedBy": "tdf",
         "label": "Ponte Vedra Beach bachelor"
       },
       {
         "key": "tdf/bachelorParty/tampa-fl",
-        "query": "Tampa Florida nightlife",
-        "fallbackQuery": "Tampa Florida downtown",
+        "query": "Tampa Florida main street",
+        "fallbackQuery": "Tampa Florida bar sign",
         "addedBy": "tdf",
         "label": "Tampa bachelor"
       },
       {
         "key": "tdf/bachelorParty/bluffton-sc",
-        "query": "Bluffton South Carolina nightlife",
-        "fallbackQuery": "Bluffton South Carolina downtown",
+        "query": "Bluffton South Carolina main street",
+        "fallbackQuery": "Bluffton South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Bluffton bachelor"
       },
       {
         "key": "tdf/bachelorParty/aiken-sc",
-        "query": "Aiken South Carolina nightlife",
-        "fallbackQuery": "Aiken South Carolina downtown",
+        "query": "Aiken South Carolina main street",
+        "fallbackQuery": "Aiken South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Aiken bachelor"
       },
       {
         "key": "tdf/bachelorParty/greenville-sc",
-        "query": "Greenville South Carolina nightlife",
-        "fallbackQuery": "Greenville South Carolina downtown",
+        "query": "Greenville South Carolina main street",
+        "fallbackQuery": "Greenville South Carolina bar sign",
         "addedBy": "tdf",
         "label": "Greenville bachelor"
       },
       {
         "key": "tdf/bachelorParty/birmingham-al",
-        "query": "Birmingham Alabama nightlife",
-        "fallbackQuery": "Birmingham Alabama downtown",
+        "query": "Birmingham Alabama main street",
+        "fallbackQuery": "Birmingham Alabama bar sign",
         "addedBy": "tdf",
         "label": "Birmingham bachelor"
       },
       {
         "key": "tdf/bachelorParty/auburn-opelika-al",
-        "query": "Auburn-Opelika Alabama nightlife",
-        "fallbackQuery": "Auburn-Opelika Alabama downtown",
+        "query": "Auburn-Opelika Alabama main street",
+        "fallbackQuery": "Auburn-Opelika Alabama bar sign",
         "addedBy": "tdf",
         "label": "Auburn-Opelika bachelor"
       },
       {
         "key": "tdf/bachelorParty/mobile-al",
-        "query": "Mobile Alabama nightlife",
-        "fallbackQuery": "Mobile Alabama downtown",
+        "query": "Mobile Alabama main street",
+        "fallbackQuery": "Mobile Alabama bar sign",
         "addedBy": "tdf",
         "label": "Mobile bachelor"
       },
       {
         "key": "tdf/bachelorParty/florence-shoals-al",
-        "query": "Florence Alabama nightlife",
-        "fallbackQuery": "Florence Alabama downtown",
+        "query": "Florence Alabama main street",
+        "fallbackQuery": "Florence Alabama bar sign",
         "addedBy": "tdf",
         "label": "Florence bachelor"
       },
       {
         "key": "tdf/bachelorParty/greensboro-nc",
-        "query": "Greensboro North Carolina nightlife",
-        "fallbackQuery": "Greensboro North Carolina downtown",
+        "query": "Greensboro North Carolina main street",
+        "fallbackQuery": "Greensboro North Carolina bar sign",
         "addedBy": "tdf",
         "label": "Greensboro bachelor"
       },
       {
         "key": "tdf/bachelorParty/wilmington-nc",
-        "query": "Wilmington North Carolina nightlife",
-        "fallbackQuery": "Wilmington North Carolina downtown",
+        "query": "Wilmington North Carolina main street",
+        "fallbackQuery": "Wilmington North Carolina bar sign",
         "addedBy": "tdf",
         "label": "Wilmington bachelor"
       },
       {
         "key": "tdf/bachelorParty/columbus-ga",
-        "query": "Columbus Georgia nightlife",
-        "fallbackQuery": "Columbus Georgia downtown",
+        "query": "Columbus Georgia main street",
+        "fallbackQuery": "Columbus Georgia bar sign",
         "addedBy": "tdf",
         "label": "Columbus bachelor"
       },
       {
         "key": "tdf/bachelorParty/augusta-ga",
-        "query": "Augusta Georgia nightlife",
-        "fallbackQuery": "Augusta Georgia downtown",
+        "query": "Augusta Georgia main street",
+        "fallbackQuery": "Augusta Georgia bar sign",
         "addedBy": "tdf",
         "label": "Augusta bachelor"
       },
       {
         "key": "tdf/bachelorParty/knoxville-tn",
-        "query": "Knoxville Tennessee nightlife",
-        "fallbackQuery": "Knoxville Tennessee downtown",
+        "query": "Knoxville Tennessee main street",
+        "fallbackQuery": "Knoxville Tennessee bar sign",
         "addedBy": "tdf",
         "label": "Knoxville bachelor"
       },
       {
         "key": "tdf/bachelorParty/memphis-tn",
-        "query": "Memphis Tennessee nightlife",
-        "fallbackQuery": "Memphis Tennessee downtown",
+        "query": "Memphis Tennessee main street",
+        "fallbackQuery": "Memphis Tennessee bar sign",
         "addedBy": "tdf",
         "label": "Memphis bachelor"
       },
       {
         "key": "tdf/bachelorParty/gaylord-mi",
-        "query": "Gaylord Michigan nightlife",
-        "fallbackQuery": "Gaylord Michigan downtown",
+        "query": "Gaylord Michigan main street",
+        "fallbackQuery": "Gaylord Michigan bar sign",
         "addedBy": "tdf",
         "label": "Gaylord bachelor"
       },
       {
         "key": "tdf/bachelorParty/bay-harbor-mi",
-        "query": "Bay Harbor Michigan nightlife",
-        "fallbackQuery": "Bay Harbor Michigan downtown",
+        "query": "Bay Harbor Michigan main street",
+        "fallbackQuery": "Bay Harbor Michigan bar sign",
         "addedBy": "tdf",
         "label": "Bay Harbor bachelor"
       },
       {
         "key": "tdf/bachelorParty/akron-oh",
-        "query": "Akron Ohio nightlife",
-        "fallbackQuery": "Akron Ohio downtown",
+        "query": "Akron Ohio main street",
+        "fallbackQuery": "Akron Ohio bar sign",
         "addedBy": "tdf",
         "label": "Akron bachelor"
       },
       {
         "key": "tdf/bachelorParty/toledo-oh",
-        "query": "Toledo Ohio nightlife",
-        "fallbackQuery": "Toledo Ohio downtown",
+        "query": "Toledo Ohio main street",
+        "fallbackQuery": "Toledo Ohio bar sign",
         "addedBy": "tdf",
         "label": "Toledo bachelor"
       },
       {
         "key": "tdf/bachelorParty/dayton-oh",
-        "query": "Dayton Ohio nightlife",
-        "fallbackQuery": "Dayton Ohio downtown",
+        "query": "Dayton Ohio main street",
+        "fallbackQuery": "Dayton Ohio bar sign",
         "addedBy": "tdf",
         "label": "Dayton bachelor"
       },
       {
         "key": "tdf/bachelorParty/dublin-oh",
-        "query": "Dublin Ohio nightlife",
-        "fallbackQuery": "Dublin Ohio downtown",
+        "query": "Dublin Ohio main street",
+        "fallbackQuery": "Dublin Ohio bar sign",
         "addedBy": "tdf",
         "label": "Dublin bachelor"
       },
       {
         "key": "tdf/bachelorParty/bloomington-in",
-        "query": "Bloomington Indiana nightlife",
-        "fallbackQuery": "Bloomington Indiana downtown",
+        "query": "Bloomington Indiana main street",
+        "fallbackQuery": "Bloomington Indiana bar sign",
         "addedBy": "tdf",
         "label": "Bloomington bachelor"
       },
       {
         "key": "tdf/bachelorParty/wichita-ks",
-        "query": "Wichita Kansas nightlife",
-        "fallbackQuery": "Wichita Kansas downtown",
+        "query": "Wichita Kansas main street",
+        "fallbackQuery": "Wichita Kansas bar sign",
         "addedBy": "tdf",
         "label": "Wichita bachelor"
       },
       {
         "key": "tdf/bachelorParty/hutchinson-ks",
-        "query": "Hutchinson Kansas nightlife",
-        "fallbackQuery": "Hutchinson Kansas downtown",
+        "query": "Hutchinson Kansas main street",
+        "fallbackQuery": "Hutchinson Kansas bar sign",
         "addedBy": "tdf",
         "label": "Hutchinson bachelor"
       },
       {
         "key": "tdf/bachelorParty/bismarck-nd",
-        "query": "Bismarck North Dakota nightlife",
-        "fallbackQuery": "Bismarck North Dakota downtown",
+        "query": "Bismarck North Dakota main street",
+        "fallbackQuery": "Bismarck North Dakota bar sign",
         "addedBy": "tdf",
         "label": "Bismarck bachelor"
       },
       {
         "key": "tdf/bachelorParty/sioux-falls-sd",
-        "query": "Sioux Falls South Dakota nightlife",
-        "fallbackQuery": "Sioux Falls South Dakota downtown",
+        "query": "Sioux Falls South Dakota main street",
+        "fallbackQuery": "Sioux Falls South Dakota bar sign",
         "addedBy": "tdf",
         "label": "Sioux Falls bachelor"
       },
       {
         "key": "tdf/bachelorParty/edwards-co",
-        "query": "Edwards Colorado nightlife",
-        "fallbackQuery": "Edwards Colorado downtown",
+        "query": "Edwards Colorado main street",
+        "fallbackQuery": "Edwards Colorado bar sign",
         "addedBy": "tdf",
         "label": "Edwards bachelor"
       },
       {
         "key": "tdf/bachelorParty/grand-junction-co",
-        "query": "Grand Junction Colorado nightlife",
-        "fallbackQuery": "Grand Junction Colorado downtown",
+        "query": "Grand Junction Colorado main street",
+        "fallbackQuery": "Grand Junction Colorado bar sign",
         "addedBy": "tdf",
         "label": "Grand Junction bachelor"
       },
       {
         "key": "tdf/bachelorParty/montrose-co",
-        "query": "Montrose Colorado nightlife",
-        "fallbackQuery": "Montrose Colorado downtown",
+        "query": "Montrose Colorado main street",
+        "fallbackQuery": "Montrose Colorado bar sign",
         "addedBy": "tdf",
         "label": "Montrose bachelor"
       },
       {
         "key": "tdf/bachelorParty/sheridan-wy",
-        "query": "Sheridan Wyoming nightlife",
-        "fallbackQuery": "Sheridan Wyoming downtown",
+        "query": "Sheridan Wyoming main street",
+        "fallbackQuery": "Sheridan Wyoming bar sign",
         "addedBy": "tdf",
         "label": "Sheridan bachelor"
       },
       {
         "key": "tdf/bachelorParty/prescott-az",
-        "query": "Prescott Arizona nightlife",
-        "fallbackQuery": "Prescott Arizona downtown",
+        "query": "Prescott Arizona main street",
+        "fallbackQuery": "Prescott Arizona bar sign",
         "addedBy": "tdf",
         "label": "Prescott bachelor"
       },
       {
         "key": "tdf/bachelorParty/wickenburg-az",
-        "query": "Wickenburg Arizona nightlife",
-        "fallbackQuery": "Wickenburg Arizona downtown",
+        "query": "Wickenburg Arizona main street",
+        "fallbackQuery": "Wickenburg Arizona bar sign",
         "addedBy": "tdf",
         "label": "Wickenburg bachelor"
       },
       {
         "key": "tdf/bachelorParty/marana-az",
-        "query": "Marana Arizona nightlife",
-        "fallbackQuery": "Marana Arizona downtown",
+        "query": "Marana Arizona main street",
+        "fallbackQuery": "Marana Arizona bar sign",
         "addedBy": "tdf",
         "label": "Marana bachelor"
       },
       {
         "key": "tdf/bachelorParty/pinetop-lakeside-az",
-        "query": "Pinetop-Lakeside Arizona nightlife",
-        "fallbackQuery": "Pinetop-Lakeside Arizona downtown",
+        "query": "Pinetop-Lakeside Arizona main street",
+        "fallbackQuery": "Pinetop-Lakeside Arizona bar sign",
         "addedBy": "tdf",
         "label": "Pinetop-Lakeside bachelor"
       },
       {
         "key": "tdf/bachelorParty/moab-ut",
-        "query": "Moab Utah nightlife",
-        "fallbackQuery": "Moab Utah downtown",
+        "query": "Moab Utah main street",
+        "fallbackQuery": "Moab Utah bar sign",
         "addedBy": "tdf",
         "label": "Moab bachelor"
       },
       {
         "key": "tdf/bachelorParty/cedar-city-ut",
-        "query": "Cedar City Utah nightlife",
-        "fallbackQuery": "Cedar City Utah downtown",
+        "query": "Cedar City Utah main street",
+        "fallbackQuery": "Cedar City Utah bar sign",
         "addedBy": "tdf",
         "label": "Cedar City bachelor"
       },
       {
         "key": "tdf/bachelorParty/boulder-city-nv",
-        "query": "Boulder City Nevada nightlife",
-        "fallbackQuery": "Boulder City Nevada downtown",
+        "query": "Boulder City Nevada main street",
+        "fallbackQuery": "Boulder City Nevada bar sign",
         "addedBy": "tdf",
         "label": "Boulder City bachelor"
       },
       {
         "key": "tdf/bachelorParty/taos-nm",
-        "query": "Taos New Mexico nightlife",
-        "fallbackQuery": "Taos New Mexico downtown",
+        "query": "Taos New Mexico main street",
+        "fallbackQuery": "Taos New Mexico bar sign",
         "addedBy": "tdf",
         "label": "Taos bachelor"
       },
       {
         "key": "tdf/bachelorParty/ruidoso-nm",
-        "query": "Ruidoso New Mexico nightlife",
-        "fallbackQuery": "Ruidoso New Mexico downtown",
+        "query": "Ruidoso New Mexico main street",
+        "fallbackQuery": "Ruidoso New Mexico bar sign",
         "addedBy": "tdf",
         "label": "Ruidoso bachelor"
       },
       {
         "key": "tdf/bachelorParty/las-cruces-nm",
-        "query": "Las Cruces New Mexico nightlife",
-        "fallbackQuery": "Las Cruces New Mexico downtown",
+        "query": "Las Cruces New Mexico main street",
+        "fallbackQuery": "Las Cruces New Mexico bar sign",
         "addedBy": "tdf",
         "label": "Las Cruces bachelor"
       },
       {
         "key": "tdf/bachelorParty/philadelphia-pa",
-        "query": "Philadelphia Pennsylvania nightlife",
-        "fallbackQuery": "Philadelphia Pennsylvania downtown",
+        "query": "Philadelphia Pennsylvania main street",
+        "fallbackQuery": "Philadelphia Pennsylvania bar sign",
         "addedBy": "tdf",
         "label": "Philadelphia bachelor"
       },
       {
         "key": "tdf/bachelorParty/long-island-ny",
-        "query": "Long Island (Farmingdale) nightlife",
-        "fallbackQuery": "Long Island (Farmingdale) downtown",
+        "query": "Long Island (Farmingdale) main street",
+        "fallbackQuery": "Long Island (Farmingdale) bar sign",
         "addedBy": "tdf",
         "label": "Long Island (Farmingdale) bachelor"
       },
       {
         "key": "tdf/bachelorParty/roanoke-va",
-        "query": "Roanoke Virginia nightlife",
-        "fallbackQuery": "Roanoke Virginia downtown",
+        "query": "Roanoke Virginia main street",
+        "fallbackQuery": "Roanoke Virginia bar sign",
         "addedBy": "tdf",
         "label": "Roanoke bachelor"
       },
       {
         "key": "tdf/bachelorParty/frisco-tx",
-        "query": "Frisco Texas nightlife",
-        "fallbackQuery": "Frisco Texas downtown",
+        "query": "Frisco Texas main street",
+        "fallbackQuery": "Frisco Texas bar sign",
         "addedBy": "tdf",
         "label": "Frisco bachelor"
       },
       {
         "key": "tdf/bachelorParty/new-braunfels-tx",
-        "query": "New Braunfels Texas nightlife",
-        "fallbackQuery": "New Braunfels Texas downtown",
+        "query": "New Braunfels Texas main street",
+        "fallbackQuery": "New Braunfels Texas bar sign",
         "addedBy": "tdf",
         "label": "New Braunfels bachelor"
       },
       {
         "key": "tdf/bachelorParty/corpus-christi-tx",
-        "query": "Corpus Christi Texas nightlife",
-        "fallbackQuery": "Corpus Christi Texas downtown",
+        "query": "Corpus Christi Texas main street",
+        "fallbackQuery": "Corpus Christi Texas bar sign",
         "addedBy": "tdf",
         "label": "Corpus Christi bachelor"
       },
       {
         "key": "tdf/bachelorParty/bentonville-ar",
-        "query": "Bentonville Arkansas nightlife",
-        "fallbackQuery": "Bentonville Arkansas downtown",
+        "query": "Bentonville Arkansas main street",
+        "fallbackQuery": "Bentonville Arkansas bar sign",
         "addedBy": "tdf",
         "label": "Bentonville bachelor"
       },
       {
         "key": "tdf/bachelorParty/bowling-green-ky",
-        "query": "Bowling Green Kentucky nightlife",
-        "fallbackQuery": "Bowling Green Kentucky downtown",
+        "query": "Bowling Green Kentucky main street",
+        "fallbackQuery": "Bowling Green Kentucky bar sign",
         "addedBy": "tdf",
         "label": "Bowling Green bachelor"
       },
       {
         "key": "tdf/bachelorParty/university-place-wa",
-        "query": "University Place Washington nightlife",
-        "fallbackQuery": "University Place Washington downtown",
+        "query": "University Place Washington main street",
+        "fallbackQuery": "University Place Washington bar sign",
         "addedBy": "tdf",
         "label": "University Place bachelor"
       },
       {
         "key": "tdf/bachelorParty/bakersfield-ca",
-        "query": "Bakersfield California nightlife",
-        "fallbackQuery": "Bakersfield California downtown",
+        "query": "Bakersfield California main street",
+        "fallbackQuery": "Bakersfield California bar sign",
         "addedBy": "tdf",
         "label": "Bakersfield bachelor"
       },
       {
         "key": "tdf/bachelorParty/south-lake-tahoe-ca",
-        "query": "South Lake Tahoe nightlife",
-        "fallbackQuery": "South Lake Tahoe downtown",
+        "query": "South Lake Tahoe main street",
+        "fallbackQuery": "South Lake Tahoe bar sign",
         "addedBy": "tdf",
         "label": "South Lake Tahoe bachelor"
       },
       {
         "key": "tdf/bachelorParty/san-francisco-ca",
-        "query": "San Francisco California nightlife",
-        "fallbackQuery": "San Francisco California downtown",
+        "query": "San Francisco California main street",
+        "fallbackQuery": "San Francisco California bar sign",
         "addedBy": "tdf",
         "label": "San Francisco bachelor"
       },
       {
         "key": "tdf/bachelorParty/aptos-ca",
-        "query": "Aptos California nightlife",
-        "fallbackQuery": "Aptos California downtown",
+        "query": "Aptos California main street",
+        "fallbackQuery": "Aptos California bar sign",
         "addedBy": "tdf",
         "label": "Aptos bachelor"
       },
       {
         "key": "tdf/bachelorParty/lompoc-ca",
-        "query": "Lompoc California nightlife",
-        "fallbackQuery": "Lompoc California downtown",
+        "query": "Lompoc California main street",
+        "fallbackQuery": "Lompoc California bar sign",
         "addedBy": "tdf",
         "label": "Lompoc bachelor"
       },
       {
         "key": "tdf/bachelorParty/tri-cities-wa",
-        "query": "Tri-Cities Washington nightlife",
-        "fallbackQuery": "Tri-Cities Washington downtown",
+        "query": "Tri-Cities Washington main street",
+        "fallbackQuery": "Tri-Cities Washington bar sign",
         "addedBy": "tdf",
         "label": "Tri-Cities bachelor"
       },
@@ -20045,32 +20045,32 @@
   "sources": {
     "tdf": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 424
     },
     "bestman": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 639
     },
     "moh": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 960
     },
     "offsite": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 619
     },
     "friendsmoon": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 248
     },
     "engagedmoon": {
       "from": "live",
-      "generatedAt": "2026-09-25T12:32:06.196Z",
+      "generatedAt": "2026-11-24T16:33:11.473Z",
       "count": 24
     }
   },
