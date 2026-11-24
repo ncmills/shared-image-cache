@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "key": "tdf/bachelorParty/aptos-ca",
+    "photoId": "unsplash:1492205113810-34e1a283f4ea",
+    "verdict": "mismatch",
+    "shows": "Las Vegas Fremont Street (red traffic light), not Aptos",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 4; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/costa-del-sol-spain",
+    "photoId": "unsplash:1514939775307-d44e7f10cabd",
+    "verdict": "mismatch",
+    "shows": "San Diego skyline, not Costa del Sol",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-1.jpg tile 41; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/destin-30a-fl",
+    "photoId": "unsplash:1696943444991-def9485f89f8",
+    "verdict": "mismatch",
+    "shows": "Detroit Renaissance Center skyline, not Destin",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-1.jpg tile 45; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/ocean-city-md",
+    "photoId": "unsplash:1768060689238-f580dbcae732",
+    "verdict": "mismatch",
+    "shows": "big-city high-rise skyline (Recife-style), not Ocean City MD",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-3.jpg tile 113; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/ruidoso-nm",
+    "photoId": "unsplash:1541423408854-5df732b6f6d1",
+    "verdict": "mismatch",
+    "shows": "Singapore skyline, not Ruidoso",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-4.jpg tile 136; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/troon-ayrshire-scotland",
+    "photoId": "unsplash:1664353655151-9d94a9170eb0",
+    "verdict": "mismatch",
+    "shows": "New York City skyline, not Troon (a Scottish golf town)",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-5.jpg tile 166; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/park-city-ut",
+    "photoId": "unsplash:1665399321797-f714ac148457",
+    "verdict": "mismatch",
+    "shows": "New York City skyscrapers, not Park City",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-3.jpg tile 120; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/williamsburg-va",
+    "photoId": "unsplash:1664353656930-799c9a7a6dcf",
+    "verdict": "mismatch",
+    "shows": "big-city high-rises, not Williamsburg VA",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-5.jpg tile 176; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/traverse-city-mi",
+    "photoId": "unsplash:1628539947076-7cde8894e529",
+    "verdict": "mismatch",
+    "shows": "European big-city skyline (Warsaw-style), not Traverse City",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-5.jpg tile 164; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/tri-cities-wa",
+    "photoId": "unsplash:1543372654-b45dd90eeee5",
+    "verdict": "mismatch",
+    "shows": "US Capitol in Washington DC, not Tri-Cities WA",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-5.jpg tile 165; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/truckee-ca",
+    "photoId": "unsplash:1676834318238-7375b0c0dcc1",
+    "verdict": "mismatch",
+    "shows": "Carlsbad CA street sign at night, not Truckee",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-5.jpg tile 167; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/bend-or",
+    "photoId": "unsplash:1436505743955-a98c0d3eb1a8",
+    "verdict": "mismatch",
+    "shows": "Portland Oregon Old Town sign, not Bend (same photo also on eugene-or)",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 13; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/eugene-or",
+    "photoId": "unsplash:1436505743955-a98c0d3eb1a8",
+    "verdict": "mismatch",
+    "shows": "Portland Oregon Old Town sign, not Eugene (same photo also on bend-or)",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-1.jpg tile 51; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/lake-geneva-wi",
+    "photoId": "unsplash:1701152990868-145b35f45dae",
+    "verdict": "mismatch",
+    "shows": "Swiss alpine lake, not Lake Geneva WI",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-2.jpg tile 80; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/akron-oh",
+    "photoId": "unsplash:1590778846913-de794a6bb4ef",
+    "verdict": "mismatch",
+    "shows": "a red Mini/BMW car on a sidewalk, no Akron subject",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 1; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/bakersfield-ca",
+    "photoId": "unsplash:1650589135405-e946df7a40b6",
+    "verdict": "mismatch",
+    "shows": "neon tile and a security dome camera, no Bakersfield subject",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 10; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/augusta-ga",
+    "photoId": "unsplash:1583784175827-19a1b7c31b31",
+    "verdict": "mismatch",
+    "shows": "a drum kit, no Augusta subject",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 8; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/napa-ca",
+    "photoId": "unsplash:1786206570618-0e9dbf4aac1e",
+    "verdict": "mismatch",
+    "shows": "a man playing bass guitar on a stage, no Napa/wine-country subject",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-3.jpg tile 105; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/madison-wi",
+    "photoId": "unsplash:1506699311528-5be252edc26a",
+    "verdict": "mismatch",
+    "shows": "Asian-style neon street, not Madison WI",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-2.jpg tile 93; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/baton-rouge-la",
+    "photoId": "unsplash:1599580546799-0a769ea465cd",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 11; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/bloomington-in",
+    "photoId": "unsplash:1527125218795-3fc804b70f26",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 19; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/cannon-beach-or",
+    "photoId": "unsplash:1680016790224-e33e79acc093",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 28; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/half-moon-bay-ca",
+    "photoId": "unsplash:1766083639098-4897ba9cdb21",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-2.jpg tile 67; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/sheridan-wy",
+    "photoId": "unsplash:1589692714678-02e748ccaea3",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-4.jpg tile 149; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/bay-harbor-mi",
+    "photoId": "unsplash:1774967594711-cc9ddff86d2e",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 12; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  },
+  {
+    "key": "tdf/bachelorParty/bismarck-nd",
+    "photoId": "unsplash:1597328928630-8640bccd0351",
+    "verdict": "mismatch",
+    "shows": "too dark to read at hero crop",
+    "crop": {
+      "surface": "hhq/bachelor-hero",
+      "w": 800,
+      "h": 280,
+      "fit": "cover"
+    },
+    "verifiedBy": "G370 live HHQ bachelor-hero review (cc session on the mini), landed via DRV G223-fix PR",
+    "verifiedAt": "2026-11-24",
+    "evidence": "~/work/drv/g370/bpsheet-0.jpg tile 18; ~/work/drv/g370/hhq-findings.md \u00a7A"
+  }
+]

@@ -24,6 +24,9 @@ export const SURFACES: readonly string[] = [
   "oo/venue-hero",
   "oo/sample-hero",
   "fm/destination-hero",
+  // HHQ /golf-trips/<slug>/bachelor-party hero (UnsplashHero: 100% x
+  // clamp(220px,38vh,420px), cover) — key tdf/bachelorParty/<slug>.
+  "hhq/bachelor-hero",
 ];
 
 export function loadVerdicts(path: string = VERDICTS_PATH): ImageVerdict[] {

@@ -78,13 +78,21 @@ export async function getTdfQueries(): Promise<QueryItem[]> {
     });
   }
 
-  // Bachelor party pages — only for destinations with 3+ bars and not tiny
+  // Bachelor party pages — only for destinations with 3+ bars and not tiny.
+  // PLACE FIRST, no generic topic word (G223/G370, 2026-11-24). `"<place>
+  // nightlife"` let the topic dominate: nightlife is a big stock-photo genre,
+  // so the search ranked NYC/Singapore/DC night skylines above Troon, Ruidoso
+  // and Tri-Cities (~19 wrong-place heroes viewed live). `main street` and
+  // `bar sign` are things the named town physically has; `"downtown night"`
+  // was the third candidate but `night` is a lighting word (query-policy
+  // rule 3). Only evicted/missing keys re-fetch (lib/queue.ts) — cached
+  // heroes keep their photo; this changes what the NEXT ask says.
   for (const dest of allDestinations) {
     if (dest.bars.length >= 3 && dest.population !== "tiny") {
       queries.push({
         key: `tdf/bachelorParty/${dest.id}`,
-        query: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} nightlife`,
-        fallbackQuery: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} downtown`,
+        query: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} main street`,
+        fallbackQuery: `${placePhrase(dest.city, STATE_NAMES[dest.state] || dest.state)} bar sign`,
         addedBy: "tdf",
         label: `${dest.city} bachelor`,
       });
