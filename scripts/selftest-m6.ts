@@ -312,7 +312,7 @@ async function writersAsync() {
 
   // fetch.ts write site goes through toM6Entry (structural; the candidates themselves are tested above)
   const fetchSrc = readFileSync(resolve(__dirname, "fetch.ts"), "utf8");
-  ok(/cache\[item\.key\]\s*=\s*toM6Entry\(/.test(fetchSrc), "fetch.ts stores the chosen candidate through toM6Entry");
+  ok(/cache\[item\.key\]\s*=\s*withPlaceFields\(item\.key,\s*toM6Entry\(/.test(fetchSrc), "fetch.ts stores the chosen candidate through toM6Entry");
 }
 
 // ══ 4. Verdicts — §2b status order ═════════════════════════════════════════

@@ -168,3 +168,15 @@ export interface ImageVerdict {
 }
 
 export type VerdictStatus = "denied" | "verified" | "stale" | "unverified";
+
+/**
+ * Place + brand fit (2026-11-24, shared-growth plan step 8). Both OPTIONAL;
+ * see lib/place.ts for the mapping rules and `npm run gate:place` for the rule
+ * that a NEW row must carry them.
+ */
+export interface PlaceFields {
+  /** shared-data row id of the place the key maps to; explicit null = looked, none. */
+  placeId?: string | null;
+  /** Site tags (shared-data `wizards`) that may show this photo. */
+  brands?: string[];
+}
