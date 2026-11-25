@@ -22,6 +22,8 @@ import { resolve } from "node:path";
 import { execSync } from "node:child_process";
 import type { Cache, CacheEntry } from "../lib/types";
 import { toM6Entry } from "../lib/m6";
+import { withPlaceFields } from "../lib/place";
+import { loadPlaceIndex } from "../lib/place-load";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const CACHE_PATH = resolve(__dirname, "..", "cache.json");
@@ -94,7 +96,7 @@ export function mirrorProject(
 
     // Mirrored overrides carry no photo page and no profile, so they land
     // `credit.complete: false` — the derivation never invents a credit.
-    cache[cacheKey] = toM6Entry(entry);
+    cache[cacheKey] = withPlaceFields(cacheKey, toM6Entry(entry), loadPlaceIndex());
     if (existing) updated++;
     else added++;
   }

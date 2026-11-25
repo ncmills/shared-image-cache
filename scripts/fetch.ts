@@ -33,6 +33,8 @@ import type { Cache, CacheEntryM6, QueryItem } from "../lib/types";
 import { isNamedVenueKey } from "../lib/fanout";
 import { pickCandidate } from "../lib/select";
 import { toM6Entry } from "../lib/m6";
+import { withPlaceFields } from "../lib/place";
+import { loadPlaceIndex } from "../lib/place-load";
 import { loadVerdicts } from "../lib/verdicts";
 import { stripVenueFallbacks } from "../lib/query-policy";
 import { buildQueue } from "../lib/queue";
@@ -543,7 +545,7 @@ async function main() {
       if (chosen) {
         // Through the one M6 derivation (lib/m6.ts) at the write site too, so
         // the stored row is M6 whatever path produced the candidate.
-        cache[item.key] = toM6Entry({ ...chosen, addedBy: item.addedBy });
+        cache[item.key] = withPlaceFields(item.key, toM6Entry({ ...chosen, addedBy: item.addedBy }), loadPlaceIndex());
         added++;
         // A key that now HAS a photo has no business carrying a tombstone.
         if (clearMiss(misses, item.key)) missesChanged = true;

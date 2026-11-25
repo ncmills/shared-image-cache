@@ -18,6 +18,8 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import type { Cache, CacheEntry } from "../lib/types";
 import { toM6Entry } from "../lib/m6";
+import { withPlaceFields } from "../lib/place";
+import { loadPlaceIndex } from "../lib/place-load";
 
 const HOME = process.env.HOME || "/Users/bignick";
 const REPO_ROOT = resolve(__dirname, "..");
@@ -48,15 +50,15 @@ export function migrateTdf(cache: Cache, tdf: TdfCache | null = loadJson<TdfCach
   if (!tdf) return 0;
   let count = 0;
   for (const [id, entry] of Object.entries(tdf.destinations || {})) {
-    cache[`tdf/destinations/${id}`] = toM6Entry({ ...entry, addedBy: "tdf" });
+    cache[`tdf/destinations/${id}`] = withPlaceFields(`tdf/destinations/${id}`, toM6Entry({ ...entry, addedBy: "tdf" }), loadPlaceIndex());
     count++;
   }
   for (const [id, entry] of Object.entries(tdf.bachelorParty || {})) {
-    cache[`tdf/bachelorParty/${id}`] = toM6Entry({ ...entry, addedBy: "tdf" });
+    cache[`tdf/bachelorParty/${id}`] = withPlaceFields(`tdf/bachelorParty/${id}`, toM6Entry({ ...entry, addedBy: "tdf" }), loadPlaceIndex());
     count++;
   }
   for (const [slug, entry] of Object.entries(tdf.guides || {})) {
-    cache[`tdf/guides/${slug}`] = toM6Entry({ ...entry, addedBy: "tdf" });
+    cache[`tdf/guides/${slug}`] = withPlaceFields(`tdf/guides/${slug}`, toM6Entry({ ...entry, addedBy: "tdf" }), loadPlaceIndex());
     count++;
   }
   return count;
@@ -76,7 +78,7 @@ export function migrateShowcases(
       // synthesized from the slug). Re-fetching later will populate the
       // photographer credit.
       const key = `${project}/showcases/${showcaseSlug}/${imageType}`;
-      cache[key] = toM6Entry({
+      cache[key] = withPlaceFields(key, toM6Entry({
         url,
         alt: `${imageType} for ${showcaseSlug}`,
         photographerName: "",
@@ -85,7 +87,7 @@ export function migrateShowcases(
         query: `${showcaseSlug} ${imageType}`,
         fetchedAt: new Date(0).toISOString(),
         addedBy: project,
-      });
+      }), loadPlaceIndex());
       count++;
     }
   }
